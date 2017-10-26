@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/mikegriff3/node-scrape#readme",
   "dependencies": {
+    "axios": "^0.17.0",
+    "casper": "^0.1.1",
     "cheerio": "^1.0.0-rc.2",
     "request": "^2.83.0"
   }
