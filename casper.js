@@ -1,9 +1,13 @@
+//var axios = require("axios");
+var allTeamStatsArr = [];
+
 var casper = require("casper").create({
   viewportSize: {
     width: 1024,
     height: 768
   }
 });
+
 casper.start();
 
 var teamAbbrv = [
@@ -11,37 +15,38 @@ var teamAbbrv = [
   "BRK",
   "BOS",
   "CHO",
-  "CHI"
-  // "CLE",
-  // "DAL",
-  // "DEN",
-  // "DET",
-  // "GSW",
-  // "HOU",
-  // "IND",
-  // "LAC",
-  // "LAL",
-  // "MEM",
-  // "MIA",
-  // "MIL",
-  // "MIN",
-  // "NOP",
-  // "NYK",
-  // "OKC",
-  // "ORL",
-  // "PHI",
-  // "PHX",
-  // "POR",
-  // "SAC",
-  // "SAS",
-  // "TOR",
-  // "UTA",
-  // "WAS"
+  "CHI",
+  "CLE",
+  "DAL",
+  "DEN",
+  "DET",
+  "GSW",
+  "HOU",
+  "IND",
+  "LAC",
+  "LAL",
+  "MEM",
+  "MIA",
+  "MIL",
+  "MIN",
+  "NOP",
+  "NYK",
+  "OKC",
+  "ORL",
+  "PHI",
+  "PHO",
+  "POR",
+  "SAC",
+  "SAS",
+  "TOR",
+  "UTA",
+  "WAS"
 ];
 
 for (var i = 0; i < teamAbbrv.length; i++) {
   var team = teamAbbrv[i];
   var url = "https://www.basketball-reference.com/teams/" + team + "/2018.html";
+  var teamBasicStats;
 
   casper.thenOpen(url, function() {
     if (this.exists("#advanced tr")) {
@@ -53,10 +58,12 @@ for (var i = 0; i < teamAbbrv.length; i++) {
   casper.then(function() {
     //GET TEAM BASIC STATS
     casper.wait(60000, function() {
-      var teamBasicStats = this.evaluate(getTeamBasicTotalStats);
-      this.echo("TEAM BASIC STATS");
-      require("utils").dump(teamBasicStats);
+      teamBasicStats = this.evaluate(getTeamBasicTotalStats);
+      allTeamStatsArr.push(teamBasicStats[0]);
+      //this.echo("TEAM BASIC STATS");
+      require("utils").dump(allTeamStatsArr);
     });
+
     // // GET TEAM ADVANCED STATS
     // casper.wait(60000, function() {
     //   this.echo("I just waited 1 minute");
@@ -88,9 +95,35 @@ for (var i = 0; i < teamAbbrv.length; i++) {
   });
 }
 
+// casper.then(function() {
+//   require("utils").dump(allTeamStatsArr);
+//   casper.open(
+//     "http://localhost:8000/api/teamStats/updateTeam",
+//     {
+//       method: "post",
+//       data: allTeamStatsArr
+//     },
+//     this.echo("POST sent")
+//   );
+// });
+
+// var saveStats = function(stats) {
+//   casper.echo("HERE ARE STATS");
+//   require("utils").dump(stats);
+//   casper.open(
+//     "http://localhost:8000/api/teamStats/updateTeam",
+//     {
+//       method: "post",
+//       data: stats
+//     },
+//     casper.echo("POST sent")
+//   );
+// };
+
 var getTeamBasicTotalStats = function() {
   var metas = document.querySelectorAll("#meta span");
   var rows = document.querySelectorAll("#team_and_opponent td");
+  var advanced = document.querySelectorAll("#team_misc td");
   var stats = [];
   var statObj = {};
 
@@ -142,8 +175,47 @@ var getTeamBasicTotalStats = function() {
   var pts = rows[22];
   statObj["PTS"] = pts.innerText;
 
-  // var unknown = rows[93];
-  // statObj["UNKNOWN"] = unknown.innerText;
+  // ***** ADVANCED *****
+  var w = advanced[0];
+  statObj["W"] = w.innerText;
+  var l = advanced[1];
+  statObj["L"] = l.innerText;
+  var pw = advanced[2];
+  statObj["PW"] = pw.innerText;
+  var pl = advanced[3];
+  statObj["PL"] = pl.innerText;
+  var mov = advanced[4];
+  statObj["MOV"] = mov.innerText;
+  var sos = advanced[5];
+  statObj["SOS"] = sos.innerText;
+  var srs = advanced[6];
+  statObj["SRS"] = srs.innerText;
+  var ortg = advanced[7];
+  statObj["ORtg"] = ortg.innerText;
+  var drtg = advanced[8];
+  statObj["DRtg"] = drtg.innerText;
+  var pace = advanced[9];
+  statObj["PACE"] = pace.innerText;
+  var ftr = advanced[10];
+  statObj["FTr"] = ftr.innerText;
+  var threePar = advanced[11];
+  statObj["3PAr"] = threePar.innerText;
+  var oefg = advanced[12];
+  statObj["OFF-eFG%"] = oefg.innerText;
+  var otov = advanced[13];
+  statObj["OFF-TOV%"] = otov.innerText;
+  var orb = advanced[14];
+  statObj["ORB%"] = orb.innerText;
+  var oftfga = advanced[15];
+  statObj["OFF-FT/FGA"] = oftfga.innerText;
+  var defg = advanced[16];
+  statObj["DEF-eFG%"] = defg.innerText;
+  var dtov = advanced[17];
+  statObj["DEF-TOV%"] = dtov.innerText;
+  var drb = advanced[18];
+  statObj["DRB%"] = drb.innerText;
+  var dftfga = advanced[19];
+  statObj["DEF-FT/FGA"] = dftfga.innerText;
 
   stats.push(statObj);
 
@@ -155,7 +227,7 @@ var getTeamAdvancedStats = function() {
   var stats = [];
   var statObj = {};
 
-  // Get stats and add them to stat object
+  // ***** ADVANCED *****
   var w = rows[0];
   statObj["W"] = w.innerText;
   var l = rows[1];
@@ -395,5 +467,43 @@ var getPlayerAdvancedStats = function() {
   return players;
 };
 
-//casper.waitForSelector("#team_and_opponent", processPage, terminate);
-casper.run();
+casper.run(function() {
+  outputToCsv(allTeamStatsArr);
+  this.exit();
+});
+
+function outputToCsv(statsArr) {
+  var result, ctr, keys, columnDelimiter, lineDelimiter, data;
+  data = statsArr || null;
+  if (data == null || !data.length) {
+    console.log("No Data Found");
+    return null;
+  }
+  columnDelimiter = statsArr.columnDelimiter || ",";
+  lineDelimiter = statsArr.lineDelimiter || "\n";
+  keys = Object.keys(data[0]);
+  result = "";
+  result += keys.join(columnDelimiter);
+  result += lineDelimiter;
+  data.forEach(function(item) {
+    ctr = 0;
+    keys.forEach(function(key) {
+      if (ctr > 0) result += columnDelimiter;
+      result += item[key];
+      ctr++;
+    });
+    result += lineDelimiter;
+  });
+  //console.log(result);
+  var fs = require("fs");
+  var currentTime = new Date();
+  var month = currentTime.getMonth() + 1;
+  var day = currentTime.getDate();
+  var year = currentTime.getFullYear();
+  var fileName = "csv/" + month + "_" + day + "_" + year + ".csv";
+  var filePath = fs.pathJoin(fs.workingDirectory, fileName);
+
+  fs.write(filePath, result, "w");
+  console.log(result);
+  return result;
+}

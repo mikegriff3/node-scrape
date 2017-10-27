@@ -29,6 +29,8 @@
     "casper": "^0.1.1",
     "cheerio": "^1.0.0-rc.2",
     "circular-json": "^0.4.0",
+    "csv": "^2.0.0",
+    "csvtojson": "^1.1.9",
     "express": "^4.16.2",
     "history": "^4.7.2",
     "path": "^0.12.7",
@@ -40,5 +42,8 @@
     "request": "^2.83.0",
     "sequelize": "^4.17.2",
     "webpack": "^3.8.1"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0"
   }
 }

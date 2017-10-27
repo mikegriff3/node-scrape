@@ -5,7 +5,7 @@ const db = new Sequelize(
   {
     dialect: "postgres",
     pool: {
-      max: 100,
+      max: 3,
       min: 0,
       idle: 20000,
       acquire: 20000,
@@ -15,3 +15,5 @@ const db = new Sequelize(
 );
 
 console.log("connected to remote db");
+
+module.exports = db;
