@@ -77,13 +77,86 @@ csv()
           .catch(err => {
             console.log(err);
             count++;
-            next();
+            //next();
           });
       },
       function(err) {
-        console.log("All things are done");
+        console.log("All games are done");
+        var result, ctr, keys, columnDelimiter, lineDelimiter, data;
+        data = finalArr || null;
+        if (data == null || !data.length) {
+          console.log("No Data Found");
+          return null;
+        }
+        columnDelimiter = finalArr.columnDelimiter || ",";
+        lineDelimiter = finalArr.lineDelimiter || "\n";
+        keys = Object.keys(data[0]);
+        result = "";
+        result += keys.join(columnDelimiter);
+        result += lineDelimiter;
+        data.forEach(function(item) {
+          ctr = 0;
+          keys.forEach(function(key) {
+            if (ctr > 0) result += columnDelimiter;
+            result += item[key];
+            ctr++;
+          });
+          result += lineDelimiter;
+        });
+        console.log(result);
+        var fs = require("fs");
+        var currentTime = new Date();
+        var month = currentTime.getMonth() + 1;
+        var day = currentTime.getDate();
+        var year = currentTime.getFullYear();
+        var fileName =
+          "/Users/michaelgriffin/node-scrape/vector-csv/" +
+          month +
+          "_" +
+          day +
+          "_" +
+          year +
+          ".csv";
+        //var filePath = fs.pathJoin(fs.workingDirectory, fileName);
+
+        fs.writeFile(fileName, result);
+        console.log(result);
       }
     );
   });
 
-console.log(finalArr);
+// function outputToCsv(finalArr) {
+//   var result, ctr, keys, columnDelimiter, lineDelimiter, data;
+//   data = finalArr || null;
+//   if (data == null || !data.length) {
+//     console.log("No Data Found");
+//     return null;
+//   }
+//   columnDelimiter = finalArr.columnDelimiter || ",";
+//   lineDelimiter = finalArr.lineDelimiter || "\n";
+//   keys = Object.keys(data[0]);
+//   result = "";
+//   result += keys.join(columnDelimiter);
+//   result += lineDelimiter;
+//   data.forEach(function(item) {
+//     ctr = 0;
+//     keys.forEach(function(key) {
+//       if (ctr > 0) result += columnDelimiter;
+//       result += item[key];
+//       ctr++;
+//     });
+//     result += lineDelimiter;
+//   });
+//   //console.log(result);
+//   var fs = require("fs");
+//   var currentTime = new Date();
+//   var month = currentTime.getMonth() + 1;
+//   var day = currentTime.getDate();
+//   var year = currentTime.getFullYear();
+//   var fileName = "vector-csv/" + month + "_" + day + "_" + year + ".csv";
+//   var filePath = fs.pathJoin(fs.workingDirectory, fileName);
+
+//   fs.write(filePath, result, "w");
+//   console.log(result);
+//   return result;
+// }
