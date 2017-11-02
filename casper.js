@@ -500,7 +500,7 @@ function outputToCsv(statsArr) {
   var month = currentTime.getMonth() + 1;
   var day = currentTime.getDate();
   var year = currentTime.getFullYear();
-  var fileName = "csv/" + month + "_" + day + "_" + year + ".csv";
+  var fileName = "csv-team-total/" + month + "_" + day + "_" + year + ".csv";
   var filePath = fs.pathJoin(fs.workingDirectory, fileName);
 
   fs.write(filePath, result, "w");

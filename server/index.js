@@ -8,8 +8,8 @@ const db = require("./db/config");
 const model = require("./db");
 const router = require("./router");
 // middleware
-app.use(parser.urlencoded({ extended: true }));
-app.use(parser.json());
+app.use(parser.urlencoded({ limit: "20mb", extended: true }));
+app.use(parser.json({ limit: "20mb" }));
 app.use(express.static(path.join(__dirname, "../static")));
 
 app.use("/api", router);

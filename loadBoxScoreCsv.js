@@ -1,25 +1,24 @@
-const csvFilePath = "./csv-team-total/10_30_2017.csv";
+const csvFilePath = "./csv-boxscores/10_30_2017.csv";
 const csv = require("csvtojson");
 var axios = require("axios");
 
-var statArray = [];
+var boxscoreArr = [];
 
 csv()
   .fromFile(csvFilePath)
   .on("json", jsonObj => {
     // combine csv header row and csv line to a json object
-    statArray.push(jsonObj);
+    boxscoreArr.push(jsonObj);
   })
   .on("done", error => {
-    console.log("statArray: ", statArray);
     axios
-      .put("http://localhost:8000/api/teamStats/updateTeam", {
-        data: statArray
+      .post("http://localhost:8000/api/teamStats/loadBoxScores", {
+        data: boxscoreArr
       })
       .then(data => {
         console.log("SAVED SUCCESSFULLY");
       })
       .catch(err => {
-        console.log(err);
+        console.log("Error posting to server", err);
       });
   });

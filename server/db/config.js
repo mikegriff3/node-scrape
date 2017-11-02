@@ -5,7 +5,7 @@ const db = new Sequelize(
   {
     dialect: "postgres",
     pool: {
-      max: 3,
+      max: 5,
       min: 0,
       idle: 20000,
       acquire: 20000,
