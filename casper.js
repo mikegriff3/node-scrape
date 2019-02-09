@@ -45,7 +45,7 @@ var teamAbbrv = [
 
 for (var i = 0; i < teamAbbrv.length; i++) {
   var team = teamAbbrv[i];
-  var url = "https://www.basketball-reference.com/teams/" + team + "/2018.html";
+  var url = "https://www.basketball-reference.com/teams/" + team + "/2019.html";
   var teamBasicStats;
 
   casper.thenOpen(url, function() {
@@ -57,7 +57,7 @@ for (var i = 0; i < teamAbbrv.length; i++) {
   });
   casper.then(function() {
     //GET TEAM BASIC STATS
-    casper.wait(60000, function() {
+    casper.wait(30000, function() {
       teamBasicStats = this.evaluate(getTeamBasicTotalStats);
       allTeamStatsArr.push(teamBasicStats[0]);
       //this.echo("TEAM BASIC STATS");
@@ -128,8 +128,6 @@ var getTeamBasicTotalStats = function() {
   var statObj = {};
 
   // Get stats and add them to stat object
-  var name = metas[1];
-  statObj["team"] = name.innerText;
   var gp = rows[0];
   statObj["gamesPlayed"] = gp.innerText;
   var fg = rows[2];
@@ -404,62 +402,62 @@ var getPlayerBasicStats = function() {
 };
 
 var getPlayerAdvancedStats = function() {
-  var rows = document.querySelectorAll("#advanced tr");
+  var advanced = document.querySelectorAll("#advanced tr");
   var players = [];
 
-  // rows = array of players
-  for (var i = 1; i < rows.length; i++) {
-    var playerInfo = rows[i].querySelectorAll("td");
-    // playerInfo = array of tds or stats.
+  // advanced = array of players
+  for (var i = 1; i < advanced.length; i++) {
+    var playerAdvanced = advanced[i].querySelectorAll("td");
+    // playerAdvanced = array of tds or stats.
     var player = {};
-    for (var j = 0; j < playerInfo.length; j++) {
-      var name = playerInfo[0];
+    for (var j = 0; j < playerAdvanced.length; j++) {
+      var name = playerAdvanced[0];
       player["Name"] = name.innerText;
-      var age = playerInfo[1];
+      var age = playerAdvanced[1];
       player["Age"] = age.innerText;
-      var games = playerInfo[2];
+      var games = playerAdvanced[2];
       player["GP"] = games.innerText;
-      var minutesPlayed = playerInfo[3];
+      var minutesPlayed = playerAdvanced[3];
       player["MP"] = minutesPlayed.innerText;
-      var per = playerInfo[4];
+      var per = playerAdvanced[4];
       player["PER"] = per.innerText;
-      var ts = playerInfo[5];
+      var ts = playerAdvanced[5];
       player["TS%"] = ts.innerText;
-      var threePAr = playerInfo[6];
+      var threePAr = playerAdvanced[6];
       player["3PAr"] = threePAr.innerText;
-      var ftr = playerInfo[7];
+      var ftr = playerAdvanced[7];
       player["FTr"] = ftr.innerText;
-      var orbpct = playerInfo[8];
+      var orbpct = playerAdvanced[8];
       player["ORB%"] = orbpct.innerText;
-      var drbpct = playerInfo[9];
+      var drbpct = playerAdvanced[9];
       player["DRB%"] = drbpct.innerText;
-      var trbpct = playerInfo[10];
+      var trbpct = playerAdvanced[10];
       player["TRB%"] = trbpct.innerText;
-      var astpct = playerInfo[11];
+      var astpct = playerAdvanced[11];
       player["AST%"] = astpct.innerText;
-      var stlpct = playerInfo[12];
+      var stlpct = playerAdvanced[12];
       player["STL%"] = stlpct.innerText;
-      var blkpct = playerInfo[13];
+      var blkpct = playerAdvanced[13];
       player["BLK%"] = blkpct.innerText;
-      var tovpct = playerInfo[14];
+      var tovpct = playerAdvanced[14];
       player["TOV%"] = tovpct.innerText;
-      var usgpct = playerInfo[15];
+      var usgpct = playerAdvanced[15];
       player["USG%"] = usgpct.innerText;
-      var ows = playerInfo[17];
+      var ows = playerAdvanced[17];
       player["OWS"] = ows.innerText;
-      var dws = playerInfo[18];
+      var dws = playerAdvanced[18];
       player["DWS"] = dws.innerText;
-      var ws = playerInfo[19];
+      var ws = playerAdvanced[19];
       player["WS"] = ws.innerText;
-      var wsfortyeight = playerInfo[20];
+      var wsfortyeight = playerAdvanced[20];
       player["WS/48"] = wsfortyeight.innerText;
-      var obpm = playerInfo[22];
+      var obpm = playerAdvanced[22];
       player["OBPM"] = obpm.innerText;
-      var dbpm = playerInfo[23];
+      var dbpm = playerAdvanced[23];
       player["DBPM"] = dbpm.innerText;
-      var bpm = playerInfo[24];
+      var bpm = playerAdvanced[24];
       player["BPM"] = bpm.innerText;
-      var vorp = playerInfo[25];
+      var vorp = playerAdvanced[25];
       player["VORP"] = vorp.innerText;
     }
     players.push(player);
@@ -500,7 +498,7 @@ function outputToCsv(statsArr) {
   var month = currentTime.getMonth() + 1;
   var day = currentTime.getDate();
   var year = currentTime.getFullYear();
-  var fileName = "csv-team-total/" + month + "_" + day + "_" + year + ".csv";
+  var fileName = "csv-current-averages/currentAverages.csv";
   var filePath = fs.pathJoin(fs.workingDirectory, fileName);
 
   fs.write(filePath, result, "w");

@@ -11,41 +11,41 @@ var casper = require("casper").create({
 casper.start();
 
 var teamAbbrv = [
-  "ATL",
+  //"ATL",
   "BRK",
-  "BOS",
-  "CHA",
+  //"BOS",
+  //"CHO",
   "CHI",
   "CLE",
   "DAL",
   "DEN",
   "DET",
   "GSW",
-  "HOU",
-  "IND",
-  "LAC",
-  "LAL",
-  "MEM",
+  //"HOU",
+  // "IND",
+  // "LAC",
+  // "LAL",
+  // "MEM",
   "MIA",
   "MIL",
   "MIN",
-  "NOH",
+  "NOP",
   "NYK",
-  "OKC",
-  "ORL",
+  //"OKC",
+  //"ORL",
   "PHI",
   "PHO",
-  "POR",
+  //"POR",
   "SAC",
-  "SAS",
-  "TOR",
-  "UTA",
+  //"SAS",
+  //"TOR"
+  //"UTA",
   "WAS"
 ];
 
 for (var i = 0; i < teamAbbrv.length; i++) {
   var team = teamAbbrv[i];
-  var url = "https://www.basketball-reference.com/teams/" + team + "/2013.html";
+  var url = "https://www.basketball-reference.com/teams/" + team + "/2019.html";
   var teamBasicStats;
 
   casper.thenOpen(url, function() {
@@ -57,7 +57,7 @@ for (var i = 0; i < teamAbbrv.length; i++) {
   });
   casper.then(function() {
     //GET TEAM BASIC STATS
-    casper.wait(60000, function() {
+    casper.wait(30000, function() {
       teamBasicStats = this.evaluate(getTeamBasicTotalStats);
       allTeamStatsArr.push(teamBasicStats[0]);
       //this.echo("TEAM BASIC STATS");
@@ -243,7 +243,7 @@ function outputToCsv(statsArr) {
   var month = currentTime.getMonth() + 1;
   var day = currentTime.getDate();
   var year = currentTime.getFullYear();
-  var fileName = "csv-team-averages/2013.csv";
+  var fileName = "csv-current-averages/currentAverages19.csv";
   var filePath = fs.pathJoin(fs.workingDirectory, fileName);
 
   fs.write(filePath, result, "w");

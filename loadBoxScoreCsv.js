@@ -1,4 +1,4 @@
-const csvFilePath = "./csv-boxscores/10_30_2017.csv";
+const csvFilePath = "./csv-boxscores/update_boxscores.csv";
 const csv = require("csvtojson");
 var axios = require("axios");
 
@@ -12,7 +12,7 @@ csv()
   })
   .on("done", error => {
     axios
-      .post("http://localhost:8000/api/teamStats/loadBoxScores", {
+      .put("http://localhost:8000/api/teamStats/updateBoxScores", {
         data: boxscoreArr
       })
       .then(data => {

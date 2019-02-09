@@ -1,4 +1,4 @@
-const csvFilePath = "./csv-team-averages/2013.csv";
+const csvFilePath = "./csv-college-team/collegeTeamStats.csv";
 const csv = require("csvtojson");
 var axios = require("axios");
 
@@ -12,7 +12,7 @@ csv()
   })
   .on("done", error => {
     axios
-      .post("http://localhost:8000/api/teamStats/postTeamAverages", {
+      .put("http://localhost:8000/api/teams/updatecTeams", {
         data: teamAverages
       })
       .then(data => {

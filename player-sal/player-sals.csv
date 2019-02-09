@@ -1,0 +1,641 @@
+age,guaranteed,name,signedUsing,team,y1,y2,y2option,y3,y3option,y4,y4option,y5,y5option,y6,y6option
+28,$35000000,Kent Bazemore,Cap Space,Atlanta Hawks,$16910113,$18089887,None,$19269662,Player,,None,,None,,None
+24,$62000000,Dennis Schroder,1st Round Pick,Atlanta Hawks,$15500000,$15500000,None,$15500000,None,$15500000,None,,None,,None
+29,$37500000,Miles Plumlee,Bird Rights,Atlanta Hawks,$12500000,$12500000,None,$12500000,None,,None,,None,,None
+28,$6000000,Dewayne Dedmon,Cap space,Atlanta Hawks,$6000000,$6300000,Player,,None,,None,,None,,None
+26,$5000000,Mike Muscala,Cap space,Atlanta Hawks,$5000000,$5000000,Player,,None,,None,,None,,None
+29,$2500000,Malcolm Delaney,Room Exception,Atlanta Hawks,$2500000,,None,,None,,None,,None,,None
+23,$4949400,Taurean Waller-Prince,1st Round pick,Atlanta Hawks,$2422560,$2526840,None,$3481986,Team,,None,,None,,None
+20,$4236000,John Collins,1st Round Pick,Atlanta Hawks,$1936920,$2299080,None,$2686560,Team,$4137302,Team,,None,,None
+23,$3201840,DeAndre' Bembry,1st Round pick,Atlanta Hawks,$1567200,$1634640,None,$2603982,Team,,None,,None,,None
+23,$1312611,Isaiah Taylor,Minimum Salary,Atlanta Hawks,$1312611,$1544951,None,,None,,None,,None,,None
+22,$2193857,Tyler Dorsey,Minimum Salary,Atlanta Hawks,$815615,$1378242,None,,None,,None,,None,,None
+24,$679919,Tyler Cavanaugh,Two-Way Converted,Atlanta Hawks,$679919,$1378242,None,,None,,None,,None,,None
+22,,Jaylen Morris,10-Day Contract,Atlanta Hawks,$92160,,None,,None,,None,,None,,None
+24,,Antonius Cleveland,10-Day Contract,Atlanta Hawks,$92160,,None,,None,,None,,None,,None
+24,TBD,Andrew White,Two-Way Contract,Atlanta Hawks,TBD,,None,,None,,None,,None,,None
+28,$50000,Josh Magette,Two-Way Contract,Atlanta Hawks,TBD,,None,,None,,None,,None,,None
+37,$13246988,Jamal Crawford,,Atlanta Hawks,$10942762,$2304226,None,,None,,None,,None,,None
+31,$6306060,Marco Belinelli,,Atlanta Hawks,$6306060,,None,,None,,None,,None,,None
+30,$6000000,Ersan Ilyasova,,Atlanta Hawks,$6000000,,None,,None,,None,,None,,None
+37,$2500000,Richard Jefferson,,Atlanta Hawks,$2500000,,None,,None,,None,,None,,None
+37,$1662500,Mike Dunleavy,,Atlanta Hawks,$1662500,,None,,None,,None,,None,,None
+25,$1312611,Sheldon Mac,,Atlanta Hawks,$1312611,,None,,None,,None,,None,,None
+21,$1312611,Diamond Stone,,Atlanta Hawks,$1312611,,None,,None,,None,,None,,None
+25,$1312611,Nicolas Brussino,,Atlanta Hawks,$1312611,,None,,None,,None,,None,,None
+25,$1312611,Okaro White,,Atlanta Hawks,$1312611,,None,,None,,None,,None,,None
+24,$100000,Quinn Cook,,Atlanta Hawks,$100000,,None,,None,,None,,None,,None
+24,$50000,Tyler Cavanaugh,,Atlanta Hawks,$50000,,None,,None,,None,,None,,None
+30,$50000,Jeremy Evans,,Atlanta Hawks,$50000,,None,,None,,None,,None,,None
+29,$26773,DeAndre Liggins,,Atlanta Hawks,$26773,,None,,None,,None,,None,,None
+25,$37832500,Allen Crabbe,Cap Space,Brooklyn Nets,$19332500,$18500000,None,$18500000,Player,,None,,None,,None
+31,$48000000,Timofey Mozgov,Cap Space,Brooklyn Nets,$15280000,$16000000,None,$16720000,None,,None,,None,,None
+31,$30200000,DeMarre Carroll,Cap Space,Brooklyn Nets,$14800000,$15400000,None,,None,,None,,None,,None
+29,$24516746,Jeremy Lin,Cap Space,Brooklyn Nets,$12000000,$12516746,None,,None,,None,,None,,None
+22,$12582058,D'Angelo Russell,1st round pick,Brooklyn Nets,$5562360,$7019698,Team,,None,,None,,None,,None
+22,$4995120,Jahlil Okafor,1st round pick,Brooklyn Nets,$4995120,,None,,None,,None,,None,,None
+24,$3807146,Nik Stauskas,1st Round Pick,Brooklyn Nets,$3807146,,None,,None,,None,,None,,None
+30,$2300000,Dante Cunningham,MLE,Brooklyn Nets,$2300000,,None,,None,,None,,None,,None
+19,$3747840,Jarrett Allen,1st Round Pick,Brooklyn Nets,$1713720,$2034120,None,$2376840,Team,$3909902,Team,,None,,None
+27,,Quincy Acy,Cap space,Brooklyn Nets,$1709538,,None,,None,,None,,None,,None
+23,$3335280,Caris LeVert,1st Round pick,Brooklyn Nets,$1632480,$1702800,Team,$2625718,Team,,None,,None,,None
+26,$1524305,Joe Harris,Minimum Salary,Brooklyn Nets,$1524305,,None,,None,,None,,None,,None
+24,$1524305,Spencer Dinwiddie,Minimum Salary,Brooklyn Nets,$1524305,$1656092,None,,None,,None,,None,,None
+23,$3941739,Rondae Hollis-Jefferson,1st Round pick,Brooklyn Nets,$1471382,$2470357,Team,,None,,None,,None,,None
+23,$1312611,Isaiah Whitehead,Cap Space,Brooklyn Nets,$1312611,$1544951,None,$1676735,Team,,None,,None,,None
+24,TBD,Milton Doyle,Two-Way Contract,Brooklyn Nets,TBD,,None,,None,,None,,None,,None
+23,$50000,Jacob Wiley,Two-Way Contract,Brooklyn Nets,TBD,,None,,None,,None,,None,,None
+24,TBD,James Webb,Two-Way Contract,Brooklyn Nets,TBD,,None,,None,,None,,None,,None
+33,$16500000,Deron Williams,,Brooklyn Nets,$5500000,$5500000,None,$5500000,None,,None,,None,,None
+28,$1524305,Sean Kilpatrick,,Brooklyn Nets,$1524305,,None,,None,,None,,None,,None
+26,$50000,Yakuba Ouattara,,Brooklyn Nets,$50000,,None,,None,,None,,None,,None
+27,$93642885,Gordon Hayward,Cap space,Boston Celtics,$29727900,$31214295,None,$32700690,None,$34187085,Player,,None,,None
+31,$56663115,Al Horford,Cap Space,Boston Celtics,$27734405,$28928710,None,$30123015,Player,,None,,None,,None
+25,$38967813,Kyrie Irving,Bird Rights,Boston Celtics,$18868625,$20099188,None,$21329750,Player,,None,,None,,None
+20,$12346200,Jayson Tatum,1st Round Pick,Boston Celtics,$5645400,$6700800,None,$7830000,Team,$9897120,Team,,None,,None
+28,$10375000,Marcus Morris,Bird Rights,Boston Celtics,$5000000,$5375000,None,,None,,None,,None,,None
+27,$5000000,Greg Monroe,Disabled Player Exception,Boston Celtics,$5000000,,None,,None,,None,,None,,None
+21,$10126440,Jaylen Brown,1st Rd pick,Boston Celtics,$4956480,$5169960,None,$6534829,Team,,None,,None,,None
+24,$4538020,Marcus Smart,1st Round Pick,Boston Celtics,$4538020,,None,,None,,None,,None,,None
+31,$4328000,Aron Baynes,Room Exception,Boston Celtics,$4328000,,None,,None,,None,,None,,None
+22,$4915080,Guerschon Yabusele,1st Round Pick,Boston Celtics,$2247480,$2667600,None,$3117240,Team,$4781846,Team,,None,,None
+23,$5038910,Terry Rozier,1st round pick,Boston Celtics,$1988520,$3050390,None,,None,,None,,None,,None
+25,$1524305,Shane Larkin,Minimum Salary,Boston Celtics,$1524305,,None,,None,,None,,None,,None
+23,$2193857,Semi Ojeleye,,Boston Celtics,$1291892,$1378242,None,$1618520,None,$1752950,Team,,None,,None
+24,$1617333,Abdel Nader,,Boston Celtics,$1167333,$1378242,None,$1618520,None,$1752950,Team,,None,,None
+25,$815615,Daniel Theis,Minimum Salary,Boston Celtics,$815615,$1378242,None,,None,,None,,None,,None
+23,$50000,Jabari Bird,Two-Way Contract,Boston Celtics,TBD,,None,,None,,None,,None,,None
+25,$50000,Kadeem Allen,Two-Way Contract,Boston Celtics,TBD,,None,,None,,None,,None,,None
+23,$650000,Demetrius Jackson,,Boston Celtics,$92858,$92857,None,$92857,None,$92857,None,$92857,None,$92857,None
+26,$83129,Jarell Eddie,,Boston Celtics,$83129,,None,,None,,None,,None,,None
+32,$47319725,Dwight Howard,Cap Space,Charlotte Hornets,$23500000,$23819725,None,,None,,None,,None,,None
+29,$72000000,Nicolas Batum,Cap Space,Charlotte Hornets,$22434783,$24000000,None,$25565217,None,$27130434,Player,,None,,None
+31,$27256250,Marvin Williams,Cap Space,Charlotte Hornets,$13168750,$14087500,None,$15006250,Player,,None,,None,,None
+24,$26000000,Michael Kidd-Gilchrist,1st Round Pick,Charlotte Hornets,$13000000,$13000000,None,$13000000,Player,,None,,None,,None
+25,$56000000,Cody Zeller,1st Round Pick,Charlotte Hornets,$12584270,$13528090,None,$14471910,None,$15415730,None,,None,,None
+27,$24000000,Kemba Walker,1st Round Pick,Charlotte Hornets,$12000000,$12000000,None,,None,,None,,None,,None
+25,$14488372,Jeremy Lamb,Rookie scale extension,Charlotte Hornets,$7000000,$7488372,None,,None,,None,,None,,None
+20,$6351960,Malik Monk,1st Round Pick,Charlotte Hornets,$2904480,$3447480,None,$4028400,Team,$5345687,Team,,None,,None
+24,$6475442,Frank Kaminsky,1st round pick,Charlotte Hornets,$2847600,$3627842,None,,None,,None,,None,,None
+26,$2700000,Michael Carter-Williams,Bi-annual Exception,Charlotte Hornets,$2700000,,None,,None,,None,,None,,None
+29,$1524305,Julyan Stone,Minimum Salary,Charlotte Hornets,$1524305,$1656092,None,,None,,None,,None,,None
+23,$2980701,Willy Hernangomez,Cap Space,Charlotte Hornets,$1435750,$1544951,None,$1701735,None,,None,,None,,None
+24,$1312611,Treveon Graham,Minimum Salary,Charlotte Hornets,$1312611,,None,,None,,None,,None,,None
+22,$2193857,Dwayne Bacon,MLE,Charlotte Hornets,$815615,$1378242,None,$1618520,None,,None,,None,,None
+25,$50000,Mangok Mathiang,Two-Way Contract,Charlotte Hornets,TBD,,None,,None,,None,,None,,None
+24,$50000,Marcus Paige,Two-Way Contract,Charlotte Hornets,TBD,,None,,None,,None,,None,,None
+29,$28146250,Robin Lopez,Cap Space,Chicago Bulls,$13788500,$14357750,None,,None,,None,,None,,None
+31,$24882021,Omer Asik,Bird Rights,Chicago Bulls,$10595505,$11286516,None,$11977527,Early Termination,,None,,None,,None
+25,$32000000,Cristiano Felicio,Cap space,Chicago Bulls,$7843500,$8470980,None,$8156500,None,$7529020,None,,None,,None
+28,$9000001,Justin Holiday,MLE,Chicago Bulls,$4615385,$4384616,None,,None,,None,,None,,None
+23,$8267760,Kris Dunn,1st Round pick,Chicago Bulls,$4046760,$4221000,None,$5348007,Team,,None,,None,,None
+20,$8357760,Lauri Markkanen,1st Round Pick,Chicago Bulls,$3821640,$4536120,None,$5300400,Team,$6731508,Team,,None,,None
+22,$3505233,Noah Vonleh,1st Round Pick,Chicago Bulls,$3505233,,None,,None,,None,,None,,None
+23,$3202217,Zach LaVine,1st Round Pick,Chicago Bulls,$3202217,,None,,None,,None,,None,,None
+23,$5466735,Cameron Payne,1st round pick,Chicago Bulls,$2203440,$3263295,None,,None,,None,,None,,None
+24,$4467000,Denzel Valentine,1st Round pick,Chicago Bulls,$2186400,$2280600,None,$3377569,Team,,None,,None,,None
+25,$4353154,Jerian Grant,1st Round pick,Chicago Bulls,$1713840,$2639314,None,,None,,None,,None,,None
+23,$4010666,Bobby Portis,1st Round pick,Chicago Bulls,$1516320,$2494346,None,,None,,None,,None,,None
+24,$1312611,Paul Zipser,Cap Space,Chicago Bulls,$1312611,$1544951,None,$1676735,Team,,None,,None,,None
+25,$1312611,David Nwaba,Minimum Salary,Chicago Bulls,$1312611,,None,,None,,None,,None,,None
+23,$50000,Ryan Arcidiacono,Two-Way Contract,Chicago Bulls,TBD,,None,,None,,None,,None,,None
+21,$50000,Antonio Blakeney,Two-Way Contract,Chicago Bulls,TBD,,None,,None,,None,,None,,None
+36,$15550000,Dwyane Wade,,Chicago Bulls,$15550000,,None,,None,,None,,None,,None
+30,$3853931,Quincy Pondexter,,Chicago Bulls,$3853931,,None,,None,,None,,None,,None
+32,$3000000,Rajon Rondo,,Chicago Bulls,$3000000,,None,,None,,None,,None,,None
+36,$2116955,Tony Allen,,Chicago Bulls,$2116955,,None,,None,,None,,None,,None
+27,$1577230,Willie Reed,,Chicago Bulls,$1577230,,None,,None,,None,,None,,None
+22,$456529,Kay Felder,,Chicago Bulls,$1312611,$1544951,None,,None,,None,,None,,None
+26,$200000,Isaiah Canaan,,Chicago Bulls,$200000,,None,,None,,None,,None,,None
+26,,Jarell Eddie,,Chicago Bulls,$83129,,None,,None,,None,,None,,None
+21,$50000,Diamond Stone,,Chicago Bulls,$50000,,None,,None,,None,,None,,None
+26,$17224,Jarell Eddie,,Chicago Bulls,$17224,,None,,None,,None,,None,,None
+33,$33285709,LeBron James,Early Bird,Cleveland Cavaliers,$33285709,$35607968,Player,,None,,None,,None,,None
+29,$46761375,Kevin Love,Bird Rights,Cleveland Cavaliers,$22642350,$24119025,None,$25595700,Player,,None,,None,,None
+31,$40000000,George Hill,Cap space,Cleveland Cavaliers,$20000000,$19000000,None,$18000000,None,,None,,None,,None
+26,$52408695,Tristan Thompson,Bird Rights,Cleveland Cavaliers,$16400000,$17469565,None,$18539130,None,,None,,None,,None
+32,$32350000,J.R. Smith,Bird Rights,Cleveland Cavaliers,$13760000,$14720000,None,$15680000,None,,None,,None,,None
+25,$37500000,Jordan Clarkson,Cap Space,Cleveland Cavaliers,$11562500,$12500000,None,$13437500,None,,None,,None,,None
+36,$18000000,Kyle Korver,Bird Rights,Cleveland Cavaliers,$7000000,$7560000,None,$7500000,None,,None,,None,,None
+22,$8325000,Cedi Osman,MLE,Cleveland Cavaliers,$2642857,$2775000,None,$2907143,None,,None,,None,,None
+25,$2386864,Rodney Hood,1st Round Pick,Cleveland Cavaliers,$2386864,,None,,None,,None,,None,,None
+36,$2328652,Jose Calderon,Minimum Salary,Cleveland Cavaliers,$2328652,,None,,None,,None,,None,,None
+31,$2116955,Jeff Green,Minimum Salary,Cleveland Cavaliers,$2116955,,None,,None,,None,,None,,None
+21,$3597960,Ante Zizic,1st Round Pick,Cleveland Cavaliers,$1645200,$1952760,None,$2281800,Team,$3872215,Team,,None,,None
+25,$3743773,Larry Nance,1st Round pick,Cleveland Cavaliers,$1471382,$2272391,None,,None,,None,,None,,None
+23,$74718,London Perrantes,Two-Way Contract,Cleveland Cavaliers,TBD,,None,,None,,None,,None,,None
+29,$50000,John Holland,Two-Way Contract,Cleveland Cavaliers,TBD,,None,,None,,None,,None,,None
+25,,Marcus Thornton,,Cleveland Cavaliers,$46080,,None,,None,,None,,None,,None
+25,$47219262,Harrison Barnes,Cap Space,Dallas Mavericks,$23112004,$24107258,None,$25102512,Player,,None,,None,,None
+31,$17884176,Wesley Matthews,Cap Space,Dallas Mavericks,$17884176,$18622514,Player,,None,,None,,None,,None
+26,$18634375,Dwight Powell,Cap Space,Dallas Mavericks,$9003125,$9631250,None,$10259375,Player,,None,,None,,None
+39,$5000000,Dirk Nowitzki,Cap space,Dallas Mavericks,$5000000,$5000000,Team,,None,,None,,None,,None
+23,$4187599,Nerlens Noel,1st Round Pick,Dallas Mavericks,$4187599,,None,,None,,None,,None,,None
+33,$7614750,J.J. Barea,Cap Space,Dallas Mavericks,$3903900,$3710850,None,,None,,None,,None,,None
+26,$3294994,Doug McDermott,1st Round Pick,Dallas Mavericks,$3294994,,None,,None,,None,,None,,None
+20,$7038240,Dennis Smith,1st Round Pick,Dallas Mavericks,$3218280,$3819960,None,$4463640,Team,$5686677,Team,,None,,None
+27,$3028410,Seth Curry,Room exception,Dallas Mavericks,$3028410,,None,,None,,None,,None,,None
+31,$1471382,Salah Mejri,Minimum Salary,Dallas Mavericks,$1471382,,None,,None,,None,,None,,None
+24,$1312611,Yogi Ferrell,Minimum Salary,Dallas Mavericks,$1312611,,None,,None,,None,,None,,None
+24,$1312611,Dorian Finney-Smith,Minimum Salary,Dallas Mavericks,$1312611,$1544951,None,,None,,None,,None,,None
+26,$815615,Maxi Kleber,Minimum Salary,Dallas Mavericks,$815615,$1378242,None,,None,,None,,None,,None
+24,,Jameel Warney,10-Day Contract,Dallas Mavericks,$46080,,None,,None,,None,,None,,None
+22,$50000,Johnathan Motley,Two-Way Contract,Dallas Mavericks,TBD,,None,,None,,None,,None,,None
+26,,Kyle Collinsworth,Minimum Salary,Dallas Mavericks,,,None,,None,,None,,None,,None
+24,TBD,Jalen Jones,Two-Way Contract,Dallas Mavericks,TBD,,None,,None,,None,,None,,None
+31,$6021175,Josh McRoberts,,Dallas Mavericks,$6021175,,None,,None,,None,,None,,None
+28,$350000,Jeff Withey,,Dallas Mavericks,$1577320,$1795015,None,,None,,None,,None,,None
+30,$315760,Gal Mekel,,Dallas Mavericks,$315760,,None,,None,,None,,None,,None
+26,$92160,Kyle Collinsworth,,Dallas Mavericks,$92160,,None,,None,,None,,None,,None
+28,,Scotty Hopson,,Dallas Mavericks,$74159,,None,,None,,None,,None,,None
+24,$50000,Antonius Cleveland,,Dallas Mavericks,$50000,,None,,None,,None,,None,,None
+26,$50000,Kyle Collinsworth,,Dallas Mavericks,$50000,,None,,None,,None,,None,,None
+24,$50000,Gian Clavell,,Dallas Mavericks,$50000,,None,,None,,None,,None,,None
+33,$61000000,Paul Millsap,Cap space,Denver Nuggets,$31269231,$29730769,None,$30500000,Team,,None,,None,,None
+28,$41000000,Mason Plumlee,Cap space,Denver Nuggets,$14041096,$12917808,None,$14041096,None,,None,,None,,None
+28,$26685393,Kenneth Faried,1st Round Pick,Denver Nuggets,$12921348,$13764045,None,,None,,None,,None,,None
+30,$12016854,Wilson Chandler,,Denver Nuggets,$12016854,$12800562,Player,,None,,None,,None,,None
+29,$7464912,Darrell Arthur,Cap Space,Denver Nuggets,$7464912,$7464912,Player,,None,,None,,None,,None
+35,$4402546,Devin Harris,Cap Space,Denver Nuggets,$4402546,,None,,None,,None,,None,,None
+27,$3533333,Will Barton,Bird Rights,Denver Nuggets,$3533333,,None,,None,,None,,None,,None
+21,$6855120,Jamal Murray,1st Round pick,Denver Nuggets,$3355320,$3499800,None,$4444746,Team,,None,,None,,None
+23,$76550055,Gary Harris,1st Round Pick,Denver Nuggets,$2550055,$16517857,None,$17839286,None,$19160714,None,$20482143,None,,None
+22,$5805649,Trey Lyles,1st round pick,Denver Nuggets,$2441400,$3364249,None,,None,,None,,None,,None
+37,$2328652,Richard Jefferson,Minimum Salary,Denver Nuggets,$2328652,,None,,None,,None,,None,,None
+22,$4243200,Juan Hernangomez,1st Round pick,Denver Nuggets,$2076840,$2166360,None,$3321030,Team,,None,,None,,None
+21,$3474480,Malik Beasley,1st Round pick,Denver Nuggets,$1700640,$1773840,None,$2731714,Team,,None,,None,,None
+21,$3454080,Tyler Lydon,1st Round Pick,Denver Nuggets,$1579440,$1874640,None,$2190720,Team,,None,,None,,None
+23,$1471382,Nikola Jokic,,Denver Nuggets,$1471382,$1600520,Team,,None,,None,,None,,None
+27,$50000,Torrey Craig,Two-Way Contract,Denver Nuggets,TBD,,None,,None,,None,,None,,None
+22,$50000,Monte Morris,Two-Way Contract,Denver Nuggets,TBD,,None,,None,,None,,None,,None
+36,$4736050,Jameer Nelson,,Denver Nuggets,$4736050,,None,,None,,None,,None,,None
+28,$132217792,Blake Griffin,Bird Rights,Detroit Pistons,$29512900,$31873932,None,$34234964,None,$36595996,None,$38957028,Player,,None
+24,$76302788,Andre Drummond,Cap Space,Detroit Pistons,$23775506,$25434263,None,$27093019,None,$28751775,Player,,None,,None
+27,$51130434,Reggie Jackson,Bird Rights,Detroit Pistons,$16000000,$17043478,None,$18086956,None,,None,,None,,None
+28,$30008043,Jon Leuer,Cap Space,Detroit Pistons,$10497319,$10002681,None,$9508043,None,,None,,None,,None
+26,$21000000,Langston Galloway,MLE,Detroit Pistons,$6666667,$7000000,None,$7333333,None,,None,,None,,None
+29,$12000000,Ish Smith,Cap Space,Detroit Pistons,$6000000,$6000000,None,,None,,None,,None,,None
+32,$3290000,Anthony Tolliver,Bi-annual Exception,Detroit Pistons,$3290000,,None,,None,,None,,None,,None
+21,$7038202,Stanley Johnson,1st round pick,Detroit Pistons,$3097800,$3940402,None,,None,,None,,None,,None
+27,$3028410,James Ennis,Room exception,Detroit Pistons,$3028410,,None,,None,,None,,None,,None
+21,$6034560,Luke Kennard,1st Round Pick,Detroit Pistons,$2759280,$3275280,None,$3827160,Team,$5273826,Team,,None,,None
+26,$2500000,Reggie Bullock,Cap space,Detroit Pistons,$2500000,$2500000,None,,None,,None,,None,,None
+36,$2262871,Jameer Nelson,,Detroit Pistons,$2262871,,None,,None,,None,,None,,None
+21,$3638280,Henry Ellenson,1st Round pick,Detroit Pistons,$1780800,$1857480,None,$2856804,Team,,None,,None,,None
+26,$1739333,Eric Moreland,MLE,Detroit Pistons,$1739333,$1826300,None,$1913267,None,,None,,None,,None
+29,$748160,Dwight Buycks,Two-Way Converted,Detroit Pistons,$748160,$1600520,None,,None,,None,,None,,None
+26,TBD,Reggie Hearn,Two-Way Contract,Detroit Pistons,TBD,,None,,None,,None,,None,,None
+22,TBD,Kay Felder,Two-Way Contract,Detroit Pistons,TBD,,None,,None,,None,,None,,None
+32,$16200000,Josh Smith,,Detroit Pistons,$5400000,$5400000,None,$5400000,None,,None,,None,,None
+25,$500000,Michael Gbinije,,Detroit Pistons,$500000,,None,,None,,None,,None,,None
+33,$452059,Aaron Gray,,Detroit Pistons,$452059,,None,,None,,None,,None,,None
+24,$50000,Luis Montero,,Detroit Pistons,$50000,,None,,None,,None,,None,,None
+35,$25000,Beno Udrih,,Detroit Pistons,$25000,,None,,None,,None,,None,,None
+29,$201158790,Stephen Curry,Bird Rights,Golden State Warriors,$34682550,$37457154,None,$40231758,None,$43006362,None,$45780966,None,,None
+29,$25000000,Kevin Durant,Non-Bird Rights,Golden State Warriors,$25000000,$26250000,Player,,None,,None,,None,,None
+28,$36814875,Klay Thompson,1st Round Pick,Golden State Warriors,$17826150,$18988725,None,,None,,None,,None,,None
+28,$52408695,Draymond Green,Bird Rights,Golden State Warriors,$16400000,$17469565,None,$18539130,None,,None,,None,,None
+34,$48000000,Andre Iguodala,Bird Rights,Golden State Warriors,$14814815,$16000000,None,$17185185,None,,None,,None,,None
+32,$18000000,Shaun Livingston,Bird Rights,Golden State Warriors,$7692308,$8307692,None,$7692308,None,,None,,None,,None
+32,$5192000,Nick Young,MLE,Golden State Warriors,$5192000,,None,,None,,None,,None,,None
+34,$3477600,Zaza Pachulia,,Golden State Warriors,$3477600,,None,,None,,None,,None,,None
+37,$2328652,David West,Minimum Salary,Golden State Warriors,$2328652,,None,,None,,None,,None,,None
+30,$2116955,JaVale McGee,,Golden State Warriors,$2116955,,None,,None,,None,,None,,None
+29,$2106470,Omri Casspi,Minimum Salary,Golden State Warriors,$2106470,,None,,None,,None,,None,,None
+22,$1471382,Kevon Looney,1st Round pick,Golden State Warriors,$1471382,,None,,None,,None,,None,,None
+22,$2857562,Damian Jones,1st Round pick,Golden State Warriors,$1312611,$1544951,None,$2305057,Team,,None,,None,,None
+22,$1312611,Patrick McCaw,Minimum Salary,Golden State Warriors,$1312611,,None,,None,,None,,None,,None
+23,$2193867,Jordan Bell,Minimum Salary,Golden State Warriors,$815615,$1378252,None,,None,,None,,None,,None
+25,$50000,Chris Boucher,Two-Way Contract,Golden State Warriors,TBD,,None,,None,,None,,None,,None
+24,$50000,Quinn Cook,Two-Way Contract,Golden State Warriors,TBD,,None,,None,,None,,None,,None
+31,$1890252,Jason Thompson,,Golden State Warriors,$945126,$945126,None,,None,,None,,None,,None
+28,$181203253,James Harden,Bird Rights,Houston Rockets,$28299399,$30431854,None,$37800000,None,$40824000,None,$43848000,None,$46872000,Player
+32,$24599495,Chris Paul,Bird Rights,Houston Rockets,$24599495,,None,,None,,None,,None,,None
+29,$61264636,Ryan Anderson,Cap Space,Houston Rockets,$19578455,$20421546,None,$21264635,None,,None,,None,,None
+29,$40501125,Eric Gordon,Cap Space,Houston Rockets,$12943020,$13500375,None,$14057730,None,,None,,None,,None
+32,$26477799,P.J. Tucker,MLE,Houston Rockets,$7590035,$7969537,None,$8349039,None,$7969537,None,,None,,None
+32,$7420912,Trevor Ariza,Bird Rights,Houston Rockets,$7420912,,None,,None,,None,,None,,None
+35,$10954440,Nene Hilario,Non-Bird Rights,Houston Rockets,$3477600,$3651480,None,$3825360,None,,None,,None,,None
+26,$3290000,Tarik Black,Bi-annual Exception,Houston Rockets,$3290000,,None,,None,,None,,None,,None
+23,$2334520,Clint Capela,1st Round Pick,Houston Rockets,$2334520,,None,,None,,None,,None,,None
+31,$2116955,Luc Mbah a Moute,Minimum Salary,Houston Rockets,$2116955,,None,,None,,None,,None,,None
+21,$2857562,Chinanu Onuaku,Minimum Salary,Houston Rockets,$1312611,$1544951,None,,None,,None,,None,,None
+32,$947248,Gerald Green,Minimum Salary,Houston Rockets,$947248,,None,,None,,None,,None,,None
+22,$815615,Zhou Qi,MLE,Houston Rockets,$815615,$1378242,None,$1618520,None,$1752950,Team,,None,,None
+36,,Joe Johnson,Minimum Salary,Houston Rockets,$749905,,None,,None,,None,,None,,None
+30,,Brandan Wright,,Houston Rockets,,,None,,None,,None,,None,,None
+26,TBD,Markel Brown,Two-Way Contract,Houston Rockets,TBD,,None,,None,,None,,None,,None
+24,TBD,R.J. Hunter,Two-Way Contract,Houston Rockets,TBD,,None,,None,,None,,None,,None
+33,,Bobby Brown,,Houston Rockets,$1524305,,None,,None,,None,,None,,None
+23,$2085087,Troy Williams,,Houston Rockets,$1471382,$1544951,None,$1676735,None,,None,,None,,None
+21,$300000,Cameron Oliver,,Houston Rockets,$300000,,None,,None,,None,,None,,None
+23,$74159,Demetrius Jackson,,Houston Rockets,$74159,,None,,None,,None,,None,,None
+26,$53465,Isaiah Canaan,,Houston Rockets,$53465,,None,,None,,None,,None,,None
+25,$50000,Briante Weber,,Houston Rockets,$50000,,None,,None,,None,,None,,None
+23,$50000,Demetrius Jackson,,Houston Rockets,$50000,,None,,None,,None,,None,,None
+27,$25000,Chris Johnson,,Houston Rockets,$25000,,None,,None,,None,,None,,None
+33,,Bobby Brown,,Houston Rockets,,,None,,None,,None,,None,,None
+25,$84000000,Victor Oladipo,1st Round Pick,Indiana Pacers,$21000000,$21000000,None,$21000000,None,$21000000,None,,None,,None
+29,$14796348,Thaddeus Young,Bird Rights,Indiana Pacers,$14796348,$13764045,Player,,None,,None,,None,,None
+28,$12000000,Bojan Bogdanovic,Cap space,Indiana Pacers,$10500000,$10500000,None,,None,,None,,None,,None
+30,$12000000,Darren Collison,Cap space,Indiana Pacers,$10000000,$10000000,None,,None,,None,,None,,None
+33,$13769821,Al Jefferson,Cap Space,Indiana Pacers,$9769821,$10000000,None,,None,,None,,None,,None
+26,$7630000,Cory Joseph,Cap Space,Indiana Pacers,$7630000,$7945000,Player,,None,,None,,None,,None
+27,$4180000,Lance Stephenson,Cap space,Indiana Pacers,$4180000,$4360000,Team,,None,,None,,None,,None
+21,$5980204,Myles Turner,1st round pick,Indiana Pacers,$2569920,$3410284,None,,None,,None,,None,,None
+21,$5209800,Domantas Sabonis,1st Round pick,Indiana Pacers,$2550000,$2659800,Team,$3529555,Team,,None,,None,,None
+20,$4435920,T.J. Leaf,1st Round Pick,Indiana Pacers,$2028360,$2407560,None,$2813280,Team,$4326825,Team,,None,,None
+24,,Glenn Robinson,Minimum Salary,Indiana Pacers,$1524305,,None,,None,,None,,None,,None
+25,$1471382,Joe Young,Cap Space,Indiana Pacers,$1471382,$1600520,Team,,None,,None,,None,,None
+19,$1640000,Ike Anigbogu,Cap space,Indiana Pacers,$950000,$1378242,None,$1618520,None,,None,,None,,None
+24,$778668,Alex Poythress,Two-Way Converted,Indiana Pacers,$778668,$1544951,None,,None,,None,,None,,None
+30,,Trevor Booker,,Indiana Pacers,,,None,,None,,None,,None,,None
+22,TBD,Ben Moore,Two-Way Contract,Indiana Pacers,TBD,,None,,None,,None,,None,,None
+22,$50000,Edmond Sumner,Two-Way Contract,Indiana Pacers,TBD,,None,,None,,None,,None,,None
+32,$11227000,Monta Ellis,,Indiana Pacers,$2245400,$2245400,None,$2245400,None,$2245400,None,$2245400,None,,None
+38,$25000,Damien Wilkins,,Indiana Pacers,$2116955,,None,,None,,None,,None,,None
+26,$172552,Rakeem Christmas,,Indiana Pacers,$172552,,None,,None,,None,,None,,None
+24,$100000,Georges Niang,,Indiana Pacers,$100000,,None,,None,,None,,None,,None
+27,,Trey McKinney-Jones,,Indiana Pacers,$46080,,None,,None,,None,,None,,None
+29,$22642350,DeAndre Jordan,Bird Rights,Los Angeles Clippers,$22642350,$24119025,Player,,None,,None,,None,,None
+29,$64762737,Danilo Gallinari,Sign and Trade,Los Angeles Clippers,$20559599,$21587579,None,$22615559,None,,None,,None,,None
+25,$30800000,Tobias Harris,Bird Rights,Los Angeles Clippers,$16000000,$14800000,None,,None,,None,,None,,None
+25,$11825000,Austin Rivers,Cap Space,Los Angeles Clippers,$11825000,$12650000,Player,,None,,None,,None,,None
+27,$8808989,Avery Bradley,Bird Rights,Los Angeles Clippers,$8808989,,None,,None,,None,,None,,None
+29,$14000000,Boban Marjanovic,Cap Space,Los Angeles Clippers,$7000000,$7000000,None,,None,,None,,None,,None
+31,$23000000,Lou Williams,Cap Space,Los Angeles Clippers,$7000000,$8000000,None,$8000000,None,$1500000,None,,None,,None
+30,$6000000,Milos Teodosic,MLE,Los Angeles Clippers,$6000000,$6300000,Player,,None,,None,,None,,None
+30,$5881260,Wesley Johnson,Cap Space,Los Angeles Clippers,$5881260,$6134000,Player,,None,,None,,None,,None
+29,$5513514,Patrick Beverley,Bird Rights,Los Angeles Clippers,$5513514,$5027028,None,,None,,None,,None,,None
+23,$4554695,Sam Dekker,1st Round pick,Los Angeles Clippers,$1794600,$2760095,None,,None,,None,,None,,None
+24,$1471382,Montrezl Harrell,,Los Angeles Clippers,$1471382,,None,,None,,None,,None,,None
+23,$2193857,Sindarius Thornwell,MLE,Los Angeles Clippers,$815615,$1378242,None,$1618520,None,,None,,None,,None
+21,$2193857,Jawun Evans,MLE,Los Angeles Clippers,$815615,$1378242,None,$1618520,Team,,None,,None,,None
+28,,Sean Kilpatrick,10-Day Contract,Los Angeles Clippers,$86119,,None,,None,,None,,None,,None
+23,TBD,Tyrone Wallace,Two-Way Contract,Los Angeles Clippers,TBD,,None,,None,,None,,None,,None
+28,$50000,C.J. Williams,Two-Way Contract,Los Angeles Clippers,TBD,,None,,None,,None,,None,,None
+40,$1096080,Paul Pierce,,Los Angeles Clippers,$1096080,,None,,None,,None,,None,,None
+35,$1300000,Carlos Delfino,,Los Angeles Clippers,$650000,$650000,None,,None,,None,,None,,None
+31,$510921,Jordan Farmar,,Los Angeles Clippers,$510921,,None,,None,,None,,None,,None
+30,$600000,Miroslav Raduljica,,Los Angeles Clippers,$300000,$300000,None,,None,,None,,None,,None
+27,$50000,Jamil Wilson,,Los Angeles Clippers,$50000,,None,,None,,None,,None,,None
+29,$22642350,Brook Lopez,Bird Rights,Los Angeles Lakers,$22642350,,None,,None,,None,,None,,None
+25,$17745894,Kentavious Caldwell-Pope,Cap space,Los Angeles Lakers,$17745894,,None,,None,,None,,None,,None
+32,$54000000,Luol Deng,Cap Space,Los Angeles Lakers,$17190000,$18000000,None,$18810000,None,,None,,None,,None
+34,$7420912,Channing Frye,Cap Space,Los Angeles Lakers,$7420912,,None,,None,,None,,None,,None
+20,$13748520,Lonzo Ball,1st Round Pick,Los Angeles Lakers,$6286560,$7461960,None,$8719320,Team,$11003782,Team,,None,,None
+29,$6261395,Isaiah Thomas,,Los Angeles Lakers,$6261395,,None,,None,,None,,None,,None
+20,$11276520,Brandon Ingram,1st Round pick,Los Angeles Lakers,$5519400,$5757120,None,$7265485,Team,,None,,None,,None
+23,$4149242,Julius Randle,1st Round Pick,Los Angeles Lakers,$4149242,,None,,None,,None,,None,,None
+23,$1524305,Tyler Ennis,Minimum Salary,Los Angeles Lakers,$1524305,$1656092,None,,None,,None,,None,,None
+22,$3113400,Kyle Kuzma,1st Round Pick,Los Angeles Lakers,$1423560,$1689840,None,$1974600,Team,$3562178,Team,,None,,None
+23,$3049680,Josh Hart,1st Round Pick,Los Angeles Lakers,$1394520,$1655160,None,$1934160,Team,$3491159,Team,,None,,None
+20,$1312611,Ivica Zubac,Cap Space,Los Angeles Lakers,$1312611,$1544951,None,,None,,None,,None,,None
+20,$815615,Thomas Bryant,Minimum Salary,Los Angeles Lakers,$815615,$1378242,None,,None,,None,,None,,None
+26,,Derrick Williams,10-Day Contract,Los Angeles Lakers,$104059,,None,,None,,None,,None,,None
+27,,Travis Wear,10-Day Contract,Los Angeles Lakers,$74159,,None,,None,,None,,None,,None
+25,TBD,Gary Payton,Two-Way Contract,Los Angeles Lakers,TBD,,None,,None,,None,,None,,None
+32,$7579366,Corey Brewer,,Los Angeles Lakers,$7579366,,None,,None,,None,,None,,None
+33,,Andrew Bogut,,Los Angeles Lakers,$2328652,,None,,None,,None,,None,,None
+21,,Stephen Zimmerman,,Los Angeles Lakers,$1312611,,None,,None,,None,,None,,None
+25,$50000,Vander Blue,,Los Angeles Lakers,$50000,,None,,None,,None,,None,,None
+25,$50000,Briante Weber,,Los Angeles Lakers,$50000,,None,,None,,None,,None,,None
+23,$50000,V.J. Beachem,,Los Angeles Lakers,$50000,,None,,None,,None,,None,,None
+23,$46080,Nigel Hayes,,Los Angeles Lakers,$46080,,None,,None,,None,,None,,None
+25,,Vander Blue,,Los Angeles Lakers,,,None,,None,,None,,None,,None
+30,$113989729,Mike Conley,Cap Space,Memphis Grizzlies,$28530608,$30521115,None,$32511623,None,$34504132,Early Termination,,None,,None
+29,$72321773,Chandler Parsons,Cap Space,Memphis Grizzlies,$23112004,$24107258,None,$25102511,None,,None,,None,,None
+33,$46761375,Marc Gasol,Bird Rights,Memphis Grizzlies,$22642350,$24119025,None,$25595700,Player,,None,,None,,None
+27,$16400000,JaMychal Green,Bird Rights,Memphis Grizzlies,$8533333,$7866667,None,,None,,None,,None,,None
+25,$10660000,Ben McLemore,MLE,Memphis Grizzlies,$5200000,$5460000,None,,None,,None,,None,,None
+28,$3290000,Tyreke Evans,Bi-annual Exception,Memphis Grizzlies,$3290000,,None,,None,,None,,None,,None
+31,$2106407,Mario Chalmers,Minimum Salary,Memphis Grizzlies,$2106407,,None,,None,,None,,None,,None
+23,$3887604,Jarell Martin,1st Round pick,Memphis Grizzlies,$1471382,$2416222,None,,None,,None,,None,,None
+23,$1331160,Brice Johnson,1st Round pick,Memphis Grizzlies,$1331160,,None,,None,,None,,None,,None
+23,$2085087,Wayne Selden,,Memphis Grizzlies,$1312611,$1544951,None,,None,,None,,None,,None
+21,$2857562,Deyonta Davis,Cap Space,Memphis Grizzlies,$1312611,$1544951,None,,None,,None,,None,,None
+23,$1312611,Andrew Harrison,Cap Space,Memphis Grizzlies,$1312611,$1544951,None,,None,,None,,None,,None
+21,$2328242,Ivan Rabb,MLE,Memphis Grizzlies,$950000,$1378242,None,$1618520,Team,,None,,None,,None
+22,$2193857,Dillon Brooks,MLE,Memphis Grizzlies,$815615,$1378242,None,$1618520,None,,None,,None,,None
+23,,Xavier Rathan-Mayes,10-Day Contract,Memphis Grizzlies,$46080,,None,,None,,None,,None,,None
+25,TBD,Myke Henry,Two-Way Contract,Memphis Grizzlies,TBD,,None,,None,,None,,None,,None
+20,$50000,Kobi Simmons,Two-Way Contract,Memphis Grizzlies,TBD,,None,,None,,None,,None,,None
+30,$5179760,Brandan Wright,,Memphis Grizzlies,$5179760,,None,,None,,None,,None,,None
+21,$1874400,Wade Baldwin,,Memphis Grizzlies,$1874400,,None,,None,,None,,None,,None
+22,$2328242,Rade Zagorac,,Memphis Grizzlies,$950000,$1378242,None,,None,,None,,None,,None
+23,$50000,Vince Hunter,,Memphis Grizzlies,$50000,,None,,None,,None,,None,,None
+28,$49209769,Hassan Whiteside,Cap Space,Miami Heat,$23775506,$25434263,None,$27093018,Player,,None,,None,,None
+31,$35109625,Goran Dragic,Bird Rights,Miami Heat,$17000450,$18109175,None,$19217900,Player,,None,,None,,None
+31,$43955100,James Johnson,Cap space,Miami Heat,$13954000,$14651700,None,$15349400,None,,None,,None,,None
+26,$47300000,Dion Waiters,Cap space,Miami Heat,$11000000,$11550000,None,$12100000,None,$12650000,None,,None,,None
+26,$33412581,Kelly Olynyk,Cap space,Miami Heat,$10607169,$11137527,None,$11667885,None,$12198243,Player,,None,,None
+30,$6270000,Wayne Ellington,Cap Space,Miami Heat,$6270000,,None,,None,,None,,None,,None
+25,$25126630,Tyler Johnson,Cap Space,Miami Heat,$5881260,$19245370,None,$19245370,Player,,None,,None,,None
+21,$6153966,Justise Winslow,1st round pick,Miami Heat,$2705040,$3448926,None,,None,,None,,None,,None
+20,$5446200,Bam Adebayo,1st Round Pick,Miami Heat,$2490360,$2955840,None,$3454080,Team,$5115492,Team,,None,,None
+37,$2328652,Udonis Haslem,Minimum Salary,Miami Heat,$2328652,,None,,None,,None,,None,,None
+36,$2328652,Dwyane Wade,Minimum Salary,Miami Heat,$2328652,,None,,None,,None,,None,,None
+28,$987080,Luke Babbitt,Minimum Salary,Miami Heat,$1974159,,None,,None,,None,,None,,None
+24,$31671382,Josh Richardson,Minimum Salary,Miami Heat,$1471382,$9300000,None,$10100000,None,$10800000,None,$11600000,Player,,None
+23,$1471382,Jordan Mickey,Minimum Salary,Miami Heat,$1471382,$1600520,Team,,None,,None,,None,,None
+26,$1312611,Rodney McGruder,Minimum Salary,Miami Heat,$1312611,$1544951,None,,None,,None,,None,,None
+21,TBD,Derrick Jones,Two-Way Contract,Miami Heat,TBD,,None,,None,,None,,None,,None
+22,$50000,Derrick Walton,Two-Way Contract,Miami Heat,TBD,,None,,None,,None,,None,,None
+33,$52127110,Chris Bosh,,Miami Heat,$25289390,$26837720,None,,None,,None,,None,,None
+25,$2857562,A.J. Hammons,,Miami Heat,$1312611,$1544951,None,,None,,None,,None,,None
+24,$50000,Matt Williams,,Miami Heat,$50000,,None,,None,,None,,None,,None
+23,$100000000,Giannis Antetokounmpo,1st Round Pick,Milwaukee Bucks,$22471910,$24157303,None,$25842697,None,$27528090,None,,None,,None
+28,$29500000,Eric Bledsoe,Bird Rights,Milwaukee Bucks,$14500000,$15000000,None,,None,,None,,None,,None
+26,$27100000,Khris Middleton,Bird Rights,Milwaukee Bucks,$14100000,$13000000,None,$13000000,Player,,None,,None,,None
+27,$31732398,John Henson,1st Round Pick,Milwaukee Bucks,$11422536,$10577466,None,$9732396,None,,None,,None,,None
+26,$31821429,Tony Snell,Cap space,Milwaukee Bucks,$9821429,$10607143,None,$11392857,None,$12178571,Player,,None,,None
+27,$28822500,Matthew Dellavedova,Cap Space,Milwaukee Bucks,$9607500,$9607500,None,$9607500,None,,None,,None,,None
+22,$6782392,Jabari Parker,1st Round Pick,Milwaukee Bucks,$6782392,,None,,None,,None,,None,,None
+21,$5483880,Thon Maker,1st Round pick,Milwaukee Bucks,$2684160,$2799720,None,$3569643,Team,,None,,None,,None
+40,$2328652,Jason Terry,Minimum Salary,Milwaukee Bucks,$2328652,,None,,None,,None,,None,,None
+22,$4669320,D.J. Wilson,1st Round Pick,Milwaukee Bucks,$2135040,$2534280,None,$2961120,Team,$4548280,Team,,None,,None
+28,$1709538,Tyler Zeller,,Milwaukee Bucks,$1709538,$1933941,None,,None,,None,,None,,None
+25,$1312611,Malcolm Brogdon,Cap Space,Milwaukee Bucks,$1312611,$1544951,None,,None,,None,,None,,None
+23,$2193857,Sterling Brown,MLE,Milwaukee Bucks,$815615,$1378242,None,$1618520,None,,None,,None,,None
+28,,Brandon Jennings,10-Day Contract,Milwaukee Bucks,$119010,,None,,None,,None,,None,,None
+25,TBD,Xavier Munford,Two-Way Contract,Milwaukee Bucks,TBD,,None,,None,,None,,None,,None
+25,TBD,Marshall Plumlee,Two-Way Contract,Milwaukee Bucks,TBD,,None,,None,,None,,None,,None
+25,,Shabazz Muhammad,,Milwaukee Bucks,,,None,,None,,None,,None,,None
+32,$21000000,Mirza Teletovic,,Milwaukee Bucks,$10500000,$10500000,None,,None,,None,,None,,None
+29,$6021175,Spencer Hawes,,Milwaukee Bucks,$6021175,,None,,None,,None,,None,,None
+29,$9327735,Larry Sanders,,Milwaukee Bucks,$1865547,$1865547,None,$1865547,None,$1865547,None,$1865547,None,,None
+29,,DeAndre Liggins,,Milwaukee Bucks,$1577230,,None,,None,,None,,None,,None
+28,$789725,Sean Kilpatrick,,Milwaukee Bucks,$789725,,None,,None,,None,,None,,None
+25,$50000,Gary Payton,,Milwaukee Bucks,$50000,,None,,None,,None,,None,,None
+22,$50000,Jalen Moore,,Milwaukee Bucks,$50000,,None,,None,,None,,None,,None
+24,$22248,Joel Bolomboy,,Milwaukee Bucks,$22248,,None,,None,,None,,None,,None
+28,$39746849,Jimmy Butler,Bird Rights,Minnesota Timberwolves,$19301070,$20445779,None,$19841627,Player,,None,,None,,None
+29,$38000000,Jeff Teague,Cap space,Minnesota Timberwolves,$19000000,$19000000,None,$19000000,Player,,None,,None,,None
+28,$62800000,Gorgui Dieng,1st Round Pick,Minnesota Timberwolves,$14112360,$15170787,None,$16229213,None,$17287640,None,,None,,None
+32,$28000000,Taj Gibson,Cap space,Minnesota Timberwolves,$14000000,$14000000,None,,None,,None,,None,,None
+23,$154024322,Andrew Wiggins,1st Round Pick,Minnesota Timberwolves,$7574322,$25250000,None,$27270000,None,$29290000,None,$31310000,None,$33330000,None
+29,$9356021,Cole Aldrich,Cap Space,Minnesota Timberwolves,$7300000,$6956021,None,,None,,None,,None,,None
+22,$6216840,Karl-Anthony Towns,1st round pick,Minnesota Timberwolves,$6216840,$7839435,Team,,None,,None,,None,,None
+37,$4328000,Jamal Crawford,Room Exception,Minnesota Timberwolves,$4328000,$4544400,Player,,None,,None,,None,,None
+29,$3949999,Nemanja Bjelica,MLE,Minnesota Timberwolves,$3949999,,None,,None,,None,,None,,None
+20,$4915080,Justin Patton,1st Round Pick,Minnesota Timberwolves,$2247480,$2667600,None,$3117240,Team,$4781846,Team,,None,,None
+33,$2116955,Aaron Brooks,,Minnesota Timberwolves,$2116955,,None,,None,,None,,None,,None
+21,$3915435,Tyus Jones,1st Round pick,Minnesota Timberwolves,$1471382,$2444053,None,,None,,None,,None,,None
+23,$1312611,Marcus Georges-Hunt,Minimum Salary,Minnesota Timberwolves,$1312611,,None,,None,,None,,None,,None
+24,TBD,Amile Jefferson,Two-Way Contract,Minnesota Timberwolves,TBD,,None,,None,,None,,None,,None
+29,,Derrick Rose,,Minnesota Timberwolves,,,None,,None,,None,,None,,None
+25,$50000,Anthony Brown,Two-Way Contract,Minnesota Timberwolves,TBD,,None,,None,,None,,None,,None
+32,$11600000,Nikola Pekovic,,Minnesota Timberwolves,$11600000,,None,,None,,None,,None,,None
+25,$1577230,Shabazz Muhammad,,Minnesota Timberwolves,$1577230,$1795015,Player,,None,,None,,None,,None
+35,$2720610,Kevin Martin,,Minnesota Timberwolves,$1360305,$1360305,None,,None,,None,,None,,None
+27,$104080000,Jrue Holiday,Bird Rights,New Orleans Pelicans,$25686667,$26131111,None,$26131111,None,$26131111,None,$27020000,Player,,None
+25,$76302788,Anthony Davis,1st Round Pick,New Orleans Pelicans,$23775506,$25434263,None,$27093019,None,$28751775,Player,,None,,None
+27,$18063850,DeMarcus Cousins,1st Round Pick,New Orleans Pelicans,$18063850,,None,,None,,None,,None,,None
+27,$25000000,Nikola Mirotic,Cap space,New Orleans Pelicans,$12500000,$12500000,None,,None,,None,,None,,None
+26,$38248244,Solomon Hill,Cap Space,New Orleans Pelicans,$12236535,$12752928,None,$13258781,None,,None,,None,,None
+29,$25918637,E'Twaun Moore,Cap Space,New Orleans Pelicans,$8445024,$8808685,None,$8664928,None,,None,,None,,None
+29,$10247192,Alexis Ajinca,Early Bird Rights,New Orleans Pelicans,$4961798,$5285394,None,,None,,None,,None,,None
+32,$3300000,Rajon Rondo,MLE,New Orleans Pelicans,$3300000,,None,,None,,None,,None,,None
+27,$2100000,Darius Miller,MLE,New Orleans Pelicans,$2100000,$2205000,None,,None,,None,,None,,None
+27,$1577230,Ian Clark,Minimum Salary,New Orleans Pelicans,$1577230,,None,,None,,None,,None,,None
+21,$1812611,Cheick Diallo,Minimum Salary,New Orleans Pelicans,$1312611,$1544951,None,,None,,None,,None,,None
+19,$2699857,Frank Jackson,MLE,New Orleans Pelicans,$815615,$1378242,None,$1618520,None,,None,,None,,None
+35,$239204,Emeka Okafor,10-Day Contract,New Orleans Pelicans,$239204,,None,,None,,None,,None,,None
+25,,Walt Lemon, Jr.,10-Day Contract,New Orleans Pelicans,$92160,,None,,None,,None,,None,,None
+29,,DeAndre Liggins,,New Orleans Pelicans,,,None,,None,,None,,None,,None
+23,TBD,Charles Cooke,Two-Way Contract,New Orleans Pelicans,TBD,,None,,None,,None,,None,,None
+35,,Emeka Okafor,,New Orleans Pelicans,,,None,,None,,None,,None,,None
+32,,Josh Smith,,New Orleans Pelicans,$2183934,,None,,None,,None,,None,,None
+21,$1889040,Rashad Vaughn,,New Orleans Pelicans,$1889040,,None,,None,,None,,None,,None
+29,$250000,Jordan Crawford,,New Orleans Pelicans,$250000,,None,,None,,None,,None,,None
+29,$172238,DeAndre Liggins,,New Orleans Pelicans,$172238,,None,,None,,None,,None,,None
+25,$25000,Axel Toupane,,New Orleans Pelicans,$25000,,None,,None,,None,,None,,None
+24,$25000,Quinn Cook,,New Orleans Pelicans,$25000,,None,,None,,None,,None,,None
+27,,Mike James,,New Orleans Pelicans,,,None,,None,,None,,None,,None
+25,$20566802,Enes Kanter,Bird Rights,New York Knicks,$20566802,$18622514,Player,,None,,None,,None,,None
+33,$55590000,Joakim Noah,Cap Space,New York Knicks,$17765000,$18530000,None,$19295000,None,,None,,None,,None
+25,$51975000,Tim Hardaway,Cap space,New York Knicks,$16500000,$17325000,None,$18150000,None,$18975000,Player,,None,,None
+32,$36761340,Courtney Lee,Cap Space,New York Knicks,$11747890,$12253780,None,$12759670,None,,None,,None,,None
+29,$13774975,Lance Thomas,Cap Space,New York Knicks,$6655325,$7119650,None,$7583975,None,,None,,None,,None
+22,$10200654,Kristaps Porzingis,1st round pick,New York Knicks,$4503600,$5697054,None,,None,,None,,None,,None
+24,$4328000,Ron Baker,Room Exception,New York Knicks,$4328000,$4544400,Player,,None,,None,,None,,None
+27,$4087500,Kyle O'Quinn,Bird Rights,New York Knicks,$4087500,$4256250,Player,,None,,None,,None,,None
+19,$7656840,Frank Ntilikina,1st Round Pick,New York Knicks,$3501120,$4155720,None,$4855800,Team,$6176578,Team,,None,,None
+22,$7675960,Emmanuel Mudiay,1st round pick,New York Knicks,$3381480,$4294480,None,,None,,None,,None,,None
+34,$2328652,Jarrett Jack,Minimum Salary,New York Knicks,$2328652,,None,,None,,None,,None,,None
+29,$2116955,Michael Beasley,Minimum Salary,New York Knicks,$2116955,,None,,None,,None,,None,,None
+23,$2478242,Damyean Dotson,Minimum Salary,New York Knicks,$1100000,$1378242,None,$1618520,None,,None,,None,,None
+25,$784160,Trey Burke,Minimum Salary,New York Knicks,$784160,$1795015,None,,None,,None,,None,,None
+23,,Troy Williams,10-Day Contract,New York Knicks,$148318,,None,,None,,None,,None,,None
+22,$50000,Luke Kornet,Two-Way Contract,New York Knicks,TBD,,None,,None,,None,,None,,None
+23,$49153,Isaiah Hicks,Two-Way Contract,New York Knicks,TBD,,None,,None,,None,,None,,None
+28,$3025035,Mindaugas Kuzminskas,,New York Knicks,$3025035,,None,,None,,None,,None,,None
+31,$2328652,Ramon Sessions,,New York Knicks,$2328652,,None,,None,,None,,None,,None
+24,$1524305,Johnny O'Bryant,,New York Knicks,$1524305,,None,,None,,None,,None,,None
+25,,Chasson Randle,,New York Knicks,$1312611,,None,,None,,None,,None,,None
+25,$100000,Marshall Plumlee,,New York Knicks,$100000,,None,,None,,None,,None,,None
+23,$50000,Nigel Hayes,,New York Knicks,$50000,,None,,None,,None,,None,,None
+29,$186912608,Russell Westbrook,Bird Rights,Oklahoma City Thunder,$28530608,$35350000,None,$38178000,None,$41006000,None,$43848000,None,$46662000,Player
+33,$26243760,Carmelo Anthony,Bird Rights,Oklahoma City Thunder,$26243760,$27928140,Early Termination,,None,,None,,None,,None
+24,$100000000,Steven Adams,1st Round Pick,Oklahoma City Thunder,$22471910,$24157303,None,$25842697,None,$27528090,None,,None,,None
+27,$19508958,Paul George,1st Round Pick,Oklahoma City Thunder,$19508958,$20703384,Player,,None,,None,,None,,None
+26,$30000000,Andre Roberson,Bird Rights,Oklahoma City Thunder,$9259259,$10000000,None,$10740741,None,,None,,None,,None
+24,$11180236,Alex Abrines,Cap Space,Oklahoma City Thunder,$5725000,$5455236,None,,None,,None,,None,,None
+28,$10643600,Patrick Patterson,MLE,Oklahoma City Thunder,$5192000,$5451600,None,$5711200,Player,,None,,None,,None
+29,$9662500,Kyle Singler,Bird Rights,Oklahoma City Thunder,$4666500,$4996000,None,$5333500,Team,,None,,None,,None
+33,$2328652,Raymond Felton,Minimum Salary,Oklahoma City Thunder,$2328652,,None,,None,,None,,None,,None
+37,$2328652,Nick Collison,Minimum Salary,Oklahoma City Thunder,$2328652,,None,,None,,None,,None,,None
+19,$3903840,Terrance Ferguson,1st Round Pick,Oklahoma City Thunder,$1785000,$2118840,None,$2475840,Team,$3944013,Team,,None,,None
+24,$1524305,Jerami Grant,Draft Pick,Oklahoma City Thunder,$1524305,,None,,None,,None,,None,,None
+26,$1471382,Josh Huestis,,Oklahoma City Thunder,$1471382,,None,,None,,None,,None,,None
+22,$2193857,Dakari Johnson,,Oklahoma City Thunder,$815615,$1378242,None,,None,,None,,None,,None
+32,,Corey Brewer,,Oklahoma City Thunder,,,None,,None,,None,,None,,None
+21,$50000,PJ Dozier,Two-Way Contract,Oklahoma City Thunder,TBD,,None,,None,,None,,None,,None
+22,$50000,Daniel Hamilton,Two-Way Contract,Oklahoma City Thunder,TBD,,None,,None,,None,,None,,None
+34,$2442455,Ronnie Price,,Oklahoma City Thunder,$2442455,,None,,None,,None,,None,,None
+25,$34000000,Bismack Biyombo,Cap Space,Orlando Magic,$17000000,$17000000,None,$17000000,Player,,None,,None,,None
+25,$51000000,Evan Fournier,Cap Space,Orlando Magic,$17000000,$17000000,None,$17000000,None,$17000000,Player,,None,,None
+27,$25000000,Nikola Vucevic,Bird Rights,Orlando Magic,$12250000,$12750000,None,,None,,None,,None,,None
+27,$21000000,Terrence Ross,Rookie scale extension,Orlando Magic,$10500000,$10500000,None,,None,,None,,None,,None
+30,$21750000,D.J. Augustin,Cap Space,Orlando Magic,$7250000,$7250000,None,$7250000,None,,None,,None,,None
+28,$13300000,Jonathon Simmons,Cap space,Orlando Magic,$6300000,$6000000,None,$5700000,None,,None,,None,,None
+27,$6000000,Shelvin Mack,Cap space,Orlando Magic,$6000000,$6000000,None,,None,,None,,None,,None
+22,$5504420,Aaron Gordon,1st Round Pick,Orlando Magic,$5504420,,None,,None,,None,,None,,None
+20,$9155400,Jonathan Isaac,1st Round Pick,Orlando Magic,$4186320,$4969080,None,$5806440,Team,$7362566,Team,,None,,None
+23,$4078320,Mario Hezonja,1st round pick,Orlando Magic,$4078320,,None,,None,,None,,None,,None
+32,$2328652,Arron Afflalo,Minimum Salary,Orlando Magic,$2328652,,None,,None,,None,,None,,None
+30,$2116955,Marreese Speights,Minimum Salary,Orlando Magic,$2116955,,None,,None,,None,,None,,None
+23,$2428242,Wesley Iwundu,,Orlando Magic,$1050000,$1378242,None,$1618520,Team,,None,,None,,None
+25,$815615,Khem Birch,Minimum Salary,Orlando Magic,$815615,$1378242,None,,None,,None,,None,,None
+24,,Rodney Purvis,10-Day Contract,Orlando Magic,$46080,,None,,None,,None,,None,,None
+25,$50000,Jamel Artis,Two-Way Contract,Orlando Magic,TBD,,None,,None,,None,,None,,None
+33,$1000000,C.J. Watson,,Orlando Magic,$333334,$333333,None,$333333,None,,None,,None,,None
+21,,Rashad Vaughn,,Orlando Magic,$166258,,None,,None,,None,,None,,None
+27,$50000,Adreian Payne,,Orlando Magic,,,None,,None,,None,,None,,None
+33,$23000000,J.J. Redick,Cap space,Philadelphia 76ers,$23000000,,None,,None,,None,,None,,None
+27,$63577230,Robert Covington,Cap Space,Philadelphia 76ers,$16698103,$10464092,None,$11301219,None,$12138345,None,$12975471,None,,None
+30,$11000000,Amir Johnson,Cap space,Philadelphia 76ers,$11000000,,None,,None,,None,,None,,None
+29,$17575916,Jerryd Bayless,Cap Space,Philadelphia 76ers,$9000000,$8575916,None,,None,,None,,None,,None
+19,$15366120,Markelle Fultz,1st Round Pick,Philadelphia 76ers,$7026240,$8339880,None,$9745200,Team,$12288697,Team,,None,,None
+21,$12603360,Ben Simmons,1st Round pick,Philadelphia 76ers,$6168840,$6434520,None,$8113930,Team,,None,,None,,None
+23,$6100266,Joel Embiid,1st Round Pick,Philadelphia 76ers,$6100266,$25250000,None,$27270000,None,$29290000,None,$31310000,None,$33330000,None
+23,$4949400,Dario Saric,1st Round pick,Philadelphia 76ers,$2422560,$2526840,None,$3481986,Team,,None,,None,,None
+24,$4095488,Justin Anderson,1st Round pick,Philadelphia 76ers,$1579440,$2516048,None,,None,,None,,None,,None
+25,$1471382,T.J. McConnell,Minimum Salary,Philadelphia 76ers,$1471382,$1600520,Team,,None,,None,,None,,None
+24,$1471382,Richaun Holmes,Cap Space,Philadelphia 76ers,$1471382,$1600520,Team,,None,,None,,None,,None
+20,$3205920,Furkan Korkmaz,1st Round Pick,Philadelphia 76ers,$1465920,$1740000,None,$2033160,Team,$3665787,Team,,None,,None
+22,$2931551,Timothe Luwawu-Cabarrot,1st Round pick,Philadelphia 76ers,$1386600,$1544951,None,$2529684,Team,,None,,None,,None
+30,,Ersan Ilyasova,,Philadelphia 76ers,,,None,,None,,None,,None,,None
+23,TBD,Demetrius Jackson,Two-Way Contract,Philadelphia 76ers,TBD,,None,,None,,None,,None,,None
+31,,Marco Belinelli,,Philadelphia 76ers,,,None,,None,,None,,None,,None
+22,TBD,James Young,Two-Way Contract,Philadelphia 76ers,TBD,,None,,None,,None,,None,,None
+30,$9125000,Trevor Booker,,Philadelphia 76ers,$9125000,,None,,None,,None,,None,,None
+30,$1000000,Gerald Henderson,,Philadelphia 76ers,$1000000,,None,,None,,None,,None,,None
+28,$500000,Tibor Pleiss,,Philadelphia 76ers,$500000,,None,,None,,None,,None,,None
+25,$50000,James Michael McAdoo,,Philadelphia 76ers,$50000,,None,,None,,None,,None,,None
+28,$50000,Jacob Pullen,,Philadelphia 76ers,$50000,,None,,None,,None,,None,,None
+26,$43893750,Brandon Knight,,Phoenix Suns,$13618750,$14631250,None,$15643750,None,,None,,None,,None
+35,$26585000,Tyson Chandler,Cap Space,Phoenix Suns,$13000000,$13585000,None,,None,,None,,None,,None
+32,$19530000,Jared Dudley,Cap Space,Phoenix Suns,$10000000,$9530000,None,,None,,None,,None,,None
+25,$6000000,Alan Williams,Cap space,Phoenix Suns,$6000000,$5520000,None,$5520000,None,,None,,None,,None
+21,$11131560,Josh Jackson,1st Round Pick,Phoenix Suns,$5090040,$6041520,None,$7059480,Team,$8930242,Team,,None,,None
+20,$9130080,Dragan Bender,1st Round pick,Phoenix Suns,$4468800,$4661280,None,$5896519,Team,,None,,None,,None
+24,$4187599,Alex Len,1st Round Pick,Phoenix Suns,$4187599,,None,,None,,None,,None,,None
+26,$6667060,Troy Daniels,Cap Space,Phoenix Suns,$3408520,$3258540,None,,None,,None,,None,,None
+24,$3332340,Elfrid Payton,1st Round Pick,Phoenix Suns,$3332340,,None,,None,,None,,None,,None
+24,$50152931,T.J. Warren,1st Round Pick,Phoenix Suns,$3152931,$11750000,None,$10810000,None,$11750000,None,$12690000,None,,None
+20,$6279960,Marquese Chriss,1st Rd pick,Phoenix Suns,$3073800,$3206160,None,$4078236,Team,,None,,None,,None
+21,$5633725,Devin Booker,1st round pick,Phoenix Suns,$2319360,$3314365,None,,None,,None,,None,,None
+22,$1312611,Tyler Ulis,Cap Space,Phoenix Suns,$1312611,$1544951,None,$1676735,Team,,None,,None,,None
+22,$1504736,Davon Reed,Minimum Salary,Phoenix Suns,$815615,$1378242,None,$1618520,None,,None,,None,,None
+24,,Shaquille Harrison,10-Day Contract,Phoenix Suns,$92160,,None,,None,,None,,None,,None
+24,TBD,Danuel House,Two-Way Contract,Phoenix Suns,TBD,,None,,None,,None,,None,,None
+22,$50000,Alec Peters,Two-Way Contract,Phoenix Suns,TBD,,None,,None,,None,,None,,None
+27,$17884176,Greg Monroe,,Phoenix Suns,$17884176,,None,,None,,None,,None,,None
+21,,Derrick Jones,,Phoenix Suns,$1312611,,None,,None,,None,,None,,None
+26,$1069308,Isaiah Canaan,,Phoenix Suns,$1069308,,None,,None,,None,,None,,None
+35,$500000,Leandro Barbosa,,Phoenix Suns,$500000,,None,,None,,None,,None,,None
+24,$92160,Josh Gray,,Phoenix Suns,$92160,,None,,None,,None,,None,,None
+27,$87552,Mike James,,Phoenix Suns,$87552,,None,,None,,None,,None,,None
+27,$115560020,Damian Lillard,1st Round Pick,Portland Trail Blazers,$26153057,$27977689,None,$29802321,None,$31626953,None,,None,,None
+26,$106633450,C.J. McCollum,1st Round Pick,Portland Trail Blazers,$23962573,$25759766,None,$27556959,None,$29354152,None,,None,,None
+29,$53606557,Evan Turner,Cap Space,Portland Trail Blazers,$17131148,$17868852,None,$18606557,None,,None,,None,,None
+24,$32511235,Maurice Harkless,Cap Space,Portland Trail Blazers,$10162922,$10837079,None,$11511234,None,,None,,None,,None
+26,$31786516,Meyers Leonard,Cap Space,Portland Trail Blazers,$9904495,$10595506,None,$11286515,None,,None,,None,,None
+27,$14276140,Al-Farouq Aminu,Cap Space,Portland Trail Blazers,$7319035,$6957105,None,,None,,None,,None,,None
+28,$6352531,Ed Davis,Cap Space,Portland Trail Blazers,$6352531,,None,,None,,None,,None,,None
+20,$6686160,Zach Collins,1st Round Pick,Portland Trail Blazers,$3057240,$3628920,None,$4240200,Team,$5406255,Team,,None,,None
+23,$2947305,Jusuf Nurkic,1st Round Pick,Portland Trail Blazers,$2947305,,None,,None,,None,,None,,None
+26,$2361360,Shabazz Napier,1st Round Pick,Portland Trail Blazers,$2361360,,None,,None,,None,,None,,None
+25,$1471382,Pat Connaughton,Minimum Salary,Portland Trail Blazers,$1471382,,None,,None,,None,,None,,None
+20,$3205920,Caleb Swanigan,1st Round Pick,Portland Trail Blazers,$1465920,$1740000,None,$2033160,Team,$3665787,Team,,None,,None
+24,$1312611,Jake Layman,Cap Space,Portland Trail Blazers,$1312611,$1544951,None,,None,,None,,None,,None
+20,,Georgios Papagiannis,10-Day Contract,Portland Trail Blazers,$74159,,None,,None,,None,,None,,None
+21,TBD,Wade Baldwin,Two-Way Contract,Portland Trail Blazers,TBD,,None,,None,,None,,None,,None
+21,,Wade Baldwin,,Portland Trail Blazers,,,None,,None,,None,,None,,None
+27,$50000,C.J. Wilcox,Two-Way Contract,Portland Trail Blazers,TBD,,None,,None,,None,,None,,None
+28,$19911003,Andrew Nicholson,,Portland Trail Blazers,$2844429,$2844429,None,$2844429,None,$2844429,None,$2844429,None,$2844429,None
+35,$7653380,Anderson Varejao,,Portland Trail Blazers,$1913345,$1913345,None,$1913345,None,$1913345,None,,None,,None
+28,$1000000,Festus Ezeli,,Portland Trail Blazers,$333334,$333333,None,$333333,None,,None,,None,,None
+32,,Brandon Rush,,Portland Trail Blazers,$119602,,None,,None,,None,,None,,None
+36,$24000000,Zach Randolph,Cap space,Sacramento Kings,$12307692,$11692308,None,,None,,None,,None,,None
+27,$10337079,Iman Shumpert,Bird Rights,Sacramento Kings,$10337079,$11011234,Player,,None,,None,,None,,None
+25,$27000000,Bogdan Bogdanovic,Cap space,Sacramento Kings,$9470614,$9000000,None,$8529386,None,,None,,None,,None
+29,$8393000,Kosta Koufos,Cap Space,Sacramento Kings,$8393000,$8739500,Player,,None,,None,,None,,None
+41,$8000000,Vince Carter,Cap space,Sacramento Kings,$8000000,,None,,None,,None,,None,,None
+31,$8000000,Garrett Temple,Cap Space,Sacramento Kings,$8000000,$8000000,Player,,None,,None,,None,,None
+20,$10017120,De'Aaron Fox,1st Round Pick,Sacramento Kings,$4609200,$5407920,None,$6392760,Team,$8099627,Team,,None,,None
+24,$8401035,Willie Cauley-Stein,1st round pick,Sacramento Kings,$3704160,$4696875,None,,None,,None,,None,,None
+24,$7509240,Buddy Hield,1st Round pick,Sacramento Kings,$3675480,$3833760,None,$4861208,Team,,None,,None,,None
+22,$2451225,Bruno Caboclo,1st Round Pick,Sacramento Kings,$2451225,,None,,None,,None,,None,,None
+22,$5173440,Justin Jackson,1st Round Pick,Sacramento Kings,$2365560,$2807880,None,$3280920,Team,$5029650,Team,,None,,None
+19,$4066440,Harry Giles,1st Round Pick,Sacramento Kings,$1859400,$2207040,None,$2578800,Team,$3976510,Team,,None,,None
+21,$2857562,Skal Labissiere,1st Round pick,Sacramento Kings,$1312611,$1544951,None,$2338847,Team,,None,,None,,None
+23,$2562627,Frank Mason,,Sacramento Kings,$1184385,$1378242,None,$1618520,None,,None,,None,,None
+24,$50000,JaKarr Sampson,Two-Way Contract,Sacramento Kings,TBD,,None,,None,,None,,None,,None
+26,$50000,Jack Cooley,Two-Way Contract,Sacramento Kings,TBD,,None,,None,,None,,None,,None
+36,$9505000,Joe Johnson,,Sacramento Kings,$9505000,,None,,None,,None,,None,,None
+20,$4701840,Georgios Papagiannis,,Sacramento Kings,$2301360,$2400480,None,$3430288,Team,,None,,None,,None
+38,$6400625,Matt Barnes,,Sacramento Kings,$2133542,$2133542,None,$2133541,None,,None,,None,,None
+32,$2000000,Anthony Tolliver,,Sacramento Kings,$2000000,,None,,None,,None,,None,,None
+32,$1500000,Arron Afflalo,,Sacramento Kings,$1500000,,None,,None,,None,,None,,None
+37,$1034440,Caron Butler,,Sacramento Kings,$517220,$517220,None,,None,,None,,None,,None
+32,$69808025,LaMarcus Aldridge,Cap Space,San Antonio Spurs,$21461010,$22347015,None,$26000000,None,,None,,None,,None
+26,$38967814,Kawhi Leonard,Bird Rights,San Antonio Spurs,$18868625,$20099189,None,$21329752,Player,,None,,None,,None
+37,$38700000,Pau Gasol,,San Antonio Spurs,$16000000,$16000000,None,$16000000,None,,None,,None,,None
+35,$15453126,Tony Parker,Bird Rights,San Antonio Spurs,$15453126,,None,,None,,None,,None,,None
+29,$48000000,Patty Mills,Bird Rights,San Antonio Spurs,$10714286,$11571429,None,$12428571,None,$13285714,None,,None,,None
+30,$10000000,Danny Green,Bird Rights,San Antonio Spurs,$10000000,$10000000,Player,,None,,None,,None,,None
+31,$8406000,Rudy Gay,MLE,San Antonio Spurs,$8406000,$8826300,Player,,None,,None,,None,,None
+40,$5000000,Manu Ginobili,,San Antonio Spurs,$2500000,$2500000,None,,None,,None,,None,,None
+24,$2151704,Kyle Anderson,1st Round Pick,San Antonio Spurs,$2151704,,None,,None,,None,,None,,None
+26,$1524305,Joffrey Lauvergne,,San Antonio Spurs,$1524305,$1656092,Player,,None,,None,,None,,None
+23,$3071760,Derrick White,1st Round Pick,San Antonio Spurs,$1404600,$1667160,None,$1948080,Team,$3516284,Team,,None,,None
+25,$1312611,Davis Bertans,Minimum Salary,San Antonio Spurs,$1312611,,None,,None,,None,,None,,None
+21,$2857562,Dejounte Murray,1st Round pick,San Antonio Spurs,$1312611,$1544951,None,$2321735,Team,,None,,None,,None
+24,$1312611,Bryn Forbes,Minimum Salary,San Antonio Spurs,$1312611,,None,,None,,None,,None,,None
+26,$815615,Brandon Paul,Minimum Salary,San Antonio Spurs,$815615,$1378242,None,,None,,None,,None,,None
+24,$50000,Darrun Hilliard,Two-Way Contract,San Antonio Spurs,TBD,,None,,None,,None,,None,,None
+24,$50000,Matt Costello,Two-Way Contract,San Antonio Spurs,TBD,,None,,None,,None,,None,,None
+41,$3762500,Tim Duncan,,San Antonio Spurs,$1881250,$1881250,None,,None,,None,,None,,None
+24,$1035200,Livio Jean-Charles,,San Antonio Spurs,$1035200,,None,,None,,None,,None,,None
+31,$93000000,Kyle Lowry,Bird Rights,Toronto Raptors,$28703704,$31000000,None,$33296296,None,,None,,None,,None
+28,$83219925,DeMar DeRozan,Cap Space,Toronto Raptors,$27739975,$27739975,None,$27739975,None,$27739975,Player,,None,,None
+28,$65000000,Serge Ibaka,Cap space,Toronto Raptors,$20061729,$21666667,None,$23271604,None,,None,,None,,None
+25,$32000001,Jonas Valanciunas,1st Round Pick,Toronto Raptors,$15460675,$16539326,None,$17617977,Player,,None,,None,,None
+30,$16269842,C.J. Miles,MLE,Toronto Raptors,$7936509,$8333333,None,$8730158,Player,,None,,None,,None
+25,$2947305,Lucas Nogueira,1st Round Pick,Toronto Raptors,$2947305,,None,,None,,None,,None,,None
+22,$5772960,Jakob Poeltl,1st Round pick,Toronto Raptors,$2825640,$2947320,None,$3754886,Team,,None,,None,,None
+20,$3597960,OG Anunoby,1st Round Pick,Toronto Raptors,$1645200,$1952760,None,$2281800,Team,$3872215,Team,,None,,None
+25,$4182098,Delon Wright,1st Round pick,Toronto Raptors,$1645200,$2536898,None,,None,,None,,None,,None
+22,$3073920,Malachi Richardson,1st Round pick,Toronto Raptors,$1504560,$1569360,None,$2581597,Team,,None,,None,,None
+24,$31821110,Norman Powell,Cap Space,Toronto Raptors,$1471382,$9367200,None,$10116576,None,$10865952,None,$11615328,Player,,None
+24,$2857562,Pascal Siakam,1st Round pick,Toronto Raptors,$1312611,$1544951,None,$2351839,Team,,None,,None,,None
+24,,Fred VanVleet,Minimum Salary,Toronto Raptors,$1312611,,None,,None,,None,,None,,None
+25,$815615,Alfonzo McKinnie,Minimum Salary,Toronto Raptors,$815615,$1378242,None,,None,,None,,None,,None
+23,,Nigel Hayes,10-Day Contract,Toronto Raptors,$46080,,None,,None,,None,,None,,None
+25,$50000,Malcolm Miller,Two-Way Contract,Toronto Raptors,TBD,,None,,None,,None,,None,,None
+27,$50000,Lorenzo Brown,Two-Way Contract,Toronto Raptors,TBD,,None,,None,,None,,None,,None
+27,$3000000,Justin Hamilton,,Toronto Raptors,$1000000,$1000000,None,$1000000,None,,None,,None,,None
+25,$100000,K.J. McDaniels,,Toronto Raptors,$100000,,None,,None,,None,,None,,None
+25,$97000000,Rudy Gobert,1st Round Pick,Utah Jazz,$21974719,$23491573,None,$25008427,None,$26525281,None,,None,,None
+27,$29250000,Ricky Rubio,1st Round Pick,Utah Jazz,$14275000,$14975000,None,,None,,None,,None,,None
+30,$50000002,Joe Ingles,Bird Rights,Utah Jazz,$14136364,$13045455,None,$11954546,None,$10863637,None,,None,,None
+26,$12000000,Derrick Favors,1st Round Pick,Utah Jazz,$12000000,,None,,None,,None,,None,,None
+26,$22382021,Alec Burks,1st Round Pick,Utah Jazz,$10845506,$11536515,None,,None,,None,,None,,None
+27,$21917475,Jae Crowder,Bird Rights,Utah Jazz,$6796117,$7305825,None,$7815533,None,,None,,None,,None
+33,$5250000,Thabo Sefolosha,Cap space,Utah Jazz,$5250000,$5250000,None,,None,,None,,None,,None
+22,$4992385,Dante Exum,1st Round Pick,Utah Jazz,$4992385,,None,,None,,None,,None,,None
+31,$4000000,Jonas Jerebko,Cap space,Utah Jazz,$4000000,$4200000,None,,None,,None,,None,,None
+30,$3200000,Ekpe Udoh,Room Exception,Utah Jazz,$3200000,$3360000,None,,None,,None,,None,,None
+21,$5732760,Donovan Mitchell,1st Round Pick,Utah Jazz,$2621280,$3111480,None,$3635760,Team,$5195501,Team,,None,,None
+25,$1471382,Raul Neto,,Utah Jazz,$1471382,,None,,None,,None,,None,,None
+20,$3094440,Tony Bradley,1st Round Pick,Utah Jazz,$1414920,$1679520,None,$1962360,Team,$3542060,Team,,None,,None
+24,$815615,Royce O'Neale,Cap space,Utah Jazz,$815615,$1378242,None,$1618520,None,,None,,None,,None
+24,TBD,Georges Niang,Two-Way Contract,Utah Jazz,TBD,,None,,None,,None,,None,,None
+24,TBD,Erik McCree,Two-Way Contract,Utah Jazz,TBD,,None,,None,,None,,None,,None
+29,$2116955,Derrick Rose,,Utah Jazz,$2116955,,None,,None,,None,,None,,None
+24,$1312611,Joel Bolomboy,,Utah Jazz,$1312611,,None,,None,,None,,None,,None
+24,,Naz Mitrou-Long,,Utah Jazz,$92160,,None,,None,,None,,None,,None
+24,$50000,Naz Mitrou-Long,,Utah Jazz,$50000,,None,,None,,None,,None,,None
+27,$50000,Eric Griffin,,Utah Jazz,$50000,,None,,None,,None,,None,,None
+26,$50000,Nate Wolters,,Utah Jazz,$50000,,None,,None,,None,,None,,None
+24,$78035739,Otto Porter,Bird Rights,Washington Wizards,$24773250,$26011913,None,$27250576,None,$28489239,Player,,None,,None
+24,$105054563,Bradley Beal,Cap Space,Washington Wizards,$23775506,$25434263,None,$27093019,None,$28751775,None,,None,,None
+27,$159705650,John Wall,Bird Rights,Washington Wizards,$18063850,$19169800,None,$37800000,None,$40824000,None,$43848000,None,$46872000,Player
+31,$48055846,Ian Mahinmi,Cap Space,Washington Wizards,$16661641,$15944154,None,$15450051,None,,None,,None,,None
+34,$26347827,Marcin Gortat,Bird Rights,Washington Wizards,$12782609,$13565218,None,,None,,None,,None,,None
+28,$16600000,Markieff Morris,Bird Rights,Washington Wizards,$8000000,$8600000,None,,None,,None,,None,,None
+32,$5225000,Jason Smith,Cap Space,Washington Wizards,$5225000,$5450000,Player,,None,,None,,None,,None
+30,$3290000,Jodie Meeks,Bi-annual Exception,Washington Wizards,$3290000,$3454500,Player,,None,,None,,None,,None
+26,$6129187,Tomas Satoransky,Cap Space,Washington Wizards,$3000000,$3129187,None,,None,,None,,None,,None
+22,$5301670,Kelly Oubre,1st round pick,Washington Wizards,$2093040,$3208630,None,,None,,None,,None,,None
+27,$2000000,Tim Frazier,Room exception,Washington Wizards,$2000000,,None,,None,,None,,None,,None
+29,$1709538,Mike Scott,Minimum Salary,Washington Wizards,$1709538,,None,,None,,None,,None,,None
+23,$1471382,Chris McCullough,1st Round pick,Washington Wizards,$1471382,,None,,None,,None,,None,,None
+31,,Ramon Sessions,10-Day Contract,Washington Wizards,$263124,,None,,None,,None,,None,,None
+23,$50000,Devin Robinson,Two-Way Contract,Washington Wizards,TBD,,None,,None,,None,,None,,None
+31,$1660000,Martell Webster,,Washington Wizards,$830000,$830000,None,,None,,None,,None,,None
+27,$140902,Carrick Felix,,Washington Wizards,$140902,,None,,None,,None,,None,,None
+23,$50000,Michael Young,,Washington Wizards,$50000,,None,,None,,None,,None,,None
+24,$50000,Daniel Ochefu,,Washington Wizards,$50000,,None,,None,,None,,None,,None

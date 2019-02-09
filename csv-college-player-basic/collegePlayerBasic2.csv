@@ -1,0 +1,1394 @@
+Class,Height,HighSchool,Hometown,Name,Number,Position,School,Weight
+SR,5-11,Athene des Pagodes,Belgium,Manu Lecomte,20,G,Baylor Bears,170
+SR,7-0,Kingsway Christian College,Australia,Jo Acuil,0,F,Baylor Bears,210
+SR,6-9,Mahtomedi High School,St. Paul MN,Nuni Omot,21,F,Baylor Bears,205
+SR,6-7,DeSoto HS,Desoto TX,T.J. Maston,31,F,Baylor Bears,220
+JR,6-3,Triple A Academy (TX),Dallas TX,King McClure,22,G,Baylor Bears,200
+FR,6-9,,SAN ANTONIO TX,Tristan Clark,25,F,Baylor Bears,240
+FR,6-5,,Lake Charles LA,Mark Vital,11,F,Baylor Bears,230
+JR,6-5,Olympus HS,Houston TX,Jake Lindsey,3,G,Baylor Bears,190
+,6-4,,Oklahoma City OK,Tyson Jolly,10,G,Baylor Bears,190
+JR,6-6,Argyle High School,Argyle TX,Jonathan Davis,30,F,Baylor Bears,215
+,6-0,,,Obim Okeke,,G,Baylor Bears,225
+,7-0,,,Leonard Allen,12,F,Baylor Bears,235
+,6-8,,,Freddie Gillespie,45,F,Baylor Bears,240
+,6-7,Oak Hill Academy,Jackson MS,Mario Kegler,4,G,Baylor Bears,230
+,6-2,Brewster Academy (NH),Raleigh NC,Devonte' Graham,4,G,Kansas Jayhawks,175
+SR,6-8,Cherkasy First City Gymnasia,Ukraine,Sviatoslav Mykhailiuk,10,G,Kansas Jayhawks,195
+SO,6-3,Callaway HS,Jackson MS,Malik Newman,14,G,Kansas Jayhawks,178
+JR,6-5,Douglass HS,Memphis TN,Lagerald Vick,2,G,Kansas Jayhawks,175
+SO,7-0,Potter's House Christian Acadekmy,Nigeria,Udoka Azubuike,35,C,Kansas Jayhawks,280
+FR,6-5,,Dallas TX,Marcus Garrett,0,G,Kansas Jayhawks,180
+SO,6-8,Ironwood Ridge High School,Gilbert AZ,Mitch Lightfoot,44,F,Kansas Jayhawks,210
+,6-9,,,Silvio De Sousa,,F,Kansas Jayhawks,245
+,6-6,Rainier Beach High School,Seattle WA,Sam Cunliffe,3,G,Kansas Jayhawks,200
+FR,6-4,,Leawood KS,Chris Teahan,12,G,Kansas Jayhawks,175
+SR,6-5,Lansing HS (KS),Lansing KS,Clay Young,21,G,Kansas Jayhawks,205
+,6-7,,,James Sosinski,,F,Kansas Jayhawks,260
+,6-9,Hamilton HS,Memphis TN,Dedric Lawson,1,F,Kansas Jayhawks,230
+,6-8,Hamilton HS,Memphis TN,K.J. Lawson,13,G,Kansas Jayhawks,205
+,5-11,Morgan Park High School,Chicago IL,Charlie Moore,5,G,Kansas Jayhawks,170
+,6-10,,,Billy Preston,23,F,Kansas Jayhawks,240
+FR,7-1,,Bahamas,DeAndre Ayton,13,F,Arizona Wildcats,250
+JR,6-4,Montrose Christian (MD) / Findlay Prep (NV),Seattle WA,Allonzo Trier,35,G,Arizona Wildcats,190
+SR,7-0,Sunrise Christian Academy,Serbia,Dusan Ristic,14,C,Arizona Wildcats,240
+,6-5,Christ the King,Brooklyn NY,Rawle Alkins,1,G,Arizona Wildcats,220
+SR,5-8,Sierra Canyon HS,Los Angeles CA,Parker Jackson-Cartwright,0,G,Arizona Wildcats,150
+SO,6-5,Hoover HS,Mobile AL,Dylan Smith,3,G,Arizona Wildcats,170
+FR,6-6,,Yonkers NY,Brandon Randolph,5,G,Arizona Wildcats,175
+SR,6-9,Sunrise Christian Academy,Perth WA,Keanu Pinder,25,F,Arizona Wildcats,220
+FR,6-7,,Los Angeles CA,Ira Lee,11,F,Arizona Wildcats,235
+FR,6-7,,Winnipeg MB,Emmanuel Akot,24,G,Arizona Wildcats,200
+FR,6-2,,Chandler AZ,Alex Barcello,23,G,Arizona Wildcats,180
+JR,5-11,Terryville High School,Southbury CT,Tyler Trillo,50,G,Arizona Wildcats,170
+SO,6-6,Coronado High School,Henderson NV,Jake Desjardins,55,F,Arizona Wildcats,215
+SR,6-6,Salpointe Catholic HS,Tucson AZ,Talbott Denny,20,F,Arizona Wildcats,205
+,6-5,,,Matt Weyand,54,F,Arizona Wildcats,190
+,6-10,Bishop Gorman HS,Las Vegas NV,Chase Jeter,4,F,Arizona Wildcats,230
+,6-3,Westfield High School,,Kory Jones,52,G,Arizona Wildcats,170
+SR,6-1,Brentwood,Los Angeles CA,Tra Holder,0,G,Arizona State Sun Devils,165
+SR,6-1,Nansemond River,Suffolk VA,Shannon Evans,11,G,Arizona State Sun Devils,170
+SR,6-3,Dobson HS,Mesa AZ,Kodi Justice,44,G,Arizona State Sun Devils,160
+FR,6-8,,Suwanee GA,Romello White,23,F,Arizona State Sun Devils,220
+FR,6-0,,Chatsworth CA,Remy Martin,1,G,Arizona State Sun Devils,170
+,6-10,,,De'Quon Lake,35,F,Arizona State Sun Devils,225
+,6-7,Plano West HS,Plano TX,Mickey Mitchell,3,F,Arizona State Sun Devils,232
+FR,6-9,,Ukraine,Vitaliy Shibel,10,F,Arizona State Sun Devils,210
+,6-7,,,Kimani Lawrence,14,F,Arizona State Sun Devils,200
+SR,6-0,Highland HS,Gilbert AZ,Austin Witherill,22,G,Arizona State Sun Devils,160
+SO,5-11,Desert Mountain High School,Scottsdale AZ,Grant Fogerty,25,G,Arizona State Sun Devils,165
+FR,5-10,,Locust Valley NY,Jordan Salzman,24,G,Arizona State Sun Devils,175
+,6-9,Villa Angela-St. Joseph HS,Cleveland OH,Carlton Bragg,15,F,Arizona State Sun Devils,220
+,6-8,South Mountain HS,Phoenix AZ,Zylan Cheatham,31,F,Arizona State Sun Devils,210
+,6-4,Cass Tech,Detroit MI,Rob Edwards,2,G,Arizona State Sun Devils,200
+,6-0,,,Jack Roggin,21,G,Arizona State Sun Devils,165
+,6-4,,,Imran Takhar,41,G,Arizona State Sun Devils,200
+,6-2,,,Trev Thompson,34,G,Arizona State Sun Devils,175
+FR,6-7,,Honolulu HI,Justice Sueing,10,F,University of California Golden Bears,209
+JR,6-3,Butler High School,Augusta GA,Don Coleman,14,G,University of California Golden Bears,192
+SR,6-9,Deer Valley HS,Antioch CA,Marcus Lee,24,F,University of California Golden Bears,220
+FR,6-3,,Houston TX,Darius McNeill,1,G,University of California Golden Bears,175
+FR,6-5,,Northridge CA,Juhwan Harris-Dyson,2,G,University of California Golden Bears,198
+SR,7-1,Westwind Prep,United Kingdom,Kingsley Okoroh,22,C,University of California Golden Bears,254
+SR,6-4,Westchester HS,Inglewood CA,Nick Hamilton,21,G,University of California Golden Bears,185
+SO,6-7,Windward HS,Carson CA,Roman Davis,15,F,University of California Golden Bears,190
+FR,6-2,,Woodland Hills CA,Deschon Winston,25,G,University of California Golden Bears,175
+FR,6-8,,Australia,Grant Anticevich,34,F,University of California Golden Bears,217
+,6-7,Aptos HS,Aptos CA,Cole Welle,42,F,University of California Golden Bears,204
+FR,6-3,,China,Derek King,20,G,University of California Golden Bears,200
+FR,6-4,,Birmingham AL,Austin McCullough,12,G,University of California Golden Bears,197
+JR,6-0,Duncan U. Fletcher High School,Jacksonville Beach FL,Jacob Orender,0,G,University of California Golden Bears,178
+FR,6-6,,Atlanta GA,Jules Erving,13,F,University of California Golden Bears,201
+,6-0,Bishop O'Dowd HS,Oakland CA,Paris Austin,3,G,University of California Golden Bears,185
+FR,6-0,,Robbinsdale MN,McKinley Wright IV,25,G,Colorado Buffaloes,185
+SR,6-6,Brennan HS,Fayetteville NC,George King,24,G,Colorado Buffaloes,220
+JR,6-5,Pacific Hills HS,Los Angeles CA,Namon Wright,13,G,Colorado Buffaloes,200
+SR,6-2,Denver East HS,Denver CO,Dominique Collier,15,G,Colorado Buffaloes,170
+SO,6-10,Cathedral High School,Brazil,Lucas Siewert,23,F,Colorado Buffaloes,221
+FR,6-7,,Las Vegas NV,Tyler Bey,1,G,Colorado Buffaloes,206
+FR,7-0,,Arvada CO,Dallas Walton,35,F,Colorado Buffaloes,222
+SO,6-4,Grand Rapids Christian High School,Grand Rapids MI,Deleon Brown,5,G,Colorado Buffaloes,170
+,6-7,,,D'Shawn Schwartz,0,G,Colorado Buffaloes,223
+FR,6-7,,Serbia,Lazar Nikolic,11,G,Colorado Buffaloes,205
+SR,6-9,,Kansas City KS,Tory Miller-Stewart,14,F,Colorado Buffaloes,246
+FR,6-7,,Netherlands,Alexander Strating,10,F,Colorado Buffaloes,212
+,6-5,,,A.J. Martinka,12,G,Colorado Buffaloes,195
+SR,6-3,New Hampton Prep (NH),Englewood CO,Josh Repine,33,G,Colorado Buffaloes,180
+,6-8,,,Evan Battey,21,F,Colorado Buffaloes,283
+SO,6-2,West Linn High School,West Linn OR,Payton Pritchard,3,G,Oregon Ducks,200
+JR,6-4,Mater Dei,Orange County CA,Elijah Brown,5,G,Oregon Ducks,190
+SR,6-7,Pickering,Canada,MiKyle McIntosh,22,F,Oregon Ducks,234
+FR,6-7,,Las Vegas NV,Troy Brown,0,F,Oregon Ducks,215
+JR,6-8,Whitney Young HS,Chicago IL,Paul White,13,F,Oregon Ducks,228
+FR,6-4,,Austin TX,Victor Bailey Jr.,10,G,Oregon Ducks,185
+FR,6-9,,Manteca CA,Kenny Wooten,1,F,Oregon Ducks,220
+SO,6-7,Rainer Beach High School,Seattle WA,Keith Smith,11,F,Oregon Ducks,205
+SR,6-10,Hof HaSharon HS,Israel,Roman Sorkin,41,F,Oregon Ducks,225
+FR,6-6,,Canada,Abu Kigab,24,F,Oregon Ducks,215
+FR,6-10,,Santa Ana CA,M.J. Cage,4,F,Oregon Ducks,225
+SR,5-10,Oak Ridge High School,Sacramento CA,Evan Gross,21,G,Oregon Ducks,165
+,6-1,,,Will Johnson,54,G,Oregon Ducks,180
+SO,6-8,Hellgate HS,Missoula MT,Tres Tinkle,3,F,Oregon State Beavers,220
+JR,6-4,Bishop Montgomery HS,Los Angeles CA,Stephen Thompson Jr.,1,G,Oregon State Beavers,170
+JR,6-10,Reynolds HS,Troutdale OR,Drew Eubanks,12,F,Oregon State Beavers,240
+FR,6-5,,Los Angeles CA,Ethan Thompson,5,G,Oregon State Beavers,190
+FR,6-6,,San Francisco CA,Alfred Hollins,4,F,Oregon State Beavers,195
+SR,6-7,Ballard HS,Seattle WA,Seth Berger,32,F,Oregon State Beavers,210
+SO,6-4,Skyview HS,Billings MT,Kendal Manuel,24,G,Oregon State Beavers,180
+JR,6-11,Cantwell-Sacred Heart of Mary HS,Montenegro,Gligorije Rakocevic,23,C,Oregon State Beavers,250
+FR,6-5,,Wilsonville OR,Zach Reichle,11,G,Oregon State Beavers,195
+SR,6-4,Benjamin Russel HIgh School,Alexander City AL,Ronnie Stacy,2,G,Oregon State Beavers,195
+SO,6-4,Peninsula High School,Gig Harbor WA,Jaquori McLaughlin,0,G,Oregon State Beavers,185
+,6-8,Archbishop Mitty High School,San Jose CA,Ben Kone,34,F,Oregon State Beavers,235
+FR,6-4,,Seattle WA,Xavier Smith,22,G,Oregon State Beavers,180
+JR,6-4,Crescent Valley,Corvallis OR,Tanner Sanders,15,G,Oregon State Beavers,201
+,6-8,,,Isaac Barnes,44,F,Oregon State Beavers,225
+,7-0,Army-Navy Academy,Senegal,Cheikh N'diaye,31,C,Oregon State Beavers,240
+JR,6-8,DeLaSalle HS,Minneapolis MN,Reid Travis,22,F,Stanford Cardinal,240
+SR,6-5,Pinnacle HS,Phoenix AZ,Dorian Pickens,11,G,Stanford Cardinal,210
+FR,6-3,,Seattle WA,Daejon Davis,1,G,Stanford Cardinal,175
+SR,6-9,Sunnyslope HS,Phoenix AZ,Michael Humphrey,10,F,Stanford Cardinal,215
+,6-8,,,Kezie Okpala,0,F,Stanford Cardinal,195
+FR,6-9,,Germany,Oscar Da Silva,13,F,Stanford Cardinal,210
+FR,6-1,,Adelaide SA,Isaac White,4,G,Stanford Cardinal,185
+JR,6-2,Flintridge Prepatory,Pasadena CA,Robert Cartwright,2,G,Stanford Cardinal,165
+JR,7-0,Northfield Mt. Hermon HS,Lexington MA,Josh Sharma,20,C,Stanford Cardinal,210
+FR,6-8,,Baltimore MD,Kodye Pugh,5,F,Stanford Cardinal,205
+SO,6-11,Marantha High School,Pasadena CA,Trevor Stanback,33,F,Stanford Cardinal,220
+SO,6-1,Whitney Young High School,Chicago IL,Rodney Herenton,15,G,Stanford Cardinal,155
+SO,6-4,Battlefield High School,Haymarket VA,Blake Pagon,25,G,Stanford Cardinal,190
+,6-5,Chattahoochee HS,Alpharetta GA,Marcus Sheffield,14,G,Stanford Cardinal,180
+,6-7,Righetti HS,Santa Maria CA,Cameron Walker,21,F,Stanford Cardinal,200
+JR,6-1,Campbell Hall HS,Chatsworth CA,Aaron Holiday,3,G,UCLA Bruins,185
+FR,6-8,,Indianapolis IN,Kris Wilkes,13,G,UCLA Bruins,195
+SR,7-0,Loyola HS,Redondo Beach CA,Thomas Welsh,40,C,UCLA Bruins,245
+FR,6-3,,San Diego CA,Jaylen Hands,4,G,UCLA Bruins,175
+SO,6-3,The Sagemont School (FL),Bronx NY,Prince Ali,23,G,UCLA Bruins,190
+SR,6-10,The Sagemont School (FL),Hungary,Gyorgy Goloman,14,F,UCLA Bruins,215
+SO,6-10,La Lumiere School (IN),Roswell NM,Alex Olesinski,0,F,UCLA Bruins,200
+FR,6-9,,Chicago IL,Chris Smith,5,G,UCLA Bruins,200
+SR,6-3,Laguna Beach HS,Laguna Beach CA,Alec Wulff,21,G,UCLA Bruins,185
+SR,6-9,East High School (IA),Nigeria,Ikenna Okwarabizie,34,C,UCLA Bruins,250
+SO,6-3,Laguna Beach High School,Laguna Beach CA,Isaac Wulff,10,G,UCLA Bruins,175
+SO,6-5,Henry J. Kaiser High School,Fontana CA,Armani Dodson,22,G,UCLA Bruins,190
+FR,6-2,,Woodland Hills CA,Joseph Wallace,30,G,UCLA Bruins,185
+,6-5,,,LiAngelo Ball,15,G,UCLA Bruins,230
+,6-10,,,Jalen Hill,24,F,UCLA Bruins,230
+,6-10,,,Cody Riley,2,F,UCLA Bruins,265
+JR,6-11,Lawndale HS,Lawndale CA,Chimezie Metu,4,F,USC Trojans,215
+SR,6-1,Etiwanda HS,Etiwanda CA,Jordan McLaughlin,11,G,USC Trojans,170
+SR,6-5,Westchester HS,Deridder LA,Elijah Stewart,30,G,USC Trojans,180
+SO,6-3,Santa Monica HIgh School,Santa Monica CA,Jonah Mathews,2,G,USC Trojans,185
+JR,6-10,Village Christian HS,Mission Hills CA,Bennie Boatwright,25,F,USC Trojans,220
+SO,6-11,St. Joseph HIgh School,Chicago IL,Nick Rakocevic,31,F,USC Trojans,215
+FR,6-7,,Canton GA,Jordan Usher,1,G,USC Trojans,
+JR,6-7,Ranier Beach,Seattle WA,Shaqquan Aaron,0,G,USC Trojans,170
+SO,6-2,Findlay Prep (NV),Los Angeles CA,Derryck Thornton,5,G,USC Trojans,175
+FR,6-11,,Miami FL,Victor Uyaelunmo,34,F,USC Trojans,
+,6-6,,,Charles O'Bannon, Jr.,13,G,USC Trojans,
+SO,6-10,South Grand Prairie High School,Dallas TX,Harrison Henderson,3,F,USC Trojans,220
+JR,6-2,Valley View High School,Moreno Valley CA,Devin Fleming,12,G,USC Trojans,180
+SR,6-1,Glenbrook North,Northbrook IL,Kurt Karis,21,G,USC Trojans,190
+,6-4,Crespi Carmelite HIgh School,North Hollywood CA,De'Anthony Melton,22,G,USC Trojans,190
+SR,5-8,Bishop Montgomery HS,Carson CA,Justin Bibbins,1,G,Utah Utes,150
+SR,6-8,Murray,Murray UT,David Collette,13,F,Utah Utes,220
+JR,6-2,Centennial HS,Corona CA,Sedrick Barefield,0,G,Utah Utes,190
+SR,6-9,American Fork,American Fork UT,Tyler Rawson,21,F,Utah Utes,215
+FR,6-7,,Detroit MI,Donnie Tillman,3,F,Utah Utes,225
+SR,6-6,Antelope HS (CA),Antelope CA,Gabe Bealer,30,G,Utah Utes,180
+SO,7-0,Findlay College Prep,Mission Viejo CA,Jayce Johnson,34,F,Utah Utes,235
+FR,6-3,East High School,Salt Lake City UT,Parker Van Dyke,5,G,Utah Utes,185
+SO,6-5,,Bowling Green KY,Kolbe Caldwell,2,G,Utah Utes,205
+FR,6-8,,Fresno CA,Chris Seeley,11,F,Utah Utes,215
+JR,6-3,Highland HS,Salt Lake City UT,Jake Connor,10,G,Utah Utes,177
+FR,6-4,,Las Vegas NV,Christian Popoola,50,G,Utah Utes,190
+SO,6-11,Canarias Basketball Academy,Czech Republic,Jakub Jokl,43,F,Utah Utes,230
+SO,6-5,,Framingham MA,Nate Duda,15,G,Utah Utes,190
+SO,6-9,Regis Jesuit High School,Monument CO,Marc Reininger,40,F,Utah Utes,220
+,6-6,South Summit HIgh School,Oakley UT,Beau Rydalch,20,G,Utah Utes,205
+,6-5,,,Devante Doutrive,55,G,Utah Utes,190
+,6-3,,,Brooks King,14,G,Utah Utes,200
+FR,6-4,,Seattle WA,Jaylen Nowell,5,G,Washington Huskies,200
+JR,6-8,Montverde Academy (FL),Atlanta GA,Noah Dickerson,15,F,Washington Huskies,225
+JR,6-0,Brewster Academy,Tacoma WA,David Crisp,1,G,Washington Huskies,185
+JR,6-5,Eastside Catholic HS,Issaquah WA,Matisse Thybulle,4,G,Washington Huskies,190
+FR,6-6,,Rochester NY,Nahziah Carter,11,F,Washington Huskies,205
+JR,6-6,Hazen HS,Renton WA,Dominic Green,22,F,Washington Huskies,185
+SO,6-10,Midleton Grange School,New Zealand,Sam Timmins,33,F,Washington Huskies,275
+FR,6-9,,Albany NY,Hameir Wright,13,F,Washington Huskies,215
+SO,6-4,Findlay College Prep,Centralia IL,Carlos Johnson,23,G,Washington Huskies,235
+FR,6-4,,Seattle WA,Michael Carter III,14,G,Washington Huskies,190
+SR,5-10,Jackson HS,Mill Creek WA,Dan Kingma,2,G,Washington Huskies,155
+SR,6-5,Mountlake Terrace,Mountlake Terrace WA,Greg Bowman,32,F,Washington Huskies,200
+SO,6-0,,Issaquah WA,Jason Crandall,12,G,Washington Huskies,180
+,6-6,Mountain Mission HIgh School,,Bitumba Baruti,0,G,Washington Huskies,210
+,6-8,Fishburne Military Academy,Palmdale CA,Devenir Duruisseau,24,F,Washington Huskies,245
+JR,6-7,Evergreen HS,Vancouver WA,Robert Franks,3,F,Washington State Cougars,175
+SO,6-1,Bellarmine Preparatory School,Tacoma WA,Malachi Flynn,22,G,Washington State Cougars,170
+,6-3,Federal Way,Federal Way WA,Viont'e Daniels,4,G,Washington State Cougars,170
+SO,6-5,,Logansport IN,Carter Skaggs,35,G,Washington State Cougars,215
+SR,6-8,Cherokee Trail,Aurora CO,Drick Bernstine,43,F,Washington State Cougars,202
+FR,6-3,,Bakersfield CA,Milan Acquaah,5,G,Washington State Cougars,185
+JR,6-4,,Fairmont NC,Kwinton Hinson,40,G,Washington State Cougars,215
+FR,6-9,,Oakland CA,Arinze Chidom,25,F,Washington State Cougars,200
+SO,6-9,Impact Basketball Academy,Bountiful UT,Jeff Pollard,13,F,Washington State Cougars,240
+SR,6-1,Nathan Hale High School,Seattle WA,Steven Shpreyregin,12,G,Washington State Cougars,180
+JR,6-10,,Atlanta GA,Davante Cooper,32,F,Washington State Cougars,216
+FR,6-3,,Canada,Jamar Ergas,1,G,Washington State Cougars,182
+JR,6-4,St. Patrick's High School,Chicago IL,KJ Langston,10,G,Washington State Cougars,185
+,6-1,,,TJ Mickelson,2,G,Washington State Cougars,160
+FR,6-3,,Mableton GA,Collin Sexton,2,G,Alabama Crimson Tide,190
+FR,6-5,,Huntsville AL,John Petty,23,G,Alabama Crimson Tide,195
+JR,6-9,Luverne HS,Luverne AL,Donta Hall,0,F,Alabama Crimson Tide,224
+SO,6-5,Theodore HS,Theodore AL,Dazon Ingram,12,G,Alabama Crimson Tide,205
+,6-8,Oak Hill Academy,Charlotte NC,Braxton Key,25,F,Alabama Crimson Tide,220
+JR,5-11,Plano West,Houston TX,Avery Johnson,5,G,Alabama Crimson Tide,182
+FR,6-7,,Greensboro AL,Herb Jones,10,G,Alabama Crimson Tide,200
+SO,6-10,,Mableton GA,Daniel Giddens,4,F,Alabama Crimson Tide,228
+FR,6-9,,Pelham AL,Alex Reese,3,F,Alabama Crimson Tide,250
+FR,6-9,,Clinton MS,Galin Smith,30,F,Alabama Crimson Tide,235
+SR,6-7,Albertville HS,Albertville AL,Riley Norris,1,G,Alabama Crimson Tide,207
+JR,5-11,Cullman HS,Cullman AL,Lawson Schaffer,24,G,Alabama Crimson Tide,160
+SO,6-8,Brentwood Academy,Brentwood TN,Landon Fuller,33,F,Alabama Crimson Tide,230
+,6-8,,,Tyler Barnes,,F,Alabama Crimson Tide,205
+,6-6,Henry Foss High School,Tacoma WA,Ar'Mond Davis,22,G,Alabama Crimson Tide,202
+,6-7,Dreher HS,Columbia SC,Tevin Mack,11,G,Alabama Crimson Tide,223
+SR,6-3,South Side High School,Jackson TN,Jaylen Barford,0,G,Arkansas Razorbacks,202
+SR,6-3,Parkview Arts and Science Magnet High School,Little Rock AR,Daryl Macon,4,G,Arkansas Razorbacks,185
+FR,6-11,,El Dorado AR,Daniel Gafford,10,F,Arkansas Razorbacks,234
+SR,6-0,North Little Rock HS,North Little Rock AR,Anton Beard,31,G,Arkansas Razorbacks,195
+SO,6-5,Central Park Christian High School,Birmingham AL,C.J. Jones,23,G,Arkansas Razorbacks,175
+FR,6-6,,Little Rock AR,Darious Hall,20,F,Arkansas Razorbacks,210
+SR,6-7,Pleasant Grove,Texarkana TX,Dustin Thomas,13,F,Arkansas Razorbacks,225
+SO,6-6,Lakeview High School,Campti LA,Adrio Bailey,2,F,Arkansas Razorbacks,204
+SR,6-9,Forrest City HS,Madison AR,Trey Thompson,1,F,Arkansas Razorbacks,270
+,6-8,College Preparatory High School at Madison,St. Louis MO,Arlando Cook,5,F,Arkansas Razorbacks,215
+FR,6-8,,Canada,Gabe Osabuohien,22,F,Arkansas Razorbacks,219
+SO,5-10,Antonian College Preparatory High School,Columbia IL,Jonathan Holmes,15,G,Arkansas Razorbacks,190
+,6-1,,,Jt Plummer,,G,Arkansas Razorbacks,185
+,6-5,,,Khalil Garland,3,G,Arkansas Razorbacks,198
+,6-2,Word of God Christian Academy,Wilson NC,Jalen Harris,11,G,Arkansas Razorbacks,164
+JR,6-5,St. Vincent-St. Mary HS,Richmond VA,Jalen Hudson,3,G,Florida Gators,195
+SR,6-5,Sagemont (FL),Russia,Egor Koulechov,4,G,Florida Gators,210
+SR,6-0,White Station HS,Memphis TN,Chris Chiozza,11,G,Florida Gators,160
+JR,6-2,North Little Rock HS,Little Rock AR,KeVaughn Allen,5,G,Florida Gators,183
+SO,6-8,Zion Lutheran HS,Deerfield Beach FL,Keith Stone,25,F,Florida Gators,233
+JR,6-9,Suwanee HS,Live Oak FL,Kevarrius Hayes,13,F,Florida Gators,210
+FR,6-3,,Raleigh NC,Mike Okauru,0,G,Florida Gators,180
+FR,6-5,,Atlanta GA,Deaundrae Ballard,24,G,Florida Gators,195
+SO,6-11,Victory Rock Prep,Australia,Gorjok Gak,12,C,Florida Gators,231
+FR,6-9,,Oakland CA,Dontay Bassett,21,F,Florida Gators,222
+FR,6-9,,Ripley WV,Chase Johnson,1,F,Florida Gators,205
+,5-10,,,Andrew Fava,,G,Florida Gators,165
+,6-2,,,Mak Krause,,G,Florida Gators,170
+,6-11,Ft. Walton Beach,Nigeria,John Egbunu,15,C,Florida Gators,265
+,6-8,,,Isaiah Stokes,2,F,Florida Gators,270
+FR,6-9,,Tampa FL,Kevin Knox,5,F,Kentucky Wildcats,215
+FR,6-6,,Canada,Shai Gilgeous-Alexander,22,G,Kentucky Wildcats,180
+FR,6-7,,Dallas TX,PJ Washington,25,F,Kentucky Wildcats,236
+FR,6-5,,Queens NY,Hamidou Diallo,3,G,Kentucky Wildcats,190
+FR,6-0,,Philadelphia PA,Quade Green,0,G,Kentucky Wildcats,180
+SO,6-9,Wilbraham & Monson Academy,Manchester NH,Wenyen Gabriel,32,F,Kentucky Wildcats,213
+FR,6-11,,Jamaica,Nick Richards,4,F,Kentucky Wildcats,240
+SO,6-10,Virginia Episcopal School,Chapel Hill NC,Sacha Killeya-Jones,1,F,Kentucky Wildcats,230
+,6-9,,,Jarred Vanderbilt,2,F,Kentucky Wildcats,214
+SO,6-10,Rangitoto School,New Zealand,Tai Wynyard,14,F,Kentucky Wildcats,254
+SO,6-0,MacDuffie School,Franklin Lakes NJ,Brad Calipari,12,G,Kentucky Wildcats,178
+JR,6-2,Mt. Lebanon HS,Pittsburgh PA,Jonny David,10,G,Kentucky Wildcats,175
+JR,6-3,Harrison County High School,Cynthiana KY,Dillon Pulliam,30,G,Kentucky Wildcats,180
+,6-4,,,Jemarl Baker,13,G,Kentucky Wildcats,182
+FR,5-11,,New Haven CT,Tremont Waters,3,G,LSU Fighting Tigers,167
+SR,6-10,Lee College,Perth WA,Duop Reath,1,F,LSU Fighting Tigers,235
+SO,6-4,Louisiana State University Laboratory School,Baton Rouge LA,Skylar Mays,4,G,LSU Fighting Tigers,205
+SR,6-9,Tioga HS,Ball LA,Aaron Epps,21,F,LSU Fighting Tigers,203
+JR,6-3,,FRESNO CA,Daryl Edwards,5,G,LSU Fighting Tigers,165
+JR,6-5,Madison Prep HS,Baton Rouge LA,Brandon Sampson,0,G,LSU Fighting Tigers,175
+SO,6-6,Louisiana State University Laboratory School,Baton Rouge LA,Wayde Sims,44,F,LSU Fighting Tigers,222
+SR,6-3,Inglewood,Inglewood CA,Randy Onwuasor,14,G,LSU Fighting Tigers,190
+FR,6-5,,Natchitoches LA,Brandon Rachal,2,G,LSU Fighting Tigers,215
+SR,6-7,Carter HS,Dallas TX,Jeremy Combs,13,F,LSU Fighting Tigers,182
+SO,6-3,Louisiana State University Laboratory School,Ponchatoula LA,Marshall Graves,12,G,LSU Fighting Tigers,190
+FR,6-6,,Breaux Bridge LA,Galen Alexander,10,F,LSU Fighting Tigers,210
+FR,6-9,,Bradenton FL,Mayan Kiir,35,F,LSU Fighting Tigers,201
+JR,6-3,Parkview Baptist High School,Baton Rouge LA,Reed Vial,15,G,LSU Fighting Tigers,190
+,6-11,Harris Academy Beckenham,,Kavell Bigby-Williams,11,F,LSU Fighting Tigers,230
+JR,6-4,Southaven HS,Southaven MS,Terence Davis,3,G,Ole Miss Rebels,190
+SR,6-2,Carol City,Miami Gardens FL,Deandre Burnett,1,G,Ole Miss Rebels,195
+SO,6-2,St. Joseph High School,Somerset NJ,Breein Tyree,4,G,Ole Miss Rebels,190
+JR,6-8,,Louin MS,Bruce Stevens,12,F,Ole Miss Rebels,252
+SR,6-4,Melrose HS,Memphis TN,Markel Crawford,5,G,Ole Miss Rebels,197
+FR,6-2,,Irmo SC,Devontae Shuler,0,G,Ole Miss Rebels,192
+SR,6-6,Whitehaven HS,Memphis TN,Marcanvis Hymon,2,F,Ole Miss Rebels,207
+SO,7-0,,Poland,Dominik Olejniczak,13,C,Ole Miss Rebels,249
+SR,6-6,Three Rivers Community College (JC),Lithuania,Justas Furmanavicius,50,F,Ole Miss Rebels,200
+,5-11,,,D.C. Davis,20,G,Ole Miss Rebels,175
+,6-1,Advance High School,Advance MO,Lane Below,24,G,Ole Miss Rebels,190
+,6-7,,,Eric Horn,11,F,Ole Miss Rebels,185
+,5-10,,,Antonio Morgano,10,G,Ole Miss Rebels,165
+FR,6-3,,,Ilya Tyrtyshnik,34,G,Ole Miss Rebels,185
+,6-11,WEF Skola,Latvia,Karlis Silins,22,F,Ole Miss Rebels,245
+SR,6-9,Southwind,Memphis TN,Johnathan Williams,3,F,Gonzaga Bulldogs,225
+FR,6-5,,Chicago IL,Zach Norvell Jr.,23,G,Gonzaga Bulldogs,205
+SO,6-10,INSEP Academy,France,Killian Tillie,33,F,Gonzaga Bulldogs,200
+JR,6-3,Huntington Prep HS,Park Hill CO,Josh Perkins,13,G,Gonzaga Bulldogs,186
+SO,6-8,Meisei HIgh School,Japan,Rui Hachimura,21,F,Gonzaga Bulldogs,225
+SR,6-4,Jefferson HS,Portland OR,Silas Melson,0,G,Gonzaga Bulldogs,178
+FR,6-6,,Edmonds WA,Corey Kispert,24,F,Gonzaga Bulldogs,215
+FR,6-11,,Denmark,Jacob Larsen,14,C,Gonzaga Bulldogs,227
+,6-5,East Central,San Antonio TX,Jeremy Jones,22,F,Gonzaga Bulldogs,205
+FR,6-1,,Kaysville UT,Jesse Wade,10,G,Gonzaga Bulldogs,175
+,6-1,,,Brian Pete,,G,Gonzaga Bulldogs,185
+SO,6-6,,Overland Park KS,Alex Martin,5,G,Gonzaga Bulldogs,185
+SO,6-2,Torrey Pines HS,San Diego CA,Jack Beach,2,G,Gonzaga Bulldogs,160
+,6-5,,,Joel Ayayi,11,G,Gonzaga Bulldogs,169
+,6-8,Desert Vista HS,Phoenix AZ,Brandon Clarke,15,F,Gonzaga Bulldogs,210
+FR,6-11,,Phoenix AZ,Marvin Bagley III,35,F,Duke Blue Devils,234
+SR,6-4,Providence,Jacksonville FL,Grayson Allen,3,G,Duke Blue Devils,195
+FR,6-6,,Columbus OH,Gary Trent Jr.,2,G,Duke Blue Devils,209
+FR,6-10,,Atlanta GA,Wendell Carter Jr.,34,F,Duke Blue Devils,259
+FR,6-3,,New Castle DE,Trevon Duval,1,G,Duke Blue Devils,186
+,6-6,,,Alex O'Connell,15,G,Duke Blue Devils,171
+SO,6-11,DeSoto High School,Desoto TX,Marques Bolden,20,C,Duke Blue Devils,245
+SO,6-10,St. Anne's-Belfield School,Shipman VA,Javin DeLaurier,12,F,Duke Blue Devils,220
+FR,6-2,,Norcross GA,Jordan Goldwire,14,G,Duke Blue Devils,172
+SO,6-8,San Antonio Christian School High School,San Antonio TX,Justin Robinson,50,F,Duke Blue Devils,190
+SO,6-7,Australian Institute of Sport,Australia,Jack White,41,F,Duke Blue Devils,215
+JR,7-1,Pine Crest HS,Delray Beach FL,Antonio Vrankovic,30,C,Duke Blue Devils,270
+FR,6-7,,White Plains NY,Jordan Tucker,5,F,Duke Blue Devils,212
+,6-2,,,Mike Buckmire,51,G,Duke Blue Devils,172
+,6-5,Latin School,Chicago IL,Brennan Besser,53,G,Duke Blue Devils,190
+SR,6-8,Whitewater HS,Atlanta GA,Phil Cofer,0,F,Florida State Seminoles,205
+SR,6-6,Findlay College Prep,Colombia,Braian Angola-Rodas,11,G,Florida State Seminoles,195
+JR,6-6,Tilton School (NH),Lowell MA,Terance Mann,14,G,Florida State Seminoles,200
+SO,6-1,Arsenal Technical High School,Indianapolis IN,CJ Walker,2,G,Florida State Seminoles,195
+SO,6-5,Chipley High School,Chipley FL,Trent Forrest,3,G,Florida State Seminoles,215
+FR,6-5,,Jonesboro GA,M.J. Walker,23,G,Florida State Seminoles,205
+FR,6-9,,Canada,Mfiondu Kabengele,25,F,Florida State Seminoles,235
+JR,6-4,Las Vegas High School,Las Vegas NV,PJ Savoy,5,G,Florida State Seminoles,200
+JR,7-4,Montverde Academy,Chad,Chris Koumadje,21,C,Florida State Seminoles,233
+FR,7-0,,Nigeria,Ike Obiagu,12,C,Florida State Seminoles,240
+SR,6-6,Milton HS,Milton FL,Brandon Allen,40,F,Florida State Seminoles,200
+FR,6-5,,Vienna VA,Travis Light,20,G,Florida State Seminoles,165
+FR,6-8,,Orlando FL,Wyatt Wilkes,31,F,Florida State Seminoles,210
+SO,6-8,,Mandeville LA,Harrison Prieto,35,F,Florida State Seminoles,214
+SO,6-1,,Memphis TN,Justin Lindner,15,G,Florida State Seminoles,175
+FR,6-6,,Orlando FL,Will Miles,33,F,Florida State Seminoles,220
+FR,6-6,,Switzerland,Anthony Polite,13,G,Florida State Seminoles,210
+,6-8,,,Raiquan Gray,1,F,Florida State Seminoles,250
+JR,6-7,Hough HS,Huntersville NC,Luke Maye,32,F,UNC Tar Heels,227
+SR,6-0,Lake Highland Prep,Apopka FL,Joel Berry,2,G,UNC Tar Heels,195
+JR,6-3,Bird HS,Midlothian VA,Kenny Williams,24,G,UNC Tar Heels,166
+SR,6-6,Wesleyan Christian Academy,Greensboro NC,Theo Pinson,1,F,UNC Tar Heels,195
+,6-7,Our Lady of the Sacred Heart HS,Moon Township PA,Cameron Johnson,13,G,UNC Tar Heels,185
+FR,6-11,Pickerington Central,Reynoldsburg OH,Sterling Manley,21,F,UNC Tar Heels,240
+FR,6-9,Auburn HS,Lafayette AL,Garrison Brooks,15,F,UNC Tar Heels,215
+FR,6-3,Northfield Mount Hermon School,Guilderland NY,Andrew Platek,3,G,UNC Tar Heels,195
+FR,6-3,,West Columbia SC,Jalek Felton,5,G,UNC Tar Heels,190
+SO,6-5,Douglas County High School,Douglasville GA,Brandon Robinson,4,G,UNC Tar Heels,162
+FR,6-10,Word of God Christian Academy,Goldsboro NC,Brandon Huffman,42,F,UNC Tar Heels,250
+SO,6-2,Hammond School,Columbia SC,Seventh Woods,0,G,UNC Tar Heels,180
+SO,6-6,The Barstow School,Fairway KS,Shea Rush,11,F,UNC Tar Heels,200
+SR,6-6,Hunter Huss High School,Gastonia NC,Aaron Rohlman,25,F,UNC Tar Heels,210
+FR,6-10,New Hampton School,Greensboro NC,Walker Miller,22,F,UNC Tar Heels,220
+SR,6-0,New Garden Friends School,Greensboro NC,Kane Ma,,G,UNC Tar Heels,175
+SO,6-2,IMG Academy,Thousand Oaks CA,K.J. Smith,30,G,UNC Tar Heels,180
+SO,6-7,Huntington Prep,Flint MI,Miles Bridges,22,G,Michigan State Spartans,230
+SO,6-0,University of Detroit Jesuit High School and Academy,Detroit MI,Cassius Winston,5,G,Michigan State Spartans,185
+SO,6-8,Lincoln High School,Gahanna OH,Nick Ward,44,F,Michigan State Spartans,250
+SO,6-5,Madison Academy,Huntsville AL,Joshua Langford,1,G,Michigan State Spartans,210
+FR,6-11,,Carmel IN,Jaren Jackson Jr.,2,F,Michigan State Spartans,242
+JR,6-5,Duncanville HS,Duncanville TX,Matt McQuaid,20,G,Michigan State Spartans,185
+SR,6-9,Findlay Prep (NV),Chicago IL,Gavin Schilling,34,F,Michigan State Spartans,240
+FR,6-8,,Grand Rapids MI,Xavier Tillman,23,F,Michigan State Spartans,260
+JR,6-6,Warren Mott HS,Troy MI,Kenny Goins,25,F,Michigan State Spartans,215
+SR,5-10,Sunrise Christian Academy (KS),Bahamas,Lourawls Nairn,11,G,Michigan State Spartans,170
+SR,6-8,Bishop Gorman,Las Vegas NV,Ben Carter,13,F,Michigan State Spartans,225
+SO,6-3,Okemos High School,Okemos MI,Conner George,41,G,Michigan State Spartans,185
+,6-6,Versailles HS,Versailles OH,Kyle Ahrens,0,G,Michigan State Spartans,210
+,6-11,Lakeshore High School,Stevensville MI,Braden Burke,40,F,Michigan State Spartans,235
+,5-10,,,Jack Hoiberg,10,G,Michigan State Spartans,175
+,6-3,,,Brock Washington,14,G,Michigan State Spartans,185
+JR,6-3,Adlai Stevenson HS,Lincolnshire IL,Jalen Brunson,1,G,Villanova Wildcats,199
+JR,6-7,Great Valley HS,Malvern PA,Mikal Bridges,25,G,Villanova Wildcats,191
+SO,6-5,Salesianum HS,Wilmington DE,Donte DiVincenzo,10,G,Villanova Wildcats,200
+FR,6-9,,North Royalton OH,Omari Spellman,14,F,Villanova Wildcats,260
+JR,6-6,Dobbs Ferry,Dobbs Ferry NY,Eric Paschall,4,F,Villanova Wildcats,205
+JR,6-3,Mount Saint Joseph HS,Baltimore MD,Phil Booth,5,G,Villanova Wildcats,185
+FR,6-3,,Warminster PA,Collin Gillespie,2,G,Villanova Wildcats,190
+FR,6-9,,Philadelphia PA,Dhamir Cosby-Roundtree,21,F,Villanova Wildcats,220
+FR,6-5,,Franklin MA,Jermaine Samuels,23,F,Villanova Wildcats,225
+SO,6-9,Pitman High School,Mullica Hill NJ,Tim Delaney,34,F,Villanova Wildcats,230
+SR,5-11,Calvert Hall College High School,Catonsville MD,Denny Grace,40,G,Villanova Wildcats,175
+SR,6-2,Flint Hill School,Fairfax VA,Matt Kennedy,35,G,Villanova Wildcats,175
+SR,6-4,Haverford Senior High School,Havertown PA,Tom Leibig,24,F,Villanova Wildcats,195
+JR,5-11,,Wilmington DE,Peyton Heck,22,G,Villanova Wildcats,175
+,6-9,Hershey High School,Hershey PA,Dylan Painter,42,F,Villanova Wildcats,245
+SR,6-6,Park Tudor HS,Indianapolis IN,Trevon Bluiett,5,G,Xavier Musketeers,215
+SR,6-5,North HS,Lakeville MN,J.P. Macura,55,G,Xavier Musketeers,190
+SR,6-9,IMG Academy,Turkey,Kerem Kanter,11,F,Xavier Musketeers,245
+SO,6-4,Taylor County High School,Campbellsville KY,Quentin Goodin,3,G,Xavier Musketeers,194
+FR,6-7,,Atlantic City NJ,Naji Marshall,13,F,Xavier Musketeers,218
+JR,6-8,St. Francis HS,Alpharetta GA,Kaiser Gates,22,F,Xavier Musketeers,205
+,6-10,Benet Academy,Glen Ellyn IL,Sean O'Mara,54,F,Xavier Musketeers,247
+SO,6-9,Vermont Academy,Bloomfield CT,Tyrique Jones,0,F,Xavier Musketeers,243
+FR,6-3,,Indianapolis IN,Paul Scruggs,1,G,Xavier Musketeers,207
+FR,6-5,,East Point GA,Elias Harden,4,G,Xavier Musketeers,187
+SO,6-0,Holy Cross High School,Villa Hills KY,Leighton Schrand,10,G,Xavier Musketeers,155
+SR,6-7,,Garrett IN,Matt Singleton,20,F,Xavier Musketeers,215
+FR,6-1,,Harrison OH,Nick Vanderpohl,12,G,Xavier Musketeers,170
+SR,6-2,Proviso East HS,Maywood IL,Jevon Carter,2,G,West Virginia Mountaineers,185
+SR,6-3,Notre Dame Prep,Baltimore MD,Daxter Miles,4,G,West Virginia Mountaineers,185
+SO,6-8,Kennedy Catholic High School,Mali,Sagaba Konate,50,F,West Virginia Mountaineers,250
+SO,6-8,Miller Grove HS,Cincinnati OH,Lamont West,15,F,West Virginia Mountaineers,205
+SO,6-0,Holmes HS,Covington KY,James Bolden,3,G,West Virginia Mountaineers,170
+FR,6-5,,Mesa AZ,Teddy Allen,13,F,West Virginia Mountaineers,225
+,6-8,Shaker Heights HS,Cleveland OH,Esa Ahmad,23,F,West Virginia Mountaineers,225
+SO,6-8,,Jackson MS,Wesley Harris,21,F,West Virginia Mountaineers,200
+SO,6-3,Wheeling Central Catholic High School,Moundsville WV,Chase Harler,14,G,West Virginia Mountaineers,200
+SO,6-10,Mountain Mission High School,Poland,Maciej Bender,25,F,West Virginia Mountaineers,240
+SO,6-11,Cameron HS,Cameron WV,Logan Routt,31,F,West Virginia Mountaineers,250
+,6-6,,,D'Angelo Hunter,11,F,West Virginia Mountaineers,190
+,6-0,,,Brandon Knapper,5,G,West Virginia Mountaineers,180
+FR,6-2,,Norman OK,Trae Young,11,G,Oklahoma Sooners,180
+JR,6-4,Bellaire HS,Houston TX,Christian James,0,G,Oklahoma Sooners,218
+FR,6-9,,Harrah OK,Brady Manek,35,F,Oklahoma Sooners,215
+SO,6-5,Seven Lakes High School,Katy TX,Kameron McGusty,20,G,Oklahoma Sooners,191
+JR,6-6,Copperas Cove HS,Copperas Cove TX,Rashard Odomes,1,G,Oklahoma Sooners,200
+JR,6-10,Allen HS,Kankakee IL,Jamuni McNeace,4,C,Oklahoma Sooners,196
+SR,6-9,Redemption Christian Home School Academy,Houston TX,Khadeem Lattin,3,F,Oklahoma Sooners,200
+SO,6-2,Asheville Christian Academy,Asheville NC,Jordan Shepherd,13,G,Oklahoma Sooners,180
+SO,6-10,Westlake Boys High School,New Zealand,Matt Freeman,5,F,Oklahoma Sooners,224
+,6-7,,,Kristian Doolittle,,F,Oklahoma Sooners,236
+FR,6-11,,Finland,Hannes Polla,44,C,Oklahoma Sooners,265
+JR,6-5,,Glencoe OK,Ty Lazenby,14,G,Oklahoma Sooners,210
+FR,6-3,,Dallas TX,Chris Giles,2,G,Oklahoma Sooners,193
+JR,6-5,,Leawood KS,Patrick Geha,22,F,Oklahoma Sooners,200
+SO,6-9,Bishop Kelly High School,Tulsa OK,Marshall Thorpe,30,F,Oklahoma Sooners,235
+,6-8,,,Read Streller,32,F,Oklahoma Sooners,220
+SO,6-3,Lawrence Central high school,Indianapolis IN,Kyle Guy,5,G,Virginia Cavaliers,165
+SR,6-5,Cape Henry Collegiate HS,Virginia Beach VA,Devon Hall,0,G,Virginia Cavaliers,210
+SO,6-5,Iona Preparatory School,New Rochelle NY,Ty Jerome,11,G,Virginia Cavaliers,192
+,6-7,,Philadelphia PA,De'Andre Hunter,12,G,Virginia Cavaliers,212
+SR,6-8,Greater Atlanta Christian HS,Lilburn GA,Isaiah Wilkins,21,F,Virginia Cavaliers,205
+SO,6-9,Blue Ridge High School,Guinea,Mamadi Diakite,25,F,Virginia Cavaliers,195
+SR,6-1,Riverdale Baptist (MD),Ashburn VA,Nigel Johnson,23,G,Virginia Cavaliers,185
+JR,6-10,Westlake HS,New Zealand,Jack Salt,33,C,Virginia Cavaliers,240
+FR,6-11,,Durham NC,Jay Huff,30,F,Virginia Cavaliers,215
+FR,6-4,,SAN ANTONIO TX,Marco Anthony,24,G,Virginia Cavaliers,228
+FR,6-6,,Charlottesville VA,Austin Katstra,45,F,Virginia Cavaliers,214
+JR,6-5,Montrose Christian (MD),Lilburn GA,Justice Bartley,2,G,Virginia Cavaliers,209
+JR,6-3,Saint Benedict's Preparatory School,Jackson NJ,Trevon Gross Jr.,10,G,Virginia Cavaliers,206
+,6-7,,,Francesco Badocchi,1,F,Virginia Cavaliers,185
+SO,6-4,Park Hill HS,Kansas City MO,Landry Shamet,11,G,Wichita State Shockers,179
+SR,6-7,Memorial HS,Edmond OK,Shaquille Morris,24,C,Wichita State Shockers,261
+SR,6-9,Madison Central High School,Madison WI,Darral Willis Jr.,21,F,Wichita State Shockers,221
+SR,6-0,Wichita North,Wichita KS,Conner Frankamp,33,G,Wichita State Shockers,165
+SO,6-5,Cedar Ridge High School,Newark AR,Austin Reaves,12,G,Wichita State Shockers,179
+,6-8,St. Anthony HS,Paterson NJ,Markis McDuffie,32,F,Wichita State Shockers,185
+SR,6-7,Hargrave Military Academy,Fredericksburg VA,Rashard Kelly,0,F,Wichita State Shockers,232
+SR,6-6,Sunrise Christian Academy (KS),Houston TX,Zach Brown,1,F,Wichita State Shockers,213
+SR,6-10,Sunrise Christian Academy (KS),Estonia,Rauno Nurger,20,C,Wichita State Shockers,242
+JR,6-0,,Wichita KS,Samajae Haynes-Jones,4,G,Wichita State Shockers,177
+SO,6-3,Sunrise Christian Academy,Baltimore MD,C.J. Keyser,3,G,Wichita State Shockers,194
+FR,7-0,,Denmark,Asbjorn Midtgaard,22,C,Wichita State Shockers,270
+SO,6-9,Sunrise Christian Academy,Wichita KS,Brett Barney,25,C,Wichita State Shockers,215
+FR,6-0,,Wichita KS,Brycen Bush,23,G,Wichita State Shockers,152
+JR,6-1,Phoenix Westwind Academy,Mckinney TX,Kaelen Malone,10,G,Wichita State Shockers,176
+FR,6-3,,Wichita KS,Jacob Herrs,14,G,Wichita State Shockers,164
+,6-6,,,Rod Brown,5,F,Wichita State Shockers,190
+JR,6-3,Capital Christian,Landover MD,Marcquise Reed,2,G,Clemson Tigers,180
+SR,6-3,Shelby HS,Shelby NC,Gabe DeVoe,10,G,Clemson Tigers,200
+JR,6-3,Oak Hill Academy,Waxhaw NC,Shelton Mitchell,4,G,Clemson Tigers,186
+JR,6-9,Lancaster HS,Dallas TX,Elijah Thomas,14,F,Clemson Tigers,251
+SR,6-8,Hargrave Military Academy,Martinsburg WV,Donte Grantham,32,F,Clemson Tigers,205
+FR,6-7,,Palmyra VA,Aamir Simms,25,F,Clemson Tigers,237
+SR,6-9,Anthony Wayne HS,Monclova OH,Mark Donnal,5,F,Clemson Tigers,240
+,6-8,Ekonomska Skola Zadar,Croatia,David Skara,24,F,Clemson Tigers,215
+FR,6-4,,Columbia SC,Clyde Trapp,0,G,Clemson Tigers,192
+FR,6-5,,Clemson SC,Anthony Oliver II,21,G,Clemson Tigers,180
+FR,6-8,,Orlando FL,Malik William,20,F,Clemson Tigers,226
+SO,6-6,Blue Ridge High School,Suffolk VA,Scott Spencer,22,G,Clemson Tigers,195
+JR,5-11,James Island Charter HS,Charleston SC,Lyles Davis,3,G,Clemson Tigers,160
+SO,6-1,South Oldham High School,Pewee Valley KY,Isaac Fields,11,G,Clemson Tigers,180
+FR,6-4,,Reading PA,Lonnie Walker,4,G,Miami (FL) Hurricanes,192
+SO,6-11,Miami Norland High School,Miami FL,Dewan Huell,20,F,Miami (FL) Hurricanes,220
+FR,5-7,,Mitchellville MD,Chris Lykes,2,G,Miami (FL) Hurricanes,160
+SO,6-3,Australian Institute of Sport,Australia,Dejan Vasiljevic,1,G,Miami (FL) Hurricanes,198
+,6-1,Neumann-Goretti HS,Philadelphia PA,Ja'Quan Newton,0,G,Miami (FL) Hurricanes,185
+JR,6-7,Lakewood Senior HS,Saint Petersburg FL,Anthony Lawrence Jr.,3,G,Miami (FL) Hurricanes,185
+SO,6-5,Vermont Academy,Boston MA,Bruce Brown,11,G,Miami (FL) Hurricanes,190
+JR,6-10,Victory Christian Center School (NC),Charlotte NC,Ebuka Izundu,15,C,Miami (FL) Hurricanes,205
+FR,6-9,,New Zealand,Sam Waardenburg,21,F,Miami (FL) Hurricanes,205
+SO,7-0,Oak Hill Academy,Laurelton NY,Rodney Miller,14,C,Miami (FL) Hurricanes,258
+JR,5-10,New Britain HS,New Britain CT,Mike Robinson,5,G,Miami (FL) Hurricanes,170
+,6-6,Tilton (NH),Exeter NH,Josh Heath,35,F,Miami (FL) Hurricanes,190
+,6-10,,,Deng Gak,22,F,Miami (FL) Hurricanes,195
+,6-5,Mount Saint Joseph College,Reisterstown MD,Miles Wilson,10,G,Miami (FL) Hurricanes,190
+SO,6-6,Gill ST. Bernard's School,Edison NJ,Tyus Battle,25,G,Syracuse Orange,205
+FR,6-8,,Mississauga AB,Oshae Brissett,11,F,Syracuse Orange,210
+JR,6-4,Paul IV HS,Suitland MD,Franklin Howard,23,G,Syracuse Orange,170
+FR,6-9,,Slovakia,Marek Dolezaj,21,F,Syracuse Orange,180
+JR,7-2,Fairfield Prep,Westport CT,Paschal Chukwu,13,C,Syracuse Orange,226
+SO,6-8,,Gahanna OH,Matthew Moyer,2,F,Syracuse Orange,220
+FR,6-10,,Newark NJ,Bourama Sidibe,35,F,Syracuse Orange,205
+SR,6-3,Shaler,Pittsburgh PA,Geno Thorpe,30,G,Syracuse Orange,180
+FR,6-3,,Buffalo NY,Howard Washington,10,G,Syracuse Orange,180
+JR,6-4,,Lagrangeville NY,Braedon Bayer,14,G,Syracuse Orange,185
+JR,5-10,Uniondale HS,Brick NJ,Shaun Belbey,24,G,Syracuse Orange,150
+SR,6-6,,Charleston WV,Patrick Herlihy,5,F,Syracuse Orange,205
+JR,6-0,Jamesville-DeWitt HS,Jamesville NY,Adrian Autry,0,G,Syracuse Orange,160
+SO,5-8,Fairfield College Preparatory School,Westport CT,Ray Featherston,32,G,Syracuse Orange,150
+,5-10,Agoura HS,Agoura Hills CA,Ky Feldman,54,G,Syracuse Orange,155
+,6-6,John F. Kennedy Catholic High School,Beacon NY,Elijah Hughes,4,G,Syracuse Orange,215
+SO,6-3,Seton Hall Preparatory School,Scotch Plains NJ,Temple Gibbs,10,G,Notre Dame Fighting Irish,200
+SR,6-0,Point Pleasant Beach HS,Bridgewater NJ,Matt Farrell,5,G,Notre Dame Fighting Irish,173
+SR,6-5,St. Andrew's (RI),New Bedford MA,Bonzie Colson,35,F,Notre Dame Fighting Irish,226
+SR,6-9,St. Maria Goretti HS,Lithuania,Martinas Geben,23,F,Notre Dame Fighting Irish,255
+JR,6-6,Mater Dei HS,Dana Point CA,Rex Pflueger,0,G,Notre Dame Fighting Irish,193
+SO,6-9,Lake Brantley High School,Orlando FL,John Mooney,33,F,Notre Dame Fighting Irish,245
+FR,6-6,,Bowie MD,D.J. Harvey,3,G,Notre Dame Fighting Irish,220
+SO,6-7,,Canada,Nikola Djogo,13,G,Notre Dame Fighting Irish,203
+SR,6-7,Penn HS,Granger IN,Austin Torres,1,F,Notre Dame Fighting Irish,228
+JR,6-9,Blair Academy,Troy NY,Elijah Burns,12,F,Notre Dame Fighting Irish,232
+SR,6-6,Cathedral HS,Avon IN,Matt Gregory,21,F,Notre Dame Fighting Irish,190
+SR,6-5,,La Grange Park IL,Liam Nelligan,25,G,Notre Dame Fighting Irish,195
+,6-11,Tampa Preparatory School,Tampa FL,Juwan Durham,11,F,Notre Dame Fighting Irish,215
+JR,6-7,Needham Broughton HS,Raleigh NC,Jerome Robinson,1,G,Boston College Eagles,181
+SO,6-1,Havelock High School,Havelock NC,Ky Bowman,0,G,Boston College Eagles,182
+JR,6-5,Union HS,Vancouver WA,Jordan Chatman,25,G,Boston College Eagles,190
+SO,6-11,Sagemont School,Bosnia and Herzegovina,Nik Popovic,21,F,Boston College Eagles,243
+FR,6-8,,Shakopee MN,Steffon Mitchell,41,F,Boston College Eagles,222
+SR,6-8,Dayton Dunbar,Dayton OH,Deontae Hawkins,23,F,Boston College Eagles,219
+SO,6-10,Kingdom Christian Academy,Lawrenceville GA,Johncarlos Reyes,12,F,Boston College Eagles,216
+FR,6-7,,Old Saybrook CT,Vin Baker Jr.,11,F,Boston College Eagles,177
+FR,6-10,,Slovenia,Lucas Kraljevic,13,F,Boston College Eagles,229
+FR,6-3,,Forest Park GA,Avery Wilson,2,G,Boston College Eagles,220
+JR,6-7,Rigas Teikas,Latvia,Ervins Meznieks,10,F,Boston College Eagles,218
+JR,6-5,Episcopal School of Dallas,Dallas TX,Gordon Gehan,20,G,Boston College Eagles,220
+,6-4,,,Mac Bohuny,,G,Boston College Eagles,175
+SO,5-11,South Side High School,Rockville Centre NY,Matt DiLuccio,22,G,Boston College Eagles,180
+,5-10,,,Sam Holtz,,F,Boston College Eagles,150
+,6-8,,,Will Jackowitz,,F,Boston College Eagles,205
+,6-7,St. Thomas More Prep,Bloomfield CT,Mike Sagay,3,F,Boston College Eagles,208
+SR,6-3,Berkner HS,Richardson TX,Keenan Evans,12,G,Texas Tech Red Raiders,175
+FR,6-5,,Garland TX,Zhaire Smith,2,G,Texas Tech Red Raiders,195
+FR,6-5,,Lubbock TX,Jarrett Culver,23,G,Texas Tech Red Raiders,190
+SR,6-5,Carrollton Ranchview High School,Dallas TX,Niem Stevenson,10,G,Texas Tech Red Raiders,205
+SR,6-11,IMG Academy (FL),Chicago IL,Tommy Hamilton,0,F,Texas Tech Red Raiders,255
+JR,6-5,Arlington Country Day,Dominican Republic,Brandone Francis,1,G,Texas Tech Red Raiders,205
+SR,6-5,Berkeley Prep,Tampa FL,Justin Gray,5,G,Texas Tech Red Raiders,185
+SR,6-8,Plano East,Plano TX,Zach Smith,11,F,Texas Tech Red Raiders,210
+JR,6-9,North Crowley,Fort Worth TX,Norense Odiase,32,C,Texas Tech Red Raiders,265
+FR,6-3,,Italy,Davide Moretti,25,G,Texas Tech Red Raiders,165
+FR,6-10,,El Mirage AZ,Malik Ondigo,21,F,Texas Tech Red Raiders,210
+JR,6-4,,St. Louis MO,Josh Webster,3,G,Texas Tech Red Raiders,175
+FR,6-5,,Decatur TX,Parker Hicks,35,G,Texas Tech Red Raiders,200
+SO,6-3,Birdville HS,North Richland Hills TX,Andrew Sorrells,30,G,Texas Tech Red Raiders,170
+,6-3,,,Avery Benson,24,G,Texas Tech Red Raiders,185
+,6-0,,,Hyron Edwards,4,G,Texas Tech Red Raiders,170
+,6-0,,,Alex Vilarino,13,G,Texas Tech Red Raiders,180
+JR,6-1,St. James School,Manassas VA,Justin Robinson,5,G,Virginia Tech Hokies,180
+SR,6-5,Montverde Academy (FL),Dayton OH,Justin Bibbs,10,G,Virginia Tech Hokies,220
+JR,6-10,Maynard Evans HS,Orlando FL,Kerry Blackshear Jr.,24,F,Virginia Tech Hokies,240
+FR,6-5,,Canada,Nickeil Alexander-Walker,4,G,Virginia Tech Hokies,210
+JR,6-5,Aquinas HS,Augusta GA,Ahmed Hill,13,G,Virginia Tech Hokies,195
+JR,6-6,Cape Henry Collegiate school,Virginia Beach VA,Chris Clarke,15,F,Virginia Tech Hokies,205
+FR,6-5,,Tifton GA,P.J. Horne,14,F,Virginia Tech Hokies,215
+SR,6-4,Montour HS,Mckees Rocks PA,Devin Wilson,11,G,Virginia Tech Hokies,190
+SO,6-1,,Tifton GA,Tyrie Jackson,1,G,Virginia Tech Hokies,205
+FR,6-1,,North Andover MA,Wabissa Bede,3,G,Virginia Tech Hokies,195
+JR,6-3,,West Chester PA,Justin Ammerman,22,G,Virginia Tech Hokies,185
+SR,6-10,,La Plata MD,Nicholas Fullard,21,F,Virginia Tech Hokies,235
+,6-6,Person County High School,Roxboro NC,Ty Outlaw,42,G,Virginia Tech Hokies,220
+,6-10,Oak Hill Academy,,Khadim Sy,2,F,Virginia Tech Hokies,240
+JR,6-3,Gibbs HS,Saint Petersburg FL,Barry Brown,5,G,Kansas State Wildcats,195
+JR,6-8,St. John HS,Saint John KS,Dean Wade,32,F,Kansas State Wildcats,225
+SO,6-5,Hazelwood Central HIgh School,Florissant MO,Xavier Sneed,20,F,Kansas State Wildcats,210
+JR,5-10,Fork Union Military Academy,Baltimore MD,Kamau Stokes,3,G,Kansas State Wildcats,170
+FR,6-4,,Florence SC,Cartier Diarra,2,G,Kansas State Wildcats,180
+SO,6-9,Granger HS,West Valley City UT,Makol Mawien,14,F,Kansas State Wildcats,215
+JR,6-2,,Kansas City MO,Amaad Wainright,23,G,Kansas State Wildcats,200
+FR,6-8,,St. Louis MO,Levi Stockard III,34,F,Kansas State Wildcats,239
+SO,6-5,Boyd H. Anderson High School,Fort Lauderdale FL,Brian Patrick,11,G,Kansas State Wildcats,200
+,6-2,,,Mike McGuirl,0,G,Kansas State Wildcats,190
+SR,6-8,Broadfording Christian Academy (MD),Gambia,Mawdo Sallah,1,F,Kansas State Wildcats,215
+,6-10,,Fort Lauderdale FL,James Love,21,F,Kansas State Wildcats,230
+FR,6-9,,Mesa AZ,Nigel Shadd,45,F,Kansas State Wildcats,235
+SO,6-6,Manhattan HS,Manhattan KS,Pierson McAtee,24,F,Kansas State Wildcats,190
+JR,6-0,St. John High School,Saint John KS,Kade Kinnamon,40,G,Kansas State Wildcats,180
+SR,6-3,Blue Valley Northwest HS,Overland Park KS,Mason Schoen,12,G,Kansas State Wildcats,190
+,6-7,Basehor-Linwood HS,Basehor KS,Patrick Muldoon,35,F,Kansas State Wildcats,210
+JR,6-9,JSerra Catholic HS,San Diego CA,Dylan Osetkowski,21,F,Texas Longhorns,255
+JR,6-4,North Shore HS,Houston TX,Kerwin Roach Jr.,12,G,Texas Longhorns,170
+FR,6-11,,Harlem NY,Mohamed Bamba,4,F,Texas Longhorns,225
+FR,6-2,,Norfolk VA,Matt Coleman,2,G,Texas Longhorns,180
+JR,6-2,Saginaw Arthur Hill HS,Saginaw MI,Eric Davis Jr.,10,G,Texas Longhorns,185
+SO,6-2,Yates High School,Houston TX,Jacob Young,3,G,Texas Longhorns,185
+FR,6-9,,Minneapolis MN,Jericho Sims,20,F,Texas Longhorns,240
+SO,6-4,MacArthur High School,Irving TX,Andrew Jones,1,G,Texas Longhorns,190
+FR,6-5,,Houston TX,Jase Febres,13,G,Texas Longhorns,190
+SO,6-10,La Lumiere School,Decatur GA,James Banks,00,C,Texas Longhorns,240
+FR,6-8,,Houston TX,Royce Hamm Jr.,5,F,Texas Longhorns,230
+SR,6-5,Seven Lakes HS,Katy TX,Ryan McClurg,30,F,Texas Longhorns,225
+SR,6-3,Vanguard College Prep,Waco TX,Joe Schwartz,25,G,Texas Longhorns,180
+,6-3,Lake Worth Christian,Palm Beach FL,Isaiah Hobbs,22,G,Texas Longhorns,190
+,6-1,John Carroll HS,Canada,Elijah Long,55,G,Texas Longhorns,185
+SR,6-10,Canarias Basketball Academy,Slovakia,Vladimir Brodziansky,10,F,Texas Christian Horned Frogs,215
+SR,6-7,Reagan,Waco TX,Kenrich Williams,34,G,Texas Christian Horned Frogs,210
+SO,6-5,Seton Catholic High School,Richmond IN,Desmond Bane,1,G,Texas Christian Horned Frogs,215
+FR,6-7,,Australia,Kouat Noi,12,F,Texas Christian Horned Frogs,205
+JR,6-1,Timberview HS,Fort Worth TX,Alex Robinson,25,G,Texas Christian Horned Frogs,174
+JR,6-8,Seagoville HS,Dallas TX,JD Miller,15,F,Texas Christian Horned Frogs,235
+SO,6-2,Bolton High School,Arlington TN,Jaylen Fisher,0,G,Texas Christian Horned Frogs,195
+SR,6-9,Trent Internationale School,Egypt,Ahmed Hamdy Mohamed,23,F,Texas Christian Horned Frogs,230
+JR,6-3,Union HS,Tulsa OK,Shawn Olden,2,G,Texas Christian Horned Frogs,175
+SR,6-3,Fort Worth Country Day HS,Fort Worth TX,Dalton Dry,20,G,Texas Christian Horned Frogs,185
+FR,6-4,,Keller TX,RJ Nembhard,22,G,Texas Christian Horned Frogs,190
+SR,6-3,,Aspen CO,Clayton Crawford,33,F,Texas Christian Horned Frogs,210
+,6-6,St. Louis-University High School,St. Louis MO,Austin Sottile,45,F,Texas Christian Horned Frogs,225
+,6-8,,,Lat Mayen,13,F,Texas Christian Horned Frogs,195
+,6-10,,,Angus McWilliam,14,F,Texas Christian Horned Frogs,220
+,6-11,,,Kevin Samuel,21,C,Texas Christian Horned Frogs,265
+SR,6-6,Abraham Lincoln HS,Bronx NY,Desi Rodriguez,20,F,Seton Hall Pirates,215
+SR,6-3,Bishop Loughlin HS,Brooklyn NY,Khadeen Carrington,0,G,Seton Hall Pirates,180
+SO,6-2,South Kent School,Trenton NJ,Myles Powell,13,G,Seton Hall Pirates,205
+SR,6-9,Patrick School (NJ),Dominican Republic,Angel Delgado,31,C,Seton Hall Pirates,230
+SR,6-7,East Side HS,Newark NJ,Ismael Sanogo,14,F,Seton Hall Pirates,190
+FR,6-5,,Middletown DE,Myles Cale,22,G,Seton Hall Pirates,200
+JR,6-7,Our Savior New American HS,Nigeria,Michael Nzei,1,F,Seton Hall Pirates,190
+FR,6-10,,Georgia,Sandro Mamukelashvili,23,F,Seton Hall Pirates,230
+SO,6-3,North Central High School,Indianapolis IN,Eron Gordon,4,G,Seton Hall Pirates,190
+FR,5-11,,Port Washington NY,Jordan Walker,2,G,Seton Hall Pirates,155
+FR,6-5,,Oshkosh WI,Philip Flory,25,G,Seton Hall Pirates,190
+FR,6-2,,United Kingdom,Shavar Reynolds,21,G,Seton Hall Pirates,195
+,7-2,,,Romaro Gill,35,C,Seton Hall Pirates,245
+,6-4,St. Joseph's HS,Bridgeport CT,Quincy McKnight,30,G,Seton Hall Pirates,180
+,6-10,Brewster Academy,New York NY,Taurean Thompson,33,F,Seton Hall Pirates,225
+SR,6-6,Ballard HS,Louisville KY,Kelan Martin,30,F,Butler Bulldogs,215
+SO,6-0,Apalachee High School,Winder GA,Kamar Baldwin,3,G,Butler Bulldogs,170
+JR,6-2,Don Bosco Prep (NJ),New City NY,Paul Jorgensen,5,G,Butler Bulldogs,183
+SR,6-8,Lake Central HS,Schererville IN,Tyler Wideman,4,F,Butler Bulldogs,245
+SO,6-6,Pendleton Heights HS,Anderson IN,Sean McDermott,22,G,Butler Bulldogs,182
+JR,6-10,Moeller HS,Cincinnati OH,Nate Fowler,51,C,Butler Bulldogs,250
+FR,6-2,,Glenn Dale MD,Aaron Thompson,2,G,Butler Bulldogs,190
+SO,6-4,St. Vincent St. Mary High School,Wadsworth OH,Henry Baddley,20,G,Butler Bulldogs,175
+FR,6-6,,Canada,Christian David,25,G,Butler Bulldogs,215
+SO,6-11,Southport High School,Indianapolis IN,Joey Brunk,50,F,Butler Bulldogs,240
+FR,6-4,,Fort Lauderdale FL,Jerald Gillens-Butler,21,G,Butler Bulldogs,235
+FR,5-11,,Fort Wayne IN,Campbell Donovan,0,G,Butler Bulldogs,165
+SR,6-3,Hirschi,Wichita Falls TX,Marcus Foster,0,G,Creighton Bluejays,210
+JR,6-3,Fork Union Military Academy,Omaha NE,Khyri Thomas,2,G,Creighton Bluejays,200
+SR,6-10,Berlin HS,Berlin WI,Toby Hegner,32,F,Creighton Bluejays,225
+FR,6-5,,Eudora KS,Mitchell Ballock,24,G,Creighton Bluejays,205
+SO,6-9,Impact Academy (FL),Slovenia,Martin Krampelj,15,F,Creighton Bluejays,205
+JR,6-7,East HS,Denver CO,Ronnie Harrell,4,G,Creighton Bluejays,180
+SO,6-3,North Mecklenburg High School,Charlotte NC,Davion Mintz,1,G,Creighton Bluejays,175
+FR,6-4,,Charlotte NC,Ty-Shon Alexander,5,G,Creighton Bluejays,195
+,6-11,,,Jacob Epperson,41,C,Creighton Bluejays,210
+SR,6-10,Marist,Cliffside Park NJ,Manny Suarez,44,C,Creighton Bluejays,225
+JR,6-3,Cushing Academy,Nashua NH,Kaleb Joseph,14,G,Creighton Bluejays,165
+SR,6-1,St. Thomas Aquinas HS,Shawnee KS,Tyler Clement,11,G,Creighton Bluejays,185
+SO,6-2,St. Mark's High School,Dedham MA,Jordan Scurry,12,G,Creighton Bluejays,205
+,6-5,East Chicago Central High School,East Chicago IN,Damien Jefferson,23,G,Creighton Bluejays,195
+SO,6-1,Atascocita High School,Atascocita TX,Carsen Edwards,3,G,Purdue Boilermakers,190
+SR,7-2,Hokes Bluff HS,Hokes Bluff AL,Isaac Haas,44,C,Purdue Boilermakers,297
+SR,6-7,Middletown HS,Middletown OH,Vince Edwards,12,F,Purdue Boilermakers,220
+SR,6-4,Elida HS,Elida OH,Dakota Mathias,31,G,Purdue Boilermakers,197
+SR,5-10,Brebeuf Prep,Indianapolis IN,P.J. Thompson,11,G,Purdue Boilermakers,188
+FR,7-2,,Netherlands,Matt Haarms,32,F,Purdue Boilermakers,230
+JR,6-5,Carmel HS,Carmel IN,Ryan Cline,14,G,Purdue Boilermakers,190
+FR,6-6,,Evanston IL,Nojel Eastern,20,G,Purdue Boilermakers,220
+JR,6-6,Bishop Dwenger HS,Fort Wayne IN,Grady Eifert,24,F,Purdue Boilermakers,215
+JR,6-9,Beaver Country Day,Cambridge MA,Jacquil Taylor,23,F,Purdue Boilermakers,217
+JR,6-9,,Richmond TX,Eden Ewing,5,F,Purdue Boilermakers,215
+SO,5-10,Jeffersonville High School,Jeffersonville IN,Tommy Luce,15,G,Purdue Boilermakers,150
+,6-4,,,Sasha Stefanovic,55,G,Purdue Boilermakers,195
+,6-9,,,Aaron Wheeler,1,F,Purdue Boilermakers,200
+JR,6-7,University HS,Normal IL,Keita Bates-Diop,33,F,Ohio State Buckeyes,190
+JR,6-1,Montverde Academy,Charlotte NC,C.J. Jackson,3,G,Ohio State Buckeyes,175
+,6-4,Pickerington Central,Pickerington OH,Jae'Sean Tate,1,F,Ohio State Buckeyes,190
+FR,6-9,,Westerville OH,Kaleb Wesson,34,F,Ohio State Buckeyes,270
+SR,6-2,Mount St. Joseph's HS,Baltimore MD,Kam Williams,15,G,Ohio State Buckeyes,175
+SO,6-9,Mentor High School,Mentor OH,Micah Potter,0,C,Ohio State Buckeyes,240
+SR,6-2,Zionsville Community HS,Zionsville IN,Andrew Dakich,13,G,Ohio State Buckeyes,190
+SO,6-6,Westerville South HIgh School,Westerville OH,Andre Wesson,24,F,Ohio State Buckeyes,220
+FR,6-5,,Bloomington IN,Musa Jallow,2,G,Ohio State Buckeyes,200
+FR,6-8,,Massillon OH,Kyle Young,25,F,Ohio State Buckeyes,205
+JR,6-1,Deerfield HS,Deerfield IL,Joey Lane,14,G,Ohio State Buckeyes,175
+JR,6-4,,Columbus OH,Matt Lehmann,43,G,Ohio State Buckeyes,205
+FR,6-4,,Salt Lake City UT,Connor Fulton,45,G,Ohio State Buckeyes,175
+,6-0,Upper Arlington HIgh School,Upper Arlington OH,Daniel Hummer,40,G,Ohio State Buckeyes,175
+SO,6-1,St. John's College High School,Bowie MD,Anthony Cowan,1,G,Maryland Terrapins,170
+SO,6-7,Shenendehowa High School,Clifton Park NY,Kevin Huerter,4,G,Maryland Terrapins,190
+FR,6-10,,Angola,Bruno Fernando,23,F,Maryland Terrapins,240
+FR,6-4,,Baltimore MD,Darryl Morsell,10,G,Maryland Terrapins,205
+SR,7-1,Canarias Academy,Slovakia,Michal Cekovsky,15,C,Maryland Terrapins,235
+SR,6-7,Westtown,Monmouth Junction NJ,Jared Nickens,11,F,Maryland Terrapins,200
+JR,6-4,Potomac HS,Oxon Hill MD,Dion Wiley,5,G,Maryland Terrapins,210
+SO,6-7,Findlay College Prep,Canada,Justin Jackson,21,F,Maryland Terrapins,225
+FR,6-9,,Spain,Joshua Tomaic,33,F,Maryland Terrapins,220
+JR,6-9,Elektrotehnicka Skola,Bosnia and Herzegovina,Ivan Bender,13,F,Maryland Terrapins,230
+SR,6-9,Green Farms Academy,Nigeria,Sean Obi,0,C,Maryland Terrapins,270
+FR,6-2,,La Plata MD,Reese Mona,12,G,Maryland Terrapins,180
+SO,6-1,Gerogetown Preparatory School,Rockville MD,Travis Valmon,20,G,Maryland Terrapins,175
+FR,6-2,,Mexico,Alex Tostado,25,G,Maryland Terrapins,178
+JR,5-10,Brebeuf Jesuit HS,Indianapolis IN,Andrew Terrell,24,G,Maryland Terrapins,190
+JR,6-10,Alba Berlin,Germany,Moritz Wagner,13,F,Michigan Wolverines,210
+JR,6-6,St. rita HS,Chicago IL,Charles Matthews,1,G,Michigan Wolverines,189
+SR,6-4,Central Catholic HS,Allentown PA,Muhammad-Ali Abdur-Rahkman,12,G,Michigan Wolverines,175
+SR,6-8,Phillips Exeter Academy (NH),New Castle NH,Duncan Robinson,22,G,Michigan Wolverines,190
+SO,6-0,,Lima OH,Zavier Simpson,3,G,Michigan Wolverines,185
+FR,6-4,,Milwaukee WI,Jordan Poole,2,G,Michigan Wolverines,190
+SO,7-1,Medina High School,Medina OH,Jon Teske,15,C,Michigan Wolverines,245
+FR,6-7,,Kalamazoo MI,Isaiah Livers,4,F,Michigan Wolverines,230
+SO,6-5,Pickerington High School Central,Pickerington OH,Ibi Watson,23,G,Michigan Wolverines,190
+FR,6-0,,Spring Grove PA,Eli Brooks,55,G,Michigan Wolverines,170
+SR,6-1,Archbishop Alter,Dayton OH,Jaaron Simmons,5,G,Michigan Wolverines,175
+SO,6-10,,Onsted MI,Austin Davis,51,F,Michigan Wolverines,240
+JR,6-8,Hudsonville HS,Hudsonville MI,Brent Hibbitts,0,F,Michigan Wolverines,190
+FR,6-5,,Novi MI,C.J. Baird,,F,Michigan Wolverines,220
+FR,6-8,,Novi MI,Naji Ozeir,25,F,Michigan Wolverines,225
+,5-11,,,Rico Ozuna-Harrison,,G,Michigan Wolverines,165
+FR,6-0,,Boulder CO,Luke Wilson,11,G,Michigan Wolverines,165
+JR,6-10,Plano West HS,Plano TX,Tyler Davis,34,C,Texas A&M Aggies,265
+JR,6-3,Madison HS,Dallas TX,Admon Gilder,3,G,Texas A&M Aggies,186
+JR,6-8,Plano West HS,Plano TX,DJ Hogg,1,F,Texas A&M Aggies,216
+FR,6-2,,Lancaster TX,TJ Starks,2,G,Texas A&M Aggies,196
+SO,6-9,North Caddo Magnet High School,Vivian LA,Robert Williams,44,F,Texas A&M Aggies,237
+SR,6-10,Mayor Jose Celestino Mutis,Colombia,Tonny Trocha-Morelos,10,C,Texas A&M Aggies,221
+SR,6-2,Dominican HS,Milwaukee WI,Duane Wilson,13,G,Texas A&M Aggies,185
+FR,6-4,,Katy TX,Jay Jay Chandler,0,G,Texas A&M Aggies,180
+FR,6-7,,Alvin TX,Savion Flagg,5,G,Texas A&M Aggies,217
+,6-1,,Houston TX,JJ Caldwell,4,G,Texas A&M Aggies,184
+JR,6-2,Friendswood HS,Friendswood TX,Chris Collins,12,G,Texas A&M Aggies,180
+FR,6-10,,Killeen TX,Isiah Jasey,15,F,Texas A&M Aggies,248
+,5-9,,,Cameron Alo,33,G,Texas A&M Aggies,167
+JR,5-10,South Oak Cliff HS,Dallas TX,Frank Byers,22,G,Texas A&M Aggies,168
+SO,5-8,Prestonwood Christian Academy,Plano TX,Mark French,11,G,Texas A&M Aggies,150
+,6-9,Cypress Lakes HS,Houston TX,Josh Nebo,32,F,Texas A&M Aggies,242
+,6-9,,,John Walker III,24,F,Texas A&M Aggies,170
+JR,6-6,St. Michael the Archangel HS,Baton Rouge LA,Jacob Evans,1,G,Cincinnati Bearcats,210
+SR,6-7,Clayton HS,Clayton NC,Gary Clark,11,F,Cincinnati Bearcats,230
+SO,6-5,Wilmington High School,Wilmington OH,Jarron Cumberland,34,G,Cincinnati Bearcats,218
+SR,6-9,Brewster Academy (NH),Champlin MN,Kyle Washington,24,F,Cincinnati Bearcats,230
+JR,6-0,East Hartford (St. Thomas More),East Hartford CT,Cane Broome,15,G,Cincinnati Bearcats,185
+JR,5-10,Milford Mill Academy (MD),Baltimore MD,Justin Jenifer,3,G,Cincinnati Bearcats,175
+FR,6-5,,Houston TX,Trevor Moore,5,G,Cincinnati Bearcats,200
+SO,6-7,McIntosh County Academy,Darien GA,Tre Scott,13,F,Cincinnati Bearcats,220
+FR,6-5,,Brooklyn NY,Keith Williams,2,G,Cincinnati Bearcats,210
+SO,6-11,Life Center Academy,Philadelphia PA,Nysier Brooks,33,C,Cincinnati Bearcats,240
+FR,6-9,,Democratic Republic of the Congo,Eliel Nsoseme,22,F,Cincinnati Bearcats,220
+FR,6-9,,Mali,Mamoudou Diarra,20,F,Cincinnati Bearcats,215
+SO,6-5,Bartlesville High School,Bartlesville OK,Jackson Bart,14,F,Cincinnati Bearcats,210
+SO,6-1,Bay High School,Cleveland OH,John Koz,32,G,Cincinnati Bearcats,190
+FR,5-10,,Cincinnati OH,Sam Martin,31,G,Cincinnati Bearcats,160
+SO,6-5,Sacred Heart High School,Waterbury CT,Mustapha Heron,5,G,Auburn Tigers,215
+JR,6-3,Tucker HS,Stone Mountain GA,Bryce Brown,2,G,Auburn Tigers,195
+SO,5-10,Pebblebrook High School,Mableton GA,Jared Harper,1,G,Auburn Tigers,165
+JR,6-5,Northside Christian HS,Stanley NC,DeSean Murray,13,F,Auburn Tigers,210
+FR,6-8,,Atlanta GA,Chuma Okeke,4,F,Auburn Tigers,230
+SO,6-7,Worth County High School,Warwick GA,Anfernee McLemore,24,F,Auburn Tigers,210
+JR,6-6,,North Augusta SC,Malik Dunbar,14,G,Auburn Tigers,230
+JR,6-9,Findlay College Prep,Philadelphia PA,Horace Spencer,0,F,Auburn Tigers,220
+FR,6-1,,Hinesville GA,Davion Mitchell,,G,Auburn Tigers,200
+JR,6-9,Brooks HS,Killen AL,Cole Blackstock,41,F,Auburn Tigers,253
+SR,6-2,Mountain Brook HS,Birmingham AL,Patrick Keim,21,G,Auburn Tigers,186
+SO,6-9,,Birmingham AL,Thomas Collier,,F,Auburn Tigers,215
+FR,6-1,,Tallahassee FL,Brett Easterling,,G,Auburn Tigers,165
+SO,6-4,Mountain Brook High School,Birmingham AL,Will Macoy,22,G,Auburn Tigers,180
+SO,6-4,,Opp AL,Devontae Williams,12,G,Auburn Tigers,215
+,6-4,Math Civics & Sciences HS,Philadelphia PA,Samir Doughty,20,G,Auburn Tigers,187
+,6-7,Hargrave Military Academy,Centreville AL,Danjel Purifoy,3,F,Auburn Tigers,230
+,6-11,Spain Pain High School,,Austin Wiley,50,C,Auburn Tigers,260
+SR,6-2,West Oaks Academy (FL),Forest City NC,Robert Gray Jr.,32,G,Houston Cougars,190
+JR,6-1,,Lafayette LA,Corey Davis Jr.,5,G,Houston Cougars,190
+SR,6-7,Warren Central,Indianapolis IN,Devin Davis,15,F,Houston Cougars,221
+SO,6-4,McNeill High School,Round Rock TX,Armoni Brooks,3,G,Houston Cougars,180
+FR,6-7,,Atascocita TX,Fabian White Jr.,35,F,Houston Cougars,210
+SR,6-2,Westside HS,Houston TX,Wes VanBeck,12,G,Houston Cougars,180
+JR,6-0,Westbury HS,Houston TX,Galen Robinson Jr.,25,G,Houston Cougars,170
+JR,6-8,,Akron OH,Breaon Brady,24,F,Houston Cougars,250
+SR,6-7,Coral Springs Christian,Nigeria,Nura Zanna,13,F,Houston Cougars,240
+JR,6-4,,Chicago IL,Gabe Grant,20,F,Houston Cougars,220
+SO,6-10,Madison HS,Houston TX,Chris Harris,1,C,Houston Cougars,200
+JR,6-9,,Nigeria,Valentine Sangoyomi,31,C,Houston Cougars,250
+FR,6-4,,Mansfield TX,Mike Adewunmi,2,G,Houston Cougars,210
+FR,6-5,,Houston TX,Cedrick Alley Jr,23,F,Houston Cougars,235
+,6-7,,,Caleb Broodo,30,C,Houston Cougars,210
+SR,6-7,Bishop O'Connell,Democratic Republic of the Congo,Junior Etou,0,F,Tulsa Golden Hurricane,230
+JR,6-1,St. Thomas More (CT),East Amherst NY,Sterling Taplin,4,G,Tulsa Golden Hurricane,189
+SR,6-6,Episcopal School of Dallas,Dallas TX,Corey Henderson,32,G,Tulsa Golden Hurricane,173
+SO,6-8,Covenant Christian Academy,Nigeria,Martins Igbanu,1,F,Tulsa Golden Hurricane,240
+,6-5,Santa Fe HS,Edmond OK,DaQuan Jeffries,2,F,Tulsa Golden Hurricane,201
+SO,6-3,Edmond Memorial HS,Edmond OK,Curran Scott,10,G,Tulsa Golden Hurricane,193
+SR,6-4,St. George's School,Newark NJ,Jaleel Wheeler,13,G,Tulsa Golden Hurricane,195
+FR,6-3,,Chicago IL,Elijah Joiner,3,G,Tulsa Golden Hurricane,205
+SO,6-5,Pulaski Academy,Little Rock AR,Lawson Korita,5,G,Tulsa Golden Hurricane,207
+JR,6-9,Benjamin Franklin High School,Seattle WA,Geno Artison,35,F,Tulsa Golden Hurricane,202
+FR,6-2,,Overland Park KS,Darien Jackson,11,G,Tulsa Golden Hurricane,188
+,6-5,Southside High School,Fort Smith AR,Alex Foree,34,F,Tulsa Golden Hurricane,202
+,6-7,The Barstow School,Overland Park KS,Jeriah Horne,41,F,Tulsa Golden Hurricane,219
+SR,6-9,Buford,Atlanta GA,A.J. Davis,3,F,UCF Knights,215
+JR,6-5,St. Petersburg HS,Saint Petersburg FL,Dayon Griffin,10,G,UCF Knights,188
+FR,6-3,,Baltimore MD,Ceasar DeJesus,4,G,UCF Knights,190
+JR,6-2,Boone HS,Orlando FL,B.J. Taylor,1,G,UCF Knights,200
+JR,7-6,Liberty Christian Prep (FL),Senegal,Tacko Fall,24,C,UCF Knights,300
+SO,6-2,,Upper Marlboro MD,Terrell Allen,2,G,UCF Knights,180
+JR,6-4,Deltona HS,Deltona FL,Chad Brown,21,F,UCF Knights,225
+SO,6-4,Winter Haven HS,Winter Haven FL,Chance McSpadden,22,G,UCF Knights,180
+SR,6-2,American Heritage HS,Montenegro,Djordjije Mumin,33,G,UCF Knights,200
+FR,6-8,,Edgewood MD,Myles Douglas,5,F,UCF Knights,215
+SO,6-11,Mt. Zion Prep HS,Lithuania,Rokas Ulvydas,11,F,UCF Knights,235
+SR,6-0,Harnett Central HS,Lillington NC,Nathan Laing,51,G,UCF Knights,165
+,6-4,Seminole High School,,Anthony Catotti,30,F,UCF Knights,200
+,6-6,New Hampton Prep (NH),Palo Alto CA,Aubrey Dawkins,15,F,UCF Knights,205
+,6-5,,,Daniel Lewis,13,G,UCF Knights,175
+,6-4,Orangewood Christian High School,,Tate Morse,25,G,UCF Knights,165
+,6-11,The Bolles School,Jacksonville FL,Collin Smith,35,C,UCF Knights,235
+,6-0,Dade Christian High School,Miami FL,Brock Stephenson,20,G,UCF Knights,190
+SO,6-8,Bishop Kearney High School,Rochester NY,Quinton Rose,13,G,Temple Owls,185
+JR,6-4,The Haverford School,Philadelphia PA,Levan Shawn Alston,3,G,Temple Owls,170
+SR,6-8,St. James (MD),Springfield VA,Obi Enechionyia,0,F,Temple Owls,220
+SR,6-3,St. Anthony's HS,Newark NJ,Josh Brown,1,G,Temple Owls,185
+,6-4,,,Nate Pierre-Louis,15,G,Temple Owls,200
+JR,6-10,Archbishop Carroll HS,Ghana,Ernest Aflakpui,24,C,Temple Owls,235
+FR,6-7,,Greensboro NC,J.P. Moorman,4,F,Temple Owls,205
+,6-6,,,De'Vondre Perry,22,F,Temple Owls,220
+SO,6-11,Callaway High School,Jackson MS,Damion Moore,23,C,Temple Owls,225
+SO,5-10,Friendship Collegiate Academy Public Charter School,Washington DC,Alani Moore,2,G,Temple Owls,170
+,6-6,Perkiomen School,Collegeville PA,Steve Leonard,25,G,Temple Owls,180
+,6-10,,,Justyn Hamilton,21,F,Temple Owls,190
+,6-5,Escuela Normal Superior HS,Argentina,Ayan Nunez de Carvalho,32,G,Temple Owls,190
+,6-7,Ewing HS,Ewing NJ,Trey Lowe,11,G,Temple Owls,165
+JR,6-2,Mitchell HS,Memphis TN,Jeremiah Martin,3,G,Memphis Tigers,175
+JR,6-8,,Gainesville GA,Kyvon Davenport,0,F,Memphis Tigers,210
+JR,6-3,,Claxton GA,Kareem Brewton Jr.,5,G,Memphis Tigers,190
+JR,6-9,,Cleveland OH,Mike Parks Jr.,10,F,Memphis Tigers,270
+FR,6-0,,Birmingham AL,Jamal Johnson,1,G,Memphis Tigers,170
+SR,6-8,Kenwood High School,Clarksville TN,Jimario Rivers,2,G,Memphis Tigers,195
+JR,6-7,,Marietta GA,Raynere Thornton,4,F,Memphis Tigers,235
+FR,6-8,,Orlando FL,David Nickelberry,15,G,Memphis Tigers,210
+JR,6-2,,Cincinnati OH,Malik Rhodes,11,G,Memphis Tigers,180
+FR,6-8,,Decatur GA,Victor Enoh,12,F,Memphis Tigers,250
+,6-11,,Egypt,Karim Sameh Azab,23,F,Memphis Tigers,290
+,6-7,,Memphis TN,Jesse Johnson,31,F,Memphis Tigers,220
+,6-5,Fayette Academy,Somerville TN,Alex Moffatt,32,F,Memphis Tigers,223
+,6-0,,,Evin Olds,14,G,Memphis Tigers,155
+,6-3,,,Nathan Stewart,20,G,Memphis Tigers,168
+,6-3,,Memphis TN,Kytrel Williams,30,G,Memphis Tigers,207
+JR,6-7,Victoria Rock Prep HS,Australia,Deng Adel,22,F,Louisville Cardinals,190
+JR,6-10,Trinity HS,Louisville KY,Raymond Spalding,13,F,Louisville Cardinals,210
+SR,6-2,Ballard HS,Louisville KY,Quentin Snider,4,G,Louisville Cardinals,180
+SO,6-6,Paul VI Catholic High School,Cleveland OH,V.J. King,0,F,Louisville Cardinals,190
+SR,7-0,West Oaks Academy,Egypt,Anas Mahmoud,14,F,Louisville Cardinals,200
+,6-0,Cardinal Mooney HS,Sarasota FL,Ryan McMahon,30,G,Louisville Cardinals,165
+FR,6-8,,Buffalo NY,Jordan Nwora,33,F,Louisville Cardinals,215
+SO,6-5,DuPont Manual HS,Louisville KY,Dwayne Sutton,24,F,Louisville Cardinals,195
+FR,6-2,,Powder Springs GA,Darius Perry,2,G,Louisville Cardinals,170
+FR,6-11,,Fort Wayne IN,Malik Williams,5,F,Louisville Cardinals,215
+FR,6-8,,Norcross GA,Lance Thomas,1,F,Louisville Cardinals,210
+FR,6-1,,Fort Wayne IN,Jacob Redding,12,G,Louisville Cardinals,165
+FR,6-1,,Lagrange KY,Jo Griffin,3,G,Louisville Cardinals,175
+,6-7,,,Brian Bowen II,20,G,Louisville Cardinals,190
+,6-10,St. Thomas More HS,Norwalk CT,Steven Enoch,23,C,Louisville Cardinals,250
+,6-3,Findlay Prep (NV),,Allerik Freeman,12,G,North Carolina State Wolfpack,200
+JR,6-5,Vance,Charlotte NC,Torin Dorn,2,G,North Carolina State Wolfpack,201
+SO,7-0,Fenerbahce Baseketbol Subesi,Turkey,Omer Yurtseven,14,C,North Carolina State Wolfpack,245
+FR,6-0,,Hazard KY,Braxton Beverly,10,G,North Carolina State Wolfpack,180
+SR,6-8,Oak Hill Academy (VA),Washington DC,Lennard Freeman,1,F,North Carolina State Wolfpack,245
+SO,6-1,East Technical High School,Cleveland OH,Markell Johnson,11,G,North Carolina State Wolfpack,164
+SR,6-2,Dudley,Greensboro NC,Sam Hunt,15,G,North Carolina State Wolfpack,175
+SR,6-8,Kimball Union Academy,Boston MA,Abdul-Malik Abu,0,F,North Carolina State Wolfpack,235
+FR,6-2,,Concord NC,Lavar Batts Jr.,3,G,North Carolina State Wolfpack,170
+SO,6-7,22ft Basketball Academy,Quitman MS,Darius Hicks,5,F,North Carolina State Wolfpack,231
+JR,6-8,Whiteville HS,Whiteville NC,Shaun Kirk,22,F,North Carolina State Wolfpack,195
+,6-3,,Daphne AL,Spencer Newman,31,G,North Carolina State Wolfpack,186
+,6-5,North Mecklenburg HS,Charlotte NC,C.J. Bryce,13,G,North Carolina State Wolfpack,195
+,6-5,Prolific Prep,Battle Creek MI,Devon Daniels,24,G,North Carolina State Wolfpack,200
+,6-10,Williams Amos Hough,Huntersville NC,Tucker Thompson,42,F,North Carolina State Wolfpack,250
+SR,6-6,Rowlett HS,Rowlett TX,Jeffrey Carroll,30,G,Oklahoma State Cowboys,205
+SR,6-3,Deer Valley,Antioch CA,Kendall Smith,1,G,Oklahoma State Cowboys,180
+SR,7-0,Bixby HS,Bixby OK,Mitchell Solomon,41,F,Oklahoma State Cowboys,240
+SO,6-7,South Grand Prairie High School,Grand Prairie TX,Cameron McGriff,12,F,Oklahoma State Cowboys,210
+SO,6-6,Norman High School,Norman OK,Lindy Waters,21,G,Oklahoma State Cowboys,200
+JR,6-6,MacArthur,Irving TX,Tavarius Shine,5,G,Oklahoma State Cowboys,195
+SO,5-11,Richardson High School,Richardson TX,Brandon Averette,0,G,Oklahoma State Cowboys,175
+SO,6-4,Tampa Catholic High School,Temple Terrace FL,Thomas Dziagwa,4,G,Oklahoma State Cowboys,180
+,6-11,Elev8 Institute,Spain,Yankuba Sima,35,F,Oklahoma State Cowboys,205
+,7-0,Canaries Basketball Academy,Netherlands,Lucas N'Guessan,14,F,Oklahoma State Cowboys,215
+FR,6-3,,Miami FL,Zack Dawson,2,G,Oklahoma State Cowboys,185
+JR,6-5,Our Savior New American School,Gary IN,Davon Dillard,24,G,Oklahoma State Cowboys,215
+SO,6-4,Muldow High School,Gans OK,Trey Reeves,33,F,Oklahoma State Cowboys,215
+,6-2,Shawnee Mission North HIgh School,Roeland Park KS,Michael Weathers,23,G,Oklahoma State Cowboys,170
+SR,6-7,Kecoughtan HS,Hampton VA,Rodney Bullock,5,F,Providence Friars,220
+SO,6-7,Brewster Academy (NH),New York NY,Alpha Diallo,11,G,Providence Friars,205
+SR,5-11,Compton HS,Compton CA,Kyron Cartwright,24,G,Providence Friars,185
+SR,6-7,Huntington Prep HS,Murfreesboro TN,Jalen Lindsey,21,G,Providence Friars,195
+JR,6-6,The Villages Charter,Gainesville FL,Isaiah Jackson,44,G,Providence Friars,207
+FR,6-10,,Arlington VA,Nate Watson,0,C,Providence Friars,260
+SO,6-9,Orangeville High School,Canada,Kalif Young,13,F,Providence Friars,250
+FR,6-3,,Worcester MA,Makai Ashton-Langford,1,G,Providence Friars,185
+SO,6-2,George Wythe High School,Richmond VA,Maliek White,4,G,Providence Friars,180
+SO,6-3,Calvert Hall HS,Perry Hall MD,Drew Edwards,25,G,Providence Friars,185
+FR,7-0,,Hampton VA,Dajour Dickens,33,C,Providence Friars,220
+SR,6-6,Fenwick HS,Oak Park IL,Tom Planek,34,F,Providence Friars,195
+FR,6-2,,Portsmouth RI,Andrew Fonts,10,G,Providence Friars,170
+,6-7,Webster Schroeder,Webster NY,Emmitt Holt,15,F,Providence Friars,240
+JR,6-5,St. John's College HS,Upper Marlboro MD,James Palmer,24,G,Nebraska Cornhuskers,200
+JR,6-9,Brewster Academy (NH),Raleigh NC,Isaac Copeland,14,F,Nebraska Cornhuskers,220
+JR,6-0,St. Joseph HS,Bellwood IL,Glynn Watson Jr.,5,G,Nebraska Cornhuskers,160
+SO,6-8,Dixon High School,Dixon IL,Isaiah Roby,15,F,Nebraska Cornhuskers,214
+SR,6-8,Ravenscroft/Hargrave Military Academy,Raleigh NC,Anton Gill,13,G,Nebraska Cornhuskers,195
+SR,6-4,Paul VI,Cincinnati OH,Evan Taylor,11,G,Nebraska Cornhuskers,205
+SO,6-11,MacDuffie School,Canada,Jordy Tshimanga,32,C,Nebraska Cornhuskers,275
+FR,6-1,,Raleigh NC,Thomas Allen,12,G,Nebraska Cornhuskers,180
+JR,6-7,Australian Institute of Sport,Australia,Jack McVeigh,10,F,Nebraska Cornhuskers,210
+SR,6-8,Jonesboro HS,Jonesboro GA,Duby Okeke,0,C,Nebraska Cornhuskers,230
+JR,6-8,Gothenburg HS,Gothenburg NE,Tanner Borchardt,20,F,Nebraska Cornhuskers,275
+FR,6-5,,Iceland,Thorir Thorbjarnarson,34,G,Nebraska Cornhuskers,194
+FR,6-6,,Bolingbrook IL,Nana Akenten,25,G,Nebraska Cornhuskers,215
+SR,6-1,Lake Highland Prep,Orlando FL,Malcolm Laws,3,G,Nebraska Cornhuskers,195
+SO,6-4,Elkhorn South HS,Omaha NE,Johnny Trueblood,4,G,Nebraska Cornhuskers,195
+,6-1,,,Justin Costello,33,G,Nebraska Cornhuskers,180
+SO,6-5,Roman Catholic,Philadelphia PA,Tony Carr,10,G,Penn State Nittany Lions,204
+SO,6-8,Roman Catholic,North Wales PA,Lamar Stevens,11,F,Penn State Nittany Lions,226
+SR,6-2,Roman Catholic HS,Chester PA,Shep Garner,33,G,Penn State Nittany Lions,196
+JR,6-4,Oak Hill Academy,Fairfax VA,Josh Reaves,23,G,Penn State Nittany Lions,210
+SO,6-9,The Phelps School,Philadelphia PA,Mike Watkins,24,F,Penn State Nittany Lions,254
+SO,6-4,Roman Catholic,Philadelphia PA,Nazeer Bostick,4,G,Penn State Nittany Lions,203
+SR,6-10,Germantown Academy,Philadelphia PA,Julian Moore,44,F,Penn State Nittany Lions,248
+FR,6-1,,Live Oak FL,Jamari Wheeler,5,G,Penn State Nittany Lions,170
+FR,6-9,,Wallingford PA,John Harrar,21,F,Penn State Nittany Lions,243
+JR,7-0,Kiski (PA),Barberton OH,Satchel Pierce,3,F,Penn State Nittany Lions,255
+JR,6-6,St. Mary Ryken HS,Lithuania,Deividas Zemgulis,1,F,Penn State Nittany Lions,220
+FR,6-8,,Bloomsburg PA,Trent Buttrick,35,F,Penn State Nittany Lions,234
+SO,6-5,Westbury Christian,Kingwood TX,Grant Hazle,22,F,Penn State Nittany Lions,192
+FR,6-2,,South Salem NY,Taylor Nussbaum,20,G,Penn State Nittany Lions,175
+SO,6-5,Providence Day School,Charlotte NC,Grant Williams,2,F,Tennessee Volunteers,234
+JR,6-5,Zion-Benton TownshiP HS,Zion IL,Admiral Schofield,5,F,Tennessee Volunteers,240
+SO,6-1,Arlington Country Day School,Florence AL,Lamonte Turner,1,G,Tennessee Volunteers,190
+SO,6-3,22f Basketball Academy,Knoxville TN,Jordan Bowden,23,G,Tennessee Volunteers,180
+SO,6-1,The Ensworth School,Nashville TN,Jordan Bone,0,G,Tennessee Volunteers,173
+SR,5-10,Phoebus HS,Hampton VA,James Daniel,3,G,Tennessee Volunteers,165
+JR,6-9,ACTS Athlete Institute,Canada,Kyle Alexander,11,F,Tennessee Volunteers,215
+FR,6-8,,Kansas City MO,Derrick Walker,15,F,Tennessee Volunteers,238
+JR,6-1,,Toledo OH,Chris Darrington,32,G,Tennessee Volunteers,179
+FR,6-7,Briarcrest Christian School,Kingsport TN,John Fulkerson,10,F,Tennessee Volunteers,203
+FR,6-5,,France,Yves Pons,35,F,Tennessee Volunteers,203
+FR,6-5,,Durham NC,Jalen Johnson,13,G,Tennessee Volunteers,177
+FR,6-10,,Magnolia DE,Zach Kent,33,F,Tennessee Volunteers,224
+JR,6-3,Christian Academy of Knoxville,Knoxville TN,Lucas Campbell,24,G,Tennessee Volunteers,180
+FR,6-1,,Austin TX,Jacob Fleschman,4,G,Tennessee Volunteers,160
+JR,6-1,Riverdale HS,Murfreesboro TN,Brad Woodson,12,G,Tennessee Volunteers,180
+SR,6-3,Thornlea Secondary School,Canada,Kassius Robertson,3,G,Missouri Tigers,169
+SR,6-6,Christian Brothers College HS,St. Louis MO,Jordan Barnett,21,F,Missouri Tigers,205
+FR,6-11,,Columbia MO,Jontay Porter,11,F,Missouri Tigers,240
+JR,6-7,South HS,Blue Springs MO,Kevin Puryear,24,F,Missouri Tigers,215
+FR,6-10,,East Saint Louis IL,Jeremiah Tilmon,23,F,Missouri Tigers,252
+JR,6-2,Homestead High School,Fort Wayne IN,Jordan Geist,15,G,Missouri Tigers,180
+SO,6-10,Maple Grove Senior High School,Maple Grove MN,Reed Nikko,14,F,Missouri Tigers,250
+JR,6-4,Pacific HS,Pacific MO,Cullen VanLeer,33,G,Missouri Tigers,195
+FR,6-3,,Chapel Hill NC,Blake Harris,55,G,Missouri Tigers,195
+JR,5-11,Oak Hill (VA),Orange County CA,Terrence Phillips,1,G,Missouri Tigers,170
+FR,6-10,,Columbia MO,Michael Porter Jr.,13,F,Missouri Tigers,215
+SR,6-4,Burlington Central High School,Burlington IL,Brett Rau,10,G,Missouri Tigers,170
+JR,6-7,Beaver Dam HS,Beaver Dam WI,Adam Wolf,32,F,Missouri Tigers,210
+,6-10,Van Buren High School,Van Buren AR,Mitchell Smith,5,F,Missouri Tigers,215
+,6-6,Vermont Academy,Washington MO,Ronnie Suggs,2,G,Missouri Tigers,190
+JR,6-4,Velma Jackson HS,Canton MS,Quinndary Weatherspoon,11,G,Mississippi State Bulldogs,190
+JR,6-10,Owensboro HS,Owensboro KY,Aric Holman,35,F,Mississippi State Bulldogs,195
+FR,6-2,,Canton MS,Nick Weatherspoon,0,G,Mississippi State Bulldogs,195
+SO,6-4,Starkville High School,Starkville MS,Tyson Carter,23,G,Mississippi State Bulldogs,167
+SO,6-0,L.B. Landry High School,New Orleans LA,Lamar Peters,1,G,Mississippi State Bulldogs,188
+FR,6-11,,Chattanooga TN,Abdul Ado,24,F,Mississippi State Bulldogs,246
+JR,6-6,Madison Central,Flora MS,Xavian Stapleton,3,G,Mississippi State Bulldogs,190
+SO,6-4,Apollo High School,Owensboro KY,Eli Wright,2,G,Mississippi State Bulldogs,203
+SO,6-9,Vincent High School,Vincent AL,E.J. Datcher,45,C,Mississippi State Bulldogs,240
+FR,6-8,,Newhebron MS,KeyShawn Feazell,22,F,Mississippi State Bulldogs,230
+JR,6-5,,Decatur GA,Nick Singleton,13,G,Mississippi State Bulldogs,195
+SO,6-10,Prestonwood Christian Academy,Plano TX,Schnider Herard,34,C,Mississippi State Bulldogs,250
+SR,5-10,Fort Walton Beach High School,Atlanta GA,Drew Davis,12,G,Mississippi State Bulldogs,172
+SO,5-9,,Columbus MS,T.J. Gray,15,G,Mississippi State Bulldogs,160
+FR,6-2,,Tupelo MS,Tate Clayton,10,G,Mississippi State Bulldogs,170
+SO,6-7,,Madison MS,Mitchell Storm,5,F,Mississippi State Bulldogs,202
+SO,6-4,Park Hill HS,Kansas City MO,Landry Shamet,11,G,Wichita State Shockers,179
+SR,6-7,Memorial HS,Edmond OK,Shaquille Morris,24,C,Wichita State Shockers,261
+SR,6-9,Madison Central High School,Madison WI,Darral Willis Jr.,21,F,Wichita State Shockers,221
+SR,6-0,Wichita North,Wichita KS,Conner Frankamp,33,G,Wichita State Shockers,165
+SO,6-5,Cedar Ridge High School,Newark AR,Austin Reaves,12,G,Wichita State Shockers,179
+,6-8,St. Anthony HS,Paterson NJ,Markis McDuffie,32,F,Wichita State Shockers,185
+SR,6-7,Hargrave Military Academy,Fredericksburg VA,Rashard Kelly,0,F,Wichita State Shockers,232
+SR,6-6,Sunrise Christian Academy (KS),Houston TX,Zach Brown,1,F,Wichita State Shockers,213
+SR,6-10,Sunrise Christian Academy (KS),Estonia,Rauno Nurger,20,C,Wichita State Shockers,242
+JR,6-0,,Wichita KS,Samajae Haynes-Jones,4,G,Wichita State Shockers,177
+SO,6-3,Sunrise Christian Academy,Baltimore MD,C.J. Keyser,3,G,Wichita State Shockers,194
+FR,7-0,,Denmark,Asbjorn Midtgaard,22,C,Wichita State Shockers,270
+SO,6-9,Sunrise Christian Academy,Wichita KS,Brett Barney,25,C,Wichita State Shockers,215
+FR,6-0,,Wichita KS,Brycen Bush,23,G,Wichita State Shockers,152
+JR,6-1,Phoenix Westwind Academy,Mckinney TX,Kaelen Malone,10,G,Wichita State Shockers,176
+FR,6-3,,Wichita KS,Jacob Herrs,14,G,Wichita State Shockers,164
+,6-6,,,Rod Brown,5,F,Wichita State Shockers,190
+JR,6-3,Brewster Academy,Roxbury MA,Jalen Adams,4,G,UConn Huskies,187
+SO,6-2,St. Thomas More Prep,Queens Village NY,Christian Vital,1,G,UConn Huskies,178
+JR,6-8,The Phelps School,Bronx NY,Terry Larrier,22,G,UConn Huskies,175
+SR,6-1,Bishop Kearney HS,Rochester NY,Antwoine Anderson,0,G,UConn Huskies,190
+FR,6-9,,Winterville NC,Josh Carlton,25,F,UConn Huskies,242
+FR,6-8,,Miramar FL,Tyler Polley,12,F,UConn Huskies,190
+FR,6-8,,Queens NY,Mamadou Diarra,21,F,UConn Huskies,215
+FR,6-8,,Gastonia NC,Isaiah Whaley,5,F,UConn Huskies,190
+FR,6-0,Miller Grove High School,Richmond VA,Alterique Gilbert,3,G,UConn Huskies,175
+SR,6-9,Marist,Lithonia GA,David Onuorah,34,F,UConn Huskies,230
+JR,6-10,St. Francis Academy (MD),Jacksonville FL,Eric Cobb,23,F,UConn Huskies,275
+SO,6-7,,Anchorage AK,Kwintin Williams,11,F,UConn Huskies,211
+,6-4,,,Temi Aiyegbusi,45,G,UConn Huskies,206
+SR,6-8,Rocky Hill HS (CT) / South Kent Prep (CT),Rocky Hill CT,Christian Foxen,24,F,UConn Huskies,210
+SR,5-11,Granby Memorial (CT),Granby CT,Mike Noyes,31,G,UConn Huskies,185
+,6-7,,,Sidney Wilson,15,G,UConn Huskies,183
+,6-4,Shiloh High School,Snellville GA,Josh Okogie,5,G,Georgia Tech Yellow Jackets,207
+SR,6-10,Alamo Heights HS,San Antonio TX,Ben Lammers,44,C,Georgia Tech Yellow Jackets,241
+SR,6-2,Tift County HS,Tifton GA,Tadric Jackson,1,G,Georgia Tech Yellow Jackets,215
+FR,6-0,,Brooklyn NY,Jose Alvarado,10,G,Georgia Tech Yellow Jackets,174
+JR,6-9,Central Park Christian HS,Senegal,Abdoulaye Gueye,34,F,Georgia Tech Yellow Jackets,208
+JR,6-5,Herndon HS,Vienna VA,Brandon Alston,4,G,Georgia Tech Yellow Jackets,195
+FR,6-9,,Raleigh NC,Moses Wright,12,F,Georgia Tech Yellow Jackets,210
+FR,6-5,,Oklahoma City OK,Curtis Haywood II,13,G,Georgia Tech Yellow Jackets,198
+FR,6-9,,Cumming GA,Evan Cole,3,F,Georgia Tech Yellow Jackets,211
+SO,6-4,Mission Bay Senior High School,San Diego CA,Justin Moore,0,G,Georgia Tech Yellow Jackets,162
+SO,6-10,National Christian Academy,Nigeria,Sylvester Ogbonda,24,F,Georgia Tech Yellow Jackets,238
+FR,6-6,,Riverdale GA,Evan Jester,11,F,Georgia Tech Yellow Jackets,180
+FR,6-5,,Miami FL,Jon Brown,23,G,Georgia Tech Yellow Jackets,172
+FR,6-0,,Indianapolis IN,Malachi Rice,55,G,Georgia Tech Yellow Jackets,180
+FR,6-8,,Japan,Avi Schafer,32,C,Georgia Tech Yellow Jackets,231
+,6-3,Wheeler HS,Atlanta GA,Shembari Phillips,2,G,Georgia Tech Yellow Jackets,202
+SR,6-7,Labrae HS,Leavittsburg OH,Peyton Aldridge,23,F,Davidson Wildcats,205
+FR,6-5,,Boston MA,Kellan Grady,31,G,Davidson Wildcats,195
+SO,6-4,Fj�lbrautask�li Su�urnesja,Iceland,Jon Axel Gudmundsson,3,G,Davidson Wildcats,190
+SO,6-6,Lake Norman HS,Mooresville NC,KiShawn Pritchett,20,G,Davidson Wildcats,220
+SR,6-11,Norrkoping BBK,Sweden,Will Magarity,22,F,Davidson Wildcats,240
+SR,6-9,Makelanrinne Sports HS,Finland,Oskar Michelsen,15,F,Davidson Wildcats,210
+SR,6-2,Charlotte Latin HS,Charlotte NC,Rusty Reigel,32,G,Davidson Wildcats,190
+FR,6-3,,Chapel Hill NC,Carter Collins,24,G,Davidson Wildcats,180
+SR,6-1,Providence Day,Charlotte NC,Jordan Watkins,3,G,Davidson Wildcats,160
+SO,6-10,Rabun Gap-Nacoochee High School,Serbia,Dusan Kovacevic,0,F,Davidson Wildcats,230
+SO,5-10,Harborfields High School,Greenlawn NY,Malcolm Wynter,5,G,Davidson Wildcats,150
+FR,6-8,,Charlotte NC,Bates Jones,25,F,Davidson Wildcats,200
+SO,6-2,Friends Seminary,New York NY,Cal Freundlich,4,G,Davidson Wildcats,160
+SO,5-10,St. Francis High School,Gainesville FL,Michael Brown,14,G,Davidson Wildcats,165
+,6-7,Cardinal Hayes HS,Nigeria,Nathan Ekwu,1,F,Davidson Wildcats,245
+,6-5,,,Luke Frampton,34,G,Davidson Wildcats,200
+SR,6-3,Worcester Academy,Worcester MA,Matt Mobley,2,G,St. Bonaventure Bonnies,175
+,6-1,Mount St. Joseph HS,Baltimore MD,Jaylen Adams,3,G,St. Bonaventure Bonnies,180
+JR,6-5,,St. Louis MO,Courtney Stockard,11,F,St. Bonaventure Bonnies,190
+JR,6-7,Providence HS,Jacksonville FL,LaDarien Griffin,15,F,St. Bonaventure Bonnies,200
+SR,6-4,Cushing Academy (MA),Snellville GA,Idris Taqqee,1,G,St. Bonaventure Bonnies,190
+SO,6-10,Amherst High School,Buffalo NY,Amadi Ikpeze,32,C,St. Bonaventure Bonnies,250
+FR,6-4,,Philadelphia PA,Izaiah Brockington,21,G,St. Bonaventure Bonnies,180
+SO,6-8,Progressive Christian Academy,Nigeria,Josh Ayeni,33,F,St. Bonaventure Bonnies,220
+JR,6-1,St. Michael's HS,Canada,Nelson Kaputo,4,G,St. Bonaventure Bonnies,170
+FR,6-6,,Manchester NH,Tshiefu Ngalakulondi,5,F,St. Bonaventure Bonnies,210
+FR,5-11,,Jersey City NJ,Jason Lee,20,G,St. Bonaventure Bonnies,170
+JR,6-10,,Senegal,Ndene Gueye,12,F,St. Bonaventure Bonnies,225
+SO,5-10,,Hornell NY,Jack Galatio,24,G,St. Bonaventure Bonnies,165
+,6-4,Orangeville Prep HS,Canada,Jalen Poyser,,G,St. Bonaventure Bonnies,180
+FR,6-2,,Dartmouth NS,Lindell Wigginton,5,G,Iowa State Cyclones,188
+SR,6-2,Pius Xi High School,Milwaukee WI,Donovan Jackson,4,G,Iowa State Cyclones,175
+FR,6-9,,Natchitoches LA,Cameron Lard,2,F,Iowa State Cyclones,220
+JR,6-5,Martin High School,Arlington TX,Nick Weiler-Babb,1,G,Iowa State Cyclones,201
+SO,6-8,Sacramento High School,Sacramento CA,Solomon Young,33,F,Iowa State Cyclones,240
+JR,6-7,Merrillville HS,Merrillville IN,Zoran Talley,23,F,Iowa State Cyclones,195
+SR,6-6,Clear Springs High School,League City TX,Jeff Beverly,55,F,Iowa State Cyclones,250
+FR,6-6,,Milwaukee WI,Terrence Lewis,24,G,Iowa State Cyclones,198
+SR,6-8,Hill School (PA),Clover SC,Hans Brase,30,F,Iowa State Cyclones,231
+SO,6-5,Mustang High School,Mustang OK,Jakolby Long,13,G,Iowa State Cyclones,208
+,6-9,Waukee HS,Waukee IA,Michael Jacobson,12,F,Iowa State Cyclones,231
+,6-6,Blair Academy,Canada,Marial Shayok,3,G,Iowa State Cyclones,201
+SR,5-10,Rockbridge County,Lexington VA,Andrew Rowsey,30,G,Marquette Golden Eagles,175
+SO,5-11,Findlay College Prep,Chandler AZ,Markus Howard,0,G,Marquette Golden Eagles,175
+SO,6-7,Stevens Point High School,Stevens Point WI,Sam Hauser,10,G,Marquette Golden Eagles,225
+SO,6-5,DeLaSalle HS,Minneapolis MN,Sacar Anim,2,F,Marquette Golden Eagles,205
+FR,6-3,,Detroit MI,Greg Elliott,5,G,Marquette Golden Eagles,170
+FR,6-7,,Pontiac MI,Jamal Cain,23,F,Marquette Golden Eagles,190
+JR,6-10,Neenah HS,Neenah WI,Matt Heldt,12,C,Marquette Golden Eagles,255
+FR,6-9,,Minneapolis MN,Theo John,4,F,Marquette Golden Eagles,245
+,6-11,Australian Centre of Excellence,,Harry Froling,21,C,Marquette Golden Eagles,260
+JR,6-5,Pembroke Pines HS,Fort Lauderdale FL,Haanif Cheatham,25,G,Marquette Golden Eagles,180
+FR,6-5,,Mount Prospect IL,Mike Lelito,41,G,Marquette Golden Eagles,185
+JR,6-0,Homestead HS,Mequon WI,Cam Marotta,52,G,Marquette Golden Eagles,160
+,6-9,,,Ike Eke,13,F,Marquette Golden Eagles,225
+,6-7,Simeon Career Academy,Chicago IL,Ed Morrow,1,F,Marquette Golden Eagles,234
+JR,6-10,Wings Academy,Queens Village NY,Jessie Govan,15,C,Georgetown Hoyas,270
+JR,6-7,Brewster Academy (NH),Bowie MD,Marcus Derrickson,24,F,Georgetown Hoyas,250
+FR,6-7,,Washington DC,Jamorko Pickett,1,F,Georgetown Hoyas,190
+FR,6-3,,Canada,Jahvon Blair,0,G,Georgetown Hoyas,189
+JR,6-6,Carlisle School,South Hill VA,Kaleb Johnson,32,G,Georgetown Hoyas,205
+SO,6-3,St. Anthony High Schoool,Morganville NJ,Jagan Mosely,4,G,Georgetown Hoyas,205
+SR,6-4,Redemption Christian Academy,New Orleans LA,Jonathan Mulmore,2,G,Georgetown Hoyas,185
+SR,6-0,God's Academy (TX),Queens NY,Trey Dickerson,13,G,Georgetown Hoyas,170
+FR,6-9,,Washington DC,Antwan Walker,5,F,Georgetown Hoyas,230
+FR,7-3,,Nigeria,Chris Sodom,12,C,Georgetown Hoyas,220
+,6-4,Gonzaga College High School,Washington DC,Ra'Mond Hines,10,G,Georgetown Hoyas,175
+SO,6-9,St. Andrew's Episcopal School,Potomac MD,George Muresan,20,F,Georgetown Hoyas,210
+,6-5,Episcopal HS,Chantilly VA,Greg Malinowski,11,G,Georgetown Hoyas,215
+,6-9,Ransom Everglades HS,Miami FL,Trey Mourning,33,F,Georgetown Hoyas,230
+JR,6-7,Waynesville HS,Waynesville MO,Juwan Morgan,13,F,Indiana Hoosiers,205
+SR,6-3,Benedictine College Prep,Richmond VA,Robert Johnson,4,G,Indiana Hoosiers,195
+SO,6-3,Long Island Lutheran High School,North Babylon NY,Devonte Green,11,G,Indiana Hoosiers,186
+SR,6-1,Word of God Academy,Raleigh NC,Josh Newkirk,2,G,Indiana Hoosiers,185
+FR,6-7,,Buffalo Grove IL,Justin Smith,3,F,Indiana Hoosiers,220
+FR,6-4,,Lilburn GA,Aljami Durham,1,G,Indiana Hoosiers,175
+,6-10,Overland High School,Aurora CO,De'Ron Davis,20,F,Indiana Hoosiers,240
+SR,6-6,Liberty County High School,Hinesville GA,Freddie McSwain,21,F,Indiana Hoosiers,215
+SR,6-6,Cathedral HS,Indianapolis IN,Collin Hartman,30,F,Indiana Hoosiers,210
+JR,6-6,Carmel,Carmel IN,Zach McRoberts,15,G,Indiana Hoosiers,201
+SO,6-4,Huntington Prep,Richmond VA,Curtis Jones,0,G,Indiana Hoosiers,175
+FR,6-10,,Ambler PA,Clifton Moore,22,F,Indiana Hoosiers,220
+,6-9,Richland HS,North Richland Hills TX,Tim Priller,35,F,Indiana Hoosiers,220
+,6-0,,Bloomington IN,Johnny Jager,10,G,Indiana Hoosiers,180
+,6-2,,,Ethan Lasko,12,G,Indiana Hoosiers,171
+,6-2,Brebeuf HS (IN),Indianapolis IN,Quentin Taylor,5,G,Indiana Hoosiers,180
+,6-2,,,Vijay Blackmon,24,G,Indiana Hoosiers,175
+,6-8,,,Race Thompson,25,F,Indiana Hoosiers,220
+JR,6-8,Rockridge HS,Milan IL,Ethan Happ,22,F,Wisconsin Badgers,200
+FR,6-3,,Maple Grove MN,Brad Davison,34,G,Wisconsin Badgers,205
+SO,6-3,De Pere HS,De Pere WI,Brevin Pritzl,1,G,Wisconsin Badgers,185
+JR,6-5,Rutherford B Hayes HS,Delaware OH,Khalil Iverson,21,G,Wisconsin Badgers,200
+FR,6-8,,Lawrenceville GA,Aleem Ford,2,F,Wisconsin Badgers,208
+FR,6-10,,Lakeville MN,Nate Reuvers,35,F,Wisconsin Badgers,215
+,6-0,IMG Academy,Huber Heights OH,D'Mitrik Trice,0,G,Wisconsin Badgers,178
+JR,6-11,Canarias Basketball Academy,Belgium,Andy Van Vliet,11,F,Wisconsin Badgers,203
+FR,6-4,,La Crosse WI,Kobe King,23,G,Wisconsin Badgers,203
+SR,6-8,Southwest HS,Green Bay WI,Aaron Moesch,5,F,Wisconsin Badgers,215
+JR,6-8,River Hill HS,Highland MD,Charles Thomas IV,15,F,Wisconsin Badgers,253
+JR,6-5,Oconomowoc HS,Oconomowoc WI,T.J. Schlundt,20,G,Wisconsin Badgers,182
+JR,6-9,Brewster Academy (NH),Grand Rapids MN,Alex Illikainen,25,F,Wisconsin Badgers,225
+,6-3,,,Walt McGrory,3,G,Wisconsin Badgers,210
+JR,6-6,Xavier HS,Appleton WI,Matt Ferris,4,G,Wisconsin Badgers,195
+FR,6-4,,Oak Park IL,Michael Ballard,31,G,Wisconsin Badgers,194
+,6-2,Stevens Point High School,Stevens Point WI,Trevor Anderson,12,G,Wisconsin Badgers,196
+SR,6-5,Fenwick HS,Hillside IL,Scottie Lindsey,20,G,Northwestern Wildcats,175
+JR,6-8,Villa Angela-St. Joseph HS,Cleveland OH,Dererk Pardon,5,C,Northwestern Wildcats,235
+SR,6-3,Greensburg HS,Greensburg IN,Bryant McIntosh,30,G,Northwestern Wildcats,177
+JR,6-7,St. Rita's HS,South Holland IL,Vic Law,4,F,Northwestern Wildcats,185
+SR,6-8,Westlake HS,Westlake OH,Gavin Skelly,44,F,Northwestern Wildcats,219
+SO,6-8,Northfield Mount Hermon School,Newton MA,Aaron Falzon,35,F,Northwestern Wildcats,205
+FR,6-4,,Kingston NY,Anthony Gaines,11,G,Northwestern Wildcats,205
+SO,6-2,Lakeside School,Seattle WA,Isiah Brown,12,G,Northwestern Wildcats,175
+SO,6-10,Hinsdale South High School,Willowbrook IL,Barret Benson,25,C,Northwestern Wildcats,240
+JR,6-3,St. Joseph HS,Bolingbrook IL,Jordan Ash,23,G,Northwestern Wildcats,185
+JR,6-5,Crossroads School,Los Angeles CA,Charlie Hall,10,F,Northwestern Wildcats,205
+FR,6-9,,Barrington IL,Rapolas Ivanauskas,14,F,Northwestern Wildcats,210
+FR,6-3,,Northfield IL,Tino Malnati,33,G,Northwestern Wildcats,175
+,6-7,New Hampton School,Mount Clemens MI,A.J. Turner,21,F,Northwestern Wildcats,188
+JR,6-6,Brennan HS,San Antonio TX,Jordan Murphy,3,F,Minnesota Golden Gophers,230
+SR,6-1,Arlington Country Day,Decatur GA,Nate Mason,2,G,Minnesota Golden Gophers,180
+FR,6-1,,Harlem NY,Isaiah Washington,11,G,Minnesota Golden Gophers,160
+JR,6-4,Sunrise Christian Academy,Queens NY,Dupree McBrayer,1,G,Minnesota Golden Gophers,175
+SO,6-8,Hopkins High School,Hopkins MN,Amir Coffey,5,G,Minnesota Golden Gophers,195
+SR,6-10,Edina,Edina MN,Reggie Lynch,22,C,Minnesota Golden Gophers,257
+SR,6-7,Tucker,Atlanta GA,Davonte Fitzgerald,20,F,Minnesota Golden Gophers,209
+FR,6-2,,North Brunswick NJ,Jamir Harris,4,G,Minnesota Golden Gophers,185
+SO,6-7,John Marshall High School,Rochester MN,Michael Hurt,42,F,Minnesota Golden Gophers,200
+SR,6-11,Sunrise Christian Academy,Mali,Bakary Konate,21,C,Minnesota Golden Gophers,230
+SR,6-9,Canarias Academy,Senegal,Gaston Diedhiou,41,F,Minnesota Golden Gophers,230
+FR,5-10,,New Orleans LA,Conroy Hunt,13,G,Minnesota Golden Gophers,170
+SO,6-2,Eden Prairie High School,Eden Prairie MN,Brady Rudrud,10,G,Minnesota Golden Gophers,185
+,6-9,Ridgeway High School,Memphis TN,Eric Curry,24,F,Minnesota Golden Gophers,235
+,6-1,DeLaSalle HS,Minneapolis MN,Jarvis Johnson,12,G,Minnesota Golden Gophers,185
+,7-0,Canaria Basketball Academy,Norway,Matz Stockman,35,C,Minnesota Golden Gophers,240
+JR,6-7,White Station HS,Memphis TN,Leron Black,12,F,Illinois Fighting Illini,220
+FR,6-1,,Wellington FL,Trent Frazier,1,G,Illinois Fighting Illini,170
+SO,6-6,St. Edward HS,Cleveland OH,Kipper Nichols,2,F,Illinois Fighting Illini,225
+JR,6-10,Centennial HS,Champaign IL,Michael Finke,43,F,Illinois Fighting Illini,220
+JR,6-5,Plainfield East HS,Plainfield IL,Aaron Jordan,23,G,Illinois Fighting Illini,190
+SR,6-4,Thurgood Marshall,Dayton OH,Mark Alstork,24,G,Illinois Fighting Illini,195
+FR,6-4,,Edwardsville IL,Mark Smith,13,G,Illinois Fighting Illini,225
+,6-1,Washington High School,Milwaukee WI,Te'Jon Lucas,3,G,Illinois Fighting Illini,170
+,6-3,,,De'Monte Williams,20,G,Illinois Fighting Illini,190
+FR,6-9,,Nigeria,Greg Eboigbodin,11,F,Illinois Fighting Illini,225
+FR,6-10,,Slovenia,Matic Vesel,4,F,Illinois Fighting Illini,215
+SO,6-2,,Libertyville IL,Drew Cayce,10,G,Illinois Fighting Illini,165
+JR,6-6,Glenbrook North HS,Northbrook IL,Cameron Liss,45,F,Illinois Fighting Illini,200
+SO,6-4,William Fremd High School,Rolling Meadows IL,Samson Oladimeji,35,G,Illinois Fighting Illini,195
+,6-0,Champaign Central High School,Champaign IL,Clayton Jones,41,G,Illinois Fighting Illini,190
+,6-2,Nacogdoches High School,Stillwater OK,Tyler Underwood,32,G,Illinois Fighting Illini,180
+SO,6-9,Chaminade College Preparatory School,St. Louis MO,Tyler Cook,5,F,Iowa Hawkeyes,253
+SO,6-1,Linn-Mar High School,Marion IA,Jordan Bohannon,3,G,Iowa Hawkeyes,182
+FR,6-11,,Washington DC,Luka Garza,55,F,Iowa Hawkeyes,235
+SO,6-5,Simeon HS,Chicago IL,Isaiah Moss,4,G,Iowa Hawkeyes,175
+FR,6-11,,Newburgh IN,Jack Nunge,2,F,Iowa Hawkeyes,225
+SO,6-8,Wahlert Catholic High School,Dubuque IA,Cordell Pemsl,35,F,Iowa Hawkeyes,249
+SO,6-6,Beachwood High School,Beachwood OH,Maishe Dailey,1,G,Iowa Hawkeyes,183
+JR,6-7,Bettendorf HS,Bettendorf IA,Nicholas Baer,51,F,Iowa Hawkeyes,187
+SO,6-9,Spirit Lake High School,Spirit Lake IA,Ryan Kriener,15,F,Iowa Hawkeyes,247
+JR,6-4,Hamilton HS,Sussex WI,Brady Ellingson,24,G,Iowa Hawkeyes,188
+JR,6-7,Wayne HS,Yellow Springs OH,Ahmad Wagner,0,F,Iowa Hawkeyes,215
+,6-5,,,Connor McCaffery,30,G,Iowa Hawkeyes,200
+SR,6-4,York Community,Elmhurst IL,Charlie Rose,11,F,Iowa Hawkeyes,175
+SR,6-8,Point Pleasant Beach (NJ),Germany,Dom Uhl,25,F,Iowa Hawkeyes,195
+FR,6-6,,Dubuque IA,Riley Till,20,F,Iowa Hawkeyes,192
+,6-2,,,Austin Ash,13,G,Iowa Hawkeyes,160
+JR,6-0,Blue Valley Northwest,Overland Park KS,Clayton Custer,13,G,Loyola (IL) Ramblers,175
+JR,6-4,St. Joseph's HS,Edison NJ,Marques Townes,5,G,Loyola (IL) Ramblers,210
+SR,6-6,Simeon HS,Chicago IL,Donte Ingram,0,G,Loyola (IL) Ramblers,215
+SR,6-5,Kennedale High School,Kennedale TX,Aundre Jackson,24,F,Loyola (IL) Ramblers,230
+FR,6-9,,Algonquin IL,Cameron Krutwig,25,C,Loyola (IL) Ramblers,260
+SR,6-3,Blue Valley Northwest HS,Overland Park KS,Ben Richardson,14,G,Loyola (IL) Ramblers,185
+FR,6-4,,Chicago IL,Lucas Williamson,1,G,Loyola (IL) Ramblers,190
+SO,6-4,,Croatia,Bruno Skokna,4,G,Loyola (IL) Ramblers,175
+SO,6-4,Gilbert Christian High School,Gilbert AZ,Cameron Satterwhite,23,G,Loyola (IL) Ramblers,175
+,6-5,,,Adarius Avery,10,G,Loyola (IL) Ramblers,190
+FR,6-7,,Elgin IL,Christian Negron,12,F,Loyola (IL) Ramblers,215
+SR,7-0,Prior Lake,Prior Lake MN,Carson Shanks,32,C,Loyola (IL) Ramblers,235
+SO,6-3,Central Catholic High School,Bloomington IL,Jake Baughman,2,G,Loyola (IL) Ramblers,180
+SR,6-7,Providence cAtholic High School,Palos Park IL,Nick DiNardi,44,F,Loyola (IL) Ramblers,225
+FR,6-5,,Los Angeles CA,Dylan Boehm,31,F,Loyola (IL) Ramblers,205
+,6-7,Harry Ainlay Composite High School,Canada,Aher Uguak,,F,Loyola (IL) Ramblers,210
+JR,6-7,Oak Hill Academy (VA),Mocksville NC,Caleb Martin,10,F,Nevada Wolf Pack,195
+JR,6-7,Montverde Academy,Champaign IL,Jordan Caroline,24,G,Nevada Wolf Pack,235
+JR,6-7,Oak Hill Academy (VA),Mocksville NC,Cody Martin,11,F,Nevada Wolf Pack,200
+SR,6-6,St. Charles East HS,Saint Charles IL,Kendall Stephens,21,G,Nevada Wolf Pack,197
+SO,6-6,Genesis Academy,Houston TX,Josh Hall,33,G,Nevada Wolf Pack,190
+JR,6-4,Fairfax HS,Encino CA,Lindsey Drew,14,G,Nevada Wolf Pack,180
+SR,6-3,St. Anthony,Union City NJ,Hallice Cooke,13,G,Nevada Wolf Pack,190
+SR,6-7,Rainier Beach HS,Seattle WA,Elijah Foster,12,F,Nevada Wolf Pack,240
+SR,6-8,St. John Bosco High School,San Francisco CA,Darien Williams,4,F,Nevada Wolf Pack,230
+SO,6-1,Granite Bay HIigh School,Granite Bay CA,Charlie Tooley,1,G,Nevada Wolf Pack,190
+,6-2,,,Justin Brent,,G,Nevada Wolf Pack,200
+,6-4,Bella Vista HS,Sacramento CA,David Cunningham,,G,Nevada Wolf Pack,195
+,,,,Elijah Cooks,,G,Nevada Wolf Pack,
+FR,6-0,,Baton Rouge LA,John Jones,3,G,Nevada Wolf Pack,165
+,6-3,,,Ugo Amadi,20,G,Nevada Wolf Pack,190
+,6-3,DeMatha Catholic HS,Upper Marlboro MD,Corey Henson,2,G,Nevada Wolf Pack,175
+,5-10,Lake Oswego HS,Portland OR,Jazz Johnson,22,G,Nevada Wolf Pack,195
+,6-7,Omaha Central,Omaha NE,Tre'Shawn Thurman,0,F,Nevada Wolf Pack,230
+,6-2,Boston Trinity HS,Brockton MA,Nisre Zouzoua,5,G,Nevada Wolf Pack,200
+SR,6-7,Mission Viejo HS,Mission Viejo CA,Chandler Hutchison,15,G,Boise State Broncos,190
+SR,6-7,Urspring Academy,Germany,Christian Sengfelder,43,F,Boise State Broncos,238
+SO,6-6,Longmont High School,Longmont CO,Justinian Jessup,3,G,Boise State Broncos,193
+SR,6-0,Marist HS,Chicago IL,Lexus Williams,2,G,Boise State Broncos,160
+SO,6-4,LaPorte High School,La Porte TX,Alex Hobbs,34,G,Boise State Broncos,189
+JR,6-11,Atascocita HS,Humble TX,Zach Haney,11,F,Boise State Broncos,232
+SO,6-2,Norman North High School,Norman OK,Marcus Dickinson,0,G,Boise State Broncos,177
+JR,6-10,International Berlin Basketball Academy,Germany,Robin Jorch,10,C,Boise State Broncos,257
+JR,6-10,Judson HS,Converse TX,David Wacker,33,F,Boise State Broncos,238
+FR,6-6,,Allen TX,Cam Christon,1,G,Boise State Broncos,188
+SO,6-7,,Twin Falls ID,Casdon Jardine,22,G,Boise State Broncos,218
+SO,6-4,Century HS,Pocatello ID,Malek Harwell,5,G,Boise State Broncos,190
+FR,6-8,,Houston TX,Derrick Alston,21,G,Boise State Broncos,153
+,6-7,,,Daniel Holst,20,G,Boise State Broncos,190
+,6-4,,,Matt Serven,4,G,Boise State Broncos,166
+JR,6-3,West Linn HS,West Linn OR,Anthony Mathis,32,G,New Mexico Lobos,170
+SR,5-11,Cypress Springs,Houston TX,Antino Jackson,3,G,New Mexico Lobos,160
+SR,6-9,Santa Margarita Catholic HS,Rancho Santa Margarita CA,Joe Furstinger,5,F,New Mexico Lobos,210
+SR,6-7,La Lumiere HS,Indianapolis IN,Sam Logwood,2,G,New Mexico Lobos,210
+FR,6-5,,Australia,Makuach Maluach,10,G,New Mexico Lobos,190
+,6-0,South Side HS,Jackson TN,Chris McNeal,1,G,New Mexico Lobos,195
+JR,6-3,,Pittsburgh PA,Troy Simmons,31,G,New Mexico Lobos,197
+JR,6-7,Corona del Sol HS,Wasilla AK,Dane Kuiper,14,F,New Mexico Lobos,200
+FR,6-10,,Germany,Vladimir Pinchuk,15,F,New Mexico Lobos,225
+JR,6-7,,Plainfield NJ,Jachai Simmons,11,F,New Mexico Lobos,180
+,6-3,,,Mike Mondragon,,G,New Mexico Lobos,210
+,6-8,St. John Bosco High School,Los Angeles CA,Vance Jackson,22,F,New Mexico Lobos,229
+,6-5,IMG Academy,Evansville IN,JaQuan Lyle,13,G,New Mexico Lobos,210
+,6-9,Corona del Sol,Tempe AZ,Connor MacDougall,55,F,New Mexico Lobos,235
+,5-10,,,Matt Vail,0,G,New Mexico Lobos,145
+SR,6-10,Laguna Creek HS,Sacramento CA,Malik Pope,21,F,San Diego State Aztecs,205
+JR,6-1,El Camino HS,Oceanside CA,Devin Watson,0,G,San Diego State Aztecs,165
+FR,6-6,,Riverside CA,Matt Mitchell,11,F,San Diego State Aztecs,230
+FR,6-9,,Federal Way WA,Jalen McDaniels,5,F,San Diego State Aztecs,190
+SR,6-4,St. Augustine HS,San Diego CA,Trey Kell,3,G,San Diego State Aztecs,215
+JR,6-4,Damien HS,Rancho Cucamonga CA,Jeremy Hemsley,42,G,San Diego State Aztecs,190
+JR,6-9,,Calabasas CA,Max Montana,10,F,San Diego State Aztecs,210
+SO,6-9,La Lumiere School,Canada,Nolan Narain,24,F,San Diego State Aztecs,220
+FR,6-6,,Torrance CA,Jordan Schakel,20,G,San Diego State Aztecs,195
+SR,7-0,Mission Hills HS,San Marcos CA,Kameron Rooks,45,C,San Diego State Aztecs,261
+JR,6-6,Huntington Prep (WV),Canada,Montaque Gill-Caesar,31,G,San Diego State Aztecs,215
+JR,5-9,,San Diego CA,Michael Sohikish,4,G,San Diego State Aztecs,160
+,6-4,Vermont Academy,Carlsbad CA,Patrick Fisher,13,G,San Diego State Aztecs,200
+,6-3,,,Adam Seiko,2,G,San Diego State Aztecs,195
+SR,6-8,Bloomfield Hills HS,Pontiac MI,Yante Maten,1,F,Georgia Bulldogs,240
+JR,6-2,Athens Christian,Athens GA,William Jackson II,0,G,Georgia Bulldogs,185
+SR,6-4,Booker T. Washington HS,Tulsa OK,Juwan Parker,3,G,Georgia Bulldogs,200
+JR,6-8,Pebblebrook HS,Atlanta GA,Derek Ogbeide,34,F,Georgia Bulldogs,240
+FR,6-8,,Norcross GA,Rayshaun Hammonds,20,F,Georgia Bulldogs,227
+SO,6-1,Bainbridge High School,Bainbridge GA,Tyree Crump,4,G,Georgia Bulldogs,180
+FR,6-11,,Greenville SC,Nicolas Claxton,33,F,Georgia Bulldogs,215
+FR,6-4,,Lithonia GA,TeShaun Hightower,10,G,Georgia Bulldogs,180
+SO,6-4,Seminole County middle-High School,Iron City GA,Jordan Harris,2,G,Georgia Bulldogs,185
+JR,6-9,John Glenn HS,Westland MI,Mike Edwards,32,F,Georgia Bulldogs,225
+,6-6,Beaumont Central High School,Beaumont TX,E'Torrion Wilridge,13,F,Georgia Bulldogs,215
+SR,6-7,The Rock High School,Senegal,Pape Diatta,5,F,Georgia Bulldogs,220
+FR,6-7,,Brooklyn NY,Isaac Kante,30,F,Georgia Bulldogs,236
+,6-6,Tilton School,Roswell GA,Connor O'Neill,24,F,Georgia Bulldogs,220
+JR,6-5,Woodward Academy,Atlanta GA,Christian Harrison,11,G,Georgia Bulldogs,180
+JR,6-9,Roselle Catholic HS,Gabon,Chris Silva,30,F,South Carolina Gamecocks,205
+SR,6-4,Westside,Augusta GA,Frank Booker,5,G,South Carolina Gamecocks,211
+SO,6-10,Sunrise Christian Academy,Estonia,Maik Kotsar,21,F,South Carolina Gamecocks,245
+SR,6-2,Boys and Girls,Brooklyn NY,Wesley Myers,15,G,South Carolina Gamecocks,180
+FR,6-5,,Harrington Park NJ,Justin Minaya,10,F,South Carolina Gamecocks,210
+JR,6-1,Hargrave Military Academy,Villa Rica GA,Hassani Gravett,2,G,South Carolina Gamecocks,183
+FR,6-9,,Chile,Felipe Haase,13,F,South Carolina Gamecocks,249
+FR,6-2,,Philadelphia PA,David Beatty,0,G,South Carolina Gamecocks,205
+,6-4,Deltona HIgh School,Deltona FL,Evan Hinson,23,G,South Carolina Gamecocks,238
+JR,6-2,J.M. Bennett HS,Salisbury MD,Kory Holden,1,G,South Carolina Gamecocks,180
+FR,7-1,,Myrtle Beach SC,Jason Cudd,33,F,South Carolina Gamecocks,255
+FR,6-6,,Mali,Ibrahim Famouke Doumbia,14,F,South Carolina Gamecocks,205
+SO,6-1,Ravenscroft School,Raleigh NC,Tommy Corchiani,20,G,South Carolina Gamecocks,173
+SO,7-0,Victory Rock Prep,Senegal,Khadim Gueye,12,F,South Carolina Gamecocks,235
+SO,6-0,Mars High School,Mars PA,Christian Schmitt,25,G,South Carolina Gamecocks,175
+SR,6-6,The Kinkaid School,Houston TX,Jeff Roberson,11,F,Vanderbilt Commodores,206
+SR,6-2,Brookfield Central HS,Brookfield WI,Riley LaChance,13,G,Vanderbilt Commodores,194
+FR,6-2,,Phoenix AZ,Saben Lee,0,G,Vanderbilt Commodores,174
+SR,6-5,Butler HS,Charlotte NC,Matthew Fisher-Davis,5,G,Vanderbilt Commodores,173
+JR,6-7,Whitney Young HS,Chicago IL,Joe Toye,2,G,Vanderbilt Commodores,201
+SO,6-4,Fayetteville High School,Fayetteville AR,Payton Willis,1,G,Vanderbilt Commodores,182
+SO,6-8,Winston Churchill High School,San Antonio TX,Clevon Brown,15,F,Vanderbilt Commodores,219
+FR,6-2,,Houston TX,Maxwell Evans,10,G,Vanderbilt Commodores,186
+SO,6-10,Prestonwood Christian HS,Haiti,Djery Baptiste,12,C,Vanderbilt Commodores,235
+FR,6-10,,Nigeria,Ejike Obinna,50,F,Vanderbilt Commodores,234
+JR,6-2,Lanphier HS,Springfield IL,Larry Austin,3,G,Vanderbilt Commodores,174
+,5-11,,,Isaiah Rice,14,G,Vanderbilt Commodores,189
+,6-8,Iona Prep (NY),Cortlandt Manor NY,Matt Ryan,32,F,Vanderbilt Commodores,209
+,6-10,,,Yanni Wetzell,4,F,Vanderbilt Commodores,235
+JR,6-11,Geelong Grammar,Australia,Jock Landale,34,C,Saint Mary's (CA) Gaels,255
+JR,6-6,Lake Oswego HS,Lake Oswego OR,Calvin Hermanson,24,F,Saint Mary's (CA) Gaels,200
+FR,6-1,Folsom High School,Folsom CA,Jordan Ford,30,G,Saint Mary's (CA) Gaels,160
+JR,6-1,Sydney Boys HS,Australia,Emmett Naar,3,G,Saint Mary's (CA) Gaels,195
+FR,6-6,Lake Ginniderra High School,Australia,Tanner Krebs,0,G,Saint Mary's (CA) Gaels,200
+SR,6-5,Eldorado HS,Albuquerque NM,Cullen Neal,44,G,Saint Mary's (CA) Gaels,190
+SO,6-10,Francis Parker School (CA),San Diego CA,Evan Fitzner,21,F,Saint Mary's (CA) Gaels,215
+SO,6-10,Ignatius Park College,Australia,Jordan Hunter,1,C,Saint Mary's (CA) Gaels,215
+FR,6-5,,Peoria AZ,Elijah Thomas,10,F,Saint Mary's (CA) Gaels,210
+FR,7-1,,Australia,Jock Perry,5,C,Saint Mary's (CA) Gaels,260
+SO,6-6,Hellyer College,Australia,Kyle Clark,33,F,Saint Mary's (CA) Gaels,215
+FR,6-2,,Mesa AZ,Tommy Kuhse,12,G,Saint Mary's (CA) Gaels,185
+FR,6-5,Dougherty Valley HS,San Ramon CA,Dan Sheets,15,F,Saint Mary's (CA) Gaels,200
+,6-8,Damian High School,Rancho Cucamonga CA,Malik Fitts,0,F,Saint Mary's (CA) Gaels,237
+,6-3,,,Kristers Zoriks,23,G,Saint Mary's (CA) Gaels,170
+JR,6-4,New Hampton (NH),Gwinnett GA,Elijah Bryant,3,G,BYU Cougars,225
+SO,6-8,Bingham HIgh School,South Jordan UT,Yoeli Childs,23,F,BYU Cougars,225
+SO,6-4,Lone Peak High School,Alpine UT,TJ Haws,30,G,BYU Cougars,170
+SO,5-11,Gulfport HS,Gulfport MS,Jashire Hardnett,0,G,BYU Cougars,170
+SO,6-7,Bountiful HS,Bountiful UT,Zac Seljaas,2,G,BYU Cougars,215
+JR,6-10,Homestead,Mequon WI,Luke Worthington,41,F,BYU Cougars,235
+SO,6-7,Highland,Orem UT,Dalton Nixon,33,F,BYU Cougars,215
+SO,6-10,Mountain View High School,Mesa AZ,Payton Dastrup,15,F,BYU Cougars,250
+JR,6-1,Shelly HS,Shelley ID,McKay Cannon,24,G,BYU Cougars,185
+FR,6-6,,Boise ID,Rylan Bergersen,1,G,BYU Cougars,200
+JR,6-4,Helen Cox HS,Harvey LA,Kajon Brown,13,G,BYU Cougars,185
+SO,6-5,,Longview WA,Evan Troy,21,G,BYU Cougars,180
+,6-9,Eagle HS,Eagle ID,Braiden Shaw,31,F,BYU Cougars,210
+,6-11,American Fork,,Ryan Andrus,10,F,BYU Cougars,240
+,6-8,Alta,Draper UT,Kyle Davis,21,F,BYU Cougars,225
+,6-2,Lone Peak HS,Alpine UT,Nick Emery,4,G,BYU Cougars,185
+,6-9,,,Kolby Lee,99,F,BYU Cougars,260
+SR,6-7,Pershing HS,Detroit MI,Justin Tillman,4,F,VCU Rams,190
+,6-5,West Oak Academy,Eutawville SC,De'Riante Jenkins,0,G,VCU Rams,185
+SR,6-0,St. Benedict's Prep HS,Richmond VA,Jonathan Williams,10,G,VCU Rams,175
+SO,6-6,Bunnell High School,Bridgeport CT,Issac Vann,11,F,VCU Rams,190
+SR,6-6,Benedictine,Richmond VA,Khris Lane,21,F,VCU Rams,215
+,6-5,,,Mike'l Simms,1,G,VCU Rams,220
+SO,6-4,Riverside Academy,Laplace LA,Malik Crowfield,13,G,VCU Rams,180
+FR,6-8,,Cocoa Beach FL,Sean Mobley,5,F,VCU Rams,240
+FR,6-7,,Taunton MA,Marcus Santos-Silva,14,F,VCU Rams,255
+FR,6-1,,Farmville NC,Tyler Maye,25,G,VCU Rams,175
+JR,6-3,,Hinesville GA,Xavier Jackson,15,G,VCU Rams,190
+FR,6-9,,Springfield VA,Lewis Djonkam,22,F,VCU Rams,245
+FR,6-1,,Lake Havasu City AZ,Dylan Sheehy-Guiseppi,12,G,VCU Rams,195
+,6-2,Cape Henry Collegiate School (VA),Chesapeake VA,Marcus Evans,2,G,VCU Rams,190
+JR,6-5,,Hartford CT,Jared Wilson-Frame,0,G,Pitt Panthers,220
+FR,6-1,,Canada,Marcus Carr,5,G,Pitt Panthers,185
+FR,6-5,,Union City TN,Parker Stewart,1,G,Pitt Panthers,190
+FR,6-6,,Canada,Shamiel Stevenson,23,G,Pitt Panthers,230
+SR,6-2,Mount Zion Academy (NC),Orlando FL,Jonathan Milligan,2,G,Pitt Panthers,170
+FR,6-10,,Providence RI,Terrell Brown,21,F,Pitt Panthers,240
+FR,6-4,,Highlands Ranch CO,Khameron Davis,13,G,Pitt Panthers,195
+SR,6-9,Hampton HS,Gibsonia PA,Ryan Luther,4,F,Pitt Panthers,215
+SO,6-9,,Sweden,Kene Chukwuka,15,F,Pitt Panthers,215
+SR,6-5,Lakota West HS,West Chester OH,Monty Boykins,33,G,Pitt Panthers,192
+FR,6-9,,Nigeria,Peace Ilegomah,42,C,Pitt Panthers,235
+FR,6-7,,Nigeria,Samson George,24,F,Pitt Panthers,220
+SO,6-3,,Pittsburgh PA,Anthony Starzynski,22,G,Pitt Panthers,180
+JR,5-10,,Pittsburgh PA,Joe Mascaro,12,G,Pitt Panthers,170
+SR,6-3,Smethport High School,Smethport PA,Zach Smith,35,G,Pitt Panthers,200
+,6-6,Life Center Academy (NJ),Voorhees NJ,Malik Ellison,3,G,Pitt Panthers,215
