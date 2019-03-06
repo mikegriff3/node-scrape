@@ -10,7 +10,7 @@ var casper = require("casper").create({
 casper.start();
 
 var years = ["2019"];
-var months = ["february"];
+var months = ["march"];
 
 for (var i = 0; i < years.length; i++) {
   var year = years[i];
@@ -63,7 +63,7 @@ var getGames = function() {
     var date = commaDate.replace(/,/g, "");
     var dateArr = date.split(" ");
     var newDate = dateArr[1] + " " + dateArr[2] + " " + dateArr[3];
-    if ("Feb 8 2019" === newDate) {
+    if ("Mar 5 2019" === newDate) {
       var game = {};
       game["Date"] = newDate;
       for (var j = 0; j < gameInfo.length; j++) {
@@ -122,6 +122,7 @@ function outputToCsv(statsArr) {
   var day = currentTime.getDate();
   var year = currentTime.getFullYear();
   var fileName = "csv-boxscores/" + month + "_" + day + "_" + year + ".csv";
+  //var fileName = "csv-boxscores/test.csv";
   var filePath = fs.pathJoin(fs.workingDirectory, fileName);
 
   fs.write(filePath, result, "w");

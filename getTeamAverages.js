@@ -11,36 +11,36 @@ var casper = require("casper").create({
 casper.start();
 
 var teamAbbrv = [
-  //"ATL",
+  "ATL",
   "BRK",
-  //"BOS",
-  //"CHO",
-  "CHI",
-  "CLE",
+  // "BOS",
+  // "CHO",
+  // "CHI",
+  // "CLE",
   "DAL",
   "DEN",
-  "DET",
-  "GSW",
+  //"DET",
+  // "GSW",
   //"HOU",
-  // "IND",
-  // "LAC",
-  // "LAL",
-  // "MEM",
+  //"IND",
+  "LAC",
+  "LAL",
+  //"MEM",
   "MIA",
   "MIL",
-  "MIN",
+  //"MIN",
   "NOP",
   "NYK",
   //"OKC",
   //"ORL",
-  "PHI",
+  // "PHI",
   "PHO",
   //"POR",
   "SAC",
-  //"SAS",
-  //"TOR"
-  //"UTA",
-  "WAS"
+  "SAS",
+  //"TOR",
+  "UTA"
+  //"WAS"
 ];
 
 for (var i = 0; i < teamAbbrv.length; i++) {

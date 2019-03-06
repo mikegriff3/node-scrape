@@ -13,11 +13,11 @@ casper.start();
 var years = ["2019"];
 var months = [
   //"october",
-  // "november",
+  //"november",
   //"december",
-  //"january"
-  "february"
-  //"march"
+  //"january",
+  //"february"
+  "march"
   //"april"
 ];
 

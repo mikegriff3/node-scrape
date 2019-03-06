@@ -14,7 +14,7 @@ var games = [];
 
 casper.then(function() {
   var fs = require("fs");
-  var stream = fs.open("./csv-boxscores/fivePrevSeasons.csv", "r");
+  var stream = fs.open("./csv-boxscores/update_boxscores.csv", "r");
   var line = stream.readLine();
 
   var i = 0;
@@ -26,9 +26,9 @@ casper.then(function() {
     if (lineArr[0] === "") continue;
     console.log(lineArr);
     var dateArr = lineArr[0].split(" ");
-    var gameMonth = getGameMonth(dateArr[1]);
-    var gameDay = getGameDay(dateArr[2]);
-    var year = dateArr[3];
+    var gameMonth = getGameMonth(dateArr[0]);
+    var gameDay = getGameDay(dateArr[1]);
+    var year = dateArr[2];
     var teamAbr;
     if (lineArr[2] === "Charlotte Bobcats") {
       teamAbr = "CHA";
@@ -43,7 +43,7 @@ casper.then(function() {
       "0" +
       teamAbr +
       ".html";
-    game["Date"] = dateArr[1] + " " + dateArr[2] + " " + dateArr[3];
+    game["Date"] = dateArr[0] + " " + dateArr[1] + " " + dateArr[2];
     game["Home"] = lineArr[2];
     game["Visitor"] = lineArr[7];
     game["Game_URL"] = gameUrl;
@@ -56,7 +56,7 @@ casper.then(function() {
 });
 
 casper.then(function() {
-  for (var i = 1500; i < 1600; i++) {
+  for (var i = 0; i < games.length; i++) {
     var gameScores;
     casper.thenOpen(games[i].Game_URL, function() {
       if (this.exists("#content a")) {
@@ -214,7 +214,7 @@ function outputToCsv(statsArr) {
   var month = currentTime.getMonth() + 1;
   var day = currentTime.getDate();
   var year = currentTime.getFullYear();
-  var fileName = "csv-boxscores/update_boxscores_injury16.csv";
+  var fileName = "csv-boxscores/update_boxscores_injury.csv";
   var filePath = fs.pathJoin(fs.workingDirectory, fileName);
 
   fs.write(filePath, result, "w");
