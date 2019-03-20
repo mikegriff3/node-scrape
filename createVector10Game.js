@@ -124,6 +124,14 @@ csv()
                   }
                 }
                 var awayWins = getLastTenGames(awayGames, away["Name"]);
+                var homeTenGameAvg = await getTenGamesStats(
+                  homeGames,
+                  home["Name"]
+                );
+                var awayTenGameAvg = await getTenGamesStats(
+                  awayGames,
+                  away["Name"]
+                );
                 //var awayWinPct = getAwayWinPercentage(awayGames, away["Name"]);
                 var awayScoringMargin = await getScoringMargin(
                   awayGames,
@@ -139,30 +147,30 @@ csv()
                 // console.log(away.Name + " " + awayDist);
                 // gameVector["Travel_Difference_9Day"] =
                 //   parseInt(homeDist) - parseInt(awayDist);
-                // gameVector["Last_Game_Margin"] =
-                //   homeScoringMargin.lastOne - awayScoringMargin.lastOne;
-                // gameVector["Last_3Game_Margin"] = (
-                //   homeScoringMargin.lastThree - awayScoringMargin.lastThree
-                // ).toFixed(1);
-                // gameVector["Home_Away_Margin"] = (
-                //   homeScoringMargin.homeMargin - awayScoringMargin.awayMargin
-                // ).toFixed(1);
-                // gameVector["Head_To_Head_Avg_Spread"] =
-                //   seasonHeadToHead.averageDifference;
-                // gameVector["Head_To_Head_GP"] = seasonHeadToHead.gamesPlayed;
-                // gameVector["Head_To_Head_3P"] = seasonHeadToHead.threes;
-                // gameVector["Head_To_Head_3PA"] = seasonHeadToHead.threes_att;
-                // gameVector["Head_To_Head_AST"] = seasonHeadToHead.ast;
-                // gameVector["Head_To_Head_BLK_PCT"] = seasonHeadToHead.blk_pct;
-                // gameVector["Head_To_Head_FGM"] = seasonHeadToHead.fgm;
-                // gameVector["Head_To_Head_FGA"] = seasonHeadToHead.fga;
-                // gameVector["Head_To_Head_FTA"] = seasonHeadToHead.fta;
-                // gameVector["Head_To_Head_FTM"] = seasonHeadToHead.ftm;
-                // gameVector["Head_To_Head_ORB"] = seasonHeadToHead.orb;
-                // gameVector["Head_To_Head_ORB_PCT"] = seasonHeadToHead.orb_pct;
-                // gameVector["Head_To_Head_STL"] = seasonHeadToHead.stl;
-                // gameVector["Head_To_Head_TOV_PCT"] = seasonHeadToHead.tov_pct;
-                // gameVector["Head_To_Head_TRB"] = seasonHeadToHead.trb;
+                gameVector["Last_Game_Margin"] =
+                  homeScoringMargin.lastOne - awayScoringMargin.lastOne;
+                gameVector["Last_3Game_Margin"] = (
+                  homeScoringMargin.lastThree - awayScoringMargin.lastThree
+                ).toFixed(1);
+                gameVector["Home_Away_Margin"] = (
+                  homeScoringMargin.homeMargin - awayScoringMargin.awayMargin
+                ).toFixed(1);
+                gameVector["Head_To_Head_Avg_Spread"] =
+                  seasonHeadToHead.averageDifference;
+                gameVector["Head_To_Head_GP"] = seasonHeadToHead.gamesPlayed;
+                gameVector["Head_To_Head_3P"] = seasonHeadToHead.threes;
+                gameVector["Head_To_Head_3PA"] = seasonHeadToHead.threes_att;
+                gameVector["Head_To_Head_AST"] = seasonHeadToHead.ast;
+                gameVector["Head_To_Head_BLK_PCT"] = seasonHeadToHead.blk_pct;
+                gameVector["Head_To_Head_FGM"] = seasonHeadToHead.fgm;
+                gameVector["Head_To_Head_FGA"] = seasonHeadToHead.fga;
+                gameVector["Head_To_Head_FTA"] = seasonHeadToHead.fta;
+                gameVector["Head_To_Head_FTM"] = seasonHeadToHead.ftm;
+                gameVector["Head_To_Head_ORB"] = seasonHeadToHead.orb;
+                gameVector["Head_To_Head_ORB_PCT"] = seasonHeadToHead.orb_pct;
+                gameVector["Head_To_Head_STL"] = seasonHeadToHead.stl;
+                gameVector["Head_To_Head_TOV_PCT"] = seasonHeadToHead.tov_pct;
+                gameVector["Head_To_Head_TRB"] = seasonHeadToHead.trb;
                 gameVector["Last_Ten"] = homeWins.tenGames - awayWins.tenGames;
                 gameVector["Last_Five"] =
                   homeWins.fiveGames - awayWins.fiveGames;
@@ -174,18 +182,50 @@ csv()
                 gameVector["HW"] = vectors[count]["HW"];
                 gameVector["HOME"] = home["Name"];
                 gameVector["VISITOR"] = away["Name"];
+                gameVector["WinPct"] = (
+                  parseInt(home.W) / (parseInt(home.W) + parseInt(home.L)) -
+                  parseInt(away.W) / (parseInt(away.W) + parseInt(away.L))
+                ).toFixed(3);
+                gameVector["MOV"] = homeTenGameAvg.MOV - awayTenGameAvg.MOV;
+                gameVector["FG"] = (
+                  homeTenGameAvg.FG - awayTenGameAvg.FG
+                ).toFixed(1);
+                gameVector["FGA"] = (
+                  homeTenGameAvg.FGA - awayTenGameAvg.FGA
+                ).toFixed(1);
+                gameVector["FG_PCT"] = (
+                  homeTenGameAvg.FG_PCT - awayTenGameAvg.FG_PCT
+                ).toFixed(3);
+                gameVector["Three_Pointers"] = (
+                  homeTenGameAvg.Three_Pointers - awayTenGameAvg.Three_Pointers
+                ).toFixed(1);
+                gameVector["Three_Pointers_Att"] = (
+                  homeTenGameAvg.Three_Pointers_Att -
+                  awayTenGameAvg.Three_Pointers_Att
+                ).toFixed(1);
+                gameVector["Three_Pointers_Pct"] = (
+                  homeTenGameAvg.Three_Pointers_Pct -
+                  awayTenGameAvg.Three_Pointers_Pct
+                ).toFixed(3);
                 // Subtract stats between competing teams to create input vectors
-                for (var stat in home) {
-                  if (!(stat === "Name" || stat === "GP" || stat === "id")) {
-                    var num = parseFloat(home[stat]) - parseFloat(away[stat]);
-                    if (num % 1 !== 0) {
-                      var n = num.toFixed(3);
-                      gameVector[stat] = n;
-                    } else {
-                      gameVector[stat] = num;
-                    }
-                  }
-                }
+                // for (var stat in home) {
+                //   if (
+                //     !(
+                //       stat === "Name" ||
+                //       stat === "GP" ||
+                //       stat === "id" ||
+                //       stat === "MOV"
+                //     )
+                //   ) {
+                //     var num = parseFloat(home[stat]) - parseFloat(away[stat]);
+                //     if (num % 1 !== 0) {
+                //       var n = num.toFixed(3);
+                //       gameVector[stat] = n;
+                //     } else {
+                //       gameVector[stat] = num;
+                //     }
+                //   }
+                // }
                 console.log(home.Name + " vs " + away.Name);
                 console.log(gameVector);
                 finalArr.push(gameVector);
@@ -240,6 +280,83 @@ csv()
       }
     );
   });
+
+function getTenGamesStats(games, team) {
+  var tenGameStats = {
+    MOV: 0,
+    FG: 0,
+    FGA: 0,
+    FG_PCT: 0.0,
+    Three_Pointers: 0,
+    Three_Pointers_Att: 0,
+    Three_Pointers_Pct: 0.0,
+    FT: 0,
+    FTA: 0,
+    FT_PCT: 0.0
+  };
+
+  games.sort(function(a, b) {
+    return parseInt(a.Difference) - parseInt(b.Difference);
+  });
+  // Remove games that have not been played yet and games from other seasons.
+  var arr = games.filter(function(game) {
+    return game.Difference > 0 && game.Difference < 240;
+  });
+  if (arr.length > 0) {
+    // Iterate last ten games stats
+    for (let i = 0; i < 10; i++) {
+      console.log(arr[i]);
+      if (arr[i].Home === team) {
+        tenGameStats.MOV += arr[i].Home_Diff;
+        tenGameStats.FG += parseFloat(arr[i].Home_FG);
+        tenGameStats.FGA += parseFloat(arr[i].Home_FGA);
+        tenGameStats.FG_PCT +=
+          parseFloat(arr[i].Home_FG) / parseFloat(arr[i].Home_FGA);
+        tenGameStats.Three_Pointers += parseFloat(arr[i].Home_3P);
+        tenGameStats.Three_Pointers_Att += parseFloat(arr[i].Home_3PA);
+        tenGameStats.Three_Pointers_Pct +=
+          parseFloat(arr[i].Home_3P) / parseFloat(arr[i].Home_3PA);
+        tenGameStats.FT += parseFloat(arr[i].Home_FT);
+        tenGameStats.FTA += parseFloat(arr[i].Home_FTA);
+        tenGameStats.FT_PCT +=
+          parseFloat(arr[i].Home_FT) / parseFloat(arr[i].Home_FTA);
+      }
+      if (arr[i].Home !== team) {
+        tenGameStats.MOV -= arr[i].Home_Diff;
+        tenGameStats.FG += parseFloat(arr[i].Away_FG);
+        tenGameStats.FGA += parseFloat(arr[i].Away_FGA);
+        tenGameStats.FG_PCT +=
+          parseFloat(arr[i].Away_FG) / parseFloat(arr[i].Away_FGA);
+        tenGameStats.Three_Pointers += parseFloat(arr[i].Away_3P);
+        tenGameStats.Three_Pointers_Att += parseFloat(arr[i].Away_3PA);
+        tenGameStats.Three_Pointers_Pct +=
+          parseFloat(arr[i].Away_3P) / parseFloat(arr[i].Away_3PA);
+        tenGameStats.FT += parseFloat(arr[i].Away_FT);
+        tenGameStats.FTA += parseFloat(arr[i].Away_FTA);
+        tenGameStats.FT_PCT +=
+          parseFloat(arr[i].Away_FT) / parseFloat(arr[i].Away_FTA);
+      }
+    }
+  }
+  //console.log(tenGameStats.MOV);
+  tenGameStats.MOV = parseFloat(tenGameStats.MOV / 10);
+  tenGameStats.FG = parseFloat(tenGameStats.FG / 10);
+  tenGameStats.FGA = parseFloat(tenGameStats.FGA / 10);
+  tenGameStats.FG_PCT = parseFloat(tenGameStats.FG_PCT / 10);
+  tenGameStats.Three_Pointers = parseFloat(tenGameStats.Three_Pointers / 10);
+  tenGameStats.Three_Pointers_Att = parseFloat(
+    tenGameStats.Three_Pointers_Att / 10
+  );
+  tenGameStats.Three_Pointers_Pct = parseFloat(
+    tenGameStats.Three_Pointers_Pct / 10
+  );
+  tenGameStats.FT = parseFloat(tenGameStats.FT / 10);
+  tenGameStats.FTA = parseFloat(tenGameStats.FTA / 10);
+  tenGameStats.FT_PCT = parseFloat(tenGameStats.FT_PCT / 10);
+  console.log(team + ": " + tenGameStats.FG);
+
+  return tenGameStats;
+}
 
 // a and b are javascript Date objects
 function dateDiffInDays(a, b) {

@@ -1,4 +1,4 @@
-const csvFilePath = "./csv-boxscores/3_19_2019.csv";
+const csvFilePath = "./csv-boxscores/3_15_2019.csv";
 const csv = require("csvtojson");
 var axios = require("axios");
 var async = require("async");
@@ -137,38 +137,40 @@ csv()
                 // console.log(home.Name + " " + homeDist);
                 // var awayDist = await getDistanceTraveled(awayGames, away.Name);
                 // console.log(away.Name + " " + awayDist);
-                // gameVector["Travel_Difference_9Day"] =
-                //   parseInt(homeDist) - parseInt(awayDist);
-                // gameVector["Last_Game_Margin"] =
-                //   homeScoringMargin.lastOne - awayScoringMargin.lastOne;
-                // gameVector["Last_3Game_Margin"] = (
-                //   homeScoringMargin.lastThree - awayScoringMargin.lastThree
-                // ).toFixed(1);
-                // gameVector["Home_Away_Margin"] = (
-                //   homeScoringMargin.homeMargin - awayScoringMargin.awayMargin
-                // ).toFixed(1);
-                // gameVector["Head_To_Head_Avg_Spread"] =
-                //   seasonHeadToHead.averageDifference;
-                // gameVector["Head_To_Head_GP"] = seasonHeadToHead.gamesPlayed;
-                // gameVector["Head_To_Head_3P"] = seasonHeadToHead.threes;
-                // gameVector["Head_To_Head_3PA"] = seasonHeadToHead.threes_att;
-                // gameVector["Head_To_Head_AST"] = seasonHeadToHead.ast;
-                // gameVector["Head_To_Head_BLK_PCT"] = seasonHeadToHead.blk_pct;
-                // gameVector["Head_To_Head_FGM"] = seasonHeadToHead.fgm;
-                // gameVector["Head_To_Head_FGA"] = seasonHeadToHead.fga;
-                // gameVector["Head_To_Head_FTA"] = seasonHeadToHead.fta;
-                // gameVector["Head_To_Head_FTM"] = seasonHeadToHead.ftm;
-                // gameVector["Head_To_Head_ORB"] = seasonHeadToHead.orb;
-                // gameVector["Head_To_Head_ORB_PCT"] = seasonHeadToHead.orb_pct;
-                // gameVector["Head_To_Head_STL"] = seasonHeadToHead.stl;
-                // gameVector["Head_To_Head_TOV_PCT"] = seasonHeadToHead.tov_pct;
-                // gameVector["Head_To_Head_TRB"] = seasonHeadToHead.trb;
-                gameVector["Last_Ten"] = homeWins.tenGames - awayWins.tenGames;
-                gameVector["Last_Five"] =
-                  homeWins.fiveGames - awayWins.fiveGames;
-                gameVector["GP_One_Day"] = homeOneGame - awayOneGame;
-                gameVector["GP_Two_Day"] = homeTwoGame - awayTwoGame;
-                gameVector["GP_Three_Day"] = homeThreeGame - awayThreeGame;
+                // gameVector["Travel_Total_9Day"] =
+                //   parseInt(homeDist) + parseInt(awayDist);
+                gameVector["Last_Game_Total"] =
+                  homeScoringMargin.lastOne + awayScoringMargin.lastOne;
+                gameVector["Last_3Game_Total"] = (
+                  parseInt(homeScoringMargin.lastThree) +
+                  parseInt(awayScoringMargin.lastThree)
+                ).toFixed(1);
+                gameVector["Home_Away_Total_Avg"] = (
+                  parseInt(homeScoringMargin.homeTotal) +
+                  parseInt(awayScoringMargin.awayTotal)
+                ).toFixed(1);
+                gameVector["Head_To_Head_Avg_Total"] =
+                  seasonHeadToHead.averageDifference;
+                gameVector["Head_To_Head_GP"] = seasonHeadToHead.gamesPlayed;
+                gameVector["Head_To_Head_3P"] = seasonHeadToHead.threes;
+                gameVector["Head_To_Head_3PA"] = seasonHeadToHead.threes_att;
+                gameVector["Head_To_Head_AST"] = seasonHeadToHead.ast;
+                gameVector["Head_To_Head_BLK_PCT"] = seasonHeadToHead.blk_pct;
+                gameVector["Head_To_Head_FGM"] = seasonHeadToHead.fgm;
+                gameVector["Head_To_Head_FGA"] = seasonHeadToHead.fga;
+                gameVector["Head_To_Head_FTA"] = seasonHeadToHead.fta;
+                gameVector["Head_To_Head_FTM"] = seasonHeadToHead.ftm;
+                gameVector["Head_To_Head_ORB"] = seasonHeadToHead.orb;
+                gameVector["Head_To_Head_ORB_PCT"] = seasonHeadToHead.orb_pct;
+                gameVector["Head_To_Head_STL"] = seasonHeadToHead.stl;
+                gameVector["Head_To_Head_TOV_PCT"] = seasonHeadToHead.tov_pct;
+                gameVector["Head_To_Head_TRB"] = seasonHeadToHead.trb;
+                // gameVector["Last_Ten"] = homeWins.tenGames - awayWins.tenGames;
+                // gameVector["Last_Five"] =
+                //   homeWins.fiveGames - awayWins.fiveGames;
+                gameVector["GP_One_Day"] = homeOneGame + awayOneGame;
+                gameVector["GP_Two_Day"] = homeTwoGame + awayTwoGame;
+                gameVector["GP_Three_Day"] = homeThreeGame + awayThreeGame;
                 gameVector["Total_Pts"] = vectors[count]["Total_Pts"];
                 gameVector["Home_Diff"] = vectors[count]["Home_Diff"];
                 gameVector["HW"] = vectors[count]["HW"];
@@ -177,7 +179,7 @@ csv()
                 // Subtract stats between competing teams to create input vectors
                 for (var stat in home) {
                   if (!(stat === "Name" || stat === "GP" || stat === "id")) {
-                    var num = parseFloat(home[stat]) - parseFloat(away[stat]);
+                    var num = parseFloat(home[stat]) + parseFloat(away[stat]);
                     if (num % 1 !== 0) {
                       var n = num.toFixed(3);
                       gameVector[stat] = n;
@@ -233,7 +235,7 @@ csv()
         var day = currentTime.getDate();
         var year = currentTime.getFullYear();
         var fileName =
-          "/Users/michaelgriffin/Deep_Learning_A_Z/SDL/ANN/Building_ANN/Artificial_Neural_Networks/today.csv";
+          "/Users/michaelgriffin/Deep_Learning_A_Z/SDL/ANN/Building_ANN/Artificial_Neural_Networks/todayTotal.csv";
 
         fs.writeFile(fileName, result);
         //console.log(result);
@@ -282,9 +284,11 @@ function getScoringMargin(games, team) {
   var scoringMargin = {
     lastThree: 0,
     lastOne: 0,
-    homeMargin: 0,
-    awayMargin: 0
+    homeTotal: 0,
+    awayTotal: 0
   };
+  var awayGames = 0;
+  var homeGames = 0;
   games.sort(function(a, b) {
     return parseInt(a.Difference) - parseInt(b.Difference);
   });
@@ -294,37 +298,41 @@ function getScoringMargin(games, team) {
   });
   //console.log(arr);
   if (arr.length > 0) {
-    // Get last game played margin
+    // Get last game played total pts
     if (arr[0].Home === team) {
-      scoringMargin.lastOne += arr[0].Home_Diff;
+      scoringMargin.lastOne += parseInt(arr[0].Home_Pts);
     } else {
-      scoringMargin.lastOne -= arr[0].Home_Diff;
+      scoringMargin.lastOne += parseInt(arr[0].Visitor_Pts);
     }
-    // Get Season home and away margin
+    // Get Season home and away pts
     for (let i = 0; i < arr.length; i++) {
       if (arr[i].Home === team) {
-        scoringMargin.homeMargin += arr[i].Home_Diff;
+        scoringMargin.homeTotal += parseInt(arr[i].Home_Pts);
+        homeGames += 1;
       }
       if (arr[i].Home !== team) {
-        scoringMargin.awayMargin -= arr[i].Home_Diff;
+        scoringMargin.awayTotal += parseInt(arr[i].Visitor_Pts);
+        awayGames += 1;
       }
     }
-    // Get last three games margin
+    // Get last three games total
     for (let j = 0; j < 3; j++) {
       if (arr[j].Home === team) {
-        scoringMargin.lastThree += arr[j].Home_Diff;
+        scoringMargin.lastThree += parseInt(arr[j].Home_Pts);
       }
       if (arr[j].Home !== team) {
-        scoringMargin.lastThree -= arr[j].Home_Diff;
+        scoringMargin.lastThree += parseInt(arr[j].Visitor_Pts);
       }
     }
+    //console.log(scoringMargin.homeTotal);
+    //console.log(arr.length);
     // Average season margins
-    scoringMargin.homeMargin = (scoringMargin.homeMargin / arr.length).toFixed(
-      1
-    );
-    scoringMargin.awayMargin = (scoringMargin.awayMargin / arr.length).toFixed(
-      1
-    );
+    scoringMargin.homeTotal = (
+      parseInt(scoringMargin.homeTotal) / homeGames
+    ).toFixed(1);
+    scoringMargin.awayTotal = (
+      parseInt(scoringMargin.awayTotal) / awayGames
+    ).toFixed(1);
     scoringMargin.lastThree = (scoringMargin.lastThree / 3).toFixed(1);
   }
   //console.log(team + " SCORING: ", scoringMargin);
@@ -366,68 +374,67 @@ function getHeadToHeadAverage(games, opponent) {
   if (arr.length > 0) {
     var count = 0;
     for (let i = 0; i < arr.length; i++) {
+      count += parseInt(arr[i].Home_Pts) + parseInt(arr[i].Visitor_Pts);
       if (arr[i].Visitor === opponent) {
-        count += arr[i].Home_Diff;
         headToHeadSeason.threes +=
-          parseInt(arr[i]["Home_3P"]) - parseInt(arr[i]["Away_3P"]);
+          parseInt(arr[i]["Home_3P"]) + parseInt(arr[i]["Away_3P"]);
         headToHeadSeason.threes_att +=
-          parseInt(arr[i]["Home_3PA"]) - parseInt(arr[i]["Away_3PA"]);
+          parseInt(arr[i]["Home_3PA"]) + parseInt(arr[i]["Away_3PA"]);
         headToHeadSeason.ast +=
-          parseInt(arr[i]["Home_AST"]) - parseInt(arr[i]["Away_AST"]);
+          parseInt(arr[i]["Home_AST"]) + parseInt(arr[i]["Away_AST"]);
         headToHeadSeason.blk_pct +=
-          parseFloat(arr[i]["Home_BLK_PCT"]) -
+          parseFloat(arr[i]["Home_BLK_PCT"]) +
           parseFloat(arr[i]["Away_BLK_PCT"]);
         headToHeadSeason.fgm +=
-          parseInt(arr[i]["Home_FG"]) - parseInt(arr[i]["Away_FG"]);
+          parseInt(arr[i]["Home_FG"]) + parseInt(arr[i]["Away_FG"]);
         headToHeadSeason.fga +=
-          parseInt(arr[i]["Home_FGA"]) - parseInt(arr[i]["Away_FGA"]);
+          parseInt(arr[i]["Home_FGA"]) + parseInt(arr[i]["Away_FGA"]);
         headToHeadSeason.fta +=
-          parseInt(arr[i]["Home_FTA"]) - parseInt(arr[i]["Away_FTA"]);
+          parseInt(arr[i]["Home_FTA"]) + parseInt(arr[i]["Away_FTA"]);
         headToHeadSeason.ftm +=
-          parseInt(arr[i]["Home_FTM"]) - parseInt(arr[i]["Away_FTM"]);
+          parseInt(arr[i]["Home_FTM"]) + parseInt(arr[i]["Away_FTM"]);
         headToHeadSeason.orb +=
-          parseInt(arr[i]["Home_ORB"]) - parseInt(arr[i]["Away_ORB"]);
+          parseInt(arr[i]["Home_ORB"]) + parseInt(arr[i]["Away_ORB"]);
         headToHeadSeason.orb_pct +=
-          parseFloat(arr[i]["Home_ORB_PCT"]) -
+          parseFloat(arr[i]["Home_ORB_PCT"]) +
           parseFloat(arr[i]["Away_ORB_PCT"]);
         headToHeadSeason.stl +=
-          parseInt(arr[i]["Home_ST"]) - parseInt(arr[i]["Away_STL"]);
+          parseInt(arr[i]["Home_ST"]) + parseInt(arr[i]["Away_STL"]);
         headToHeadSeason.tov_pct +=
-          parseFloat(arr[i]["Home_TOV_PCT"]) -
+          parseFloat(arr[i]["Home_TOV_PCT"]) +
           parseFloat(arr[i]["Away_TOV_PCT"]);
         headToHeadSeason.trb +=
-          parseInt(arr[i]["Home_TRB"]) - parseInt(arr[i]["Away_TRB"]);
+          parseInt(arr[i]["Home_TRB"]) + parseInt(arr[i]["Away_TRB"]);
       } else {
-        count -= arr[i].Home_Diff;
-        headToHeadSeason.threes -=
-          parseInt(arr[i]["Home_3P"]) - parseInt(arr[i]["Away_3P"]);
-        headToHeadSeason.threes_att -=
-          parseInt(arr[i]["Home_3PA"]) - parseInt(arr[i]["Away_3PA"]);
-        headToHeadSeason.ast -=
-          parseInt(arr[i]["Home_AST"]) - parseInt(arr[i]["Away_AST"]);
-        headToHeadSeason.blk_pct -=
-          parseFloat(arr[i]["Home_BLK_PCT"]) -
+        headToHeadSeason.threes +=
+          parseInt(arr[i]["Home_3P"]) + parseInt(arr[i]["Away_3P"]);
+        headToHeadSeason.threes_att +=
+          parseInt(arr[i]["Home_3PA"]) + parseInt(arr[i]["Away_3PA"]);
+        headToHeadSeason.ast +=
+          parseInt(arr[i]["Home_AST"]) + parseInt(arr[i]["Away_AST"]);
+        headToHeadSeason.blk_pct +=
+          parseFloat(arr[i]["Home_BLK_PCT"]) +
           parseFloat(arr[i]["Away_BLK_PCT"]);
-        headToHeadSeason.fgm -=
-          parseInt(arr[i]["Home_FG"]) - parseInt(arr[i]["Away_FG"]);
-        headToHeadSeason.fga -=
-          parseInt(arr[i]["Home_FGA"]) - parseInt(arr[i]["Away_FGA"]);
-        headToHeadSeason.fta -=
-          parseInt(arr[i]["Home_FTA"]) - parseInt(arr[i]["Away_FTA"]);
-        headToHeadSeason.ftm -=
-          parseInt(arr[i]["Home_FTM"]) - parseInt(arr[i]["Away_FTM"]);
-        headToHeadSeason.orb -=
-          parseInt(arr[i]["Home_ORB"]) - parseInt(arr[i]["Away_ORB"]);
-        headToHeadSeason.orb_pct -=
-          parseFloat(arr[i]["Home_ORB_PCT"]) -
+        headToHeadSeason.fgm +=
+          parseInt(arr[i]["Home_FG"]) + parseInt(arr[i]["Away_FG"]);
+        headToHeadSeason.fga +=
+          parseInt(arr[i]["Home_FGA"]) + parseInt(arr[i]["Away_FGA"]);
+        headToHeadSeason.fta +=
+          parseInt(arr[i]["Home_FTA"]) + parseInt(arr[i]["Away_FTA"]);
+        headToHeadSeason.ftm +=
+          parseInt(arr[i]["Home_FTM"]) + parseInt(arr[i]["Away_FTM"]);
+        headToHeadSeason.orb +=
+          parseInt(arr[i]["Home_ORB"]) + parseInt(arr[i]["Away_ORB"]);
+        headToHeadSeason.orb_pct +=
+          parseFloat(arr[i]["Home_ORB_PCT"]) +
           parseFloat(arr[i]["Away_ORB_PCT"]);
-        headToHeadSeason.stl -=
-          parseInt(arr[i]["Home_ST"]) - parseInt(arr[i]["Away_STL"]);
-        headToHeadSeason.tov_pct -=
-          parseFloat(arr[i]["Home_TOV_PCT"]) -
+        headToHeadSeason.stl +=
+          parseInt(arr[i]["Home_ST"]) + parseInt(arr[i]["Away_STL"]);
+        headToHeadSeason.tov_pct +=
+          parseFloat(arr[i]["Home_TOV_PCT"]) +
           parseFloat(arr[i]["Away_TOV_PCT"]);
-        headToHeadSeason.trb -=
-          parseInt(arr[i]["Home_TRB"]) - parseInt(arr[i]["Away_TRB"]);
+        headToHeadSeason.trb +=
+          parseInt(arr[i]["Home_TRB"]) + parseInt(arr[i]["Away_TRB"]);
       }
     }
     headToHeadSeason.averageDifference = (count / arr.length).toFixed(1);

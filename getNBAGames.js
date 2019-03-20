@@ -63,7 +63,7 @@ var getGames = function() {
     var date = commaDate.replace(/,/g, "");
     var dateArr = date.split(" ");
     var newDate = dateArr[1] + " " + dateArr[2] + " " + dateArr[3];
-    if ("Mar 5 2019" === newDate) {
+    if ("Mar 19 2019" === newDate) {
       var game = {};
       game["Date"] = newDate;
       for (var j = 0; j < gameInfo.length; j++) {
