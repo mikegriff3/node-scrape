@@ -1,4 +1,4 @@
-const csvFilePath = "./csv-boxscores/3_29_2019.csv";
+const csvFilePath = "./csv-boxscores/3_14_2019.csv";
 const csv = require("csvtojson");
 var axios = require("axios");
 var async = require("async");
@@ -239,49 +239,119 @@ csv()
                 gameVector["TOV_PCT"] = (
                   homeTenGameAvg.TOV_PCT - awayTenGameAvg.TOV_PCT
                 ).toFixed(3);
+                gameVector["ORB_PCT"] = (
+                  homeTenGameAvg.ORB_PCT - awayTenGameAvg.ORB_PCT
+                ).toFixed(3);
+                gameVector["FTr"] = (
+                  homeTenGameAvg.FTr - awayTenGameAvg.FTr
+                ).toFixed(3);
+                gameVector["Three_PAr"] = (
+                  homeTenGameAvg.Three_PAr - awayTenGameAvg.Three_PAr
+                ).toFixed(3);
+                gameVector["eFG"] = (
+                  homeTenGameAvg.eFG - awayTenGameAvg.eFG
+                ).toFixed(3);
+                gameVector["PACE"] = (
+                  homeTenGameAvg.PACE - awayTenGameAvg.PACE
+                ).toFixed(1);
+                gameVector["ORtg"] = (
+                  homeTenGameAvg.ORtg - awayTenGameAvg.ORtg
+                ).toFixed(1);
+                gameVector["DRtg"] = (
+                  homeTenGameAvg.DRtg - awayTenGameAvg.DRtg
+                ).toFixed(1);
+
+                gameVector["oFG"] = (
+                  homeTenGameAvg.oFG - awayTenGameAvg.oFG
+                ).toFixed(1);
+                gameVector["oFGA"] = (
+                  homeTenGameAvg.oFGA - awayTenGameAvg.oFGA
+                ).toFixed(1);
+                gameVector["oFG_PCT"] = (
+                  homeTenGameAvg.oFG_PCT - awayTenGameAvg.oFG_PCT
+                ).toFixed(3);
+                gameVector["o3P"] = (
+                  homeTenGameAvg.o3P - awayTenGameAvg.o3P
+                ).toFixed(1);
+                gameVector["o3PA"] = (
+                  homeTenGameAvg.o3PA - awayTenGameAvg.o3PA
+                ).toFixed(1);
+                gameVector["o3PCT"] = (
+                  homeTenGameAvg.o3PCT - awayTenGameAvg.o3PCT
+                ).toFixed(3);
+                gameVector["oFTM"] = (
+                  homeTenGameAvg.oFTM - awayTenGameAvg.oFTM
+                ).toFixed(1);
+                gameVector["oFTA"] = (
+                  homeTenGameAvg.oFTA - awayTenGameAvg.oFTA
+                ).toFixed(1);
+                gameVector["oFT_PCT"] = (
+                  homeTenGameAvg.oFT_PCT - awayTenGameAvg.oFT_PCT
+                ).toFixed(3);
+                gameVector["oORB"] = (
+                  homeTenGameAvg.oORB - awayTenGameAvg.oORB
+                ).toFixed(1);
+                gameVector["oTRB"] = (
+                  homeTenGameAvg.oTRB - awayTenGameAvg.oTRB
+                ).toFixed(1);
+                gameVector["oAST"] = (
+                  homeTenGameAvg.oAST - awayTenGameAvg.oAST
+                ).toFixed(1);
+                gameVector["oSTL"] = (
+                  homeTenGameAvg.oSTL - awayTenGameAvg.oSTL
+                ).toFixed(1);
+                gameVector["oPTS"] = (
+                  homeTenGameAvg.oPTS - awayTenGameAvg.oPTS
+                ).toFixed(1);
+                gameVector["oEFG"] = (
+                  homeTenGameAvg.oEFG - awayTenGameAvg.oEFG
+                ).toFixed(3);
+                gameVector["oFTr"] = (
+                  homeTenGameAvg.oFTr - awayTenGameAvg.oFTr
+                ).toFixed(3);
                 //Subtract stats between competing teams to create input vectors
-                for (var stat in home) {
-                  if (
-                    !(
-                      stat === "Name" ||
-                      stat === "GP" ||
-                      stat === "id" ||
-                      stat === "MOV" ||
-                      stat === "W" ||
-                      stat === "L" ||
-                      stat === "PW" ||
-                      stat === "PL" ||
-                      stat === "TOV_PCT" ||
-                      stat === "BLK_PCT" ||
-                      stat === "STL" ||
-                      stat === "AST" ||
-                      stat === "TRB" ||
-                      stat === "ORB" ||
-                      stat === "DRB" ||
-                      stat === "FT_PCT" ||
-                      stat === "FTM" ||
-                      stat === "FTA" ||
-                      stat === "FG" ||
-                      stat === "FGA" ||
-                      stat === "FG_PCT" ||
-                      stat === "Three_Pointers" ||
-                      stat === "Three_Pointers_Att" ||
-                      stat === "Three_Pointers_Pct" ||
-                      stat === "Two_Pointers" ||
-                      stat === "Two_Pointers_Att" ||
-                      stat === "Two_Pointers_Pct" ||
-                      stat === "PTS"
-                    )
-                  ) {
-                    var num = parseFloat(home[stat]) - parseFloat(away[stat]);
-                    if (num % 1 !== 0) {
-                      var n = num.toFixed(3);
-                      gameVector[stat] = n;
-                    } else {
-                      gameVector[stat] = num;
-                    }
-                  }
-                }
+                // for (var stat in home) {
+                //   if (
+                //     !(
+                //       stat === "Name" ||
+                //       stat === "GP" ||
+                //       stat === "id" ||
+                //       stat === "MOV" ||
+                //       stat === "W" ||
+                //       stat === "L" ||
+                //       stat === "PW" ||
+                //       stat === "PL" ||
+                //       stat === "TOV_PCT" ||
+                //       stat === "BLK_PCT" ||
+                //       stat === "STL" ||
+                //       stat === "AST" ||
+                //       stat === "TRB" ||
+                //       stat === "ORB" ||
+                //       stat === "DRB" ||
+                //       stat === "FT_PCT" ||
+                //       stat === "FTM" ||
+                //       stat === "FTA" ||
+                //       stat === "FG" ||
+                //       stat === "FGA" ||
+                //       stat === "FG_PCT" ||
+                //       stat === "Three_Pointers" ||
+                //       stat === "Three_Pointers_Att" ||
+                //       stat === "Three_Pointers_Pct" ||
+                //       stat === "Two_Pointers" ||
+                //       stat === "Two_Pointers_Att" ||
+                //       stat === "Two_Pointers_Pct" ||
+                //       stat === "PTS"
+                //     )
+                //   ) {
+                //     var num = parseFloat(home[stat]) - parseFloat(away[stat]);
+                //     if (num % 1 !== 0) {
+                //       var n = num.toFixed(3);
+                //       gameVector[stat] = n;
+                //     } else {
+                //       gameVector[stat] = num;
+                //     }
+                //   }
+                //}
                 console.log(home.Name + " vs " + away.Name);
                 console.log(gameVector);
                 finalArr.push(gameVector);
@@ -349,13 +419,39 @@ function getTenGamesStats(games, team) {
     FTM: 0,
     FTA: 0,
     FT_PCT: 0.0,
+    FTr: 0.0,
+    Three_PAr: 0.0,
     ORB: 0,
     TRB: 0,
     AST: 0,
     STL: 0,
     BLK_PCT: 0.0,
     TOV_PCT: 0.0,
-    PTS: 0
+    eFG: 0.0,
+    PTS: 0,
+    oPTS: 0,
+    oFG: 0,
+    oFGA: 0,
+    oFG_PCT: 0.0,
+    o3P: 0,
+    o3PA: 0,
+    o3PCT: 0.0,
+    oFTM: 0,
+    oFTA: 0,
+    oFT_PCT: 0.0,
+    oORB: 0,
+    oTRB: 0,
+    oAST: 0,
+    oSTL: 0,
+    oEFG: 0.0,
+    oFTr: 0.0,
+    oTOV_PCT: 0.0,
+    ORB_PCT: 0.0,
+    Possessions: 0.0,
+    TOV: 0.0,
+    PACE: 0.0,
+    ORtg: 0.0,
+    DRtg: 0.0
   };
 
   games.sort(function(a, b) {
@@ -391,6 +487,26 @@ function getTenGamesStats(games, team) {
         tenGameStats.STL += parseInt(newArr[i].Home_ST);
         tenGameStats.BLK_PCT += parseFloat(newArr[i].Home_BLK_PCT);
         tenGameStats.TOV_PCT += parseFloat(newArr[i].Home_TOV_PCT);
+        tenGameStats.ORB_PCT += parseFloat(newArr[i].Home_ORB_PCT);
+
+        tenGameStats.oPTS += parseFloat(newArr[i].Visitor_Pts);
+        tenGameStats.oFG += parseFloat(newArr[i].Away_FG);
+        tenGameStats.oFGA += parseFloat(newArr[i].Away_FGA);
+        tenGameStats.oFG_PCT +=
+          parseFloat(newArr[i].Away_FG) / parseFloat(newArr[i].Away_FGA);
+        tenGameStats.o3P += parseFloat(newArr[i].Away_3P);
+        tenGameStats.o3PA += parseFloat(newArr[i].Away_3PA);
+        tenGameStats.o3PCT +=
+          parseFloat(newArr[i].Away_3P) / parseFloat(newArr[i].Away_3PA);
+        tenGameStats.oFTM += parseFloat(newArr[i].Away_FTM);
+        tenGameStats.oFTA += parseFloat(newArr[i].Away_FTA);
+        tenGameStats.oFT_PCT +=
+          parseFloat(newArr[i].Away_FTM) / parseFloat(newArr[i].Away_FTA);
+        tenGameStats.oORB += parseInt(newArr[i].Away_ORB);
+        tenGameStats.oTRB += parseInt(newArr[i].Away_TRB);
+        tenGameStats.oAST += parseInt(newArr[i].Away_AST);
+        tenGameStats.oSTL += parseInt(newArr[i].Away_STL);
+        tenGameStats.oTOV_PCT += parseFloat(newArr[i].Away_TOV_PCT);
       }
       if (newArr[i].Home !== team) {
         tenGameStats.MOV -= newArr[i].Home_Diff;
@@ -413,6 +529,26 @@ function getTenGamesStats(games, team) {
         tenGameStats.STL += parseInt(newArr[i].Away_STL);
         tenGameStats.BLK_PCT += parseFloat(newArr[i].Away_BLK_PCT);
         tenGameStats.TOV_PCT += parseFloat(newArr[i].Away_TOV_PCT);
+        tenGameStats.ORB_PCT += parseFloat(newArr[i].Away_ORB_PCT);
+
+        tenGameStats.oPTS += parseFloat(newArr[i].Home_Pts);
+        tenGameStats.oFG += parseFloat(newArr[i].Home_FG);
+        tenGameStats.oFGA += parseFloat(newArr[i].Home_FGA);
+        tenGameStats.oFG_PCT +=
+          parseFloat(newArr[i].Home_FG) / parseFloat(newArr[i].Home_FGA);
+        tenGameStats.o3P += parseFloat(newArr[i].Home_3P);
+        tenGameStats.o3PA += parseFloat(newArr[i].Home_3PA);
+        tenGameStats.o3PCT +=
+          parseFloat(newArr[i].Home_3P) / parseFloat(newArr[i].Home_3PA);
+        tenGameStats.oFTM += parseFloat(newArr[i].Home_FTM);
+        tenGameStats.oFTA += parseFloat(newArr[i].Home_FTA);
+        tenGameStats.oFT_PCT +=
+          parseFloat(newArr[i].Home_FTM) / parseFloat(newArr[i].Home_FTA);
+        tenGameStats.oORB += parseInt(newArr[i].Home_ORB);
+        tenGameStats.oTRB += parseInt(newArr[i].Home_TRB);
+        tenGameStats.oAST += parseInt(newArr[i].Home_AST);
+        tenGameStats.oSTL += parseInt(newArr[i].Home_ST);
+        tenGameStats.oTOV_PCT += parseFloat(newArr[i].Home_TOV_PCT);
       }
     }
   }
@@ -440,7 +576,71 @@ function getTenGamesStats(games, team) {
   tenGameStats.STL = parseFloat(tenGameStats.STL / newArr.length);
   tenGameStats.BLK_PCT = parseFloat(tenGameStats.BLK_PCT / newArr.length);
   tenGameStats.TOV_PCT = parseFloat(tenGameStats.TOV_PCT / newArr.length);
-  console.log(team + ": " + tenGameStats.PTS);
+  tenGameStats.ORB_PCT = parseFloat(tenGameStats.ORB_PCT / newArr.length);
+  tenGameStats.FTr = parseFloat(tenGameStats.FTA / tenGameStats.FGA);
+  tenGameStats.Three_PAr = parseFloat(
+    tenGameStats.Three_Pointers_Att / tenGameStats.FGA
+  );
+  tenGameStats.eFG = parseFloat(
+    (tenGameStats.FG + 0.5 * tenGameStats.Three_Pointers) / tenGameStats.FGA
+  );
+  tenGameStats.TOV = parseFloat(
+    ((tenGameStats.FGA + 0.44 * tenGameStats.FTA) *
+      (tenGameStats.TOV_PCT / 100)) /
+      1 -
+      tenGameStats.TOV_PCT / 100
+  );
+
+  tenGameStats.oPTS = parseFloat(tenGameStats.oPTS / newArr.length);
+  tenGameStats.oFG = parseFloat(tenGameStats.oFG / newArr.length);
+  tenGameStats.oFGA = parseFloat(tenGameStats.oFGA / newArr.length);
+  tenGameStats.oFG_PCT = parseFloat(tenGameStats.oFG_PCT / newArr.length);
+  tenGameStats.o3P = parseFloat(tenGameStats.o3P / newArr.length);
+  tenGameStats.o3PA = parseFloat(tenGameStats.o3PA / newArr.length);
+  tenGameStats.o3PCT = parseFloat(tenGameStats.o3PCT / newArr.length);
+  tenGameStats.oFTM = parseFloat(tenGameStats.oFTM / newArr.length);
+  tenGameStats.oFTA = parseFloat(tenGameStats.oFTA / newArr.length);
+  tenGameStats.oFT_PCT = parseFloat(tenGameStats.oFT_PCT / newArr.length);
+  tenGameStats.oORB = parseFloat(tenGameStats.oORB / newArr.length);
+  tenGameStats.oTRB = parseFloat(tenGameStats.oTRB / newArr.length);
+  tenGameStats.oAST = parseFloat(tenGameStats.oAST / newArr.length);
+  tenGameStats.oSTL = parseFloat(tenGameStats.oSTL / newArr.length);
+  tenGameStats.oEFG = parseFloat(
+    (tenGameStats.oFG + 0.5 * tenGameStats.o3P) / tenGameStats.oFGA
+  );
+  tenGameStats.oFTr = parseFloat(tenGameStats.oFTA / tenGameStats.oFGA);
+  tenGameStats.oTOV_PCT = parseFloat(tenGameStats.oTOV_PCT / newArr.length);
+  tenGameStats.oTOV = parseFloat(
+    ((tenGameStats.oFGA + 0.44 * tenGameStats.oFTA) *
+      (tenGameStats.oTOV_PCT / 100)) /
+      1 -
+      tenGameStats.oTOV_PCT / 100
+  );
+
+  tenGameStats.Possessions =
+    0.5 *
+    (tenGameStats.FGA +
+      0.4 * tenGameStats.FTA -
+      1.07 *
+        (tenGameStats.ORB /
+          (tenGameStats.ORB + (tenGameStats.oTRB - tenGameStats.oORB))) *
+        (tenGameStats.FGA - tenGameStats.FG) +
+      tenGameStats.TOV +
+      (tenGameStats.oFGA +
+        0.4 * tenGameStats.oFTA -
+        1.07 *
+          (tenGameStats.oORB /
+            (tenGameStats.oORB + (tenGameStats.TRB - tenGameStats.ORB))) *
+          (tenGameStats.oFGA - tenGameStats.oFG) +
+        tenGameStats.oTOV));
+
+  tenGameStats.PACE = 48 * ((tenGameStats.Possessions * 2) / (2 * 48));
+  tenGameStats.ORtg = 100 * (tenGameStats.PTS / tenGameStats.PACE);
+  tenGameStats.DRtg = 100 * (tenGameStats.oPTS / tenGameStats.PACE);
+
+  // SRS = MOV + SOS
+
+  console.log(team + ": " + tenGameStats.DRtg);
 
   return tenGameStats;
 }

@@ -1,4 +1,4 @@
-const csvFilePath = "./csv-boxscores/3_19_2019.csv";
+const csvFilePath = "./csv-boxscores/3_30_2019.csv";
 const csv = require("csvtojson");
 var axios = require("axios");
 var async = require("async");

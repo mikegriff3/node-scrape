@@ -1,1152 +1,549 @@
 Date,HW,Home,Home_Diff,Home_Pts,Start_Time,Total_Pts,Visitor,Visitor_Pts
-Tue Oct 16 2018,1,Boston Celtics,18,105,8:00p,192,Philadelphia 76ers,87
-Tue Oct 16 2018,1,Golden State Warriors,8,108,10:30p,208,Oklahoma City Thunder,100
-Wed Oct 17 2018,0,Charlotte Hornets,-1,112,7:00p,225,Milwaukee Bucks,113
-Wed Oct 17 2018,1,Detroit Pistons,3,103,7:00p,203,Brooklyn Nets,100
-Wed Oct 17 2018,0,Houston Rockets,-19,112,8:00p,243,New Orleans Pelicans,131
-Wed Oct 17 2018,1,Indiana Pacers,28,111,7:00p,194,Memphis Grizzlies,83
-Wed Oct 17 2018,0,Los Angeles Clippers,-9,98,10:30p,205,Denver Nuggets,107
-Wed Oct 17 2018,1,New York Knicks,19,126,7:30p,233,Atlanta Hawks,107
-Wed Oct 17 2018,1,Orlando Magic,3,104,7:00p,205,Miami Heat,101
-Wed Oct 17 2018,1,Phoenix Suns,21,121,10:30p,221,Dallas Mavericks,100
-Wed Oct 17 2018,0,Sacramento Kings,-6,117,10:00p,240,Utah Jazz,123
-Wed Oct 17 2018,1,San Antonio Spurs,4,112,8:30p,220,Minnesota Timberwolves,108
-Wed Oct 17 2018,1,Toronto Raptors,12,116,7:30p,220,Cleveland Cavaliers,104
-Thu Oct 18 2018,1,Philadelphia 76ers,19,127,8:00p,235,Chicago Bulls,108
-Thu Oct 18 2018,1,Portland Trail Blazers,9,128,10:30p,247,Los Angeles Lakers,119
-Thu Oct 18 2018,0,Washington Wizards,-1,112,8:00p,225,Miami Heat,113
-Fri Oct 19 2018,1,Brooklyn Nets,2,107,7:30p,212,New York Knicks,105
-Fri Oct 19 2018,1,Los Angeles Clippers,16,108,10:30p,200,Oklahoma City Thunder,92
-Fri Oct 19 2018,1,Memphis Grizzlies,14,131,8:00p,248,Atlanta Hawks,117
-Fri Oct 19 2018,1,Milwaukee Bucks,17,118,8:30p,219,Indiana Pacers,101
-Fri Oct 19 2018,1,Minnesota Timberwolves,8,131,8:00p,254,Cleveland Cavaliers,123
-Fri Oct 19 2018,1,New Orleans Pelicans,20,149,8:00p,278,Sacramento Kings,129
-Fri Oct 19 2018,0,Orlando Magic,-32,88,7:00p,208,Charlotte Hornets,120
-Fri Oct 19 2018,1,Toronto Raptors,12,113,8:00p,214,Boston Celtics,101
-Fri Oct 19 2018,0,Utah Jazz,-1,123,10:30p,247,Golden State Warriors,124
-Sat Oct 20 2018,0,Chicago Bulls,-2,116,8:00p,234,Detroit Pistons,118
-Sat Oct 20 2018,1,Dallas Mavericks,4,140,8:30p,276,Minnesota Timberwolves,136
-Sat Oct 20 2018,1,Denver Nuggets,28,119,9:00p,210,Phoenix Suns,91
-Sat Oct 20 2018,1,Indiana Pacers,20,132,7:00p,244,Brooklyn Nets,112
-Sat Oct 20 2018,0,Los Angeles Lakers,-9,115,10:30p,239,Houston Rockets,124
-Sat Oct 20 2018,0,Miami Heat,-1,112,8:00p,225,Charlotte Hornets,113
-Sat Oct 20 2018,0,New York Knicks,-2,101,7:30p,204,Boston Celtics,103
-Sat Oct 20 2018,1,Philadelphia 76ers,1,116,7:30p,231,Orlando Magic,115
-Sat Oct 20 2018,1,Portland Trail Blazers,13,121,10:00p,229,San Antonio Spurs,108
-Sat Oct 20 2018,0,Washington Wizards,-4,113,7:00p,230,Toronto Raptors,117
-Sun Oct 21 2018,0,Cleveland Cavaliers,-22,111,6:00p,244,Atlanta Hawks,133
-Sun Oct 21 2018,1,Denver Nuggets,2,100,8:00p,198,Golden State Warriors,98
-Sun Oct 21 2018,1,Los Angeles Clippers,3,115,9:00p,227,Houston Rockets,112
-Sun Oct 21 2018,0,Oklahoma City Thunder,-11,120,7:00p,251,Sacramento Kings,131
-Mon Oct 22 2018,0,Boston Celtics,-3,90,7:30p,183,Orlando Magic,93
-Mon Oct 22 2018,1,Dallas Mavericks,6,115,8:30p,224,Chicago Bulls,109
-Mon Oct 22 2018,1,Golden State Warriors,20,123,10:30p,226,Phoenix Suns,103
-Mon Oct 22 2018,0,Los Angeles Lakers,-1,142,10:30p,285,San Antonio Spurs,143
-Mon Oct 22 2018,1,Milwaukee Bucks,11,124,8:00p,237,New York Knicks,113
-Mon Oct 22 2018,1,Minnesota Timberwolves,10,101,8:00p,192,Indiana Pacers,91
-Mon Oct 22 2018,0,Portland Trail Blazers,-1,124,10:00p,249,Washington Wizards,125
-Mon Oct 22 2018,1,Toronto Raptors,21,127,7:30p,233,Charlotte Hornets,106
-Mon Oct 22 2018,0,Utah Jazz,-8,84,9:00p,176,Memphis Grizzlies,92
-Tue Oct 23 2018,1,Denver Nuggets,14,126,9:00p,238,Sacramento Kings,112
-Tue Oct 23 2018,1,Detroit Pistons,1,133,7:00p,265,Philadelphia 76ers,132
-Tue Oct 23 2018,1,New Orleans Pelicans,7,116,8:00p,225,Los Angeles Clippers,109
-Wed Oct 24 2018,1,Atlanta Hawks,7,111,7:00p,215,Dallas Mavericks,104
-Wed Oct 24 2018,1,Chicago Bulls,2,112,8:00p,222,Charlotte Hornets,110
-Wed Oct 24 2018,0,Cleveland Cavaliers,-16,86,7:00p,188,Brooklyn Nets,102
-Wed Oct 24 2018,1,Golden State Warriors,22,144,10:30p,266,Washington Wizards,122
-Wed Oct 24 2018,0,Houston Rockets,-11,89,8:00p,189,Utah Jazz,100
-Wed Oct 24 2018,1,Miami Heat,23,110,7:30p,197,New York Knicks,87
-Wed Oct 24 2018,1,Milwaukee Bucks,15,123,9:30p,231,Philadelphia 76ers,108
-Wed Oct 24 2018,0,Phoenix Suns,-18,113,10:00p,244,Los Angeles Lakers,131
-Wed Oct 24 2018,1,Sacramento Kings,5,97,10:00p,189,Memphis Grizzlies,92
-Wed Oct 24 2018,0,San Antonio Spurs,-20,96,8:30p,212,Indiana Pacers,116
-Wed Oct 24 2018,1,Toronto Raptors,7,112,7:30p,217,Minnesota Timberwolves,105
-Thu Oct 25 2018,1,Detroit Pistons,7,110,7:00p,213,Cleveland Cavaliers,103
-Thu Oct 25 2018,1,Los Angeles Lakers,7,121,10:30p,235,Denver Nuggets,114
-Thu Oct 25 2018,0,Oklahoma City Thunder,-6,95,8:00p,196,Boston Celtics,101
-Thu Oct 25 2018,0,Orlando Magic,-14,114,7:00p,242,Portland Trail Blazers,128
-Fri Oct 26 2018,1,Charlotte Hornets,29,135,7:00p,241,Chicago Bulls,106
-Fri Oct 26 2018,0,Houston Rockets,-20,113,8:00p,246,Los Angeles Clippers,133
-Fri Oct 26 2018,0,Minnesota Timberwolves,-30,95,8:00p,220,Milwaukee Bucks,125
-Fri Oct 26 2018,1,New Orleans Pelicans,2,117,8:00p,232,Brooklyn Nets,115
-Fri Oct 26 2018,0,New York Knicks,-28,100,7:30p,228,Golden State Warriors,128
-Fri Oct 26 2018,1,Sacramento Kings,4,116,10:00p,228,Washington Wizards,112
-Fri Oct 26 2018,1,Toronto Raptors,9,116,7:30p,223,Dallas Mavericks,107
-Sat Oct 27 2018,0,Atlanta Hawks,-12,85,7:30p,182,Chicago Bulls,97
-Sat Oct 27 2018,0,Cleveland Cavaliers,-12,107,7:30p,226,Indiana Pacers,119
-Sat Oct 27 2018,0,Detroit Pistons,-20,89,7:00p,198,Boston Celtics,109
-Sat Oct 27 2018,1,Memphis Grizzlies,21,117,8:00p,213,Phoenix Suns,96
-Sat Oct 27 2018,1,Miami Heat,9,120,8:00p,231,Portland Trail Blazers,111
-Sat Oct 27 2018,1,Milwaukee Bucks,22,113,8:30p,204,Orlando Magic,91
-Sat Oct 27 2018,0,New Orleans Pelicans,-21,111,7:00p,243,Utah Jazz,132
-Sat Oct 27 2018,1,Philadelphia 76ers,2,105,7:30p,208,Charlotte Hornets,103
-Sat Oct 27 2018,1,San Antonio Spurs,4,110,8:30p,216,Los Angeles Lakers,106
-Sun Oct 28 2018,0,Brooklyn Nets,-6,114,5:00p,234,Golden State Warriors,120
-Sun Oct 28 2018,0,Dallas Mavericks,-9,104,7:00p,217,Utah Jazz,113
-Sun Oct 28 2018,1,Los Angeles Clippers,32,136,9:30p,240,Washington Wizards,104
-Sun Oct 28 2018,1,Oklahoma City Thunder,7,117,7:00p,227,Phoenix Suns,110
-Mon Oct 29 2018,0,Chicago Bulls,-25,124,8:00p,273,Golden State Warriors,149
-Mon Oct 29 2018,1,Denver Nuggets,5,116,9:00p,227,New Orleans Pelicans,111
-Mon Oct 29 2018,0,Indiana Pacers,-10,93,7:00p,196,Portland Trail Blazers,103
-Mon Oct 29 2018,0,Miami Heat,-10,113,7:30p,236,Sacramento Kings,123
-Mon Oct 29 2018,1,Milwaukee Bucks,15,124,8:00p,233,Toronto Raptors,109
-Mon Oct 29 2018,1,Minnesota Timberwolves,4,124,8:00p,244,Los Angeles Lakers,120
-Mon Oct 29 2018,1,New York Knicks,19,115,7:30p,211,Brooklyn Nets,96
-Mon Oct 29 2018,1,Philadelphia 76ers,21,113,7:00p,205,Atlanta Hawks,92
-Mon Oct 29 2018,1,San Antonio Spurs,5,113,8:30p,221,Dallas Mavericks,108
-Tue Oct 30 2018,1,Boston Celtics,3,108,7:30p,213,Detroit Pistons,105
-Tue Oct 30 2018,1,Charlotte Hornets,12,125,7:00p,238,Miami Heat,113
-Tue Oct 30 2018,1,Cleveland Cavaliers,22,136,7:00p,250,Atlanta Hawks,114
-Tue Oct 30 2018,0,Houston Rockets,-19,85,8:00p,189,Portland Trail Blazers,104
-Tue Oct 30 2018,1,Memphis Grizzlies,12,107,8:00p,202,Washington Wizards,95
-Tue Oct 30 2018,1,Oklahoma City Thunder,18,128,8:00p,238,Los Angeles Clippers,110
-Tue Oct 30 2018,0,Orlando Magic,-8,99,7:00p,206,Sacramento Kings,107
-Tue Oct 30 2018,1,Toronto Raptors,17,129,7:30p,241,Philadelphia 76ers,112
-Wed Oct 31 2018,1,Brooklyn Nets,1,120,7:30p,239,Detroit Pistons,119
-Wed Oct 31 2018,0,Chicago Bulls,-1,107,8:00p,215,Denver Nuggets,108
-Wed Oct 31 2018,1,Golden State Warriors,10,131,10:30p,252,New Orleans Pelicans,121
-Wed Oct 31 2018,1,Los Angeles Lakers,1,114,10:30p,227,Dallas Mavericks,113
-Wed Oct 31 2018,1,Minnesota Timberwolves,3,128,8:00p,253,Utah Jazz,125
-Wed Oct 31 2018,0,New York Knicks,-6,101,8:00p,208,Indiana Pacers,107
-Wed Oct 31 2018,0,Phoenix Suns,-30,90,10:30p,210,San Antonio Spurs,120
-Thu Nov 1 2018,0,Atlanta Hawks,-31,115,7:30p,261,Sacramento Kings,146
-Thu Nov 1 2018,1,Boston Celtics,4,117,8:00p,230,Milwaukee Bucks,113
-Thu Nov 1 2018,0,Charlotte Hornets,-4,107,7:00p,218,Oklahoma City Thunder,111
-Thu Nov 1 2018,0,Cleveland Cavaliers,-19,91,7:00p,201,Denver Nuggets,110
-Thu Nov 1 2018,1,Philadelphia 76ers,9,122,7:00p,235,Los Angeles Clippers,113
-Thu Nov 1 2018,1,Portland Trail Blazers,13,132,10:30p,251,New Orleans Pelicans,119
-Fri Nov 2 2018,0,Brooklyn Nets,-8,111,7:30p,230,Houston Rockets,119
-Fri Nov 2 2018,0,Chicago Bulls,-2,105,8:00p,212,Indiana Pacers,107
-Fri Nov 2 2018,0,Dallas Mavericks,-12,106,8:30p,224,New York Knicks,118
-Fri Nov 2 2018,1,Golden State Warriors,17,116,10:30p,215,Minnesota Timberwolves,99
-Fri Nov 2 2018,0,Orlando Magic,-25,95,7:00p,215,Los Angeles Clippers,120
-Fri Nov 2 2018,0,Phoenix Suns,-9,98,10:00p,205,Toronto Raptors,107
-Fri Nov 2 2018,0,Utah Jazz,-10,100,9:00p,210,Memphis Grizzlies,110
-Fri Nov 2 2018,0,Washington Wizards,-23,111,8:00p,245,Oklahoma City Thunder,134
-Sat Nov 3 2018,1,Atlanta Hawks,5,123,7:30p,241,Miami Heat,118
-Sat Nov 3 2018,0,Chicago Bulls,-8,88,8:00p,184,Houston Rockets,96
-Sat Nov 3 2018,1,Charlotte Hornets,32,126,7:00p,220,Cleveland Cavaliers,94
-Sat Nov 3 2018,1,Denver Nuggets,15,103,9:00p,191,Utah Jazz,88
-Sat Nov 3 2018,1,Indiana Pacers,1,102,7:00p,203,Boston Celtics,101
-Sat Nov 3 2018,1,Philadelphia 76ers,10,109,1:00p,208,Detroit Pistons,99
-Sat Nov 3 2018,0,Portland Trail Blazers,-4,110,10:00p,224,Los Angeles Lakers,114
-Sat Nov 3 2018,1,San Antonio Spurs,14,109,8:30p,204,New Orleans Pelicans,95
-Sun Nov 4 2018,1,Brooklyn Nets,25,122,6:00p,219,Philadelphia 76ers,97
-Sun Nov 4 2018,0,Los Angeles Lakers,-14,107,9:30p,228,Toronto Raptors,121
-Sun Nov 4 2018,1,Milwaukee Bucks,35,144,3:30p,253,Sacramento Kings,109
-Sun Nov 4 2018,1,Phoenix Suns,2,102,8:00p,202,Memphis Grizzlies,100
-Sun Nov 4 2018,1,Portland Trail Blazers,30,111,9:00p,192,Minnesota Timberwolves,81
-Sun Nov 4 2018,0,San Antonio Spurs,-7,110,7:00p,227,Orlando Magic,117
-Sun Nov 4 2018,1,Washington Wizards,13,108,6:00p,203,New York Knicks,95
-Mon Nov 5 2018,1,Denver Nuggets,8,115,9:00p,222,Boston Celtics,107
-Mon Nov 5 2018,0,Detroit Pistons,-5,115,7:00p,235,Miami Heat,120
-Mon Nov 5 2018,1,Golden State Warriors,16,117,10:30p,218,Memphis Grizzlies,101
-Mon Nov 5 2018,0,Indiana Pacers,-4,94,7:00p,192,Houston Rockets,98
-Mon Nov 5 2018,1,Los Angeles Clippers,11,120,10:30p,229,Minnesota Timberwolves,109
-Mon Nov 5 2018,0,New York Knicks,-1,115,7:30p,231,Chicago Bulls,116
-Mon Nov 5 2018,1,Oklahoma City Thunder,6,122,8:00p,238,New Orleans Pelicans,116
-Mon Nov 5 2018,1,Orlando Magic,2,102,7:00p,202,Cleveland Cavaliers,100
-Mon Nov 5 2018,0,Utah Jazz,-13,111,9:00p,235,Toronto Raptors,124
-Tue Nov 6 2018,1,Charlotte Hornets,11,113,7:00p,215,Atlanta Hawks,102
-Tue Nov 6 2018,1,Dallas Mavericks,19,119,8:30p,219,Washington Wizards,100
-Tue Nov 6 2018,0,Phoenix Suns,-22,82,9:00p,186,Brooklyn Nets,104
-Tue Nov 6 2018,1,Portland Trail Blazers,15,118,10:00p,221,Milwaukee Bucks,103
-Wed Nov 7 2018,0,Atlanta Hawks,-5,107,7:30p,219,New York Knicks,112
-Wed Nov 7 2018,0,Cleveland Cavaliers,-9,86,7:00p,181,Oklahoma City Thunder,95
-Wed Nov 7 2018,0,Indiana Pacers,-6,94,8:00p,194,Philadelphia 76ers,100
-Wed Nov 7 2018,1,Los Angeles Lakers,4,114,10:30p,224,Minnesota Timberwolves,110
-Wed Nov 7 2018,1,Memphis Grizzlies,2,89,8:00p,176,Denver Nuggets,87
-Wed Nov 7 2018,1,Miami Heat,7,95,7:30p,183,San Antonio Spurs,88
-Wed Nov 7 2018,1,New Orleans Pelicans,9,107,8:00p,205,Chicago Bulls,98
-Wed Nov 7 2018,0,Orlando Magic,-7,96,7:00p,199,Detroit Pistons,103
-Wed Nov 7 2018,0,Sacramento Kings,-9,105,10:00p,219,Toronto Raptors,114
-Wed Nov 7 2018,1,Utah Jazz,15,117,9:00p,219,Dallas Mavericks,102
-Thu Nov 8 2018,0,Golden State Warriors,-23,111,10:30p,245,Milwaukee Bucks,134
-Thu Nov 8 2018,1,Oklahoma City Thunder,18,98,8:00p,178,Houston Rockets,80
-Thu Nov 8 2018,0,Phoenix Suns,-7,109,9:00p,225,Boston Celtics,116
-Thu Nov 8 2018,1,Portland Trail Blazers,11,116,10:00p,221,Los Angeles Clippers,105
-Fri Nov 9 2018,0,Atlanta Hawks,-15,109,7:30p,233,Detroit Pistons,124
-Fri Nov 9 2018,0,Denver Nuggets,-2,110,9:00p,222,Brooklyn Nets,112
-Fri Nov 9 2018,0,Miami Heat,-8,102,8:00p,212,Indiana Pacers,110
-Fri Nov 9 2018,1,Orlando Magic,9,117,7:00p,225,Washington Wizards,108
-Fri Nov 9 2018,1,Philadelphia 76ers,1,133,7:00p,265,Charlotte Hornets,132
-Fri Nov 9 2018,1,Sacramento Kings,11,121,10:00p,231,Minnesota Timberwolves,110
-Fri Nov 9 2018,1,Utah Jazz,8,123,9:30p,238,Boston Celtics,115
-Sat Nov 10 2018,1,Chicago Bulls,1,99,8:00p,197,Cleveland Cavaliers,98
-Sat Nov 10 2018,1,Dallas Mavericks,15,111,9:00p,207,Oklahoma City Thunder,96
-Sat Nov 10 2018,1,Golden State Warriors,16,116,8:30p,216,Brooklyn Nets,100
-Sat Nov 10 2018,1,Los Angeles Clippers,2,128,3:30p,254,Milwaukee Bucks,126
-Sat Nov 10 2018,1,Memphis Grizzlies,6,112,8:00p,218,Philadelphia 76ers,106
-Sat Nov 10 2018,0,Miami Heat,-6,110,8:00p,226,Washington Wizards,116
-Sat Nov 10 2018,1,New Orleans Pelicans,20,119,7:00p,218,Phoenix Suns,99
-Sat Nov 10 2018,0,Sacramento Kings,-15,86,10:00p,187,Los Angeles Lakers,101
-Sat Nov 10 2018,1,San Antonio Spurs,7,96,8:30p,185,Houston Rockets,89
-Sat Nov 10 2018,1,Toronto Raptors,16,128,3:00p,240,New York Knicks,112
-Sun Nov 11 2018,0,Denver Nuggets,-7,114,8:00p,235,Milwaukee Bucks,121
-Sun Nov 11 2018,0,Detroit Pistons,-10,103,3:30p,216,Charlotte Hornets,113
-Sun Nov 11 2018,1,Houston Rockets,12,115,7:00p,218,Indiana Pacers,103
-Sun Nov 11 2018,1,Los Angeles Lakers,1,107,9:30p,213,Atlanta Hawks,106
-Sun Nov 11 2018,0,New York Knicks,-26,89,7:30p,204,Orlando Magic,115
-Sun Nov 11 2018,1,Portland Trail Blazers,6,100,9:00p,194,Boston Celtics,94
-Mon Nov 12 2018,0,Chicago Bulls,-5,98,8:00p,201,Dallas Mavericks,103
-Mon Nov 12 2018,1,Los Angeles Clippers,5,121,10:30p,237,Golden State Warriors,116
-Mon Nov 12 2018,0,Memphis Grizzlies,-8,88,8:00p,184,Utah Jazz,96
-Mon Nov 12 2018,0,Miami Heat,-10,114,7:30p,238,Philadelphia 76ers,124
-Mon Nov 12 2018,1,Minnesota Timberwolves,7,120,8:00p,233,Brooklyn Nets,113
-Mon Nov 12 2018,1,Oklahoma City Thunder,17,118,8:00p,219,Phoenix Suns,101
-Mon Nov 12 2018,1,Sacramento Kings,5,104,10:00p,203,San Antonio Spurs,99
-Mon Nov 12 2018,0,Toronto Raptors,-16,110,7:30p,236,New Orleans Pelicans,126
-Mon Nov 12 2018,1,Washington Wizards,8,117,7:00p,226,Orlando Magic,109
-Tue Nov 13 2018,1,Cleveland Cavaliers,24,113,7:00p,202,Charlotte Hornets,89
-Tue Nov 13 2018,0,Denver Nuggets,-10,99,9:00p,208,Houston Rockets,109
-Tue Nov 13 2018,1,Golden State Warriors,7,110,10:30p,213,Atlanta Hawks,103
-Wed Nov 14 2018,1,Boston Celtics,29,111,7:30p,193,Chicago Bulls,82
-Wed Nov 14 2018,0,Brooklyn Nets,-13,107,7:30p,227,Miami Heat,120
-Wed Nov 14 2018,1,Dallas Mavericks,50,118,8:30p,186,Utah Jazz,68
-Wed Nov 14 2018,1,Los Angeles Lakers,9,126,10:30p,243,Portland Trail Blazers,117
-Wed Nov 14 2018,0,Milwaukee Bucks,-3,113,8:00p,229,Memphis Grizzlies,116
-Wed Nov 14 2018,1,Minnesota Timberwolves,7,107,8:00p,207,New Orleans Pelicans,100
-Wed Nov 14 2018,1,Oklahoma City Thunder,25,128,8:00p,231,New York Knicks,103
-Wed Nov 14 2018,1,Orlando Magic,5,111,7:00p,217,Philadelphia 76ers,106
-Wed Nov 14 2018,1,Phoenix Suns,20,116,9:00p,212,San Antonio Spurs,96
-Wed Nov 14 2018,0,Toronto Raptors,-2,104,7:30p,210,Detroit Pistons,106
-Wed Nov 14 2018,1,Washington Wizards,24,119,7:00p,214,Cleveland Cavaliers,95
-Thu Nov 15 2018,1,Denver Nuggets,45,138,9:00p,231,Atlanta Hawks,93
-Thu Nov 15 2018,1,Houston Rockets,21,107,8:00p,193,Golden State Warriors,86
-Thu Nov 15 2018,1,Los Angeles Clippers,5,116,10:30p,227,San Antonio Spurs,111
-Fri Nov 16 2018,1,Boston Celtics,7,123,7:00p,239,Toronto Raptors,116
-Fri Nov 16 2018,1,Indiana Pacers,8,99,7:00p,190,Miami Heat,91
-Fri Nov 16 2018,1,Memphis Grizzlies,8,112,8:00p,216,Sacramento Kings,104
-Fri Nov 16 2018,1,Milwaukee Bucks,19,123,9:30p,227,Chicago Bulls,104
-Fri Nov 16 2018,1,Minnesota Timberwolves,16,112,8:00p,208,Portland Trail Blazers,96
-Fri Nov 16 2018,1,New Orleans Pelicans,5,129,8:00p,253,New York Knicks,124
-Fri Nov 16 2018,1,Philadelphia 76ers,6,113,7:00p,220,Utah Jazz,107
-Fri Nov 16 2018,0,Washington Wizards,-11,104,7:00p,219,Brooklyn Nets,115
-Sat Nov 17 2018,0,Boston Celtics,-12,86,7:30p,184,Utah Jazz,98
-Sat Nov 17 2018,0,Brooklyn Nets,-8,119,6:00p,246,Los Angeles Clippers,127
-Sat Nov 17 2018,0,Chicago Bulls,-39,83,8:00p,205,Toronto Raptors,122
-Sat Nov 17 2018,0,Charlotte Hornets,-3,119,7:00p,241,Philadelphia 76ers,122
-Sat Nov 17 2018,1,Dallas Mavericks,3,112,8:30p,221,Golden State Warriors,109
-Sat Nov 17 2018,1,Houston Rockets,20,132,8:00p,244,Sacramento Kings,112
-Sat Nov 17 2018,1,Indiana Pacers,8,97,7:00p,186,Atlanta Hawks,89
-Sat Nov 17 2018,1,New Orleans Pelicans,10,125,7:00p,240,Denver Nuggets,115
-Sat Nov 17 2018,1,Orlando Magic,13,130,7:00p,247,Los Angeles Lakers,117
-Sat Nov 17 2018,0,Phoenix Suns,-10,100,9:00p,210,Oklahoma City Thunder,110
-Sun Nov 18 2018,0,Miami Heat,-16,97,6:00p,210,Los Angeles Lakers,113
-Sun Nov 18 2018,0,Minnesota Timberwolves,-13,87,3:30p,187,Memphis Grizzlies,100
-Sun Nov 18 2018,1,Orlando Magic,14,131,6:00p,248,New York Knicks,117
-Sun Nov 18 2018,1,San Antonio Spurs,12,104,7:00p,196,Golden State Warriors,92
-Sun Nov 18 2018,0,Washington Wizards,-10,109,6:00p,228,Portland Trail Blazers,119
-Mon Nov 19 2018,0,Atlanta Hawks,-8,119,7:30p,246,Los Angeles Clippers,127
-Mon Nov 19 2018,1,Charlotte Hornets,5,117,7:00p,229,Boston Celtics,112
-Mon Nov 19 2018,1,Detroit Pistons,11,113,7:00p,215,Cleveland Cavaliers,102
-Mon Nov 19 2018,1,Indiana Pacers,27,121,7:00p,215,Utah Jazz,94
-Mon Nov 19 2018,1,Memphis Grizzlies,10,98,8:00p,186,Dallas Mavericks,88
-Mon Nov 19 2018,1,Milwaukee Bucks,6,104,8:00p,202,Denver Nuggets,98
-Mon Nov 19 2018,1,New Orleans Pelicans,14,140,8:00p,266,San Antonio Spurs,126
-Mon Nov 19 2018,1,Philadelphia 76ers,5,119,7:00p,233,Phoenix Suns,114
-Mon Nov 19 2018,1,Sacramento Kings,4,117,10:00p,230,Oklahoma City Thunder,113
-Tue Nov 20 2018,0,Miami Heat,-12,92,7:30p,196,Brooklyn Nets,104
-Tue Nov 20 2018,0,New York Knicks,-4,114,7:30p,232,Portland Trail Blazers,118
-Tue Nov 20 2018,0,Orlando Magic,-2,91,7:00p,184,Toronto Raptors,93
-Tue Nov 20 2018,1,Washington Wizards,7,125,7:00p,243,Los Angeles Clippers,118
-Wed Nov 21 2018,0,Atlanta Hawks,-16,108,7:30p,232,Toronto Raptors,124
-Wed Nov 21 2018,0,Boston Celtics,-8,109,7:30p,226,New York Knicks,117
-Wed Nov 21 2018,1,Chicago Bulls,8,124,8:00p,240,Phoenix Suns,116
-Wed Nov 21 2018,1,Charlotte Hornets,18,127,7:00p,236,Indiana Pacers,109
-Wed Nov 21 2018,0,Cleveland Cavaliers,-4,105,8:00p,214,Los Angeles Lakers,109
-Wed Nov 21 2018,1,Dallas Mavericks,6,119,8:30p,232,Brooklyn Nets,113
-Wed Nov 21 2018,0,Golden State Warriors,-28,95,10:30p,218,Oklahoma City Thunder,123
-Wed Nov 21 2018,1,Houston Rockets,2,126,8:00p,250,Detroit Pistons,124
-Wed Nov 21 2018,1,Milwaukee Bucks,43,143,8:00p,243,Portland Trail Blazers,100
-Wed Nov 21 2018,0,Minnesota Timberwolves,-2,101,8:00p,204,Denver Nuggets,103
-Wed Nov 21 2018,1,Philadelphia 76ers,1,121,7:00p,241,New Orleans Pelicans,120
-Wed Nov 21 2018,0,San Antonio Spurs,-1,103,8:30p,207,Memphis Grizzlies,104
-Wed Nov 21 2018,0,Utah Jazz,-9,110,9:00p,229,Sacramento Kings,119
-Fri Nov 23 2018,0,Atlanta Hawks,-18,96,7:30p,210,Boston Celtics,114
-Fri Nov 23 2018,0,Brooklyn Nets,-10,102,12:00p,214,Minnesota Timberwolves,112
-Fri Nov 23 2018,0,Chicago Bulls,-7,96,8:00p,199,Miami Heat,103
-Fri Nov 23 2018,1,Denver Nuggets,25,112,9:00p,199,Orlando Magic,87
-Fri Nov 23 2018,1,Detroit Pistons,5,116,7:00p,227,Houston Rockets,111
-Fri Nov 23 2018,1,Golden State Warriors,28,125,10:30p,222,Portland Trail Blazers,97
-Fri Nov 23 2018,0,Indiana Pacers,-11,100,8:00p,211,San Antonio Spurs,111
-Fri Nov 23 2018,1,Los Angeles Clippers,5,112,3:30p,219,Memphis Grizzlies,107
-Fri Nov 23 2018,1,Los Angeles Lakers,7,90,10:30p,173,Utah Jazz,83
-Fri Nov 23 2018,0,Milwaukee Bucks,-2,114,8:30p,230,Phoenix Suns,116
-Fri Nov 23 2018,1,New York Knicks,5,114,7:30p,223,New Orleans Pelicans,109
-Fri Nov 23 2018,1,Oklahoma City Thunder,5,109,8:00p,213,Charlotte Hornets,104
-Fri Nov 23 2018,0,Philadelphia 76ers,-9,112,7:30p,233,Cleveland Cavaliers,121
-Fri Nov 23 2018,1,Toronto Raptors,18,125,7:30p,232,Washington Wizards,107
-Sat Nov 24 2018,1,Cleveland Cavaliers,9,117,7:30p,225,Houston Rockets,108
-Sat Nov 24 2018,1,Dallas Mavericks,9,113,8:30p,217,Boston Celtics,104
-Sat Nov 24 2018,1,Golden State Warriors,1,117,8:30p,233,Sacramento Kings,116
-Sat Nov 24 2018,1,Milwaukee Bucks,6,135,8:30p,264,San Antonio Spurs,129
-Sat Nov 24 2018,1,Minnesota Timberwolves,15,111,8:00p,207,Chicago Bulls,96
-Sat Nov 24 2018,0,Oklahoma City Thunder,-7,98,8:00p,203,Denver Nuggets,105
-Sat Nov 24 2018,1,Washington Wizards,10,124,8:00p,238,New Orleans Pelicans,114
-Sun Nov 25 2018,1,Atlanta Hawks,1,124,6:00p,247,Charlotte Hornets,123
-Sun Nov 25 2018,0,Brooklyn Nets,-2,125,6:00p,252,Philadelphia 76ers,127
-Sun Nov 25 2018,1,Detroit Pistons,11,118,4:00p,225,Phoenix Suns,107
-Sun Nov 25 2018,0,Los Angeles Lakers,-4,104,3:30p,212,Orlando Magic,108
-Sun Nov 25 2018,0,Memphis Grizzlies,-5,98,6:00p,201,New York Knicks,103
-Sun Nov 25 2018,0,Portland Trail Blazers,-4,100,9:00p,204,Los Angeles Clippers,104
-Sun Nov 25 2018,0,Sacramento Kings,-21,112,8:00p,245,Utah Jazz,133
-Sun Nov 25 2018,1,Toronto Raptors,10,125,6:00p,240,Miami Heat,115
-Mon Nov 26 2018,0,Chicago Bulls,-1,107,8:00p,215,San Antonio Spurs,108
-Mon Nov 26 2018,1,Charlotte Hornets,3,110,7:00p,217,Milwaukee Bucks,107
-Mon Nov 26 2018,0,Cleveland Cavaliers,-7,95,7:00p,197,Minnesota Timberwolves,102
-Mon Nov 26 2018,1,Golden State Warriors,6,116,10:30p,226,Orlando Magic,110
-Mon Nov 26 2018,0,New Orleans Pelicans,-17,107,8:00p,231,Boston Celtics,124
-Mon Nov 26 2018,0,Utah Jazz,-33,88,9:00p,209,Indiana Pacers,121
-Mon Nov 26 2018,1,Washington Wizards,4,135,7:00p,266,Houston Rockets,131
-Tue Nov 27 2018,1,Denver Nuggets,32,117,9:00p,202,Los Angeles Lakers,85
-Tue Nov 27 2018,1,Detroit Pistons,7,115,7:00p,223,New York Knicks,108
-Tue Nov 27 2018,0,Memphis Grizzlies,-8,114,8:00p,236,Toronto Raptors,122
-Tue Nov 27 2018,0,Miami Heat,-2,113,7:30p,228,Atlanta Hawks,115
-Tue Nov 27 2018,0,Phoenix Suns,-5,104,9:00p,213,Indiana Pacers,109
-Wed Nov 28 2018,0,Brooklyn Nets,-10,91,7:30p,192,Utah Jazz,101
-Wed Nov 28 2018,1,Charlotte Hornets,14,108,7:00p,202,Atlanta Hawks,94
-Wed Nov 28 2018,0,Houston Rockets,-20,108,8:00p,236,Dallas Mavericks,128
-Wed Nov 28 2018,1,Los Angeles Clippers,16,115,10:30p,214,Phoenix Suns,99
-Wed Nov 28 2018,1,Milwaukee Bucks,3,116,8:00p,229,Chicago Bulls,113
-Wed Nov 28 2018,1,Minnesota Timberwolves,39,128,8:00p,217,San Antonio Spurs,89
-Wed Nov 28 2018,1,New Orleans Pelicans,21,125,8:00p,229,Washington Wizards,104
-Wed Nov 28 2018,1,Oklahoma City Thunder,17,100,8:00p,183,Cleveland Cavaliers,83
-Wed Nov 28 2018,1,Philadelphia 76ers,26,117,7:00p,208,New York Knicks,91
-Wed Nov 28 2018,1,Portland Trail Blazers,3,115,10:00p,227,Orlando Magic,112
-Thu Nov 29 2018,1,Los Angeles Lakers,8,104,10:30p,200,Indiana Pacers,96
-Thu Nov 29 2018,0,Sacramento Kings,-12,121,10:30p,254,Los Angeles Clippers,133
-Thu Nov 29 2018,1,Toronto Raptors,3,131,8:00p,259,Golden State Warriors,128
-Fri Nov 30 2018,1,Boston Celtics,33,128,7:00p,223,Cleveland Cavaliers,95
-Fri Nov 30 2018,0,Brooklyn Nets,-6,125,7:30p,256,Memphis Grizzlies,131
-Fri Nov 30 2018,0,Charlotte Hornets,-8,111,7:00p,230,Utah Jazz,119
-Fri Nov 30 2018,1,Detroit Pistons,19,107,7:00p,195,Chicago Bulls,88
-Fri Nov 30 2018,1,Los Angeles Lakers,11,114,10:30p,217,Dallas Mavericks,103
-Fri Nov 30 2018,1,Miami Heat,5,106,8:00p,207,New Orleans Pelicans,101
-Fri Nov 30 2018,1,Oklahoma City Thunder,15,124,8:00p,233,Atlanta Hawks,109
-Fri Nov 30 2018,1,Philadelphia 76ers,25,123,7:00p,221,Washington Wizards,98
-Fri Nov 30 2018,0,Phoenix Suns,-14,85,9:00p,184,Orlando Magic,99
-Fri Nov 30 2018,0,Portland Trail Blazers,-1,112,10:30p,225,Denver Nuggets,113
-Fri Nov 30 2018,0,San Antonio Spurs,-31,105,8:00p,241,Houston Rockets,136
-Sat Dec 1 2018,0,Cleveland Cavaliers,-11,95,8:00p,201,Toronto Raptors,106
-Sat Dec 1 2018,1,Detroit Pistons,9,111,7:00p,213,Golden State Warriors,102
-Sat Dec 1 2018,1,Houston Rockets,16,121,8:00p,226,Chicago Bulls,105
-Sat Dec 1 2018,0,Minnesota Timberwolves,-9,109,8:00p,227,Boston Celtics,118
-Sat Dec 1 2018,1,New York Knicks,2,136,5:00p,270,Milwaukee Bucks,134
-Sat Dec 1 2018,1,Sacramento Kings,1,111,10:00p,221,Indiana Pacers,110
-Sat Dec 1 2018,1,Washington Wizards,14,102,7:00p,190,Brooklyn Nets,88
-Sun Dec 2 2018,0,Charlotte Hornets,-10,109,5:00p,228,New Orleans Pelicans,119
-Sun Dec 2 2018,1,Dallas Mavericks,4,114,7:00p,224,Los Angeles Clippers,110
-Sun Dec 2 2018,1,Los Angeles Lakers,24,120,3:30p,216,Phoenix Suns,96
-Sun Dec 2 2018,1,Miami Heat,2,102,6:00p,202,Utah Jazz,100
-Sun Dec 2 2018,1,Philadelphia 76ers,8,103,6:00p,198,Memphis Grizzlies,95
-Sun Dec 2 2018,1,San Antonio Spurs,13,131,7:00p,249,Portland Trail Blazers,118
-Mon Dec 3 2018,0,Atlanta Hawks,-17,111,7:30p,239,Golden State Warriors,128
-Mon Dec 3 2018,0,Brooklyn Nets,-2,97,7:30p,196,Cleveland Cavaliers,99
-Mon Dec 3 2018,0,Detroit Pistons,-27,83,7:00p,193,Oklahoma City Thunder,110
-Mon Dec 3 2018,1,Minnesota Timberwolves,12,103,8:00p,194,Houston Rockets,91
-Mon Dec 3 2018,0,New Orleans Pelicans,-3,126,8:00p,255,Los Angeles Clippers,129
-Mon Dec 3 2018,0,New York Knicks,-3,107,7:30p,217,Washington Wizards,110
-Mon Dec 3 2018,0,Toronto Raptors,-3,103,7:30p,209,Denver Nuggets,106
-Tue Dec 4 2018,1,Dallas Mavericks,9,111,8:30p,213,Portland Trail Blazers,102
-Tue Dec 4 2018,1,Indiana Pacers,6,96,7:00p,186,Chicago Bulls,90
-Tue Dec 4 2018,0,Miami Heat,-15,90,7:30p,195,Orlando Magic,105
-Tue Dec 4 2018,0,Phoenix Suns,-17,105,9:00p,227,Sacramento Kings,122
-Tue Dec 4 2018,1,Utah Jazz,34,139,9:00p,244,San Antonio Spurs,105
-Wed Dec 5 2018,0,Atlanta Hawks,-14,117,7:30p,248,Washington Wizards,131
-Wed Dec 5 2018,0,Brooklyn Nets,-2,112,7:30p,226,Oklahoma City Thunder,114
-Wed Dec 5 2018,0,Cleveland Cavaliers,-24,105,7:00p,234,Golden State Warriors,129
-Wed Dec 5 2018,1,Los Angeles Lakers,8,121,10:30p,234,San Antonio Spurs,113
-Wed Dec 5 2018,1,Memphis Grizzlies,10,96,8:00p,182,Los Angeles Clippers,86
-Wed Dec 5 2018,1,Milwaukee Bucks,23,115,8:00p,207,Detroit Pistons,92
-Wed Dec 5 2018,1,Minnesota Timberwolves,17,121,8:00p,225,Charlotte Hornets,104
-Wed Dec 5 2018,1,New Orleans Pelicans,26,132,8:00p,238,Dallas Mavericks,106
-Wed Dec 5 2018,0,Orlando Magic,-6,118,7:00p,242,Denver Nuggets,124
-Wed Dec 5 2018,1,Toronto Raptors,11,113,8:00p,215,Philadelphia 76ers,102
-Thu Dec 6 2018,1,Boston Celtics,28,128,8:00p,228,New York Knicks,100
-Thu Dec 6 2018,1,Portland Trail Blazers,22,108,10:00p,194,Phoenix Suns,86
-Thu Dec 6 2018,1,Utah Jazz,27,118,10:30p,209,Houston Rockets,91
-Fri Dec 7 2018,1,Brooklyn Nets,1,106,7:30p,211,Toronto Raptors,105
-Fri Dec 7 2018,1,Chicago Bulls,2,114,8:00p,226,Oklahoma City Thunder,112
-Fri Dec 7 2018,1,Charlotte Hornets,6,113,7:00p,220,Denver Nuggets,107
-Fri Dec 7 2018,0,Cleveland Cavaliers,-19,110,7:30p,239,Sacramento Kings,129
-Fri Dec 7 2018,0,Detroit Pistons,-6,111,7:00p,228,Philadelphia 76ers,117
-Fri Dec 7 2018,0,Milwaukee Bucks,-10,95,9:30p,200,Golden State Warriors,105
-Fri Dec 7 2018,0,New Orleans Pelicans,-4,103,8:00p,210,Memphis Grizzlies,107
-Fri Dec 7 2018,0,Orlando Magic,-22,90,7:00p,202,Indiana Pacers,112
-Fri Dec 7 2018,0,Phoenix Suns,-17,98,9:00p,213,Miami Heat,115
-Fri Dec 7 2018,1,San Antonio Spurs,13,133,8:30p,253,Los Angeles Lakers,120
-Sat Dec 8 2018,1,Atlanta Hawks,8,106,7:30p,204,Denver Nuggets,98
-Sat Dec 8 2018,0,Chicago Bulls,-56,77,8:00p,210,Boston Celtics,133
-Sat Dec 8 2018,1,Cleveland Cavaliers,15,116,7:30p,217,Washington Wizards,101
-Sat Dec 8 2018,1,Dallas Mavericks,3,107,6:00p,211,Houston Rockets,104
-Sat Dec 8 2018,1,Indiana Pacers,10,107,7:00p,204,Sacramento Kings,97
-Sat Dec 8 2018,0,Los Angeles Clippers,-23,98,10:30p,219,Miami Heat,121
-Sat Dec 8 2018,0,Memphis Grizzlies,-23,88,8:00p,199,Los Angeles Lakers,111
-Sat Dec 8 2018,0,New York Knicks,-8,104,7:30p,216,Brooklyn Nets,112
-Sat Dec 8 2018,1,Portland Trail Blazers,8,113,10:00p,218,Minnesota Timberwolves,105
-Sun Dec 9 2018,0,Detroit Pistons,-8,108,3:30p,224,New Orleans Pelicans,116
-Sun Dec 9 2018,0,New York Knicks,-12,107,7:30p,226,Charlotte Hornets,119
-Sun Dec 9 2018,1,San Antonio Spurs,13,110,7:00p,207,Utah Jazz,97
-Sun Dec 9 2018,0,Toronto Raptors,-5,99,6:00p,203,Milwaukee Bucks,104
-Mon Dec 10 2018,1,Boston Celtics,13,113,7:30p,213,New Orleans Pelicans,100
-Mon Dec 10 2018,0,Chicago Bulls,-19,89,8:00p,197,Sacramento Kings,108
-Mon Dec 10 2018,1,Dallas Mavericks,25,101,8:30p,177,Orlando Magic,76
-Mon Dec 10 2018,1,Denver Nuggets,6,105,9:00p,204,Memphis Grizzlies,99
-Mon Dec 10 2018,1,Golden State Warriors,8,116,10:30p,224,Minnesota Timberwolves,108
-Mon Dec 10 2018,1,Indiana Pacers,8,109,7:00p,210,Washington Wizards,101
-Mon Dec 10 2018,1,Los Angeles Lakers,3,108,10:30p,213,Miami Heat,105
-Mon Dec 10 2018,1,Milwaukee Bucks,16,108,8:00p,200,Cleveland Cavaliers,92
-Mon Dec 10 2018,1,Oklahoma City Thunder,9,122,8:00p,235,Utah Jazz,113
-Mon Dec 10 2018,1,Philadelphia 76ers,14,116,7:00p,218,Detroit Pistons,102
-Mon Dec 10 2018,0,Phoenix Suns,-4,119,9:00p,242,Los Angeles Clippers,123
-Tue Dec 11 2018,1,Houston Rockets,7,111,8:00p,215,Portland Trail Blazers,104
-Tue Dec 11 2018,0,Los Angeles Clippers,-24,99,10:30p,222,Toronto Raptors,123
-Tue Dec 11 2018,1,San Antonio Spurs,25,111,8:30p,197,Phoenix Suns,86
-Wed Dec 12 2018,1,Charlotte Hornets,1,108,7:00p,215,Detroit Pistons,107
-Wed Dec 12 2018,1,Cleveland Cavaliers,7,113,7:00p,219,New York Knicks,106
-Wed Dec 12 2018,1,Dallas Mavericks,7,114,8:30p,221,Atlanta Hawks,107
-Wed Dec 12 2018,0,Golden State Warriors,-20,93,10:30p,206,Toronto Raptors,113
-Wed Dec 12 2018,1,Indiana Pacers,16,113,7:00p,210,Milwaukee Bucks,97
-Wed Dec 12 2018,1,Memphis Grizzlies,9,92,8:00p,175,Portland Trail Blazers,83
-Wed Dec 12 2018,1,New Orleans Pelicans,4,118,8:00p,232,Oklahoma City Thunder,114
-Wed Dec 12 2018,0,Philadelphia 76ers,-3,124,7:00p,251,Brooklyn Nets,127
-Wed Dec 12 2018,1,Sacramento Kings,11,141,10:00p,271,Minnesota Timberwolves,130
-Wed Dec 12 2018,1,Utah Jazz,27,111,9:00p,195,Miami Heat,84
-Wed Dec 12 2018,0,Washington Wizards,-5,125,7:00p,255,Boston Celtics,130
-Thu Dec 13 2018,1,Houston Rockets,15,126,8:00p,237,Los Angeles Lakers,111
-Thu Dec 13 2018,1,Orlando Magic,6,97,9:30p,188,Chicago Bulls,91
-Thu Dec 13 2018,1,Phoenix Suns,10,99,10:30p,188,Dallas Mavericks,89
-Thu Dec 13 2018,1,San Antonio Spurs,38,125,8:30p,212,Los Angeles Clippers,87
-Fri Dec 14 2018,1,Boston Celtics,21,129,7:00p,237,Atlanta Hawks,108
-Fri Dec 14 2018,1,Brooklyn Nets,7,125,7:30p,243,Washington Wizards,118
-Fri Dec 14 2018,0,Charlotte Hornets,-2,124,7:00p,250,New York Knicks,126
-Fri Dec 14 2018,0,Cleveland Cavaliers,-12,102,7:30p,216,Milwaukee Bucks,114
-Fri Dec 14 2018,1,Denver Nuggets,11,109,10:00p,207,Oklahoma City Thunder,98
-Fri Dec 14 2018,0,Memphis Grizzlies,-3,97,8:00p,197,Miami Heat,100
-Fri Dec 14 2018,0,Philadelphia 76ers,-12,101,7:30p,214,Indiana Pacers,113
-Fri Dec 14 2018,1,Portland Trail Blazers,6,128,10:00p,250,Toronto Raptors,122
-Fri Dec 14 2018,0,Sacramento Kings,-5,125,10:00p,255,Golden State Warriors,130
-Sat Dec 15 2018,0,Charlotte Hornets,-28,100,7:00p,228,Los Angeles Lakers,128
-Sat Dec 15 2018,1,Detroit Pistons,9,113,7:00p,217,Boston Celtics,104
-Sat Dec 15 2018,0,Memphis Grizzlies,-8,97,8:00p,202,Houston Rockets,105
-Sat Dec 15 2018,1,Oklahoma City Thunder,6,110,9:00p,214,Los Angeles Clippers,104
-Sat Dec 15 2018,1,Orlando Magic,7,96,5:00p,185,Utah Jazz,89
-Sat Dec 15 2018,1,Phoenix Suns,8,107,9:00p,206,Minnesota Timberwolves,99
-Sat Dec 15 2018,0,San Antonio Spurs,-5,93,8:30p,191,Chicago Bulls,98
-Sun Dec 16 2018,1,Brooklyn Nets,17,144,3:00p,271,Atlanta Hawks,127
-Sun Dec 16 2018,0,Cleveland Cavaliers,-23,105,3:30p,233,Philadelphia 76ers,128
-Sun Dec 16 2018,0,Dallas Mavericks,-7,113,7:00p,233,Sacramento Kings,120
-Sun Dec 16 2018,1,Denver Nuggets,9,95,8:00p,181,Toronto Raptors,86
-Sun Dec 16 2018,1,Indiana Pacers,11,110,5:00p,209,New York Knicks,99
-Sun Dec 16 2018,0,New Orleans Pelicans,-6,96,7:00p,198,Miami Heat,102
-Sun Dec 16 2018,1,Washington Wizards,18,128,6:00p,238,Los Angeles Lakers,110
-Mon Dec 17 2018,0,Detroit Pistons,-3,104,7:00p,211,Milwaukee Bucks,107
-Mon Dec 17 2018,1,Golden State Warriors,17,110,10:30p,203,Memphis Grizzlies,93
-Mon Dec 17 2018,1,Houston Rockets,5,102,8:00p,199,Utah Jazz,97
-Mon Dec 17 2018,0,Los Angeles Clippers,-4,127,10:30p,258,Portland Trail Blazers,131
-Mon Dec 17 2018,1,Minnesota Timberwolves,27,132,8:00p,237,Sacramento Kings,105
-Mon Dec 17 2018,0,New York Knicks,-18,110,7:30p,238,Phoenix Suns,128
-Mon Dec 17 2018,1,Oklahoma City Thunder,25,121,8:00p,217,Chicago Bulls,96
-Mon Dec 17 2018,1,San Antonio Spurs,27,123,8:30p,219,Philadelphia 76ers,96
-Tue Dec 18 2018,1,Atlanta Hawks,8,118,7:30p,228,Washington Wizards,110
-Tue Dec 18 2018,1,Brooklyn Nets,5,115,7:30p,225,Los Angeles Lakers,110
-Tue Dec 18 2018,1,Denver Nuggets,8,126,9:00p,244,Dallas Mavericks,118
-Tue Dec 18 2018,0,Indiana Pacers,-1,91,7:00p,183,Cleveland Cavaliers,92
-Wed Dec 19 2018,0,Boston Celtics,-8,103,7:30p,214,Phoenix Suns,111
-Wed Dec 19 2018,0,Chicago Bulls,-3,93,8:00p,189,Brooklyn Nets,96
-Wed Dec 19 2018,1,Charlotte Hornets,11,110,7:00p,209,Cleveland Cavaliers,99
-Wed Dec 19 2018,1,Houston Rockets,18,136,8:00p,254,Washington Wizards,118
-Wed Dec 19 2018,1,Milwaukee Bucks,8,123,8:00p,238,New Orleans Pelicans,115
-Wed Dec 19 2018,0,Minnesota Timberwolves,-6,123,8:00p,252,Detroit Pistons,129
-Wed Dec 19 2018,0,Orlando Magic,-39,90,7:00p,219,San Antonio Spurs,129
-Wed Dec 19 2018,1,Philadelphia 76ers,22,131,7:00p,240,New York Knicks,109
-Wed Dec 19 2018,1,Portland Trail Blazers,7,99,10:00p,191,Memphis Grizzlies,92
-Wed Dec 19 2018,0,Sacramento Kings,-19,113,10:00p,245,Oklahoma City Thunder,132
-Wed Dec 19 2018,1,Toronto Raptors,3,99,7:30p,195,Indiana Pacers,96
-Wed Dec 19 2018,1,Utah Jazz,5,108,9:00p,211,Golden State Warriors,103
-Thu Dec 20 2018,1,Los Angeles Clippers,4,125,10:30p,246,Dallas Mavericks,121
-Thu Dec 20 2018,1,Miami Heat,2,101,8:00p,200,Houston Rockets,99
-Fri Dec 21 2018,0,Boston Celtics,-13,107,8:00p,227,Milwaukee Bucks,120
-Fri Dec 21 2018,0,Brooklyn Nets,-8,106,7:30p,220,Indiana Pacers,114
-Fri Dec 21 2018,1,Chicago Bulls,10,90,8:00p,170,Orlando Magic,80
-Fri Dec 21 2018,1,Charlotte Hornets,12,98,7:00p,184,Detroit Pistons,86
-Fri Dec 21 2018,1,Los Angeles Lakers,8,112,10:30p,216,New Orleans Pelicans,104
-Fri Dec 21 2018,0,New York Knicks,-7,107,7:30p,221,Atlanta Hawks,114
-Fri Dec 21 2018,0,Portland Trail Blazers,-30,90,10:00p,210,Utah Jazz,120
-Fri Dec 21 2018,1,Sacramento Kings,3,102,10:00p,201,Memphis Grizzlies,99
-Fri Dec 21 2018,1,San Antonio Spurs,26,124,8:30p,222,Minnesota Timberwolves,98
-Fri Dec 21 2018,1,Toronto Raptors,16,126,7:00p,236,Cleveland Cavaliers,110
-Sat Dec 22 2018,1,Golden State Warriors,4,120,8:30p,236,Dallas Mavericks,116
-Sat Dec 22 2018,1,Houston Rockets,7,108,8:00p,209,San Antonio Spurs,101
-Sat Dec 22 2018,1,Los Angeles Clippers,21,132,5:00p,243,Denver Nuggets,111
-Sat Dec 22 2018,1,Miami Heat,7,94,8:00p,181,Milwaukee Bucks,87
-Sat Dec 22 2018,1,Philadelphia 76ers,25,126,7:30p,227,Toronto Raptors,101
-Sat Dec 22 2018,0,Utah Jazz,-1,106,9:00p,213,Oklahoma City Thunder,107
-Sat Dec 22 2018,1,Washington Wizards,3,149,7:00p,295,Phoenix Suns,146
-Sun Dec 23 2018,1,Boston Celtics,16,119,6:00p,222,Charlotte Hornets,103
-Sun Dec 23 2018,1,Brooklyn Nets,8,111,6:00p,214,Phoenix Suns,103
-Sun Dec 23 2018,0,Cleveland Cavaliers,-20,92,6:00p,204,Chicago Bulls,112
-Sun Dec 23 2018,0,Detroit Pistons,-3,95,4:00p,193,Atlanta Hawks,98
-Sun Dec 23 2018,1,Golden State Warriors,2,129,8:30p,256,Los Angeles Clippers,127
-Sun Dec 23 2018,1,Indiana Pacers,16,105,5:00p,194,Washington Wizards,89
-Sun Dec 23 2018,0,Los Angeles Lakers,-8,99,9:30p,206,Memphis Grizzlies,107
-Sun Dec 23 2018,0,Oklahoma City Thunder,-2,112,8:00p,226,Minnesota Timberwolves,114
-Sun Dec 23 2018,0,Orlando Magic,-24,91,6:00p,206,Miami Heat,115
-Sun Dec 23 2018,1,Portland Trail Blazers,3,121,9:00p,239,Dallas Mavericks,118
-Sun Dec 23 2018,1,Sacramento Kings,5,122,6:00p,239,New Orleans Pelicans,117
-Tue Dec 25 2018,1,Boston Celtics,7,121,5:30p,235,Philadelphia 76ers,114
-Tue Dec 25 2018,0,Golden State Warriors,-26,101,8:00p,228,Los Angeles Lakers,127
-Tue Dec 25 2018,1,Houston Rockets,4,113,3:00p,222,Oklahoma City Thunder,109
-Tue Dec 25 2018,0,New York Knicks,-14,95,12:00p,204,Milwaukee Bucks,109
-Tue Dec 25 2018,1,Utah Jazz,21,117,10:30p,213,Portland Trail Blazers,96
-Wed Dec 26 2018,0,Atlanta Hawks,-8,121,7:30p,250,Indiana Pacers,129
-Wed Dec 26 2018,1,Brooklyn Nets,2,134,7:30p,266,Charlotte Hornets,132
-Wed Dec 26 2018,0,Chicago Bulls,-25,94,8:00p,213,Minnesota Timberwolves,119
-Wed Dec 26 2018,1,Dallas Mavericks,3,122,8:30p,241,New Orleans Pelicans,119
-Wed Dec 26 2018,1,Detroit Pistons,11,106,7:00p,201,Washington Wizards,95
-Wed Dec 26 2018,1,Los Angeles Clippers,9,127,10:30p,245,Sacramento Kings,118
-Wed Dec 26 2018,1,Memphis Grizzlies,8,95,8:00p,182,Cleveland Cavaliers,87
-Wed Dec 26 2018,0,Miami Heat,-2,104,7:30p,210,Toronto Raptors,106
-Wed Dec 26 2018,0,Orlando Magic,-2,120,7:00p,242,Phoenix Suns,122
-Wed Dec 26 2018,1,San Antonio Spurs,8,111,8:30p,214,Denver Nuggets,103
-Thu Dec 27 2018,0,Golden State Warriors,-1,109,10:30p,219,Portland Trail Blazers,110
-Thu Dec 27 2018,1,Houston Rockets,14,127,8:00p,240,Boston Celtics,113
-Thu Dec 27 2018,1,Milwaukee Bucks,16,112,8:00p,208,New York Knicks,96
-Thu Dec 27 2018,1,Sacramento Kings,1,117,10:00p,233,Los Angeles Lakers,116
-Thu Dec 27 2018,0,Utah Jazz,-17,97,10:30p,211,Philadelphia 76ers,114
-Fri Dec 28 2018,1,Charlotte Hornets,13,100,7:00p,187,Brooklyn Nets,87
-Fri Dec 28 2018,1,Denver Nuggets,3,102,9:00p,201,San Antonio Spurs,99
-Fri Dec 28 2018,1,Indiana Pacers,37,125,7:00p,213,Detroit Pistons,88
-Fri Dec 28 2018,0,Los Angeles Lakers,-11,107,10:30p,225,Los Angeles Clippers,118
-Fri Dec 28 2018,1,Miami Heat,24,118,8:00p,212,Cleveland Cavaliers,94
-Fri Dec 28 2018,0,Minnesota Timberwolves,-3,120,8:00p,243,Atlanta Hawks,123
-Fri Dec 28 2018,1,New Orleans Pelicans,2,114,8:00p,226,Dallas Mavericks,112
-Fri Dec 28 2018,1,Orlando Magic,29,116,7:00p,203,Toronto Raptors,87
-Fri Dec 28 2018,0,Phoenix Suns,-16,102,9:00p,220,Oklahoma City Thunder,118
-Fri Dec 28 2018,0,Washington Wizards,-9,92,7:00p,193,Chicago Bulls,101
-Sat Dec 29 2018,1,Atlanta Hawks,3,111,7:30p,219,Cleveland Cavaliers,108
-Sat Dec 29 2018,0,Los Angeles Clippers,-11,111,10:30p,233,San Antonio Spurs,122
-Sat Dec 29 2018,0,Memphis Grizzlies,-9,103,8:00p,215,Boston Celtics,112
-Sat Dec 29 2018,1,Milwaukee Bucks,14,129,5:00p,244,Brooklyn Nets,115
-Sat Dec 29 2018,0,New Orleans Pelicans,-4,104,7:00p,212,Houston Rockets,108
-Sat Dec 29 2018,0,Phoenix Suns,-4,118,9:00p,240,Denver Nuggets,122
-Sat Dec 29 2018,0,Portland Trail Blazers,-10,105,10:00p,220,Golden State Warriors,115
-Sat Dec 29 2018,1,Utah Jazz,32,129,8:00p,226,New York Knicks,97
-Sat Dec 29 2018,1,Washington Wizards,4,130,7:00p,256,Charlotte Hornets,126
-Sun Dec 30 2018,1,Dallas Mavericks,2,105,7:00p,208,Oklahoma City Thunder,103
-Sun Dec 30 2018,1,Los Angeles Lakers,7,121,9:30p,235,Sacramento Kings,114
-Sun Dec 30 2018,0,Miami Heat,-9,104,6:00p,217,Minnesota Timberwolves,113
-Sun Dec 30 2018,1,Orlando Magic,2,109,3:30p,216,Detroit Pistons,107
-Sun Dec 30 2018,1,Portland Trail Blazers,34,129,9:00p,224,Philadelphia 76ers,95
-Sun Dec 30 2018,1,Toronto Raptors,6,95,6:00p,184,Chicago Bulls,89
-Mon Dec 31 2018,1,Charlotte Hornets,25,125,6:00p,225,Orlando Magic,100
-Mon Dec 31 2018,1,Houston Rockets,12,113,7:00p,214,Memphis Grizzlies,101
-Mon Dec 31 2018,1,Indiana Pacers,8,116,3:00p,224,Atlanta Hawks,108
-Mon Dec 31 2018,1,New Orleans Pelicans,9,123,8:00p,237,Minnesota Timberwolves,114
-Mon Dec 31 2018,1,Oklahoma City Thunder,20,122,8:00p,224,Dallas Mavericks,102
-Mon Dec 31 2018,0,Phoenix Suns,-23,109,9:00p,241,Golden State Warriors,132
-Mon Dec 31 2018,1,San Antonio Spurs,9,120,7:00p,231,Boston Celtics,111
-Tue Jan 1 2019,1,Denver Nuggets,7,115,9:00p,223,New York Knicks,108
-Tue Jan 1 2019,0,Los Angeles Clippers,-6,113,10:30p,232,Philadelphia 76ers,119
-Tue Jan 1 2019,1,Milwaukee Bucks,23,121,8:00p,219,Detroit Pistons,98
-Tue Jan 1 2019,0,Sacramento Kings,-5,108,9:00p,221,Portland Trail Blazers,113
-Tue Jan 1 2019,1,Toronto Raptors,6,122,7:30p,238,Utah Jazz,116
-Wed Jan 2 2019,1,Boston Celtics,13,115,8:00p,217,Minnesota Timberwolves,102
-Wed Jan 2 2019,1,Brooklyn Nets,5,126,7:30p,247,New Orleans Pelicans,121
-Wed Jan 2 2019,0,Chicago Bulls,-28,84,8:00p,196,Orlando Magic,112
-Wed Jan 2 2019,0,Charlotte Hornets,-38,84,7:00p,206,Dallas Mavericks,122
-Wed Jan 2 2019,0,Cleveland Cavaliers,-25,92,7:00p,209,Miami Heat,117
-Wed Jan 2 2019,0,Los Angeles Lakers,-7,100,10:30p,207,Oklahoma City Thunder,107
-Wed Jan 2 2019,0,Memphis Grizzlies,-7,94,8:00p,195,Detroit Pistons,101
-Wed Jan 2 2019,0,Phoenix Suns,-5,127,9:00p,259,Philadelphia 76ers,132
-Wed Jan 2 2019,1,Washington Wizards,16,114,7:00p,212,Atlanta Hawks,98
-Thu Jan 3 2019,0,Golden State Warriors,-1,134,10:30p,269,Houston Rockets,135
-Thu Jan 3 2019,0,Sacramento Kings,-4,113,10:00p,230,Denver Nuggets,117
-Thu Jan 3 2019,1,San Antonio Spurs,18,125,8:00p,232,Toronto Raptors,107
-Fri Jan 4 2019,1,Boston Celtics,21,114,8:00p,207,Dallas Mavericks,93
-Fri Jan 4 2019,0,Chicago Bulls,-3,116,8:00p,235,Indiana Pacers,119
-Fri Jan 4 2019,0,Cleveland Cavaliers,-26,91,7:30p,208,Utah Jazz,117
-Fri Jan 4 2019,0,Los Angeles Lakers,-7,112,10:30p,231,New York Knicks,119
-Fri Jan 4 2019,0,Memphis Grizzlies,-9,100,8:00p,209,Brooklyn Nets,109
-Fri Jan 4 2019,1,Miami Heat,6,115,8:00p,224,Washington Wizards,109
-Fri Jan 4 2019,1,Milwaukee Bucks,32,144,8:30p,256,Atlanta Hawks,112
-Fri Jan 4 2019,1,Minnesota Timberwolves,17,120,8:00p,223,Orlando Magic,103
-Fri Jan 4 2019,0,Phoenix Suns,-10,111,9:00p,232,Los Angeles Clippers,121
-Fri Jan 4 2019,0,Portland Trail Blazers,-2,109,10:30p,220,Oklahoma City Thunder,111
-Sat Jan 5 2019,0,Cleveland Cavaliers,-35,98,8:00p,231,New Orleans Pelicans,133
-Sat Jan 5 2019,1,Denver Nuggets,13,123,5:00p,233,Charlotte Hornets,110
-Sat Jan 5 2019,0,Detroit Pistons,-5,105,7:00p,215,Utah Jazz,110
-Sat Jan 5 2019,0,Milwaukee Bucks,-7,116,8:30p,239,Toronto Raptors,123
-Sat Jan 5 2019,1,Philadelphia 76ers,6,106,7:30p,206,Dallas Mavericks,100
-Sat Jan 5 2019,1,Portland Trail Blazers,9,110,10:00p,211,Houston Rockets,101
-Sat Jan 5 2019,0,Sacramento Kings,-4,123,10:00p,250,Golden State Warriors,127
-Sat Jan 5 2019,1,San Antonio Spurs,20,108,8:30p,196,Memphis Grizzlies,88
-Sun Jan 6 2019,1,Atlanta Hawks,24,106,6:00p,188,Miami Heat,82
-Sun Jan 6 2019,0,Chicago Bulls,-17,100,3:30p,217,Brooklyn Nets,117
-Sun Jan 6 2019,1,Los Angeles Clippers,10,106,3:30p,202,Orlando Magic,96
-Sun Jan 6 2019,1,Minnesota Timberwolves,22,108,3:30p,194,Los Angeles Lakers,86
-Sun Jan 6 2019,0,Oklahoma City Thunder,-18,98,7:00p,214,Washington Wizards,116
-Sun Jan 6 2019,0,Phoenix Suns,-6,113,8:00p,232,Charlotte Hornets,119
-Sun Jan 6 2019,1,Toronto Raptors,16,121,7:30p,226,Indiana Pacers,105
-Mon Jan 7 2019,1,Boston Celtics,21,116,7:30p,211,Brooklyn Nets,95
-Mon Jan 7 2019,0,Dallas Mavericks,-10,97,8:30p,204,Los Angeles Lakers,107
-Mon Jan 7 2019,0,Detroit Pistons,-12,107,7:00p,226,San Antonio Spurs,119
-Mon Jan 7 2019,1,Houston Rockets,12,125,8:00p,238,Denver Nuggets,113
-Mon Jan 7 2019,1,Milwaukee Bucks,12,114,8:00p,216,Utah Jazz,102
-Mon Jan 7 2019,1,New Orleans Pelicans,19,114,8:00p,209,Memphis Grizzlies,95
-Mon Jan 7 2019,1,Portland Trail Blazers,10,111,10:00p,212,New York Knicks,101
-Mon Jan 7 2019,1,Sacramento Kings,16,111,10:00p,206,Orlando Magic,95
-Tue Jan 8 2019,0,Cleveland Cavaliers,-8,115,7:00p,238,Indiana Pacers,123
-Tue Jan 8 2019,1,Golden State Warriors,27,122,10:30p,217,New York Knicks,95
-Tue Jan 8 2019,1,Los Angeles Clippers,19,128,10:30p,237,Charlotte Hornets,109
-Tue Jan 8 2019,0,Miami Heat,-4,99,7:30p,202,Denver Nuggets,103
-Tue Jan 8 2019,0,Oklahoma City Thunder,-2,117,8:00p,236,Minnesota Timberwolves,119
-Tue Jan 8 2019,1,Philadelphia 76ers,17,132,7:00p,247,Washington Wizards,115
-Tue Jan 8 2019,1,Phoenix Suns,4,115,9:00p,226,Sacramento Kings,111
-Tue Jan 8 2019,1,Toronto Raptors,3,104,7:30p,205,Atlanta Hawks,101
-Wed Jan 9 2019,1,Boston Celtics,27,135,7:00p,243,Indiana Pacers,108
-Wed Jan 9 2019,1,Brooklyn Nets,16,116,7:30p,216,Atlanta Hawks,100
-Wed Jan 9 2019,1,Dallas Mavericks,10,104,8:30p,198,Phoenix Suns,94
-Wed Jan 9 2019,0,Houston Rockets,-7,109,8:00p,225,Milwaukee Bucks,116
-Wed Jan 9 2019,1,Los Angeles Lakers,13,113,10:30p,213,Detroit Pistons,100
-Wed Jan 9 2019,1,Memphis Grizzlies,10,96,8:00p,182,San Antonio Spurs,86
-Wed Jan 9 2019,1,New Orleans Pelicans,16,140,8:00p,264,Cleveland Cavaliers,124
-Wed Jan 9 2019,1,Portland Trail Blazers,12,124,10:00p,236,Chicago Bulls,112
-Wed Jan 9 2019,1,Utah Jazz,13,106,9:00p,199,Orlando Magic,93
-Wed Jan 9 2019,1,Washington Wizards,17,123,7:00p,229,Philadelphia 76ers,106
-Thu Jan 10 2019,1,Denver Nuggets,21,121,9:00p,221,Los Angeles Clippers,100
-Thu Jan 10 2019,1,Miami Heat,16,115,7:00p,214,Boston Celtics,99
-Thu Jan 10 2019,1,Sacramento Kings,10,112,10:00p,214,Detroit Pistons,102
-Thu Jan 10 2019,1,San Antonio Spurs,7,154,9:30p,301,Oklahoma City Thunder,147
-Fri Jan 11 2019,1,Golden State Warriors,37,146,10:30p,255,Chicago Bulls,109
-Fri Jan 11 2019,1,Houston Rockets,28,141,8:00p,254,Cleveland Cavaliers,113
-Fri Jan 11 2019,0,Minnesota Timberwolves,-4,115,8:00p,234,Dallas Mavericks,119
-Fri Jan 11 2019,0,New York Knicks,-15,106,7:30p,227,Indiana Pacers,121
-Fri Jan 11 2019,0,Philadelphia 76ers,-2,121,7:00p,244,Atlanta Hawks,123
-Fri Jan 11 2019,1,Portland Trail Blazers,31,127,10:00p,223,Charlotte Hornets,96
-Fri Jan 11 2019,1,Toronto Raptors,17,122,7:30p,227,Brooklyn Nets,105
-Fri Jan 11 2019,1,Utah Jazz,18,113,10:00p,208,Los Angeles Lakers,95
-Fri Jan 11 2019,1,Washington Wizards,7,113,7:00p,219,Milwaukee Bucks,106
-Sat Jan 12 2019,0,Los Angeles Clippers,-5,104,3:30p,213,Detroit Pistons,109
-Sat Jan 12 2019,1,Miami Heat,4,112,5:00p,220,Memphis Grizzlies,108
-Sat Jan 12 2019,1,Minnesota Timberwolves,4,110,8:00p,216,New Orleans Pelicans,106
-Sat Jan 12 2019,1,Oklahoma City Thunder,10,122,8:00p,234,San Antonio Spurs,112
-Sat Jan 12 2019,1,Orlando Magic,2,105,7:00p,208,Boston Celtics,103
-Sat Jan 12 2019,1,Phoenix Suns,9,102,9:00p,195,Denver Nuggets,93
-Sat Jan 12 2019,1,Sacramento Kings,7,104,10:00p,201,Charlotte Hornets,97
-Sat Jan 12 2019,1,Utah Jazz,8,110,10:00p,212,Chicago Bulls,102
-Sun Jan 13 2019,0,Atlanta Hawks,-19,114,3:30p,247,Milwaukee Bucks,133
-Sun Jan 13 2019,0,Dallas Mavericks,-5,114,7:00p,233,Golden State Warriors,119
-Sun Jan 13 2019,1,Denver Nuggets,3,116,8:00p,229,Portland Trail Blazers,113
-Sun Jan 13 2019,0,Los Angeles Lakers,-6,95,9:30p,196,Cleveland Cavaliers,101
-Sun Jan 13 2019,0,New York Knicks,-3,105,1:00p,213,Philadelphia 76ers,108
-Sun Jan 13 2019,1,Orlando Magic,7,116,6:00p,225,Houston Rockets,109
-Sun Jan 13 2019,0,Washington Wizards,-2,138,1:00p,278,Toronto Raptors,140
-Mon Jan 14 2019,1,Brooklyn Nets,7,109,7:30p,211,Boston Celtics,102
-Mon Jan 14 2019,1,Houston Rockets,18,112,8:00p,206,Memphis Grizzlies,94
-Mon Jan 14 2019,0,Los Angeles Clippers,-4,117,10:30p,238,New Orleans Pelicans,121
-Mon Jan 14 2019,1,Sacramento Kings,8,115,10:00p,222,Portland Trail Blazers,107
-Mon Jan 14 2019,0,San Antonio Spurs,-15,93,8:30p,201,Charlotte Hornets,108
-Mon Jan 14 2019,1,Utah Jazz,6,100,9:00p,194,Detroit Pistons,94
-Tue Jan 15 2019,1,Atlanta Hawks,16,142,7:30p,268,Oklahoma City Thunder,126
-Tue Jan 15 2019,0,Denver Nuggets,-31,111,9:00p,253,Golden State Warriors,142
-Tue Jan 15 2019,1,Indiana Pacers,34,131,7:00p,228,Phoenix Suns,97
-Tue Jan 15 2019,1,Los Angeles Lakers,7,107,10:30p,207,Chicago Bulls,100
-Tue Jan 15 2019,1,Milwaukee Bucks,38,124,8:00p,210,Miami Heat,86
-Tue Jan 15 2019,1,Philadelphia 76ers,42,149,7:00p,256,Minnesota Timberwolves,107
-Wed Jan 16 2019,1,Boston Celtics,9,117,8:00p,225,Toronto Raptors,108
-Wed Jan 16 2019,0,Dallas Mavericks,-4,101,8:30p,206,San Antonio Spurs,105
-Wed Jan 16 2019,1,Detroit Pistons,5,120,7:00p,235,Orlando Magic,115
-Wed Jan 16 2019,1,Golden State Warriors,7,147,10:30p,287,New Orleans Pelicans,140
-Wed Jan 16 2019,0,Houston Rockets,-3,142,8:00p,287,Brooklyn Nets,145
-Wed Jan 16 2019,0,Los Angeles Clippers,-20,109,10:30p,238,Utah Jazz,129
-Wed Jan 16 2019,0,Memphis Grizzlies,-10,101,8:00p,212,Milwaukee Bucks,111
-Wed Jan 16 2019,1,Portland Trail Blazers,17,129,10:00p,241,Cleveland Cavaliers,112
-Thu Jan 17 2019,1,Charlotte Hornets,19,114,7:00p,209,Sacramento Kings,95
-Thu Jan 17 2019,1,Denver Nuggets,30,135,9:00p,240,Chicago Bulls,105
-Thu Jan 17 2019,0,Indiana Pacers,-24,96,7:00p,216,Philadelphia 76ers,120
-Thu Jan 17 2019,0,Oklahoma City Thunder,-10,128,9:30p,266,Los Angeles Lakers,138
-Thu Jan 17 2019,1,Toronto Raptors,2,111,7:30p,220,Phoenix Suns,109
-Thu Jan 17 2019,1,Washington Wizards,1,101,3:00p,201,New York Knicks,100
-Fri Jan 18 2019,1,Boston Celtics,6,122,7:00p,238,Memphis Grizzlies,116
-Fri Jan 18 2019,1,Detroit Pistons,5,98,7:00p,191,Miami Heat,93
-Fri Jan 18 2019,0,Los Angeles Clippers,-18,94,10:30p,206,Golden State Warriors,112
-Fri Jan 18 2019,0,Minnesota Timberwolves,-3,113,8:00p,229,San Antonio Spurs,116
-Fri Jan 18 2019,0,Orlando Magic,-2,115,7:00p,232,Brooklyn Nets,117
-Fri Jan 18 2019,1,Portland Trail Blazers,16,128,10:30p,240,New Orleans Pelicans,112
-Fri Jan 18 2019,1,Utah Jazz,16,115,9:00p,214,Cleveland Cavaliers,99
-Sat Jan 19 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Boston Celtics,
-Sat Jan 19 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Miami Heat,
-Sat Jan 19 2019,0,Charlotte Hornets,undefined,,5:00p,undefined,Phoenix Suns,
-Sat Jan 19 2019,0,Denver Nuggets,undefined,,10:00p,undefined,Cleveland Cavaliers,
-Sat Jan 19 2019,0,Detroit Pistons,undefined,,7:00p,undefined,Sacramento Kings,
-Sat Jan 19 2019,0,Houston Rockets,undefined,,8:30p,undefined,Los Angeles Lakers,
-Sat Jan 19 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Dallas Mavericks,
-Sat Jan 19 2019,0,Orlando Magic,undefined,,7:00p,undefined,Milwaukee Bucks,
-Sat Jan 19 2019,0,Philadelphia 76ers,undefined,,3:30p,undefined,Oklahoma City Thunder,
-Sat Jan 19 2019,0,Toronto Raptors,undefined,,7:30p,undefined,Memphis Grizzlies,
-Sun Jan 20 2019,0,Indiana Pacers,undefined,,6:00p,undefined,Charlotte Hornets,
-Sun Jan 20 2019,0,Minnesota Timberwolves,undefined,,7:00p,undefined,Phoenix Suns,
-Sun Jan 20 2019,0,San Antonio Spurs,undefined,,7:00p,undefined,Los Angeles Clippers,
-Mon Jan 21 2019,0,Atlanta Hawks,undefined,,3:00p,undefined,Orlando Magic,
-Mon Jan 21 2019,0,Boston Celtics,undefined,,6:00p,undefined,Miami Heat,
-Mon Jan 21 2019,0,Brooklyn Nets,undefined,,3:30p,undefined,Sacramento Kings,
-Mon Jan 21 2019,0,Cleveland Cavaliers,undefined,,1:00p,undefined,Chicago Bulls,
-Mon Jan 21 2019,0,Los Angeles Lakers,undefined,,10:30p,undefined,Golden State Warriors,
-Mon Jan 21 2019,0,Memphis Grizzlies,undefined,,5:30p,undefined,New Orleans Pelicans,
-Mon Jan 21 2019,0,Milwaukee Bucks,undefined,,2:00p,undefined,Dallas Mavericks,
-Mon Jan 21 2019,0,New York Knicks,undefined,,12:30p,undefined,Oklahoma City Thunder,
-Mon Jan 21 2019,0,Philadelphia 76ers,undefined,,8:00p,undefined,Houston Rockets,
-Mon Jan 21 2019,0,Utah Jazz,undefined,,9:00p,undefined,Portland Trail Blazers,
-Mon Jan 21 2019,0,Washington Wizards,undefined,,2:00p,undefined,Detroit Pistons,
-Tue Jan 22 2019,0,Dallas Mavericks,undefined,,8:30p,undefined,Los Angeles Clippers,
-Tue Jan 22 2019,0,Oklahoma City Thunder,undefined,,8:00p,undefined,Portland Trail Blazers,
-Tue Jan 22 2019,0,Phoenix Suns,undefined,,9:00p,undefined,Minnesota Timberwolves,
-Tue Jan 22 2019,0,Toronto Raptors,undefined,,7:00p,undefined,Sacramento Kings,
-Wed Jan 23 2019,0,Boston Celtics,undefined,,7:30p,undefined,Cleveland Cavaliers,
-Wed Jan 23 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,Orlando Magic,
-Wed Jan 23 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Atlanta Hawks,
-Wed Jan 23 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Toronto Raptors,
-Wed Jan 23 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Charlotte Hornets,
-Wed Jan 23 2019,0,Miami Heat,undefined,,7:30p,undefined,Los Angeles Clippers,
-Wed Jan 23 2019,0,New Orleans Pelicans,undefined,,8:00p,undefined,Detroit Pistons,
-Wed Jan 23 2019,0,New York Knicks,undefined,,7:30p,undefined,Houston Rockets,
-Wed Jan 23 2019,0,Philadelphia 76ers,undefined,,8:00p,undefined,San Antonio Spurs,
-Wed Jan 23 2019,0,Utah Jazz,undefined,,10:30p,undefined,Denver Nuggets,
-Thu Jan 24 2019,0,Los Angeles Lakers,undefined,,10:30p,undefined,Minnesota Timberwolves,
-Thu Jan 24 2019,0,Oklahoma City Thunder,undefined,,8:00p,undefined,New Orleans Pelicans,
-Thu Jan 24 2019,0,Phoenix Suns,undefined,,9:00p,undefined,Portland Trail Blazers,
-Thu Jan 24 2019,0,Washington Wizards,undefined,,8:00p,undefined,Golden State Warriors,
-Fri Jan 25 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,New York Knicks,
-Fri Jan 25 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Los Angeles Clippers,
-Fri Jan 25 2019,0,Cleveland Cavaliers,undefined,,7:30p,undefined,Miami Heat,
-Fri Jan 25 2019,0,Dallas Mavericks,undefined,,8:30p,undefined,Detroit Pistons,
-Fri Jan 25 2019,0,Denver Nuggets,undefined,,9:00p,undefined,Phoenix Suns,
-Fri Jan 25 2019,0,Houston Rockets,undefined,,8:00p,undefined,Toronto Raptors,
-Fri Jan 25 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Sacramento Kings,
-Fri Jan 25 2019,0,Milwaukee Bucks,undefined,,8:30p,undefined,Charlotte Hornets,
-Fri Jan 25 2019,0,Orlando Magic,undefined,,7:00p,undefined,Washington Wizards,
-Fri Jan 25 2019,0,Utah Jazz,undefined,,9:00p,undefined,Minnesota Timberwolves,
-Sat Jan 26 2019,0,Boston Celtics,undefined,,8:30p,undefined,Golden State Warriors,
-Sat Jan 26 2019,0,Denver Nuggets,undefined,,9:00p,undefined,Philadelphia 76ers,
-Sat Jan 26 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Indiana Pacers,
-Sat Jan 26 2019,0,New Orleans Pelicans,undefined,,6:00p,undefined,San Antonio Spurs,
-Sat Jan 26 2019,0,Portland Trail Blazers,undefined,,10:00p,undefined,Atlanta Hawks,
-Sun Jan 27 2019,0,Chicago Bulls,undefined,,3:30p,undefined,Cleveland Cavaliers,
-Sun Jan 27 2019,0,Dallas Mavericks,undefined,,7:00p,undefined,Toronto Raptors,
-Sun Jan 27 2019,0,Houston Rockets,undefined,,7:00p,undefined,Orlando Magic,
-Sun Jan 27 2019,0,Los Angeles Clippers,undefined,,3:30p,undefined,Sacramento Kings,
-Sun Jan 27 2019,0,Los Angeles Lakers,undefined,,9:30p,undefined,Phoenix Suns,
-Sun Jan 27 2019,0,Minnesota Timberwolves,undefined,,7:00p,undefined,Utah Jazz,
-Sun Jan 27 2019,0,New York Knicks,undefined,,7:30p,undefined,Miami Heat,
-Sun Jan 27 2019,0,Oklahoma City Thunder,undefined,,6:00p,undefined,Milwaukee Bucks,
-Sun Jan 27 2019,0,San Antonio Spurs,undefined,,7:00p,undefined,Washington Wizards,
-Mon Jan 28 2019,0,Boston Celtics,undefined,,7:30p,undefined,Brooklyn Nets,
-Mon Jan 28 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,New York Knicks,
-Mon Jan 28 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Golden State Warriors,
-Mon Jan 28 2019,0,Los Angeles Clippers,undefined,,10:30p,undefined,Atlanta Hawks,
-Mon Jan 28 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Denver Nuggets,
-Tue Jan 29 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,Chicago Bulls,
-Tue Jan 29 2019,0,Cleveland Cavaliers,undefined,,7:00p,undefined,Washington Wizards,
-Tue Jan 29 2019,0,Detroit Pistons,undefined,,7:00p,undefined,Milwaukee Bucks,
-Tue Jan 29 2019,0,Houston Rockets,undefined,,8:00p,undefined,New Orleans Pelicans,
-Tue Jan 29 2019,0,Los Angeles Lakers,undefined,,10:30p,undefined,Philadelphia 76ers,
-Tue Jan 29 2019,0,Orlando Magic,undefined,,7:00p,undefined,Oklahoma City Thunder,
-Tue Jan 29 2019,0,San Antonio Spurs,undefined,,8:30p,undefined,Phoenix Suns,
-Wed Jan 30 2019,0,Boston Celtics,undefined,,7:30p,undefined,Charlotte Hornets,
-Wed Jan 30 2019,0,Miami Heat,undefined,,7:30p,undefined,Chicago Bulls,
-Wed Jan 30 2019,0,Minnesota Timberwolves,undefined,,8:00p,undefined,Memphis Grizzlies,
-Wed Jan 30 2019,0,New Orleans Pelicans,undefined,,8:00p,undefined,Denver Nuggets,
-Wed Jan 30 2019,0,New York Knicks,undefined,,7:30p,undefined,Dallas Mavericks,
-Wed Jan 30 2019,0,Portland Trail Blazers,undefined,,10:30p,undefined,Utah Jazz,
-Wed Jan 30 2019,0,Sacramento Kings,undefined,,10:00p,undefined,Atlanta Hawks,
-Wed Jan 30 2019,0,Washington Wizards,undefined,,8:00p,undefined,Indiana Pacers,
-Thu Jan 31 2019,0,Detroit Pistons,undefined,,7:00p,undefined,Dallas Mavericks,
-Thu Jan 31 2019,0,Golden State Warriors,undefined,,10:30p,undefined,Philadelphia 76ers,
-Thu Jan 31 2019,0,Los Angeles Clippers,undefined,,10:30p,undefined,Los Angeles Lakers,
-Thu Jan 31 2019,0,Orlando Magic,undefined,,7:00p,undefined,Indiana Pacers,
-Thu Jan 31 2019,0,San Antonio Spurs,undefined,,8:30p,undefined,Brooklyn Nets,
-Thu Jan 31 2019,0,Toronto Raptors,undefined,,8:00p,undefined,Milwaukee Bucks,
-Fri Feb 1 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,Memphis Grizzlies,
-Fri Feb 1 2019,0,Denver Nuggets,undefined,,10:00p,undefined,Houston Rockets,
-Fri Feb 1 2019,0,Miami Heat,undefined,,8:00p,undefined,Oklahoma City Thunder,
-Fri Feb 1 2019,0,New York Knicks,undefined,,7:30p,undefined,Boston Celtics,
-Fri Feb 1 2019,0,Utah Jazz,undefined,,9:00p,undefined,Atlanta Hawks,
-Sat Feb 2 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,Chicago Bulls,
-Sat Feb 2 2019,0,Cleveland Cavaliers,undefined,,7:30p,undefined,Dallas Mavericks,
-Sat Feb 2 2019,0,Detroit Pistons,undefined,,5:00p,undefined,Los Angeles Clippers,
-Sat Feb 2 2019,0,Golden State Warriors,undefined,,8:30p,undefined,Los Angeles Lakers,
-Sat Feb 2 2019,0,Miami Heat,undefined,,7:30p,undefined,Indiana Pacers,
-Sat Feb 2 2019,0,Minnesota Timberwolves,undefined,,9:00p,undefined,Denver Nuggets,
-Sat Feb 2 2019,0,Orlando Magic,undefined,,7:00p,undefined,Brooklyn Nets,
-Sat Feb 2 2019,0,Phoenix Suns,undefined,,9:00p,undefined,Atlanta Hawks,
-Sat Feb 2 2019,0,Sacramento Kings,undefined,,10:00p,undefined,Philadelphia 76ers,
-Sat Feb 2 2019,0,San Antonio Spurs,undefined,,8:30p,undefined,New Orleans Pelicans,
-Sat Feb 2 2019,0,Utah Jazz,undefined,,9:00p,undefined,Houston Rockets,
-Sat Feb 2 2019,0,Washington Wizards,undefined,,7:00p,undefined,Milwaukee Bucks,
-Sun Feb 3 2019,0,Boston Celtics,undefined,,2:00p,undefined,Oklahoma City Thunder,
-Sun Feb 3 2019,0,New York Knicks,undefined,,1:00p,undefined,Memphis Grizzlies,
-Sun Feb 3 2019,0,Toronto Raptors,undefined,,3:00p,undefined,Los Angeles Clippers,
-Mon Feb 4 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,Milwaukee Bucks,
-Mon Feb 4 2019,0,Detroit Pistons,undefined,,7:00p,undefined,Denver Nuggets,
-Mon Feb 4 2019,0,New Orleans Pelicans,undefined,,8:00p,undefined,Indiana Pacers,
-Mon Feb 4 2019,0,Phoenix Suns,undefined,,9:00p,undefined,Houston Rockets,
-Mon Feb 4 2019,0,Sacramento Kings,undefined,,10:00p,undefined,San Antonio Spurs,
-Mon Feb 4 2019,0,Washington Wizards,undefined,,7:00p,undefined,Atlanta Hawks,
-Tue Feb 5 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,Los Angeles Clippers,
-Tue Feb 5 2019,0,Cleveland Cavaliers,undefined,,7:00p,undefined,Boston Celtics,
-Tue Feb 5 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Los Angeles Lakers,
-Tue Feb 5 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Minnesota Timberwolves,
-Tue Feb 5 2019,0,New York Knicks,undefined,,7:30p,undefined,Detroit Pistons,
-Tue Feb 5 2019,0,Oklahoma City Thunder,undefined,,8:00p,undefined,Orlando Magic,
-Tue Feb 5 2019,0,Philadelphia 76ers,undefined,,8:00p,undefined,Toronto Raptors,
-Tue Feb 5 2019,0,Portland Trail Blazers,undefined,,10:30p,undefined,Miami Heat,
-Wed Feb 6 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,Denver Nuggets,
-Wed Feb 6 2019,0,Chicago Bulls,undefined,,8:00p,undefined,New Orleans Pelicans,
-Wed Feb 6 2019,0,Dallas Mavericks,undefined,,8:30p,undefined,Charlotte Hornets,
-Wed Feb 6 2019,0,Golden State Warriors,undefined,,10:30p,undefined,San Antonio Spurs,
-Wed Feb 6 2019,0,Milwaukee Bucks,undefined,,8:00p,undefined,Washington Wizards,
-Wed Feb 6 2019,0,Sacramento Kings,undefined,,10:00p,undefined,Houston Rockets,
-Wed Feb 6 2019,0,Utah Jazz,undefined,,9:00p,undefined,Phoenix Suns,
-Thu Feb 7 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Toronto Raptors,
-Thu Feb 7 2019,0,Boston Celtics,undefined,,8:00p,undefined,Los Angeles Lakers,
-Thu Feb 7 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Los Angeles Clippers,
-Thu Feb 7 2019,0,Oklahoma City Thunder,undefined,,8:00p,undefined,Memphis Grizzlies,
-Thu Feb 7 2019,0,Orlando Magic,undefined,,7:00p,undefined,Minnesota Timberwolves,
-Thu Feb 7 2019,0,Portland Trail Blazers,undefined,,10:30p,undefined,San Antonio Spurs,
-Fri Feb 8 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,Chicago Bulls,
-Fri Feb 8 2019,0,Dallas Mavericks,undefined,,8:30p,undefined,Milwaukee Bucks,
-Fri Feb 8 2019,0,Detroit Pistons,undefined,,7:00p,undefined,New York Knicks,
-Fri Feb 8 2019,0,New Orleans Pelicans,undefined,,9:30p,undefined,Minnesota Timberwolves,
-Fri Feb 8 2019,0,Philadelphia 76ers,undefined,,7:00p,undefined,Denver Nuggets,
-Fri Feb 8 2019,0,Phoenix Suns,undefined,,9:00p,undefined,Golden State Warriors,
-Fri Feb 8 2019,0,Sacramento Kings,undefined,,10:00p,undefined,Miami Heat,
-Fri Feb 8 2019,0,Washington Wizards,undefined,,7:00p,undefined,Cleveland Cavaliers,
-Sat Feb 9 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Charlotte Hornets,
-Sat Feb 9 2019,0,Boston Celtics,undefined,,8:00p,undefined,Los Angeles Clippers,
-Sat Feb 9 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Washington Wizards,
-Sat Feb 9 2019,0,Houston Rockets,undefined,,8:30p,undefined,Oklahoma City Thunder,
-Sat Feb 9 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Cleveland Cavaliers,
-Sat Feb 9 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,New Orleans Pelicans,
-Sat Feb 9 2019,0,Milwaukee Bucks,undefined,,9:00p,undefined,Orlando Magic,
-Sat Feb 9 2019,0,New York Knicks,undefined,,7:30p,undefined,Toronto Raptors,
-Sat Feb 9 2019,0,Utah Jazz,undefined,,5:00p,undefined,San Antonio Spurs,
-Sun Feb 10 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Orlando Magic,
-Sun Feb 10 2019,0,Dallas Mavericks,undefined,,3:00p,undefined,Portland Trail Blazers,
-Sun Feb 10 2019,0,Golden State Warriors,undefined,,8:30p,undefined,Miami Heat,
-Sun Feb 10 2019,0,Philadelphia 76ers,undefined,,3:30p,undefined,Los Angeles Lakers,
-Sun Feb 10 2019,0,Sacramento Kings,undefined,,6:00p,undefined,Phoenix Suns,
-Mon Feb 11 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Milwaukee Bucks,
-Mon Feb 11 2019,0,Cleveland Cavaliers,undefined,,7:00p,undefined,New York Knicks,
-Mon Feb 11 2019,0,Denver Nuggets,undefined,,9:00p,undefined,Miami Heat,
-Mon Feb 11 2019,0,Detroit Pistons,undefined,,7:00p,undefined,Washington Wizards,
-Mon Feb 11 2019,0,Houston Rockets,undefined,,8:00p,undefined,Dallas Mavericks,
-Mon Feb 11 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Charlotte Hornets,
-Mon Feb 11 2019,0,Minnesota Timberwolves,undefined,,8:00p,undefined,Los Angeles Clippers,
-Mon Feb 11 2019,0,Oklahoma City Thunder,undefined,,8:00p,undefined,Portland Trail Blazers,
-Mon Feb 11 2019,0,Toronto Raptors,undefined,,7:30p,undefined,Brooklyn Nets,
-Tue Feb 12 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Los Angeles Lakers,
-Tue Feb 12 2019,0,Golden State Warriors,undefined,,10:30p,undefined,Utah Jazz,
-Tue Feb 12 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,San Antonio Spurs,
-Tue Feb 12 2019,0,New Orleans Pelicans,undefined,,8:00p,undefined,Orlando Magic,
-Tue Feb 12 2019,0,Philadelphia 76ers,undefined,,8:00p,undefined,Boston Celtics,
-Wed Feb 13 2019,0,Boston Celtics,undefined,,7:30p,undefined,Detroit Pistons,
-Wed Feb 13 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Memphis Grizzlies,
-Wed Feb 13 2019,0,Cleveland Cavaliers,undefined,,7:00p,undefined,Brooklyn Nets,
-Wed Feb 13 2019,0,Dallas Mavericks,undefined,,8:30p,undefined,Miami Heat,
-Wed Feb 13 2019,0,Denver Nuggets,undefined,,9:00p,undefined,Sacramento Kings,
-Wed Feb 13 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Milwaukee Bucks,
-Wed Feb 13 2019,0,Los Angeles Clippers,undefined,,10:30p,undefined,Phoenix Suns,
-Wed Feb 13 2019,0,Minnesota Timberwolves,undefined,,9:30p,undefined,Houston Rockets,
-Wed Feb 13 2019,0,New York Knicks,undefined,,7:30p,undefined,Philadelphia 76ers,
-Wed Feb 13 2019,0,Portland Trail Blazers,undefined,,10:00p,undefined,Golden State Warriors,
-Wed Feb 13 2019,0,Toronto Raptors,undefined,,7:30p,undefined,Washington Wizards,
-Thu Feb 14 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,New York Knicks,
-Thu Feb 14 2019,0,New Orleans Pelicans,undefined,,8:00p,undefined,Oklahoma City Thunder,
-Thu Feb 14 2019,0,Orlando Magic,undefined,,7:00p,undefined,Charlotte Hornets,
-Thu Feb 21 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,Portland Trail Blazers,
-Thu Feb 21 2019,0,Cleveland Cavaliers,undefined,,7:00p,undefined,Phoenix Suns,
-Thu Feb 21 2019,0,Golden State Warriors,undefined,,10:30p,undefined,Sacramento Kings,
-Thu Feb 21 2019,0,Los Angeles Lakers,undefined,,10:30p,undefined,Houston Rockets,
-Thu Feb 21 2019,0,Milwaukee Bucks,undefined,,8:00p,undefined,Boston Celtics,
-Thu Feb 21 2019,0,Philadelphia 76ers,undefined,,7:00p,undefined,Miami Heat,
-Fri Feb 22 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Detroit Pistons,
-Fri Feb 22 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,Washington Wizards,
-Fri Feb 22 2019,0,Dallas Mavericks,undefined,,8:30p,undefined,Denver Nuggets,
-Fri Feb 22 2019,0,Indiana Pacers,undefined,,7:00p,undefined,New Orleans Pelicans,
-Fri Feb 22 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Los Angeles Clippers,
-Fri Feb 22 2019,0,New York Knicks,undefined,,7:30p,undefined,Minnesota Timberwolves,
-Fri Feb 22 2019,0,Oklahoma City Thunder,undefined,,9:30p,undefined,Utah Jazz,
-Fri Feb 22 2019,0,Orlando Magic,undefined,,7:00p,undefined,Chicago Bulls,
-Fri Feb 22 2019,0,Toronto Raptors,undefined,,7:00p,undefined,San Antonio Spurs,
-Sat Feb 23 2019,0,Atlanta Hawks,undefined,,7:00p,undefined,Phoenix Suns,
-Sat Feb 23 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Boston Celtics,
-Sat Feb 23 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,Brooklyn Nets,
-Sat Feb 23 2019,0,Cleveland Cavaliers,undefined,,7:00p,undefined,Memphis Grizzlies,
-Sat Feb 23 2019,0,Golden State Warriors,undefined,,8:30p,undefined,Houston Rockets,
-Sat Feb 23 2019,0,Miami Heat,undefined,,7:30p,undefined,Detroit Pistons,
-Sat Feb 23 2019,0,Milwaukee Bucks,undefined,,8:30p,undefined,Minnesota Timberwolves,
-Sat Feb 23 2019,0,New Orleans Pelicans,undefined,,7:00p,undefined,Los Angeles Lakers,
-Sat Feb 23 2019,0,Oklahoma City Thunder,undefined,,8:00p,undefined,Sacramento Kings,
-Sat Feb 23 2019,0,Philadelphia 76ers,undefined,,1:00p,undefined,Portland Trail Blazers,
-Sat Feb 23 2019,0,Utah Jazz,undefined,,10:00p,undefined,Dallas Mavericks,
-Sat Feb 23 2019,0,Washington Wizards,undefined,,7:00p,undefined,Indiana Pacers,
-Sun Feb 24 2019,0,Denver Nuggets,undefined,,5:00p,undefined,Los Angeles Clippers,
-Sun Feb 24 2019,0,New York Knicks,undefined,,7:30p,undefined,San Antonio Spurs,
-Sun Feb 24 2019,0,Toronto Raptors,undefined,,3:30p,undefined,Orlando Magic,
-Mon Feb 25 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,San Antonio Spurs,
-Mon Feb 25 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Milwaukee Bucks,
-Mon Feb 25 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,Golden State Warriors,
-Mon Feb 25 2019,0,Cleveland Cavaliers,undefined,,7:00p,undefined,Portland Trail Blazers,
-Mon Feb 25 2019,0,Detroit Pistons,undefined,,7:00p,undefined,Indiana Pacers,
-Mon Feb 25 2019,0,Houston Rockets,undefined,,8:00p,undefined,Atlanta Hawks,
-Mon Feb 25 2019,0,Los Angeles Clippers,undefined,,10:30p,undefined,Dallas Mavericks,
-Mon Feb 25 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Los Angeles Lakers,
-Mon Feb 25 2019,0,Miami Heat,undefined,,7:30p,undefined,Phoenix Suns,
-Mon Feb 25 2019,0,Minnesota Timberwolves,undefined,,8:00p,undefined,Sacramento Kings,
-Mon Feb 25 2019,0,New Orleans Pelicans,undefined,,8:00p,undefined,Philadelphia 76ers,
-Tue Feb 26 2019,0,Denver Nuggets,undefined,,10:30p,undefined,Oklahoma City Thunder,
-Tue Feb 26 2019,0,New York Knicks,undefined,,7:30p,undefined,Orlando Magic,
-Tue Feb 26 2019,0,Toronto Raptors,undefined,,8:00p,undefined,Boston Celtics,
-Wed Feb 27 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Minnesota Timberwolves,
-Wed Feb 27 2019,0,Boston Celtics,undefined,,7:30p,undefined,Portland Trail Blazers,
-Wed Feb 27 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,Washington Wizards,
-Wed Feb 27 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,Houston Rockets,
-Wed Feb 27 2019,0,Dallas Mavericks,undefined,,8:30p,undefined,Indiana Pacers,
-Wed Feb 27 2019,0,Los Angeles Lakers,undefined,,10:30p,undefined,New Orleans Pelicans,
-Wed Feb 27 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Chicago Bulls,
-Wed Feb 27 2019,0,Miami Heat,undefined,,7:30p,undefined,Golden State Warriors,
-Wed Feb 27 2019,0,Sacramento Kings,undefined,,10:00p,undefined,Milwaukee Bucks,
-Wed Feb 27 2019,0,San Antonio Spurs,undefined,,8:00p,undefined,Detroit Pistons,
-Wed Feb 27 2019,0,Utah Jazz,undefined,,9:00p,undefined,Los Angeles Clippers,
-Thu Feb 28 2019,0,Denver Nuggets,undefined,,9:00p,undefined,Utah Jazz,
-Thu Feb 28 2019,0,Houston Rockets,undefined,,8:00p,undefined,Miami Heat,
-Thu Feb 28 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Minnesota Timberwolves,
-Thu Feb 28 2019,0,New York Knicks,undefined,,7:30p,undefined,Cleveland Cavaliers,
-Thu Feb 28 2019,0,Oklahoma City Thunder,undefined,,9:30p,undefined,Philadelphia 76ers,
-Thu Feb 28 2019,0,Orlando Magic,undefined,,7:00p,undefined,Golden State Warriors,
-Fri Mar 1 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Chicago Bulls,
-Fri Mar 1 2019,0,Boston Celtics,undefined,,8:00p,undefined,Washington Wizards,
-Fri Mar 1 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,Charlotte Hornets,
-Fri Mar 1 2019,0,Los Angeles Lakers,undefined,,10:30p,undefined,Milwaukee Bucks,
-Fri Mar 1 2019,0,Phoenix Suns,undefined,,9:00p,undefined,New Orleans Pelicans,
-Fri Mar 1 2019,0,Sacramento Kings,undefined,,10:00p,undefined,Los Angeles Clippers,
-Fri Mar 1 2019,0,Toronto Raptors,undefined,,7:30p,undefined,Portland Trail Blazers,
-Sat Mar 2 2019,0,Cleveland Cavaliers,undefined,,5:00p,undefined,Detroit Pistons,
-Sat Mar 2 2019,0,Dallas Mavericks,undefined,,8:30p,undefined,Memphis Grizzlies,
-Sat Mar 2 2019,0,Denver Nuggets,undefined,,9:00p,undefined,New Orleans Pelicans,
-Sat Mar 2 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Orlando Magic,
-Sat Mar 2 2019,0,Miami Heat,undefined,,7:30p,undefined,Brooklyn Nets,
-Sat Mar 2 2019,0,Philadelphia 76ers,undefined,,8:30p,undefined,Golden State Warriors,
-Sat Mar 2 2019,0,Phoenix Suns,undefined,,9:00p,undefined,Los Angeles Lakers,
-Sat Mar 2 2019,0,San Antonio Spurs,undefined,,8:30p,undefined,Oklahoma City Thunder,
-Sat Mar 2 2019,0,Utah Jazz,undefined,,9:00p,undefined,Milwaukee Bucks,
-Sun Mar 3 2019,0,Boston Celtics,undefined,,3:30p,undefined,Houston Rockets,
-Sun Mar 3 2019,0,Chicago Bulls,undefined,,3:30p,undefined,Atlanta Hawks,
-Sun Mar 3 2019,0,Charlotte Hornets,undefined,,1:00p,undefined,Portland Trail Blazers,
-Sun Mar 3 2019,0,Cleveland Cavaliers,undefined,,6:00p,undefined,Orlando Magic,
-Sun Mar 3 2019,0,Detroit Pistons,undefined,,6:00p,undefined,Toronto Raptors,
-Sun Mar 3 2019,0,Los Angeles Clippers,undefined,,3:30p,undefined,New York Knicks,
-Sun Mar 3 2019,0,Oklahoma City Thunder,undefined,,7:00p,undefined,Memphis Grizzlies,
-Sun Mar 3 2019,0,Washington Wizards,undefined,,6:00p,undefined,Minnesota Timberwolves,
-Mon Mar 4 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,Dallas Mavericks,
-Mon Mar 4 2019,0,Los Angeles Lakers,undefined,,10:30p,undefined,Los Angeles Clippers,
-Mon Mar 4 2019,0,Miami Heat,undefined,,7:30p,undefined,Atlanta Hawks,
-Mon Mar 4 2019,0,Phoenix Suns,undefined,,9:00p,undefined,Milwaukee Bucks,
-Mon Mar 4 2019,0,Sacramento Kings,undefined,,10:00p,undefined,New York Knicks,
-Mon Mar 4 2019,0,San Antonio Spurs,undefined,,8:30p,undefined,Denver Nuggets,
-Mon Mar 4 2019,0,Utah Jazz,undefined,,9:00p,undefined,New Orleans Pelicans,
-Tue Mar 5 2019,0,Golden State Warriors,undefined,,10:30p,undefined,Boston Celtics,
-Tue Mar 5 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Chicago Bulls,
-Tue Mar 5 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Portland Trail Blazers,
-Tue Mar 5 2019,0,Minnesota Timberwolves,undefined,,8:00p,undefined,Oklahoma City Thunder,
-Tue Mar 5 2019,0,Philadelphia 76ers,undefined,,7:00p,undefined,Orlando Magic,
-Tue Mar 5 2019,0,Toronto Raptors,undefined,,8:00p,undefined,Houston Rockets,
-Wed Mar 6 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,San Antonio Spurs,
-Wed Mar 6 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,Cleveland Cavaliers,
-Wed Mar 6 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Philadelphia 76ers,
-Wed Mar 6 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,Miami Heat,
-Wed Mar 6 2019,0,Detroit Pistons,undefined,,7:00p,undefined,Minnesota Timberwolves,
-Wed Mar 6 2019,0,Los Angeles Lakers,undefined,,10:30p,undefined,Denver Nuggets,
-Wed Mar 6 2019,0,New Orleans Pelicans,undefined,,8:00p,undefined,Utah Jazz,
-Wed Mar 6 2019,0,Phoenix Suns,undefined,,9:00p,undefined,New York Knicks,
-Wed Mar 6 2019,0,Sacramento Kings,undefined,,10:00p,undefined,Boston Celtics,
-Wed Mar 6 2019,0,Washington Wizards,undefined,,7:00p,undefined,Dallas Mavericks,
-Thu Mar 7 2019,0,Milwaukee Bucks,undefined,,8:00p,undefined,Indiana Pacers,
-Thu Mar 7 2019,0,Portland Trail Blazers,undefined,,10:30p,undefined,Oklahoma City Thunder,
-Fri Mar 8 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Detroit Pistons,
-Fri Mar 8 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,Washington Wizards,
-Fri Mar 8 2019,0,Golden State Warriors,undefined,,10:30p,undefined,Denver Nuggets,
-Fri Mar 8 2019,0,Houston Rockets,undefined,,8:00p,undefined,Philadelphia 76ers,
-Fri Mar 8 2019,0,Los Angeles Clippers,undefined,,10:30p,undefined,Oklahoma City Thunder,
-Fri Mar 8 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Utah Jazz,
-Fri Mar 8 2019,0,Miami Heat,undefined,,8:00p,undefined,Cleveland Cavaliers,
-Fri Mar 8 2019,0,New Orleans Pelicans,undefined,,8:00p,undefined,Toronto Raptors,
-Fri Mar 8 2019,0,Orlando Magic,undefined,,7:00p,undefined,Dallas Mavericks,
-Sat Mar 9 2019,0,Atlanta Hawks,undefined,,7:00p,undefined,Brooklyn Nets,
-Sat Mar 9 2019,0,Los Angeles Lakers,undefined,,8:30p,undefined,Boston Celtics,
-Sat Mar 9 2019,0,Milwaukee Bucks,undefined,,9:00p,undefined,Charlotte Hornets,
-Sat Mar 9 2019,0,Minnesota Timberwolves,undefined,,8:00p,undefined,Washington Wizards,
-Sat Mar 9 2019,0,New York Knicks,undefined,,12:00p,undefined,Sacramento Kings,
-Sat Mar 9 2019,0,Portland Trail Blazers,undefined,,10:00p,undefined,Phoenix Suns,
-Sun Mar 10 2019,0,Atlanta Hawks,undefined,,6:00p,undefined,New Orleans Pelicans,
-Sun Mar 10 2019,0,Dallas Mavericks,undefined,,7:00p,undefined,Houston Rockets,
-Sun Mar 10 2019,0,Detroit Pistons,undefined,,12:00p,undefined,Chicago Bulls,
-Sun Mar 10 2019,0,Golden State Warriors,undefined,,8:30p,undefined,Phoenix Suns,
-Sun Mar 10 2019,0,Memphis Grizzlies,undefined,,6:00p,undefined,Orlando Magic,
-Sun Mar 10 2019,0,Miami Heat,undefined,,3:30p,undefined,Toronto Raptors,
-Sun Mar 10 2019,0,Minnesota Timberwolves,undefined,,8:00p,undefined,New York Knicks,
-Sun Mar 10 2019,0,Philadelphia 76ers,undefined,,3:30p,undefined,Indiana Pacers,
-Sun Mar 10 2019,0,San Antonio Spurs,undefined,,8:00p,undefined,Milwaukee Bucks,
-Mon Mar 11 2019,0,Brooklyn Nets,undefined,,7:30p,undefined,Detroit Pistons,
-Mon Mar 11 2019,0,Cleveland Cavaliers,undefined,,7:00p,undefined,Toronto Raptors,
-Mon Mar 11 2019,0,Houston Rockets,undefined,,8:00p,undefined,Charlotte Hornets,
-Mon Mar 11 2019,0,Los Angeles Clippers,undefined,,10:30p,undefined,Boston Celtics,
-Mon Mar 11 2019,0,Utah Jazz,undefined,,9:00p,undefined,Oklahoma City Thunder,
-Mon Mar 11 2019,0,Washington Wizards,undefined,,7:00p,undefined,Sacramento Kings,
-Tue Mar 12 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Los Angeles Lakers,
-Tue Mar 12 2019,0,Dallas Mavericks,undefined,,8:30p,undefined,San Antonio Spurs,
-Tue Mar 12 2019,0,Denver Nuggets,undefined,,10:30p,undefined,Minnesota Timberwolves,
-Tue Mar 12 2019,0,Indiana Pacers,undefined,,7:00p,undefined,New York Knicks,
-Tue Mar 12 2019,0,Los Angeles Clippers,undefined,,10:30p,undefined,Portland Trail Blazers,
-Tue Mar 12 2019,0,New Orleans Pelicans,undefined,,8:00p,undefined,Milwaukee Bucks,
-Tue Mar 12 2019,0,Philadelphia 76ers,undefined,,7:00p,undefined,Cleveland Cavaliers,
-Wed Mar 13 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Memphis Grizzlies,
-Wed Mar 13 2019,0,Houston Rockets,undefined,,9:30p,undefined,Golden State Warriors,
-Wed Mar 13 2019,0,Miami Heat,undefined,,7:00p,undefined,Detroit Pistons,
-Wed Mar 13 2019,0,Oklahoma City Thunder,undefined,,8:00p,undefined,Brooklyn Nets,
-Wed Mar 13 2019,0,Phoenix Suns,undefined,,10:00p,undefined,Utah Jazz,
-Wed Mar 13 2019,0,Washington Wizards,undefined,,7:00p,undefined,Orlando Magic,
-Thu Mar 14 2019,0,Boston Celtics,undefined,,7:30p,undefined,Sacramento Kings,
-Thu Mar 14 2019,0,Denver Nuggets,undefined,,10:30p,undefined,Dallas Mavericks,
-Thu Mar 14 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Oklahoma City Thunder,
-Thu Mar 14 2019,0,Orlando Magic,undefined,,7:00p,undefined,Cleveland Cavaliers,
-Thu Mar 14 2019,0,Toronto Raptors,undefined,,8:00p,undefined,Los Angeles Lakers,
-Thu Mar 14 2019,0,Utah Jazz,undefined,,9:00p,undefined,Minnesota Timberwolves,
-Fri Mar 15 2019,0,Detroit Pistons,undefined,,7:00p,undefined,Los Angeles Lakers,
-Fri Mar 15 2019,0,Houston Rockets,undefined,,8:00p,undefined,Phoenix Suns,
-Fri Mar 15 2019,0,Los Angeles Clippers,undefined,,10:30p,undefined,Chicago Bulls,
-Fri Mar 15 2019,0,Miami Heat,undefined,,8:00p,undefined,Milwaukee Bucks,
-Fri Mar 15 2019,0,New Orleans Pelicans,undefined,,8:00p,undefined,Portland Trail Blazers,
-Fri Mar 15 2019,0,Philadelphia 76ers,undefined,,7:00p,undefined,Sacramento Kings,
-Fri Mar 15 2019,0,San Antonio Spurs,undefined,,8:30p,undefined,New York Knicks,
-Fri Mar 15 2019,0,Washington Wizards,undefined,,7:00p,undefined,Charlotte Hornets,
-Sat Mar 16 2019,0,Boston Celtics,undefined,,12:30p,undefined,Atlanta Hawks,
-Sat Mar 16 2019,0,Dallas Mavericks,undefined,,8:30p,undefined,Cleveland Cavaliers,
-Sat Mar 16 2019,0,Denver Nuggets,undefined,,9:00p,undefined,Indiana Pacers,
-Sat Mar 16 2019,0,New Orleans Pelicans,undefined,,7:00p,undefined,Phoenix Suns,
-Sat Mar 16 2019,0,Oklahoma City Thunder,undefined,,8:30p,undefined,Golden State Warriors,
-Sat Mar 16 2019,0,San Antonio Spurs,undefined,,8:30p,undefined,Portland Trail Blazers,
-Sat Mar 16 2019,0,Utah Jazz,undefined,,9:00p,undefined,Brooklyn Nets,
-Sat Mar 16 2019,0,Washington Wizards,undefined,,7:00p,undefined,Memphis Grizzlies,
-Sun Mar 17 2019,0,Detroit Pistons,undefined,,4:00p,undefined,Toronto Raptors,
-Sun Mar 17 2019,0,Houston Rockets,undefined,,9:00p,undefined,Minnesota Timberwolves,
-Sun Mar 17 2019,0,Los Angeles Clippers,undefined,,9:00p,undefined,Brooklyn Nets,
-Sun Mar 17 2019,0,Miami Heat,undefined,,1:00p,undefined,Charlotte Hornets,
-Sun Mar 17 2019,0,Milwaukee Bucks,undefined,,3:30p,undefined,Philadelphia 76ers,
-Sun Mar 17 2019,0,New York Knicks,undefined,,12:00p,undefined,Los Angeles Lakers,
-Sun Mar 17 2019,0,Orlando Magic,undefined,,6:00p,undefined,Atlanta Hawks,
-Sun Mar 17 2019,0,Sacramento Kings,undefined,,6:00p,undefined,Chicago Bulls,
-Mon Mar 18 2019,0,Boston Celtics,undefined,,7:30p,undefined,Denver Nuggets,
-Mon Mar 18 2019,0,Cleveland Cavaliers,undefined,,7:00p,undefined,Detroit Pistons,
-Mon Mar 18 2019,0,Dallas Mavericks,undefined,,8:30p,undefined,New Orleans Pelicans,
-Mon Mar 18 2019,0,Oklahoma City Thunder,undefined,,8:00p,undefined,Miami Heat,
-Mon Mar 18 2019,0,Phoenix Suns,undefined,,10:00p,undefined,Chicago Bulls,
-Mon Mar 18 2019,0,Portland Trail Blazers,undefined,,10:30p,undefined,Indiana Pacers,
-Mon Mar 18 2019,0,San Antonio Spurs,undefined,,8:00p,undefined,Golden State Warriors,
-Mon Mar 18 2019,0,Toronto Raptors,undefined,,7:30p,undefined,New York Knicks,
-Mon Mar 18 2019,0,Washington Wizards,undefined,,7:00p,undefined,Utah Jazz,
-Tue Mar 19 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Houston Rockets,
-Tue Mar 19 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,Philadelphia 76ers,
-Tue Mar 19 2019,0,Los Angeles Clippers,undefined,,10:30p,undefined,Indiana Pacers,
-Tue Mar 19 2019,0,Milwaukee Bucks,undefined,,8:00p,undefined,Los Angeles Lakers,
-Tue Mar 19 2019,0,Minnesota Timberwolves,undefined,,8:00p,undefined,Golden State Warriors,
-Tue Mar 19 2019,0,Sacramento Kings,undefined,,10:00p,undefined,Brooklyn Nets,
-Wed Mar 20 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Washington Wizards,
-Wed Mar 20 2019,0,Cleveland Cavaliers,undefined,,7:00p,undefined,Milwaukee Bucks,
-Wed Mar 20 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Houston Rockets,
-Wed Mar 20 2019,0,New York Knicks,undefined,,7:30p,undefined,Utah Jazz,
-Wed Mar 20 2019,0,Oklahoma City Thunder,undefined,,9:30p,undefined,Toronto Raptors,
-Wed Mar 20 2019,0,Orlando Magic,undefined,,7:00p,undefined,New Orleans Pelicans,
-Wed Mar 20 2019,0,Philadelphia 76ers,undefined,,7:00p,undefined,Boston Celtics,
-Wed Mar 20 2019,0,Portland Trail Blazers,undefined,,10:00p,undefined,Dallas Mavericks,
-Wed Mar 20 2019,0,San Antonio Spurs,undefined,,8:30p,undefined,Miami Heat,
-Thu Mar 21 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Utah Jazz,
-Thu Mar 21 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,Minnesota Timberwolves,
-Thu Mar 21 2019,0,Golden State Warriors,undefined,,10:30p,undefined,Indiana Pacers,
-Thu Mar 21 2019,0,Phoenix Suns,undefined,,10:00p,undefined,Detroit Pistons,
-Thu Mar 21 2019,0,Sacramento Kings,undefined,,10:00p,undefined,Dallas Mavericks,
-Thu Mar 21 2019,0,Washington Wizards,undefined,,7:00p,undefined,Denver Nuggets,
-Fri Mar 22 2019,0,Cleveland Cavaliers,undefined,,7:30p,undefined,Los Angeles Clippers,
-Fri Mar 22 2019,0,Houston Rockets,undefined,,8:00p,undefined,San Antonio Spurs,
-Fri Mar 22 2019,0,Los Angeles Lakers,undefined,,10:30p,undefined,Brooklyn Nets,
-Fri Mar 22 2019,0,Milwaukee Bucks,undefined,,8:30p,undefined,Miami Heat,
-Fri Mar 22 2019,0,New York Knicks,undefined,,7:30p,undefined,Denver Nuggets,
-Fri Mar 22 2019,0,Orlando Magic,undefined,,7:00p,undefined,Memphis Grizzlies,
-Fri Mar 22 2019,0,Toronto Raptors,undefined,,7:30p,undefined,Oklahoma City Thunder,
-Sat Mar 23 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Philadelphia 76ers,
-Sat Mar 23 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Utah Jazz,
-Sat Mar 23 2019,0,Charlotte Hornets,undefined,,6:00p,undefined,Boston Celtics,
-Sat Mar 23 2019,0,Golden State Warriors,undefined,,8:30p,undefined,Dallas Mavericks,
-Sat Mar 23 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Minnesota Timberwolves,
-Sat Mar 23 2019,0,Portland Trail Blazers,undefined,,10:00p,undefined,Detroit Pistons,
-Sat Mar 23 2019,0,Sacramento Kings,undefined,,10:00p,undefined,Phoenix Suns,
-Sat Mar 23 2019,0,Washington Wizards,undefined,,7:00p,undefined,Miami Heat,
-Sun Mar 24 2019,0,Boston Celtics,undefined,,7:30p,undefined,San Antonio Spurs,
-Sun Mar 24 2019,0,Golden State Warriors,undefined,,8:30p,undefined,Detroit Pistons,
-Sun Mar 24 2019,0,Indiana Pacers,undefined,,5:00p,undefined,Denver Nuggets,
-Sun Mar 24 2019,0,Los Angeles Lakers,undefined,,9:30p,undefined,Sacramento Kings,
-Sun Mar 24 2019,0,Milwaukee Bucks,undefined,,4:30p,undefined,Cleveland Cavaliers,
-Sun Mar 24 2019,0,New Orleans Pelicans,undefined,,7:00p,undefined,Houston Rockets,
-Sun Mar 24 2019,0,New York Knicks,undefined,,12:00p,undefined,Los Angeles Clippers,
-Sun Mar 24 2019,0,Toronto Raptors,undefined,,6:00p,undefined,Charlotte Hornets,
-Mon Mar 25 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Oklahoma City Thunder,
-Mon Mar 25 2019,0,Orlando Magic,undefined,,7:00p,undefined,Philadelphia 76ers,
-Mon Mar 25 2019,0,Portland Trail Blazers,undefined,,10:00p,undefined,Brooklyn Nets,
-Mon Mar 25 2019,0,Utah Jazz,undefined,,9:00p,undefined,Phoenix Suns,
-Tue Mar 26 2019,0,Charlotte Hornets,undefined,,7:00p,undefined,San Antonio Spurs,
-Tue Mar 26 2019,0,Cleveland Cavaliers,undefined,,7:00p,undefined,Boston Celtics,
-Tue Mar 26 2019,0,Dallas Mavericks,undefined,,8:30p,undefined,Sacramento Kings,
-Tue Mar 26 2019,0,Denver Nuggets,undefined,,9:00p,undefined,Detroit Pistons,
-Tue Mar 26 2019,0,Los Angeles Lakers,undefined,,10:30p,undefined,Washington Wizards,
-Tue Mar 26 2019,0,Miami Heat,undefined,,7:30p,undefined,Orlando Magic,
-Tue Mar 26 2019,0,Milwaukee Bucks,undefined,,8:00p,undefined,Houston Rockets,
-Tue Mar 26 2019,0,Minnesota Timberwolves,undefined,,8:00p,undefined,Los Angeles Clippers,
-Tue Mar 26 2019,0,New Orleans Pelicans,undefined,,8:00p,undefined,Atlanta Hawks,
-Tue Mar 26 2019,0,Toronto Raptors,undefined,,7:30p,undefined,Chicago Bulls,
-Wed Mar 27 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Portland Trail Blazers,
-Wed Mar 27 2019,0,Memphis Grizzlies,undefined,,8:00p,undefined,Golden State Warriors,
-Wed Mar 27 2019,0,Oklahoma City Thunder,undefined,,8:00p,undefined,Indiana Pacers,
-Wed Mar 27 2019,0,Phoenix Suns,undefined,,10:00p,undefined,Washington Wizards,
-Wed Mar 27 2019,0,Utah Jazz,undefined,,10:30p,undefined,Los Angeles Lakers,
-Thu Mar 28 2019,0,Detroit Pistons,undefined,,7:00p,undefined,Orlando Magic,
-Thu Mar 28 2019,0,Houston Rockets,undefined,,8:00p,undefined,Denver Nuggets,
-Thu Mar 28 2019,0,Miami Heat,undefined,,7:30p,undefined,Dallas Mavericks,
-Thu Mar 28 2019,0,Milwaukee Bucks,undefined,,8:00p,undefined,Los Angeles Clippers,
-Thu Mar 28 2019,0,New Orleans Pelicans,undefined,,8:00p,undefined,Sacramento Kings,
-Thu Mar 28 2019,0,New York Knicks,undefined,,7:30p,undefined,Toronto Raptors,
-Thu Mar 28 2019,0,Philadelphia 76ers,undefined,,7:00p,undefined,Brooklyn Nets,
-Thu Mar 28 2019,0,San Antonio Spurs,undefined,,8:30p,undefined,Cleveland Cavaliers,
-Fri Mar 29 2019,0,Atlanta Hawks,undefined,,7:30p,undefined,Portland Trail Blazers,
-Fri Mar 29 2019,0,Boston Celtics,undefined,,7:00p,undefined,Indiana Pacers,
-Fri Mar 29 2019,0,Los Angeles Lakers,undefined,,10:30p,undefined,Charlotte Hornets,
-Fri Mar 29 2019,0,Minnesota Timberwolves,undefined,,8:00p,undefined,Golden State Warriors,
-Fri Mar 29 2019,0,Oklahoma City Thunder,undefined,,8:00p,undefined,Denver Nuggets,
-Fri Mar 29 2019,0,Utah Jazz,undefined,,9:00p,undefined,Washington Wizards,
-Sat Mar 30 2019,0,Brooklyn Nets,undefined,,6:00p,undefined,Boston Celtics,
-Sat Mar 30 2019,0,Chicago Bulls,undefined,,8:00p,undefined,Toronto Raptors,
-Sat Mar 30 2019,0,Detroit Pistons,undefined,,7:00p,undefined,Portland Trail Blazers,
-Sat Mar 30 2019,0,Houston Rockets,undefined,,6:00p,undefined,Sacramento Kings,
-Sat Mar 30 2019,0,Indiana Pacers,undefined,,7:00p,undefined,Orlando Magic,
-Sat Mar 30 2019,0,Los Angeles Clippers,undefined,,3:30p,undefined,Cleveland Cavaliers,
-Sat Mar 30 2019,0,Minnesota Timberwolves,undefined,,8:00p,undefined,Philadelphia 76ers,
-Sat Mar 30 2019,0,New York Knicks,undefined,,7:30p,undefined,Miami Heat,
-Sat Mar 30 2019,0,Phoenix Suns,undefined,,10:00p,undefined,Memphis Grizzlies,
-Sun Mar 31 2019,0,Atlanta Hawks,undefined,,12:30p,undefined,Milwaukee Bucks,
-Sun Mar 31 2019,0,Denver Nuggets,undefined,,8:00p,undefined,Washington Wizards,
-Sun Mar 31 2019,0,Golden State Warriors,undefined,,8:30p,undefined,Charlotte Hornets,
-Sun Mar 31 2019,0,Los Angeles Clippers,undefined,,10:30p,undefined,Memphis Grizzlies,
-Sun Mar 31 2019,0,New Orleans Pelicans,undefined,,6:00p,undefined,Los Angeles Lakers,
-Sun Mar 31 2019,0,Oklahoma City Thunder,undefined,,3:30p,undefined,Dallas Mavericks,
-Sun Mar 31 2019,0,San Antonio Spurs,undefined,,7:00p,undefined,Sacramento Kings,
+Oct 16 2018,1,Boston Celtics,18,105,8:00p,192,Philadelphia 76ers,87
+Oct 16 2018,1,Golden State Warriors,8,108,10:30p,208,Oklahoma City Thunder,100
+Oct 17 2018,0,Charlotte Hornets,-1,112,7:00p,225,Milwaukee Bucks,113
+Oct 17 2018,1,Detroit Pistons,3,103,7:00p,203,Brooklyn Nets,100
+Oct 17 2018,0,Houston Rockets,-19,112,8:00p,243,New Orleans Pelicans,131
+Oct 17 2018,1,Indiana Pacers,28,111,7:00p,194,Memphis Grizzlies,83
+Oct 17 2018,0,Los Angeles Clippers,-9,98,10:30p,205,Denver Nuggets,107
+Oct 17 2018,1,New York Knicks,19,126,7:30p,233,Atlanta Hawks,107
+Oct 17 2018,1,Orlando Magic,3,104,7:00p,205,Miami Heat,101
+Oct 17 2018,1,Phoenix Suns,21,121,10:30p,221,Dallas Mavericks,100
+Oct 17 2018,0,Sacramento Kings,-6,117,10:00p,240,Utah Jazz,123
+Oct 17 2018,1,San Antonio Spurs,4,112,8:30p,220,Minnesota Timberwolves,108
+Oct 17 2018,1,Toronto Raptors,12,116,7:30p,220,Cleveland Cavaliers,104
+Oct 18 2018,1,Philadelphia 76ers,19,127,8:00p,235,Chicago Bulls,108
+Oct 18 2018,1,Portland Trail Blazers,9,128,10:30p,247,Los Angeles Lakers,119
+Oct 18 2018,0,Washington Wizards,-1,112,8:00p,225,Miami Heat,113
+Oct 19 2018,1,Brooklyn Nets,2,107,7:30p,212,New York Knicks,105
+Oct 19 2018,1,Los Angeles Clippers,16,108,10:30p,200,Oklahoma City Thunder,92
+Oct 19 2018,1,Memphis Grizzlies,14,131,8:00p,248,Atlanta Hawks,117
+Oct 19 2018,1,Milwaukee Bucks,17,118,8:30p,219,Indiana Pacers,101
+Oct 19 2018,1,Minnesota Timberwolves,8,131,8:00p,254,Cleveland Cavaliers,123
+Oct 19 2018,1,New Orleans Pelicans,20,149,8:00p,278,Sacramento Kings,129
+Oct 19 2018,0,Orlando Magic,-32,88,7:00p,208,Charlotte Hornets,120
+Oct 19 2018,1,Toronto Raptors,12,113,8:00p,214,Boston Celtics,101
+Oct 19 2018,0,Utah Jazz,-1,123,10:30p,247,Golden State Warriors,124
+Oct 20 2018,0,Chicago Bulls,-2,116,8:00p,234,Detroit Pistons,118
+Oct 20 2018,1,Dallas Mavericks,4,140,8:30p,276,Minnesota Timberwolves,136
+Oct 20 2018,1,Denver Nuggets,28,119,9:00p,210,Phoenix Suns,91
+Oct 20 2018,1,Indiana Pacers,20,132,7:00p,244,Brooklyn Nets,112
+Oct 20 2018,0,Los Angeles Lakers,-9,115,10:30p,239,Houston Rockets,124
+Oct 20 2018,0,Miami Heat,-1,112,8:00p,225,Charlotte Hornets,113
+Oct 20 2018,0,New York Knicks,-2,101,7:30p,204,Boston Celtics,103
+Oct 20 2018,1,Philadelphia 76ers,1,116,7:30p,231,Orlando Magic,115
+Oct 20 2018,1,Portland Trail Blazers,13,121,10:00p,229,San Antonio Spurs,108
+Oct 20 2018,0,Washington Wizards,-4,113,7:00p,230,Toronto Raptors,117
+Oct 21 2018,0,Cleveland Cavaliers,-22,111,6:00p,244,Atlanta Hawks,133
+Oct 21 2018,1,Denver Nuggets,2,100,8:00p,198,Golden State Warriors,98
+Oct 21 2018,1,Los Angeles Clippers,3,115,9:00p,227,Houston Rockets,112
+Oct 21 2018,0,Oklahoma City Thunder,-11,120,7:00p,251,Sacramento Kings,131
+Oct 22 2018,0,Boston Celtics,-3,90,7:30p,183,Orlando Magic,93
+Oct 22 2018,1,Dallas Mavericks,6,115,8:30p,224,Chicago Bulls,109
+Oct 22 2018,1,Golden State Warriors,20,123,10:30p,226,Phoenix Suns,103
+Oct 22 2018,0,Los Angeles Lakers,-1,142,10:30p,285,San Antonio Spurs,143
+Oct 22 2018,1,Milwaukee Bucks,11,124,8:00p,237,New York Knicks,113
+Oct 22 2018,1,Minnesota Timberwolves,10,101,8:00p,192,Indiana Pacers,91
+Oct 22 2018,0,Portland Trail Blazers,-1,124,10:00p,249,Washington Wizards,125
+Oct 22 2018,1,Toronto Raptors,21,127,7:30p,233,Charlotte Hornets,106
+Oct 22 2018,0,Utah Jazz,-8,84,9:00p,176,Memphis Grizzlies,92
+Oct 23 2018,1,Denver Nuggets,14,126,9:00p,238,Sacramento Kings,112
+Oct 23 2018,1,Detroit Pistons,1,133,7:00p,265,Philadelphia 76ers,132
+Oct 23 2018,1,New Orleans Pelicans,7,116,8:00p,225,Los Angeles Clippers,109
+Oct 24 2018,1,Atlanta Hawks,7,111,7:00p,215,Dallas Mavericks,104
+Oct 24 2018,1,Chicago Bulls,2,112,8:00p,222,Charlotte Hornets,110
+Oct 24 2018,0,Cleveland Cavaliers,-16,86,7:00p,188,Brooklyn Nets,102
+Oct 24 2018,1,Golden State Warriors,22,144,10:30p,266,Washington Wizards,122
+Oct 24 2018,0,Houston Rockets,-11,89,8:00p,189,Utah Jazz,100
+Oct 24 2018,1,Miami Heat,23,110,7:30p,197,New York Knicks,87
+Oct 24 2018,1,Milwaukee Bucks,15,123,9:30p,231,Philadelphia 76ers,108
+Oct 24 2018,0,Phoenix Suns,-18,113,10:00p,244,Los Angeles Lakers,131
+Oct 24 2018,1,Sacramento Kings,5,97,10:00p,189,Memphis Grizzlies,92
+Oct 24 2018,0,San Antonio Spurs,-20,96,8:30p,212,Indiana Pacers,116
+Oct 24 2018,1,Toronto Raptors,7,112,7:30p,217,Minnesota Timberwolves,105
+Oct 25 2018,1,Detroit Pistons,7,110,7:00p,213,Cleveland Cavaliers,103
+Oct 25 2018,1,Los Angeles Lakers,7,121,10:30p,235,Denver Nuggets,114
+Oct 25 2018,0,Oklahoma City Thunder,-6,95,8:00p,196,Boston Celtics,101
+Oct 25 2018,0,Orlando Magic,-14,114,7:00p,242,Portland Trail Blazers,128
+Oct 26 2018,1,Charlotte Hornets,29,135,7:00p,241,Chicago Bulls,106
+Oct 26 2018,0,Houston Rockets,-20,113,8:00p,246,Los Angeles Clippers,133
+Oct 26 2018,0,Minnesota Timberwolves,-30,95,8:00p,220,Milwaukee Bucks,125
+Oct 26 2018,1,New Orleans Pelicans,2,117,8:00p,232,Brooklyn Nets,115
+Oct 26 2018,0,New York Knicks,-28,100,7:30p,228,Golden State Warriors,128
+Oct 26 2018,1,Sacramento Kings,4,116,10:00p,228,Washington Wizards,112
+Oct 26 2018,1,Toronto Raptors,9,116,7:30p,223,Dallas Mavericks,107
+Oct 27 2018,0,Atlanta Hawks,-12,85,7:30p,182,Chicago Bulls,97
+Oct 27 2018,0,Cleveland Cavaliers,-12,107,7:30p,226,Indiana Pacers,119
+Oct 27 2018,0,Detroit Pistons,-20,89,7:00p,198,Boston Celtics,109
+Oct 27 2018,1,Memphis Grizzlies,21,117,8:00p,213,Phoenix Suns,96
+Oct 27 2018,1,Miami Heat,9,120,8:00p,231,Portland Trail Blazers,111
+Oct 27 2018,1,Milwaukee Bucks,22,113,8:30p,204,Orlando Magic,91
+Oct 27 2018,0,New Orleans Pelicans,-21,111,7:00p,243,Utah Jazz,132
+Oct 27 2018,1,Philadelphia 76ers,2,105,7:30p,208,Charlotte Hornets,103
+Oct 27 2018,1,San Antonio Spurs,4,110,8:30p,216,Los Angeles Lakers,106
+Oct 28 2018,0,Brooklyn Nets,-6,114,5:00p,234,Golden State Warriors,120
+Oct 28 2018,0,Dallas Mavericks,-9,104,7:00p,217,Utah Jazz,113
+Oct 28 2018,1,Los Angeles Clippers,32,136,9:30p,240,Washington Wizards,104
+Oct 28 2018,1,Oklahoma City Thunder,7,117,7:00p,227,Phoenix Suns,110
+Oct 29 2018,0,Chicago Bulls,-25,124,8:00p,273,Golden State Warriors,149
+Oct 29 2018,1,Denver Nuggets,5,116,9:00p,227,New Orleans Pelicans,111
+Oct 29 2018,0,Indiana Pacers,-10,93,7:00p,196,Portland Trail Blazers,103
+Oct 29 2018,0,Miami Heat,-10,113,7:30p,236,Sacramento Kings,123
+Oct 29 2018,1,Milwaukee Bucks,15,124,8:00p,233,Toronto Raptors,109
+Oct 29 2018,1,Minnesota Timberwolves,4,124,8:00p,244,Los Angeles Lakers,120
+Oct 29 2018,1,New York Knicks,19,115,7:30p,211,Brooklyn Nets,96
+Oct 29 2018,1,Philadelphia 76ers,21,113,7:00p,205,Atlanta Hawks,92
+Oct 29 2018,1,San Antonio Spurs,5,113,8:30p,221,Dallas Mavericks,108
+Oct 30 2018,1,Boston Celtics,3,108,7:30p,213,Detroit Pistons,105
+Oct 30 2018,1,Charlotte Hornets,12,125,7:00p,238,Miami Heat,113
+Oct 30 2018,1,Cleveland Cavaliers,22,136,7:00p,250,Atlanta Hawks,114
+Oct 30 2018,0,Houston Rockets,-19,85,8:00p,189,Portland Trail Blazers,104
+Oct 30 2018,1,Memphis Grizzlies,12,107,8:00p,202,Washington Wizards,95
+Oct 30 2018,1,Oklahoma City Thunder,18,128,8:00p,238,Los Angeles Clippers,110
+Oct 30 2018,0,Orlando Magic,-8,99,7:00p,206,Sacramento Kings,107
+Oct 30 2018,1,Toronto Raptors,17,129,7:30p,241,Philadelphia 76ers,112
+Oct 31 2018,1,Brooklyn Nets,1,120,7:30p,239,Detroit Pistons,119
+Oct 31 2018,0,Chicago Bulls,-1,107,8:00p,215,Denver Nuggets,108
+Oct 31 2018,1,Golden State Warriors,10,131,10:30p,252,New Orleans Pelicans,121
+Oct 31 2018,1,Los Angeles Lakers,1,114,10:30p,227,Dallas Mavericks,113
+Oct 31 2018,1,Minnesota Timberwolves,3,128,8:00p,253,Utah Jazz,125
+Oct 31 2018,0,New York Knicks,-6,101,8:00p,208,Indiana Pacers,107
+Oct 31 2018,0,Phoenix Suns,-30,90,10:30p,210,San Antonio Spurs,120
+Nov 1 2018,0,Atlanta Hawks,-31,115,7:30p,261,Sacramento Kings,146
+Nov 1 2018,1,Boston Celtics,4,117,8:00p,230,Milwaukee Bucks,113
+Nov 1 2018,0,Charlotte Hornets,-4,107,7:00p,218,Oklahoma City Thunder,111
+Nov 1 2018,0,Cleveland Cavaliers,-19,91,7:00p,201,Denver Nuggets,110
+Nov 1 2018,1,Philadelphia 76ers,9,122,7:00p,235,Los Angeles Clippers,113
+Nov 1 2018,1,Portland Trail Blazers,13,132,10:30p,251,New Orleans Pelicans,119
+Nov 2 2018,0,Brooklyn Nets,-8,111,7:30p,230,Houston Rockets,119
+Nov 2 2018,0,Chicago Bulls,-2,105,8:00p,212,Indiana Pacers,107
+Nov 2 2018,0,Dallas Mavericks,-12,106,8:30p,224,New York Knicks,118
+Nov 2 2018,1,Golden State Warriors,17,116,10:30p,215,Minnesota Timberwolves,99
+Nov 2 2018,0,Orlando Magic,-25,95,7:00p,215,Los Angeles Clippers,120
+Nov 2 2018,0,Phoenix Suns,-9,98,10:00p,205,Toronto Raptors,107
+Nov 2 2018,0,Utah Jazz,-10,100,9:00p,210,Memphis Grizzlies,110
+Nov 2 2018,0,Washington Wizards,-23,111,8:00p,245,Oklahoma City Thunder,134
+Nov 3 2018,1,Atlanta Hawks,5,123,7:30p,241,Miami Heat,118
+Nov 3 2018,0,Chicago Bulls,-8,88,8:00p,184,Houston Rockets,96
+Nov 3 2018,1,Charlotte Hornets,32,126,7:00p,220,Cleveland Cavaliers,94
+Nov 3 2018,1,Denver Nuggets,15,103,9:00p,191,Utah Jazz,88
+Nov 3 2018,1,Indiana Pacers,1,102,7:00p,203,Boston Celtics,101
+Nov 3 2018,1,Philadelphia 76ers,10,109,1:00p,208,Detroit Pistons,99
+Nov 3 2018,0,Portland Trail Blazers,-4,110,10:00p,224,Los Angeles Lakers,114
+Nov 3 2018,1,San Antonio Spurs,14,109,8:30p,204,New Orleans Pelicans,95
+Nov 4 2018,1,Brooklyn Nets,25,122,6:00p,219,Philadelphia 76ers,97
+Nov 4 2018,0,Los Angeles Lakers,-14,107,9:30p,228,Toronto Raptors,121
+Nov 4 2018,1,Milwaukee Bucks,35,144,3:30p,253,Sacramento Kings,109
+Nov 4 2018,1,Phoenix Suns,2,102,8:00p,202,Memphis Grizzlies,100
+Nov 4 2018,1,Portland Trail Blazers,30,111,9:00p,192,Minnesota Timberwolves,81
+Nov 4 2018,0,San Antonio Spurs,-7,110,7:00p,227,Orlando Magic,117
+Nov 4 2018,1,Washington Wizards,13,108,6:00p,203,New York Knicks,95
+Nov 5 2018,1,Denver Nuggets,8,115,9:00p,222,Boston Celtics,107
+Nov 5 2018,0,Detroit Pistons,-5,115,7:00p,235,Miami Heat,120
+Nov 5 2018,1,Golden State Warriors,16,117,10:30p,218,Memphis Grizzlies,101
+Nov 5 2018,0,Indiana Pacers,-4,94,7:00p,192,Houston Rockets,98
+Nov 5 2018,1,Los Angeles Clippers,11,120,10:30p,229,Minnesota Timberwolves,109
+Nov 5 2018,0,New York Knicks,-1,115,7:30p,231,Chicago Bulls,116
+Nov 5 2018,1,Oklahoma City Thunder,6,122,8:00p,238,New Orleans Pelicans,116
+Nov 5 2018,1,Orlando Magic,2,102,7:00p,202,Cleveland Cavaliers,100
+Nov 5 2018,0,Utah Jazz,-13,111,9:00p,235,Toronto Raptors,124
+Nov 6 2018,1,Charlotte Hornets,11,113,7:00p,215,Atlanta Hawks,102
+Nov 6 2018,1,Dallas Mavericks,19,119,8:30p,219,Washington Wizards,100
+Nov 6 2018,0,Phoenix Suns,-22,82,9:00p,186,Brooklyn Nets,104
+Nov 6 2018,1,Portland Trail Blazers,15,118,10:00p,221,Milwaukee Bucks,103
+Nov 7 2018,0,Atlanta Hawks,-5,107,7:30p,219,New York Knicks,112
+Nov 7 2018,0,Cleveland Cavaliers,-9,86,7:00p,181,Oklahoma City Thunder,95
+Nov 7 2018,0,Indiana Pacers,-6,94,8:00p,194,Philadelphia 76ers,100
+Nov 7 2018,1,Los Angeles Lakers,4,114,10:30p,224,Minnesota Timberwolves,110
+Nov 7 2018,1,Memphis Grizzlies,2,89,8:00p,176,Denver Nuggets,87
+Nov 7 2018,1,Miami Heat,7,95,7:30p,183,San Antonio Spurs,88
+Nov 7 2018,1,New Orleans Pelicans,9,107,8:00p,205,Chicago Bulls,98
+Nov 7 2018,0,Orlando Magic,-7,96,7:00p,199,Detroit Pistons,103
+Nov 7 2018,0,Sacramento Kings,-9,105,10:00p,219,Toronto Raptors,114
+Nov 7 2018,1,Utah Jazz,15,117,9:00p,219,Dallas Mavericks,102
+Nov 8 2018,0,Golden State Warriors,-23,111,10:30p,245,Milwaukee Bucks,134
+Nov 8 2018,1,Oklahoma City Thunder,18,98,8:00p,178,Houston Rockets,80
+Nov 8 2018,0,Phoenix Suns,-7,109,9:00p,225,Boston Celtics,116
+Nov 8 2018,1,Portland Trail Blazers,11,116,10:00p,221,Los Angeles Clippers,105
+Nov 9 2018,0,Atlanta Hawks,-15,109,7:30p,233,Detroit Pistons,124
+Nov 9 2018,0,Denver Nuggets,-2,110,9:00p,222,Brooklyn Nets,112
+Nov 9 2018,0,Miami Heat,-8,102,8:00p,212,Indiana Pacers,110
+Nov 9 2018,1,Orlando Magic,9,117,7:00p,225,Washington Wizards,108
+Nov 9 2018,1,Philadelphia 76ers,1,133,7:00p,265,Charlotte Hornets,132
+Nov 9 2018,1,Sacramento Kings,11,121,10:00p,231,Minnesota Timberwolves,110
+Nov 9 2018,1,Utah Jazz,8,123,9:30p,238,Boston Celtics,115
+Nov 10 2018,1,Chicago Bulls,1,99,8:00p,197,Cleveland Cavaliers,98
+Nov 10 2018,1,Dallas Mavericks,15,111,9:00p,207,Oklahoma City Thunder,96
+Nov 10 2018,1,Golden State Warriors,16,116,8:30p,216,Brooklyn Nets,100
+Nov 10 2018,1,Los Angeles Clippers,2,128,3:30p,254,Milwaukee Bucks,126
+Nov 10 2018,1,Memphis Grizzlies,6,112,8:00p,218,Philadelphia 76ers,106
+Nov 10 2018,0,Miami Heat,-6,110,8:00p,226,Washington Wizards,116
+Nov 10 2018,1,New Orleans Pelicans,20,119,7:00p,218,Phoenix Suns,99
+Nov 10 2018,0,Sacramento Kings,-15,86,10:00p,187,Los Angeles Lakers,101
+Nov 10 2018,1,San Antonio Spurs,7,96,8:30p,185,Houston Rockets,89
+Nov 10 2018,1,Toronto Raptors,16,128,3:00p,240,New York Knicks,112
+Nov 11 2018,0,Denver Nuggets,-7,114,8:00p,235,Milwaukee Bucks,121
+Nov 11 2018,0,Detroit Pistons,-10,103,3:30p,216,Charlotte Hornets,113
+Nov 11 2018,1,Houston Rockets,12,115,7:00p,218,Indiana Pacers,103
+Nov 11 2018,1,Los Angeles Lakers,1,107,9:30p,213,Atlanta Hawks,106
+Nov 11 2018,0,New York Knicks,-26,89,7:30p,204,Orlando Magic,115
+Nov 11 2018,1,Portland Trail Blazers,6,100,9:00p,194,Boston Celtics,94
+Nov 12 2018,0,Chicago Bulls,-5,98,8:00p,201,Dallas Mavericks,103
+Nov 12 2018,1,Los Angeles Clippers,5,121,10:30p,237,Golden State Warriors,116
+Nov 12 2018,0,Memphis Grizzlies,-8,88,8:00p,184,Utah Jazz,96
+Nov 12 2018,0,Miami Heat,-10,114,7:30p,238,Philadelphia 76ers,124
+Nov 12 2018,1,Minnesota Timberwolves,7,120,8:00p,233,Brooklyn Nets,113
+Nov 12 2018,1,Oklahoma City Thunder,17,118,8:00p,219,Phoenix Suns,101
+Nov 12 2018,1,Sacramento Kings,5,104,10:00p,203,San Antonio Spurs,99
+Nov 12 2018,0,Toronto Raptors,-16,110,7:30p,236,New Orleans Pelicans,126
+Nov 12 2018,1,Washington Wizards,8,117,7:00p,226,Orlando Magic,109
+Nov 13 2018,1,Cleveland Cavaliers,24,113,7:00p,202,Charlotte Hornets,89
+Nov 13 2018,0,Denver Nuggets,-10,99,9:00p,208,Houston Rockets,109
+Nov 13 2018,1,Golden State Warriors,7,110,10:30p,213,Atlanta Hawks,103
+Nov 14 2018,1,Boston Celtics,29,111,7:30p,193,Chicago Bulls,82
+Nov 14 2018,0,Brooklyn Nets,-13,107,7:30p,227,Miami Heat,120
+Nov 14 2018,1,Dallas Mavericks,50,118,8:30p,186,Utah Jazz,68
+Nov 14 2018,1,Los Angeles Lakers,9,126,10:30p,243,Portland Trail Blazers,117
+Nov 14 2018,0,Milwaukee Bucks,-3,113,8:00p,229,Memphis Grizzlies,116
+Nov 14 2018,1,Minnesota Timberwolves,7,107,8:00p,207,New Orleans Pelicans,100
+Nov 14 2018,1,Oklahoma City Thunder,25,128,8:00p,231,New York Knicks,103
+Nov 14 2018,1,Orlando Magic,5,111,7:00p,217,Philadelphia 76ers,106
+Nov 14 2018,1,Phoenix Suns,20,116,9:00p,212,San Antonio Spurs,96
+Nov 14 2018,0,Toronto Raptors,-2,104,7:30p,210,Detroit Pistons,106
+Nov 14 2018,1,Washington Wizards,24,119,7:00p,214,Cleveland Cavaliers,95
+Nov 15 2018,1,Denver Nuggets,45,138,9:00p,231,Atlanta Hawks,93
+Nov 15 2018,1,Houston Rockets,21,107,8:00p,193,Golden State Warriors,86
+Nov 15 2018,1,Los Angeles Clippers,5,116,10:30p,227,San Antonio Spurs,111
+Nov 16 2018,1,Boston Celtics,7,123,7:00p,239,Toronto Raptors,116
+Nov 16 2018,1,Indiana Pacers,8,99,7:00p,190,Miami Heat,91
+Nov 16 2018,1,Memphis Grizzlies,8,112,8:00p,216,Sacramento Kings,104
+Nov 16 2018,1,Milwaukee Bucks,19,123,9:30p,227,Chicago Bulls,104
+Nov 16 2018,1,Minnesota Timberwolves,16,112,8:00p,208,Portland Trail Blazers,96
+Nov 16 2018,1,New Orleans Pelicans,5,129,8:00p,253,New York Knicks,124
+Nov 16 2018,1,Philadelphia 76ers,6,113,7:00p,220,Utah Jazz,107
+Nov 16 2018,0,Washington Wizards,-11,104,7:00p,219,Brooklyn Nets,115
+Nov 17 2018,0,Boston Celtics,-12,86,7:30p,184,Utah Jazz,98
+Nov 17 2018,0,Brooklyn Nets,-8,119,6:00p,246,Los Angeles Clippers,127
+Nov 17 2018,0,Chicago Bulls,-39,83,8:00p,205,Toronto Raptors,122
+Nov 17 2018,0,Charlotte Hornets,-3,119,7:00p,241,Philadelphia 76ers,122
+Nov 17 2018,1,Dallas Mavericks,3,112,8:30p,221,Golden State Warriors,109
+Nov 17 2018,1,Houston Rockets,20,132,8:00p,244,Sacramento Kings,112
+Nov 17 2018,1,Indiana Pacers,8,97,7:00p,186,Atlanta Hawks,89
+Nov 17 2018,1,New Orleans Pelicans,10,125,7:00p,240,Denver Nuggets,115
+Nov 17 2018,1,Orlando Magic,13,130,7:00p,247,Los Angeles Lakers,117
+Nov 17 2018,0,Phoenix Suns,-10,100,9:00p,210,Oklahoma City Thunder,110
+Nov 18 2018,0,Miami Heat,-16,97,6:00p,210,Los Angeles Lakers,113
+Nov 18 2018,0,Minnesota Timberwolves,-13,87,3:30p,187,Memphis Grizzlies,100
+Nov 18 2018,1,Orlando Magic,14,131,6:00p,248,New York Knicks,117
+Nov 18 2018,1,San Antonio Spurs,12,104,7:00p,196,Golden State Warriors,92
+Nov 18 2018,0,Washington Wizards,-10,109,6:00p,228,Portland Trail Blazers,119
+Nov 19 2018,0,Atlanta Hawks,-8,119,7:30p,246,Los Angeles Clippers,127
+Nov 19 2018,1,Charlotte Hornets,5,117,7:00p,229,Boston Celtics,112
+Nov 19 2018,1,Detroit Pistons,11,113,7:00p,215,Cleveland Cavaliers,102
+Nov 19 2018,1,Indiana Pacers,27,121,7:00p,215,Utah Jazz,94
+Nov 19 2018,1,Memphis Grizzlies,10,98,8:00p,186,Dallas Mavericks,88
+Nov 19 2018,1,Milwaukee Bucks,6,104,8:00p,202,Denver Nuggets,98
+Nov 19 2018,1,New Orleans Pelicans,14,140,8:00p,266,San Antonio Spurs,126
+Nov 19 2018,1,Philadelphia 76ers,5,119,7:00p,233,Phoenix Suns,114
+Nov 19 2018,1,Sacramento Kings,4,117,10:00p,230,Oklahoma City Thunder,113
+Nov 20 2018,0,Miami Heat,-12,92,7:30p,196,Brooklyn Nets,104
+Nov 20 2018,0,New York Knicks,-4,114,7:30p,232,Portland Trail Blazers,118
+Nov 20 2018,0,Orlando Magic,-2,91,7:00p,184,Toronto Raptors,93
+Nov 20 2018,1,Washington Wizards,7,125,7:00p,243,Los Angeles Clippers,118
+Nov 21 2018,0,Atlanta Hawks,-16,108,7:30p,232,Toronto Raptors,124
+Nov 21 2018,0,Boston Celtics,-8,109,7:30p,226,New York Knicks,117
+Nov 21 2018,1,Chicago Bulls,8,124,8:00p,240,Phoenix Suns,116
+Nov 21 2018,1,Charlotte Hornets,18,127,7:00p,236,Indiana Pacers,109
+Nov 21 2018,0,Cleveland Cavaliers,-4,105,8:00p,214,Los Angeles Lakers,109
+Nov 21 2018,1,Dallas Mavericks,6,119,8:30p,232,Brooklyn Nets,113
+Nov 21 2018,0,Golden State Warriors,-28,95,10:30p,218,Oklahoma City Thunder,123
+Nov 21 2018,1,Houston Rockets,2,126,8:00p,250,Detroit Pistons,124
+Nov 21 2018,1,Milwaukee Bucks,43,143,8:00p,243,Portland Trail Blazers,100
+Nov 21 2018,0,Minnesota Timberwolves,-2,101,8:00p,204,Denver Nuggets,103
+Nov 21 2018,1,Philadelphia 76ers,1,121,7:00p,241,New Orleans Pelicans,120
+Nov 21 2018,0,San Antonio Spurs,-1,103,8:30p,207,Memphis Grizzlies,104
+Nov 21 2018,0,Utah Jazz,-9,110,9:00p,229,Sacramento Kings,119
+Nov 23 2018,0,Atlanta Hawks,-18,96,7:30p,210,Boston Celtics,114
+Nov 23 2018,0,Brooklyn Nets,-10,102,12:00p,214,Minnesota Timberwolves,112
+Nov 23 2018,0,Chicago Bulls,-7,96,8:00p,199,Miami Heat,103
+Nov 23 2018,1,Denver Nuggets,25,112,9:00p,199,Orlando Magic,87
+Nov 23 2018,1,Detroit Pistons,5,116,7:00p,227,Houston Rockets,111
+Nov 23 2018,1,Golden State Warriors,28,125,10:30p,222,Portland Trail Blazers,97
+Nov 23 2018,0,Indiana Pacers,-11,100,8:00p,211,San Antonio Spurs,111
+Nov 23 2018,1,Los Angeles Clippers,5,112,3:30p,219,Memphis Grizzlies,107
+Nov 23 2018,1,Los Angeles Lakers,7,90,10:30p,173,Utah Jazz,83
+Nov 23 2018,0,Milwaukee Bucks,-2,114,8:30p,230,Phoenix Suns,116
+Nov 23 2018,1,New York Knicks,5,114,7:30p,223,New Orleans Pelicans,109
+Nov 23 2018,1,Oklahoma City Thunder,5,109,8:00p,213,Charlotte Hornets,104
+Nov 23 2018,0,Philadelphia 76ers,-9,112,7:30p,233,Cleveland Cavaliers,121
+Nov 23 2018,1,Toronto Raptors,18,125,7:30p,232,Washington Wizards,107
+Nov 24 2018,1,Cleveland Cavaliers,9,117,7:30p,225,Houston Rockets,108
+Nov 24 2018,1,Dallas Mavericks,9,113,8:30p,217,Boston Celtics,104
+Nov 24 2018,1,Golden State Warriors,1,117,8:30p,233,Sacramento Kings,116
+Nov 24 2018,1,Milwaukee Bucks,6,135,8:30p,264,San Antonio Spurs,129
+Nov 24 2018,1,Minnesota Timberwolves,15,111,8:00p,207,Chicago Bulls,96
+Nov 24 2018,0,Oklahoma City Thunder,-7,98,8:00p,203,Denver Nuggets,105
+Nov 24 2018,1,Washington Wizards,10,124,8:00p,238,New Orleans Pelicans,114
+Nov 25 2018,1,Atlanta Hawks,1,124,6:00p,247,Charlotte Hornets,123
+Nov 25 2018,0,Brooklyn Nets,-2,125,6:00p,252,Philadelphia 76ers,127
+Nov 25 2018,1,Detroit Pistons,11,118,4:00p,225,Phoenix Suns,107
+Nov 25 2018,0,Los Angeles Lakers,-4,104,3:30p,212,Orlando Magic,108
+Nov 25 2018,0,Memphis Grizzlies,-5,98,6:00p,201,New York Knicks,103
+Nov 25 2018,0,Portland Trail Blazers,-4,100,9:00p,204,Los Angeles Clippers,104
+Nov 25 2018,0,Sacramento Kings,-21,112,8:00p,245,Utah Jazz,133
+Nov 25 2018,1,Toronto Raptors,10,125,6:00p,240,Miami Heat,115
+Nov 26 2018,0,Chicago Bulls,-1,107,8:00p,215,San Antonio Spurs,108
+Nov 26 2018,1,Charlotte Hornets,3,110,7:00p,217,Milwaukee Bucks,107
+Nov 26 2018,0,Cleveland Cavaliers,-7,95,7:00p,197,Minnesota Timberwolves,102
+Nov 26 2018,1,Golden State Warriors,6,116,10:30p,226,Orlando Magic,110
+Nov 26 2018,0,New Orleans Pelicans,-17,107,8:00p,231,Boston Celtics,124
+Nov 26 2018,0,Utah Jazz,-33,88,9:00p,209,Indiana Pacers,121
+Nov 26 2018,1,Washington Wizards,4,135,7:00p,266,Houston Rockets,131
+Nov 27 2018,1,Denver Nuggets,32,117,9:00p,202,Los Angeles Lakers,85
+Nov 27 2018,1,Detroit Pistons,7,115,7:00p,223,New York Knicks,108
+Nov 27 2018,0,Memphis Grizzlies,-8,114,8:00p,236,Toronto Raptors,122
+Nov 27 2018,0,Miami Heat,-2,113,7:30p,228,Atlanta Hawks,115
+Nov 27 2018,0,Phoenix Suns,-5,104,9:00p,213,Indiana Pacers,109
+Nov 28 2018,0,Brooklyn Nets,-10,91,7:30p,192,Utah Jazz,101
+Nov 28 2018,1,Charlotte Hornets,14,108,7:00p,202,Atlanta Hawks,94
+Nov 28 2018,0,Houston Rockets,-20,108,8:00p,236,Dallas Mavericks,128
+Nov 28 2018,1,Los Angeles Clippers,16,115,10:30p,214,Phoenix Suns,99
+Nov 28 2018,1,Milwaukee Bucks,3,116,8:00p,229,Chicago Bulls,113
+Nov 28 2018,1,Minnesota Timberwolves,39,128,8:00p,217,San Antonio Spurs,89
+Nov 28 2018,1,New Orleans Pelicans,21,125,8:00p,229,Washington Wizards,104
+Nov 28 2018,1,Oklahoma City Thunder,17,100,8:00p,183,Cleveland Cavaliers,83
+Nov 28 2018,1,Philadelphia 76ers,26,117,7:00p,208,New York Knicks,91
+Nov 28 2018,1,Portland Trail Blazers,3,115,10:00p,227,Orlando Magic,112
+Nov 29 2018,1,Los Angeles Lakers,8,104,10:30p,200,Indiana Pacers,96
+Nov 29 2018,0,Sacramento Kings,-12,121,10:30p,254,Los Angeles Clippers,133
+Nov 29 2018,1,Toronto Raptors,3,131,8:00p,259,Golden State Warriors,128
+Nov 30 2018,1,Boston Celtics,33,128,7:00p,223,Cleveland Cavaliers,95
+Nov 30 2018,0,Brooklyn Nets,-6,125,7:30p,256,Memphis Grizzlies,131
+Nov 30 2018,0,Charlotte Hornets,-8,111,7:00p,230,Utah Jazz,119
+Nov 30 2018,1,Detroit Pistons,19,107,7:00p,195,Chicago Bulls,88
+Nov 30 2018,1,Los Angeles Lakers,11,114,10:30p,217,Dallas Mavericks,103
+Nov 30 2018,1,Miami Heat,5,106,8:00p,207,New Orleans Pelicans,101
+Nov 30 2018,1,Oklahoma City Thunder,15,124,8:00p,233,Atlanta Hawks,109
+Nov 30 2018,1,Philadelphia 76ers,25,123,7:00p,221,Washington Wizards,98
+Nov 30 2018,0,Phoenix Suns,-14,85,9:00p,184,Orlando Magic,99
+Nov 30 2018,0,Portland Trail Blazers,-1,112,10:30p,225,Denver Nuggets,113
+Nov 30 2018,0,San Antonio Spurs,-31,105,8:00p,241,Houston Rockets,136
+Dec 1 2018,0,Cleveland Cavaliers,-11,95,8:00p,201,Toronto Raptors,106
+Dec 1 2018,1,Detroit Pistons,9,111,7:00p,213,Golden State Warriors,102
+Dec 1 2018,1,Houston Rockets,16,121,8:00p,226,Chicago Bulls,105
+Dec 1 2018,0,Minnesota Timberwolves,-9,109,8:00p,227,Boston Celtics,118
+Dec 1 2018,1,New York Knicks,2,136,5:00p,270,Milwaukee Bucks,134
+Dec 1 2018,1,Sacramento Kings,1,111,10:00p,221,Indiana Pacers,110
+Dec 1 2018,1,Washington Wizards,14,102,7:00p,190,Brooklyn Nets,88
+Dec 2 2018,0,Charlotte Hornets,-10,109,5:00p,228,New Orleans Pelicans,119
+Dec 2 2018,1,Dallas Mavericks,4,114,7:00p,224,Los Angeles Clippers,110
+Dec 2 2018,1,Los Angeles Lakers,24,120,3:30p,216,Phoenix Suns,96
+Dec 2 2018,1,Miami Heat,2,102,6:00p,202,Utah Jazz,100
+Dec 2 2018,1,Philadelphia 76ers,8,103,6:00p,198,Memphis Grizzlies,95
+Dec 2 2018,1,San Antonio Spurs,13,131,7:00p,249,Portland Trail Blazers,118
+Dec 3 2018,0,Atlanta Hawks,-17,111,7:30p,239,Golden State Warriors,128
+Dec 3 2018,0,Brooklyn Nets,-2,97,7:30p,196,Cleveland Cavaliers,99
+Dec 3 2018,0,Detroit Pistons,-27,83,7:00p,193,Oklahoma City Thunder,110
+Dec 3 2018,1,Minnesota Timberwolves,12,103,8:00p,194,Houston Rockets,91
+Dec 3 2018,0,New Orleans Pelicans,-3,126,8:00p,255,Los Angeles Clippers,129
+Dec 3 2018,0,New York Knicks,-3,107,7:30p,217,Washington Wizards,110
+Dec 3 2018,0,Toronto Raptors,-3,103,7:30p,209,Denver Nuggets,106
+Dec 4 2018,1,Dallas Mavericks,9,111,8:30p,213,Portland Trail Blazers,102
+Dec 4 2018,1,Indiana Pacers,6,96,7:00p,186,Chicago Bulls,90
+Dec 4 2018,0,Miami Heat,-15,90,7:30p,195,Orlando Magic,105
+Dec 4 2018,0,Phoenix Suns,-17,105,9:00p,227,Sacramento Kings,122
+Dec 4 2018,1,Utah Jazz,34,139,9:00p,244,San Antonio Spurs,105
+Dec 5 2018,0,Atlanta Hawks,-14,117,7:30p,248,Washington Wizards,131
+Dec 5 2018,0,Brooklyn Nets,-2,112,7:30p,226,Oklahoma City Thunder,114
+Dec 5 2018,0,Cleveland Cavaliers,-24,105,7:00p,234,Golden State Warriors,129
+Dec 5 2018,1,Los Angeles Lakers,8,121,10:30p,234,San Antonio Spurs,113
+Dec 5 2018,1,Memphis Grizzlies,10,96,8:00p,182,Los Angeles Clippers,86
+Dec 5 2018,1,Milwaukee Bucks,23,115,8:00p,207,Detroit Pistons,92
+Dec 5 2018,1,Minnesota Timberwolves,17,121,8:00p,225,Charlotte Hornets,104
+Dec 5 2018,1,New Orleans Pelicans,26,132,8:00p,238,Dallas Mavericks,106
+Dec 5 2018,0,Orlando Magic,-6,118,7:00p,242,Denver Nuggets,124
+Dec 5 2018,1,Toronto Raptors,11,113,8:00p,215,Philadelphia 76ers,102
+Dec 6 2018,1,Boston Celtics,28,128,8:00p,228,New York Knicks,100
+Dec 6 2018,1,Portland Trail Blazers,22,108,10:00p,194,Phoenix Suns,86
+Dec 6 2018,1,Utah Jazz,27,118,10:30p,209,Houston Rockets,91
+Dec 7 2018,1,Brooklyn Nets,1,106,7:30p,211,Toronto Raptors,105
+Dec 7 2018,1,Chicago Bulls,2,114,8:00p,226,Oklahoma City Thunder,112
+Dec 7 2018,1,Charlotte Hornets,6,113,7:00p,220,Denver Nuggets,107
+Dec 7 2018,0,Cleveland Cavaliers,-19,110,7:30p,239,Sacramento Kings,129
+Dec 7 2018,0,Detroit Pistons,-6,111,7:00p,228,Philadelphia 76ers,117
+Dec 7 2018,0,Milwaukee Bucks,-10,95,9:30p,200,Golden State Warriors,105
+Dec 7 2018,0,New Orleans Pelicans,-4,103,8:00p,210,Memphis Grizzlies,107
+Dec 7 2018,0,Orlando Magic,-22,90,7:00p,202,Indiana Pacers,112
+Dec 7 2018,0,Phoenix Suns,-17,98,9:00p,213,Miami Heat,115
+Dec 7 2018,1,San Antonio Spurs,13,133,8:30p,253,Los Angeles Lakers,120
+Dec 8 2018,1,Atlanta Hawks,8,106,7:30p,204,Denver Nuggets,98
+Dec 8 2018,0,Chicago Bulls,-56,77,8:00p,210,Boston Celtics,133
+Dec 8 2018,1,Cleveland Cavaliers,15,116,7:30p,217,Washington Wizards,101
+Dec 8 2018,1,Dallas Mavericks,3,107,6:00p,211,Houston Rockets,104
+Dec 8 2018,1,Indiana Pacers,10,107,7:00p,204,Sacramento Kings,97
+Dec 8 2018,0,Los Angeles Clippers,-23,98,10:30p,219,Miami Heat,121
+Dec 8 2018,0,Memphis Grizzlies,-23,88,8:00p,199,Los Angeles Lakers,111
+Dec 8 2018,0,New York Knicks,-8,104,7:30p,216,Brooklyn Nets,112
+Dec 8 2018,1,Portland Trail Blazers,8,113,10:00p,218,Minnesota Timberwolves,105
+Dec 9 2018,0,Detroit Pistons,-8,108,3:30p,224,New Orleans Pelicans,116
+Dec 9 2018,0,New York Knicks,-12,107,7:30p,226,Charlotte Hornets,119
+Dec 9 2018,1,San Antonio Spurs,13,110,7:00p,207,Utah Jazz,97
+Dec 9 2018,0,Toronto Raptors,-5,99,6:00p,203,Milwaukee Bucks,104
+Dec 10 2018,1,Boston Celtics,13,113,7:30p,213,New Orleans Pelicans,100
+Dec 10 2018,0,Chicago Bulls,-19,89,8:00p,197,Sacramento Kings,108
+Dec 10 2018,1,Dallas Mavericks,25,101,8:30p,177,Orlando Magic,76
+Dec 10 2018,1,Denver Nuggets,6,105,9:00p,204,Memphis Grizzlies,99
+Dec 10 2018,1,Golden State Warriors,8,116,10:30p,224,Minnesota Timberwolves,108
+Dec 10 2018,1,Indiana Pacers,8,109,7:00p,210,Washington Wizards,101
+Dec 10 2018,1,Los Angeles Lakers,3,108,10:30p,213,Miami Heat,105
+Dec 10 2018,1,Milwaukee Bucks,16,108,8:00p,200,Cleveland Cavaliers,92
+Dec 10 2018,1,Oklahoma City Thunder,9,122,8:00p,235,Utah Jazz,113
+Dec 10 2018,1,Philadelphia 76ers,14,116,7:00p,218,Detroit Pistons,102
+Dec 10 2018,0,Phoenix Suns,-4,119,9:00p,242,Los Angeles Clippers,123
+Dec 11 2018,1,Houston Rockets,7,111,8:00p,215,Portland Trail Blazers,104
+Dec 11 2018,0,Los Angeles Clippers,-24,99,10:30p,222,Toronto Raptors,123
+Dec 11 2018,1,San Antonio Spurs,25,111,8:30p,197,Phoenix Suns,86
+Dec 12 2018,1,Charlotte Hornets,1,108,7:00p,215,Detroit Pistons,107
+Dec 12 2018,1,Cleveland Cavaliers,7,113,7:00p,219,New York Knicks,106
+Dec 12 2018,1,Dallas Mavericks,7,114,8:30p,221,Atlanta Hawks,107
+Dec 12 2018,0,Golden State Warriors,-20,93,10:30p,206,Toronto Raptors,113
+Dec 12 2018,1,Indiana Pacers,16,113,7:00p,210,Milwaukee Bucks,97
+Dec 12 2018,1,Memphis Grizzlies,9,92,8:00p,175,Portland Trail Blazers,83
+Dec 12 2018,1,New Orleans Pelicans,4,118,8:00p,232,Oklahoma City Thunder,114
+Dec 12 2018,0,Philadelphia 76ers,-3,124,7:00p,251,Brooklyn Nets,127
+Dec 12 2018,1,Sacramento Kings,11,141,10:00p,271,Minnesota Timberwolves,130
+Dec 12 2018,1,Utah Jazz,27,111,9:00p,195,Miami Heat,84
+Dec 12 2018,0,Washington Wizards,-5,125,7:00p,255,Boston Celtics,130
+Dec 13 2018,1,Houston Rockets,15,126,8:00p,237,Los Angeles Lakers,111
+Dec 13 2018,1,Orlando Magic,6,97,9:30p,188,Chicago Bulls,91
+Dec 13 2018,1,Phoenix Suns,10,99,10:30p,188,Dallas Mavericks,89
+Dec 13 2018,1,San Antonio Spurs,38,125,8:30p,212,Los Angeles Clippers,87
+Dec 14 2018,1,Boston Celtics,21,129,7:00p,237,Atlanta Hawks,108
+Dec 14 2018,1,Brooklyn Nets,7,125,7:30p,243,Washington Wizards,118
+Dec 14 2018,0,Charlotte Hornets,-2,124,7:00p,250,New York Knicks,126
+Dec 14 2018,0,Cleveland Cavaliers,-12,102,7:30p,216,Milwaukee Bucks,114
+Dec 14 2018,1,Denver Nuggets,11,109,10:00p,207,Oklahoma City Thunder,98
+Dec 14 2018,0,Memphis Grizzlies,-3,97,8:00p,197,Miami Heat,100
+Dec 14 2018,0,Philadelphia 76ers,-12,101,7:30p,214,Indiana Pacers,113
+Dec 14 2018,1,Portland Trail Blazers,6,128,10:00p,250,Toronto Raptors,122
+Dec 14 2018,0,Sacramento Kings,-5,125,10:00p,255,Golden State Warriors,130
+Dec 15 2018,0,Charlotte Hornets,-28,100,7:00p,228,Los Angeles Lakers,128
+Dec 15 2018,1,Detroit Pistons,9,113,7:00p,217,Boston Celtics,104
+Dec 15 2018,0,Memphis Grizzlies,-8,97,8:00p,202,Houston Rockets,105
+Dec 15 2018,1,Oklahoma City Thunder,6,110,9:00p,214,Los Angeles Clippers,104
+Dec 15 2018,1,Orlando Magic,7,96,5:00p,185,Utah Jazz,89
+Dec 15 2018,1,Phoenix Suns,8,107,9:00p,206,Minnesota Timberwolves,99
+Dec 15 2018,0,San Antonio Spurs,-5,93,8:30p,191,Chicago Bulls,98
+Dec 16 2018,1,Brooklyn Nets,17,144,3:00p,271,Atlanta Hawks,127
+Dec 16 2018,0,Cleveland Cavaliers,-23,105,3:30p,233,Philadelphia 76ers,128
+Dec 16 2018,0,Dallas Mavericks,-7,113,7:00p,233,Sacramento Kings,120
+Dec 16 2018,1,Denver Nuggets,9,95,8:00p,181,Toronto Raptors,86
+Dec 16 2018,1,Indiana Pacers,11,110,5:00p,209,New York Knicks,99
+Dec 16 2018,0,New Orleans Pelicans,-6,96,7:00p,198,Miami Heat,102
+Dec 16 2018,1,Washington Wizards,18,128,6:00p,238,Los Angeles Lakers,110
+Dec 17 2018,0,Detroit Pistons,-3,104,7:00p,211,Milwaukee Bucks,107
+Dec 17 2018,1,Golden State Warriors,17,110,10:30p,203,Memphis Grizzlies,93
+Dec 17 2018,1,Houston Rockets,5,102,8:00p,199,Utah Jazz,97
+Dec 17 2018,0,Los Angeles Clippers,-4,127,10:30p,258,Portland Trail Blazers,131
+Dec 17 2018,1,Minnesota Timberwolves,27,132,8:00p,237,Sacramento Kings,105
+Dec 17 2018,0,New York Knicks,-18,110,7:30p,238,Phoenix Suns,128
+Dec 17 2018,1,Oklahoma City Thunder,25,121,8:00p,217,Chicago Bulls,96
+Dec 17 2018,1,San Antonio Spurs,27,123,8:30p,219,Philadelphia 76ers,96
+Dec 18 2018,1,Atlanta Hawks,8,118,7:30p,228,Washington Wizards,110
+Dec 18 2018,1,Brooklyn Nets,5,115,7:30p,225,Los Angeles Lakers,110
+Dec 18 2018,1,Denver Nuggets,8,126,9:00p,244,Dallas Mavericks,118
+Dec 18 2018,0,Indiana Pacers,-1,91,7:00p,183,Cleveland Cavaliers,92
+Dec 19 2018,0,Boston Celtics,-8,103,7:30p,214,Phoenix Suns,111
+Dec 19 2018,0,Chicago Bulls,-3,93,8:00p,189,Brooklyn Nets,96
+Dec 19 2018,1,Charlotte Hornets,11,110,7:00p,209,Cleveland Cavaliers,99
+Dec 19 2018,1,Houston Rockets,18,136,8:00p,254,Washington Wizards,118
+Dec 19 2018,1,Milwaukee Bucks,8,123,8:00p,238,New Orleans Pelicans,115
+Dec 19 2018,0,Minnesota Timberwolves,-6,123,8:00p,252,Detroit Pistons,129
+Dec 19 2018,0,Orlando Magic,-39,90,7:00p,219,San Antonio Spurs,129
+Dec 19 2018,1,Philadelphia 76ers,22,131,7:00p,240,New York Knicks,109
+Dec 19 2018,1,Portland Trail Blazers,7,99,10:00p,191,Memphis Grizzlies,92
+Dec 19 2018,0,Sacramento Kings,-19,113,10:00p,245,Oklahoma City Thunder,132
+Dec 19 2018,1,Toronto Raptors,3,99,7:30p,195,Indiana Pacers,96
+Dec 19 2018,1,Utah Jazz,5,108,9:00p,211,Golden State Warriors,103
+Dec 20 2018,1,Los Angeles Clippers,4,125,10:30p,246,Dallas Mavericks,121
+Dec 20 2018,1,Miami Heat,2,101,8:00p,200,Houston Rockets,99
+Dec 21 2018,0,Boston Celtics,-13,107,8:00p,227,Milwaukee Bucks,120
+Dec 21 2018,0,Brooklyn Nets,-8,106,7:30p,220,Indiana Pacers,114
+Dec 21 2018,1,Chicago Bulls,10,90,8:00p,170,Orlando Magic,80
+Dec 21 2018,1,Charlotte Hornets,12,98,7:00p,184,Detroit Pistons,86
+Dec 21 2018,1,Los Angeles Lakers,8,112,10:30p,216,New Orleans Pelicans,104
+Dec 21 2018,0,New York Knicks,-7,107,7:30p,221,Atlanta Hawks,114
+Dec 21 2018,0,Portland Trail Blazers,-30,90,10:00p,210,Utah Jazz,120
+Dec 21 2018,1,Sacramento Kings,3,102,10:00p,201,Memphis Grizzlies,99
+Dec 21 2018,1,San Antonio Spurs,26,124,8:30p,222,Minnesota Timberwolves,98
+Dec 21 2018,1,Toronto Raptors,16,126,7:00p,236,Cleveland Cavaliers,110
+Dec 22 2018,1,Golden State Warriors,4,120,8:30p,236,Dallas Mavericks,116
+Dec 22 2018,1,Houston Rockets,7,108,8:00p,209,San Antonio Spurs,101
+Dec 22 2018,1,Los Angeles Clippers,21,132,5:00p,243,Denver Nuggets,111
+Dec 22 2018,1,Miami Heat,7,94,8:00p,181,Milwaukee Bucks,87
+Dec 22 2018,1,Philadelphia 76ers,25,126,7:30p,227,Toronto Raptors,101
+Dec 22 2018,0,Utah Jazz,-1,106,9:00p,213,Oklahoma City Thunder,107
+Dec 22 2018,1,Washington Wizards,3,149,7:00p,295,Phoenix Suns,146
+Dec 23 2018,1,Boston Celtics,16,119,6:00p,222,Charlotte Hornets,103
+Dec 23 2018,1,Brooklyn Nets,8,111,6:00p,214,Phoenix Suns,103
+Dec 23 2018,0,Cleveland Cavaliers,-20,92,6:00p,204,Chicago Bulls,112
+Dec 23 2018,0,Detroit Pistons,-3,95,4:00p,193,Atlanta Hawks,98
+Dec 23 2018,1,Golden State Warriors,2,129,8:30p,256,Los Angeles Clippers,127
+Dec 23 2018,1,Indiana Pacers,16,105,5:00p,194,Washington Wizards,89
+Dec 23 2018,0,Los Angeles Lakers,-8,99,9:30p,206,Memphis Grizzlies,107
+Dec 23 2018,0,Oklahoma City Thunder,-2,112,8:00p,226,Minnesota Timberwolves,114
+Dec 23 2018,0,Orlando Magic,-24,91,6:00p,206,Miami Heat,115
+Dec 23 2018,1,Portland Trail Blazers,3,121,9:00p,239,Dallas Mavericks,118
+Dec 23 2018,1,Sacramento Kings,5,122,6:00p,239,New Orleans Pelicans,117
+Dec 25 2018,1,Boston Celtics,7,121,5:30p,235,Philadelphia 76ers,114
+Dec 25 2018,0,Golden State Warriors,-26,101,8:00p,228,Los Angeles Lakers,127
+Dec 25 2018,1,Houston Rockets,4,113,3:00p,222,Oklahoma City Thunder,109
+Dec 25 2018,0,New York Knicks,-14,95,12:00p,204,Milwaukee Bucks,109
+Dec 25 2018,1,Utah Jazz,21,117,10:30p,213,Portland Trail Blazers,96
+Dec 26 2018,0,Atlanta Hawks,-8,121,7:30p,250,Indiana Pacers,129
+Dec 26 2018,1,Brooklyn Nets,2,134,7:30p,266,Charlotte Hornets,132
+Dec 26 2018,0,Chicago Bulls,-25,94,8:00p,213,Minnesota Timberwolves,119
+Dec 26 2018,1,Dallas Mavericks,3,122,8:30p,241,New Orleans Pelicans,119
+Dec 26 2018,1,Detroit Pistons,11,106,7:00p,201,Washington Wizards,95
+Dec 26 2018,1,Los Angeles Clippers,9,127,10:30p,245,Sacramento Kings,118
+Dec 26 2018,1,Memphis Grizzlies,8,95,8:00p,182,Cleveland Cavaliers,87
+Dec 26 2018,0,Miami Heat,-2,104,7:30p,210,Toronto Raptors,106
+Dec 26 2018,0,Orlando Magic,-2,120,7:00p,242,Phoenix Suns,122
+Dec 26 2018,1,San Antonio Spurs,8,111,8:30p,214,Denver Nuggets,103
+Dec 27 2018,0,Golden State Warriors,-1,109,10:30p,219,Portland Trail Blazers,110
+Dec 27 2018,1,Houston Rockets,14,127,8:00p,240,Boston Celtics,113
+Dec 27 2018,1,Milwaukee Bucks,16,112,8:00p,208,New York Knicks,96
+Dec 27 2018,1,Sacramento Kings,1,117,10:00p,233,Los Angeles Lakers,116
+Dec 27 2018,0,Utah Jazz,-17,97,10:30p,211,Philadelphia 76ers,114
+Dec 28 2018,1,Charlotte Hornets,13,100,7:00p,187,Brooklyn Nets,87
+Dec 28 2018,1,Denver Nuggets,3,102,9:00p,201,San Antonio Spurs,99
+Dec 28 2018,1,Indiana Pacers,37,125,7:00p,213,Detroit Pistons,88
+Dec 28 2018,0,Los Angeles Lakers,-11,107,10:30p,225,Los Angeles Clippers,118
+Dec 28 2018,1,Miami Heat,24,118,8:00p,212,Cleveland Cavaliers,94
+Dec 28 2018,0,Minnesota Timberwolves,-3,120,8:00p,243,Atlanta Hawks,123
+Dec 28 2018,1,New Orleans Pelicans,2,114,8:00p,226,Dallas Mavericks,112
+Dec 28 2018,1,Orlando Magic,29,116,7:00p,203,Toronto Raptors,87
+Dec 28 2018,0,Phoenix Suns,-16,102,9:00p,220,Oklahoma City Thunder,118
+Dec 28 2018,0,Washington Wizards,-9,92,7:00p,193,Chicago Bulls,101
+Dec 29 2018,1,Atlanta Hawks,3,111,7:30p,219,Cleveland Cavaliers,108
+Dec 29 2018,0,Los Angeles Clippers,-11,111,10:30p,233,San Antonio Spurs,122
+Dec 29 2018,0,Memphis Grizzlies,-9,103,8:00p,215,Boston Celtics,112
+Dec 29 2018,1,Milwaukee Bucks,14,129,5:00p,244,Brooklyn Nets,115
+Dec 29 2018,0,New Orleans Pelicans,-4,104,7:00p,212,Houston Rockets,108
+Dec 29 2018,0,Phoenix Suns,-4,118,9:00p,240,Denver Nuggets,122
+Dec 29 2018,0,Portland Trail Blazers,-10,105,10:00p,220,Golden State Warriors,115
+Dec 29 2018,1,Utah Jazz,32,129,8:00p,226,New York Knicks,97
+Dec 29 2018,1,Washington Wizards,4,130,7:00p,256,Charlotte Hornets,126
+Dec 30 2018,1,Dallas Mavericks,2,105,7:00p,208,Oklahoma City Thunder,103
+Dec 30 2018,1,Los Angeles Lakers,7,121,9:30p,235,Sacramento Kings,114
+Dec 30 2018,0,Miami Heat,-9,104,6:00p,217,Minnesota Timberwolves,113
+Dec 30 2018,1,Orlando Magic,2,109,3:30p,216,Detroit Pistons,107
+Dec 30 2018,1,Portland Trail Blazers,34,129,9:00p,224,Philadelphia 76ers,95
+Dec 30 2018,1,Toronto Raptors,6,95,6:00p,184,Chicago Bulls,89
+Dec 31 2018,1,Charlotte Hornets,25,125,6:00p,225,Orlando Magic,100
+Dec 31 2018,1,Houston Rockets,12,113,7:00p,214,Memphis Grizzlies,101
+Dec 31 2018,1,Indiana Pacers,8,116,3:00p,224,Atlanta Hawks,108
+Dec 31 2018,1,New Orleans Pelicans,9,123,8:00p,237,Minnesota Timberwolves,114
+Dec 31 2018,1,Oklahoma City Thunder,20,122,8:00p,224,Dallas Mavericks,102
+Dec 31 2018,0,Phoenix Suns,-23,109,9:00p,241,Golden State Warriors,132
+Dec 31 2018,1,San Antonio Spurs,9,120,7:00p,231,Boston Celtics,111
