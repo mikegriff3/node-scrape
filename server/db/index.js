@@ -1,5 +1,6 @@
 const Sequelize = require("sequelize");
-const db = require("./config");
+const db = require("./config").db;
+const dbmlb = require("./config").dbmlb;
 
 const Teams = db.define("team", {
   Name: { type: Sequelize.STRING, allowNull: true },

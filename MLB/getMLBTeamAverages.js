@@ -45,7 +45,7 @@ var teamAbbrv = [
 
 for (var i = 0; i < teamAbbrv.length; i++) {
   var team = teamAbbrv[i];
-  var url = "https://www.baseball-reference.com/teams/" + team + "/2018.shtml";
+  var url = "https://www.baseball-reference.com/teams/" + team + "/2019.shtml";
   var teamBasicStats;
 
   casper.thenOpen(url, function() {
