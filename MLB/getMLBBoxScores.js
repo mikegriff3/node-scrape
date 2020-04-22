@@ -61,7 +61,7 @@ var getGameInfo = function() {
     var dateText = date[0].innerText;
     var gameDate;
     if (dateText === "Today's Games") {
-      dateText = "Saturday, May 4, 2019";
+      dateText = "Thursday, May 23, 2019";
       gameDate = dateText.split(", ");
     } else {
       gameDate = dateText.split(", ");
@@ -88,7 +88,7 @@ var getGameInfo = function() {
       } else {
         game["HW"] = 0;
       }
-      if (game.date != "May 3 2019") continue;
+      if (game.date != "May 22 2019") continue;
       games.push(game);
     }
     //games.push(game);

@@ -13,7 +13,7 @@ csv()
   .on("done", error => {
     //console.log("statArray: ", statArray);
     axios
-      .put("http://localhost:8000/api/teams/updatePlayerAdvancedStats", {
+      .put("http://localhost:3000/api/teams/updatePlayerAdvancedStats", {
         data: statArray
       })
       .then(data => {

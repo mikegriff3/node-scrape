@@ -12,7 +12,7 @@ csv()
   })
   .on("done", error => {
     axios
-      .put("http://localhost:8000/api/teamStats/updateTeam", {
+      .put("http://localhost:3000/api/teams/updateTeams", {
         data: teamAverages
       })
       .then(data => {

@@ -94,19 +94,21 @@ var getGameInfo = function() {
   var arr = spaceDate.split(" ");
   game["Date"] = arr[1] + " " + arr[2] + " " + arr[3];
 
-  // // GET GAME TOTALS
-  var game_total = document.querySelectorAll("div.scorebox > div > div.score");
+  // // // GET GAME TOTALS
+  var game_total = document.querySelectorAll(
+    "div.scorebox > div > div.scores > div.score"
+  );
   var awayRuns = game_total[0].innerText;
   var homeRuns = game_total[1].innerText;
 
-  // Get Team Errors
+  // // Get Team Errors
   var error_total = document.querySelectorAll(
     "#content > div > table > tbody > tr > td.center"
   );
   var awayErrors = error_total[error_total.length / 2 - 1].innerText;
   var homeErrors = error_total[error_total.length - 1].innerText;
 
-  // Get Ballpark
+  // // Get Ballpark
   var venue = dateText[3].innerText;
   var venueArr = venue.split(" ");
   venueArr.shift();
@@ -259,7 +261,7 @@ var getGameInfo = function() {
     parseFloat(totals[80].innerText) - parseFloat(game.Home_SP_LD)
   ).toString();
 
-  // Get Home Team Game Stats
+  // // Get Home Team Game Stats
   game["Home_AB"] = totals[20].innerText;
   game["Home_Hits"] = totals[22].innerText;
   game["Home_RBI"] = totals[23].innerText;
@@ -281,6 +283,7 @@ var getGameInfo = function() {
   game.awayErrors = awayErrors;
   game.homeErrors = homeErrors;
 
+  //console.log(game);
   games.push(game);
   return games;
 };

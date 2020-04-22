@@ -88,6 +88,99 @@ const Scores = db.define("score", {
   Referees: { type: Sequelize.TEXT, allowNull: true }
 });
 
+const MLBScores = dbmlb.define("score", {
+  Date: { type: Sequelize.STRING, allowNull: true },
+  HW: { type: Sequelize.INTEGER, allowNull: true },
+  Total_Runs: { type: Sequelize.INTEGER, allowNull: true },
+  Home: { type: Sequelize.STRING, allowNull: true },
+  Home_Runs: { type: Sequelize.STRING, allowNull: true },
+  Away: { type: Sequelize.STRING, allowNull: true },
+  Away_Runs: { type: Sequelize.STRING, allowNull: true },
+  Ballpark: { type: Sequelize.STRING, allowNull: true },
+  Home_AB: { type: Sequelize.STRING, allowNull: true },
+  Home_Hits: { type: Sequelize.STRING, allowNull: true },
+  Home_RBI: { type: Sequelize.STRING, allowNull: true },
+  Home_BB: { type: Sequelize.STRING, allowNull: true },
+  Home_PA: { type: Sequelize.STRING, allowNull: true },
+  Home_BA: { type: Sequelize.STRING, allowNull: true },
+  Home_OBP: { type: Sequelize.STRING, allowNull: true },
+  Home_SLG: { type: Sequelize.STRING, allowNull: true },
+  Home_OPS: { type: Sequelize.STRING, allowNull: true },
+  Home_Pitches_Seen: { type: Sequelize.STRING, allowNull: true },
+  Home_Strikes_Taken: { type: Sequelize.STRING, allowNull: true },
+  Home_WPA: { type: Sequelize.STRING, allowNull: true },
+  Home_BORA: { type: Sequelize.STRING, allowNull: true },
+  Home_PO: { type: Sequelize.STRING, allowNull: true },
+  Home_AST: { type: Sequelize.STRING, allowNull: true },
+  Home_Starter: { type: Sequelize.STRING, allowNull: true },
+  Home_SP_IP: { type: Sequelize.STRING, allowNull: true },
+  Home_SP_HA: { type: Sequelize.STRING, allowNull: true },
+  Home_SP_ERA: { type: Sequelize.STRING, allowNull: true },
+  Home_SP_BB: { type: Sequelize.STRING, allowNull: true },
+  Home_SP_HRA: { type: Sequelize.STRING, allowNull: true },
+  Home_SP_SO: { type: Sequelize.STRING, allowNull: true },
+  Home_SP_BF: { type: Sequelize.STRING, allowNull: true },
+  Home_SP_Pit: { type: Sequelize.STRING, allowNull: true },
+  Home_SP_Str: { type: Sequelize.STRING, allowNull: true },
+  Home_SP_GB: { type: Sequelize.STRING, allowNull: true },
+  Home_SP_FB: { type: Sequelize.STRING, allowNull: true },
+  Home_SP_LD: { type: Sequelize.STRING, allowNull: true },
+  Home_BP_IP: { type: Sequelize.STRING, allowNull: true },
+  Home_BP_HA: { type: Sequelize.STRING, allowNull: true },
+  Home_BP_ERA: { type: Sequelize.STRING, allowNull: true },
+  Home_BP_BB: { type: Sequelize.STRING, allowNull: true },
+  Home_BP_HRA: { type: Sequelize.STRING, allowNull: true },
+  Home_BP_SO: { type: Sequelize.STRING, allowNull: true },
+  Home_BP_BF: { type: Sequelize.STRING, allowNull: true },
+  Home_BP_Pit: { type: Sequelize.STRING, allowNull: true },
+  Home_BP_Str: { type: Sequelize.STRING, allowNull: true },
+  Home_BP_GB: { type: Sequelize.STRING, allowNull: true },
+  Home_BP_FB: { type: Sequelize.STRING, allowNull: true },
+  Home_BP_LD: { type: Sequelize.STRING, allowNull: true },
+  Home_Errors: { type: Sequelize.STRING, allowNull: true },
+  Away_AB: { type: Sequelize.STRING, allowNull: true },
+  Away_Hits: { type: Sequelize.STRING, allowNull: true },
+  Away_RBI: { type: Sequelize.STRING, allowNull: true },
+  Away_BB: { type: Sequelize.STRING, allowNull: true },
+  Away_PA: { type: Sequelize.STRING, allowNull: true },
+  Away_BA: { type: Sequelize.STRING, allowNull: true },
+  Away_OBP: { type: Sequelize.STRING, allowNull: true },
+  Away_SLG: { type: Sequelize.STRING, allowNull: true },
+  Away_OPS: { type: Sequelize.STRING, allowNull: true },
+  Away_Pitches_Seen: { type: Sequelize.STRING, allowNull: true },
+  Away_Strikes_Taken: { type: Sequelize.STRING, allowNull: true },
+  Away_WPA: { type: Sequelize.STRING, allowNull: true },
+  Away_BORA: { type: Sequelize.STRING, allowNull: true },
+  Away_PO: { type: Sequelize.STRING, allowNull: true },
+  Away_AST: { type: Sequelize.STRING, allowNull: true },
+  Away_Starter: { type: Sequelize.STRING, allowNull: true },
+  Away_SP_IP: { type: Sequelize.STRING, allowNull: true },
+  Away_SP_HA: { type: Sequelize.STRING, allowNull: true },
+  Away_SP_ERA: { type: Sequelize.STRING, allowNull: true },
+  Away_SP_BB: { type: Sequelize.STRING, allowNull: true },
+  Away_SP_HRA: { type: Sequelize.STRING, allowNull: true },
+  Away_SP_SO: { type: Sequelize.STRING, allowNull: true },
+  Away_SP_BF: { type: Sequelize.STRING, allowNull: true },
+  Away_SP_Pit: { type: Sequelize.STRING, allowNull: true },
+  Away_SP_Str: { type: Sequelize.STRING, allowNull: true },
+  Away_SP_GB: { type: Sequelize.STRING, allowNull: true },
+  Away_SP_FB: { type: Sequelize.STRING, allowNull: true },
+  Away_SP_LD: { type: Sequelize.STRING, allowNull: true },
+  Away_BP_IP: { type: Sequelize.STRING, allowNull: true },
+  Away_BP_HA: { type: Sequelize.STRING, allowNull: true },
+  Away_BP_ERA: { type: Sequelize.STRING, allowNull: true },
+  Away_BP_BB: { type: Sequelize.STRING, allowNull: true },
+  Away_BP_HRA: { type: Sequelize.STRING, allowNull: true },
+  Away_BP_SO: { type: Sequelize.STRING, allowNull: true },
+  Away_BP_BF: { type: Sequelize.STRING, allowNull: true },
+  Away_BP_Pit: { type: Sequelize.STRING, allowNull: true },
+  Away_BP_Str: { type: Sequelize.STRING, allowNull: true },
+  Away_BP_GB: { type: Sequelize.STRING, allowNull: true },
+  Away_BP_FB: { type: Sequelize.STRING, allowNull: true },
+  Away_BP_LD: { type: Sequelize.STRING, allowNull: true },
+  Away_Errors: { type: Sequelize.STRING, allowNull: true }
+});
+
 const Nineteen = db.define("Nineteen", {
   Name: { type: Sequelize.STRING, allowNull: true },
   GP: { type: Sequelize.STRING, allowNull: true },
@@ -565,8 +658,9 @@ Fifteen.sync();
 Fourteen.sync();
 Thirteen.sync();
 Scores.sync();
-// Scores.sync({ force: true }).then(() => {
-//   return Scores.bulkCreate([{ HW: 0 }]);
+MLBScores.sync();
+// MLBScores.sync({ force: true }).then(() => {
+//   return MLBScores.bulkCreate([{ HW: 0 }]);
 // });
 //Teams.sync();
 // Nineteen.sync({ force: true }).then(() => {
@@ -613,5 +707,6 @@ module.exports = {
   Sixteen,
   Fifteen,
   Fourteen,
-  Thirteen
+  Thirteen,
+  MLBScores
 };

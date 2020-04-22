@@ -11,4 +11,10 @@ router.post("/postTeamAverages", controller.postTeamAverages);
 router.get("/getBoxScores", controller.getBoxScores);
 router.get("/getAllBoxScores", controller.getAllBoxScores);
 
+router.post("/mlbLoadBoxScores", controller.mlbLoadBoxScores);
+router.put("/updateMLBAdvStats", controller.updateMLBAdvStats);
+router.get("/getNullGames", controller.getNullGames);
+router.get("/getMLBBoxScores", controller.getMLBBoxScores);
+router.put("/mlbUpdateBoxScores", controller.mlbUpdateBoxScores);
+
 module.exports = router;
