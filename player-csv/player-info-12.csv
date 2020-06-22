@@ -1,0 +1,516 @@
+College,Experience,Height,Name,Position,Weight,team
+Stanford,10,7-0,Jason Collins,C,255,Atlanta Hawks
+Mississippi State,15,6-11,Erick Dampier,C,265,Atlanta Hawks
+Detroit Mercy,8,6-4,Willie Green,SG,200,Atlanta Hawks
+Kansas,8,6-4,Kirk Hinrich,SG,190,Atlanta Hawks
+Florida,4,6-9,Al Horford,C,245,Atlanta Hawks
+Oregon Cal State San Bernardino,R,6-8,Ivan Johnson,PF,230,Atlanta Hawks
+Arkansas,10,6-7,Joe Johnson,SG,240,Atlanta Hawks
+,14,6-8,Tracy McGrady,SF,210,Atlanta Hawks
+,8,6-11,Zaza Pachulia,C,270,Atlanta Hawks
+Arkansas,7,6-1,Jannero Pargo,PG,175,Atlanta Hawks
+,10,6-10,Vladimir Radmanović,SF,227,Atlanta Hawks
+Texas A&M,R,6-3,Donald Sloan,PG,205,Atlanta Hawks
+,7,6-9,Josh Smith,PF,225,Atlanta Hawks
+UNC,16,6-6,Jerry Stackhouse,SF,218,Atlanta Hawks
+Wake Forest,2,6-3,Jeff Teague,PG,195,Atlanta Hawks
+UNC,6,6-8,Marvin Williams,SF,237,Atlanta Hawks
+Kentucky,8,6-5,Keith Bogans,SF,215,New Jersey Nets
+Providence,R,6-5,MarShon Brooks,SG,200,New Jersey Nets
+Texas Tech,1,6-5,Andre Emmett,SF,230,New Jersey Nets
+UCLA,5,6-2,Jordan Farmar,PG,180,New Jersey Nets
+Georgia,2,6-1,Sundiata Gaines,SG,185,New Jersey Nets
+,4,6-6,Gerald Green,SF,205,New Jersey Nets
+NC State,R,6-9,Dennis Horner,PF,230,New Jersey Nets
+Minnesota,7,6-9,Kris Humphries,PF,235,New Jersey Nets
+Texas,1,6-7,Damion James,SF,225,New Jersey Nets
+Nevada,1,6-3,Armon Johnson,PG,195,New Jersey Nets
+Stanford,3,7-0,Brook Lopez,C,270,New Jersey Nets
+Georgia Tech,3,6-5,Anthony Morrow,SG,210,New Jersey Nets
+,9,6-11,Mehmet Okur,C,249,New Jersey Nets
+Oral Roberts,1,6-7,Larry Owens,SF,210,New Jersey Nets
+,6,7-0,Johan Petro,C,247,New Jersey Nets
+Louisville,R,6-2,Jerry Smith,PG,190,New Jersey Nets
+,11,6-5,DeShawn Stevenson,SF,210,New Jersey Nets
+Alabama,10,6-7,Gerald Wallace,SF,215,New Jersey Nets
+Illinois,6,6-3,Deron Williams,PG,200,New Jersey Nets
+Maryland,R,6-10,Jordan Williams,C,260,New Jersey Nets
+Memphis,4,6-9,Shawne Williams,SF,225,New Jersey Nets
+Duke,5,6-9,Shelden Williams,C,250,New Jersey Nets
+UConn,15,6-5,Ray Allen,SG,205,Boston Celtics
+LSU,6,6-8,Brandon Bass,PF,250,Boston Celtics
+Texas,1,6-3,Avery Bradley,PG,180,Boston Celtics
+Auburn,8,6-6,Marquis Daniels,SG,200,Boston Celtics
+Missouri,11,6-3,Keyon Dooling,SG,196,Boston Celtics
+,16,6-11,Kevin Garnett,C,240,Boston Celtics
+UCLA,5,7-0,Ryan Hollins,C,240,Boston Celtics
+Purdue,R,6-10,JaJuan Johnson,PF,221,Boston Celtics
+Purdue,R,6-3,E'Twaun Moore,PG,191,Boston Celtics
+,15,6-11,Jermaine O'Neal,C,226,Boston Celtics
+,8,6-8,Sasha Pavlović,SF,220,Boston Celtics
+Kansas,13,6-7,Paul Pierce,SF,235,Boston Celtics
+,8,6-6,Mickaël Piétrus,SG,215,Boston Celtics
+Kentucky,5,6-1,Rajon Rondo,PG,186,Boston Celtics
+Wisconsin,R,6-11,Greg Stiemsma,C,260,Boston Celtics
+Maryland,9,6-10,Chris Wilcox,C,221,Boston Celtics
+Boston College,3,6-10,Sean Williams,C,235,Boston Celtics
+Texas,3,5-11,D.J. Augustin,PG,183,Charlotte Bobcats
+,R,6-8,Bismack Biyombo,C,255,Charlotte Bobcats
+Xavier,2,6-7,Derrick Brown,SF,225,Charlotte Bobcats
+Notre Dame,8,6-6,Matt Carroll,SG,212,Charlotte Bobcats
+,8,6-8,Boris Diaw,PF,250,Charlotte Bobcats
+,10,7-0,DeSagana Diop,C,300,Charlotte Bobcats
+Duke,2,6-5,Gerald Henderson,SG,215,Charlotte Bobcats
+Colorado,R,6-5,Cory Higgins,PG,180,Charlotte Bobcats
+Duke,12,6-6,Corey Maggette,SF,218,Charlotte Bobcats
+Meridian Community College,4,6-8,Jamario Moon,SF,205,Charlotte Bobcats
+Ohio State,2,7-0,Byron Mullens,C,275,Charlotte Bobcats
+Oklahoma,11,6-8,Eduardo Nájera,PF,240,Charlotte Bobcats
+LSU,5,6-9,Tyrus Thomas,PF,215,Charlotte Bobcats
+UConn,R,6-0,Kemba Walker,PG,172,Charlotte Bobcats
+Indiana,3,6-9,D.J. White,PF,251,Charlotte Bobcats
+Virginia Military Institute,2,6-6,Reggie Williams,SF,205,Charlotte Bobcats
+,1,7-0,Ömer Aşık,C,255,Chicago Bulls
+Duke,9,6-9,Carlos Boozer,PF,258,Chicago Bulls
+Arkansas,5,6-7,Ronnie Brewer,SG,220,Chicago Bulls
+Marquette,R,6-7,Jimmy Butler,SG,230,Chicago Bulls
+Duke,7,6-9,Luol Deng,SF,237,Chicago Bulls
+USC,2,6-9,Taj Gibson,PF,225,Chicago Bulls
+UConn,12,6-6,Richard Hamilton,SG,185,Chicago Bulls
+Duquesne,9,6-2,Mike James,PG,188,Chicago Bulls
+Creighton,8,6-7,Kyle Korver,SG,212,Chicago Bulls
+Baylor Oklahoma State,3,5-11,John Lucas III,PG,166,Chicago Bulls
+Florida,4,6-11,Joakim Noah,C,230,Chicago Bulls
+Memphis,3,6-2,Derrick Rose,PG,200,Chicago Bulls
+USC,10,6-9,Brian Scalabrine,PF,241,Chicago Bulls
+Tennessee,4,6-2,C.J. Watson,PG,175,Chicago Bulls
+,2,6-9,Omri Casspi,SF,225,Cleveland Cavaliers
+,1,7-0,Semih Erden,C,240,Cleveland Cavaliers
+,1,6-5,Christian Eyenga,SF,210,Cleveland Cavaliers
+Alabama,2,6-6,Alonzo Gee,SG,225,Cleveland Cavaliers
+Texas,5,6-2,Daniel Gibson,SG,190,Cleveland Cavaliers
+Notre Dame,1,6-8,Luke Harangody,PF,246,Cleveland Cavaliers
+Michigan,1,6-5,Manny Harris,SG,185,Cleveland Cavaliers
+UCLA,5,7-0,Ryan Hollins,C,240,Cleveland Cavaliers
+University of Tennessee at Martin,2,6-3,Lester Hudson,PG,190,Cleveland Cavaliers
+Duke,R,6-2,Kyrie Irving,PG,195,Cleveland Cavaliers
+UNC,13,6-8,Antawn Jamison,PF,223,Cleveland Cavaliers
+St. John's,R,6-6,D.J. Kennedy,SF,215,Cleveland Cavaliers
+Bradley,8,6-6,Anthony Parker,SF,215,Cleveland Cavaliers
+Louisville,1,6-9,Samardo Samuels,C,260,Cleveland Cavaliers
+Nevada,4,6-3,Ramon Sessions,PG,190,Cleveland Cavaliers
+Texas A&M,R,6-3,Donald Sloan,PG,205,Cleveland Cavaliers
+Pepperdine,R,6-6,Mychel Thompson,SG,211,Cleveland Cavaliers
+Texas,R,6-9,Tristan Thompson,PF,238,Cleveland Cavaliers
+Tulsa,1,6-3,Ben Uzoh,PG,205,Cleveland Cavaliers
+,7,6-10,Anderson Varejão,C,273,Cleveland Cavaliers
+Arizona,8,6-8,Luke Walton,PF,235,Cleveland Cavaliers
+Kentucky,4,6-5,Kelenna Azubuike,SG,220,Dallas Mavericks
+,2,6-0,Rodrigue Beaubois,PG,170,Dallas Mavericks
+Purdue,11,6-8,Brian Cardinal,SF,245,Dallas Mavericks
+UNC,13,6-6,Vince Carter,SG,220,Dallas Mavericks
+UNC,10,7-0,Brendan Haywood,C,268,Dallas Mavericks
+,4,7-0,Yi Jianlian,PF,240,Dallas Mavericks
+South Florida,1,6-4,Dominique Jones,SG,215,Dallas Mavericks
+California,17,6-4,Jason Kidd,PG,205,Dallas Mavericks
+,3,6-11,Ian Mahinmi,C,262,Dallas Mavericks
+UNLV,12,6-7,Shawn Marion,SF,220,Dallas Mavericks
+,13,7-0,Dirk Nowitzki,PF,245,Dallas Mavericks
+Rhode Island,12,6-10,Lamar Odom,SF,220,Dallas Mavericks
+Arizona,12,6-2,Jason Terry,SG,185,Dallas Mavericks
+Saint Joseph's,7,6-4,Delonte West,PG,180,Dallas Mavericks
+Boston College,3,6-10,Sean Williams,C,235,Dallas Mavericks
+UNC,3,6-10,Brandan Wright,C,210,Dallas Mavericks
+UCLA,4,6-5,Arron Afflalo,SG,210,Denver Nuggets
+Blinn College,9,6-10,Chris Andersen,C,245,Denver Nuggets
+Florida,4,6-9,Corey Brewer,SF,186,Denver Nuggets
+Vanderbilt Missouri,2,6-6,DeMarre Carroll,PF,215,Denver Nuggets
+DePaul,4,6-8,Wilson Chandler,SF,235,Denver Nuggets
+Morehead State University,R,6-8,Kenneth Faried,PF,220,Denver Nuggets
+,3,6-6,Rudy Fernández,SG,185,Denver Nuggets
+,3,6-10,Danilo Gallinari,SF,233,Denver Nuggets
+Texas,R,6-7,Jordan Hamilton,SF,220,Denver Nuggets
+,13,6-9,Al Harrington,PF,230,Denver Nuggets
+,9,6-11,Nenê Hilário,C,250,Denver Nuggets
+Ohio State,3,7-0,Kosta Koufos,C,245,Denver Nuggets
+UNC,2,5-11,Ty Lawson,PG,195,Denver Nuggets
+Nevada,3,7-0,JaVale McGee,C,270,Denver Nuggets
+Utah,12,6-3,Andre Miller,SG,200,Denver Nuggets
+,1,7-1,Timofey Mozgov,C,275,Denver Nuggets
+Texas-El Paso,R,6-6,Julyan Stone,SG,200,Denver Nuggets
+Arizona Georgia Tech,4,6-0,Will Bynum,PG,185,Detroit Pistons
+Gonzaga,2,6-11,Austin Daye,SF,220,Detroit Pistons
+UConn,7,6-3,Ben Gordon,SG,200,Detroit Pistons
+,1,6-10,Jonas Jerebko,PF,231,Detroit Pistons
+Kentucky,R,6-2,Brandon Knight,PG,195,Detroit Pistons
+Georgetown Florida,R,6-10,Vernon Macklin,C,227,Detroit Pistons
+Cincinnati,6,6-7,Jason Maxiell,PF,260,Detroit Pistons
+Georgetown,1,6-11,Greg Monroe,C,265,Detroit Pistons
+Kentucky,9,6-9,Tayshaun Prince,SF,212,Detroit Pistons
+Jacksonville State University,R,6-0,Walker Russell,PG,170,Detroit Pistons
+Eastern Washington,4,6-5,Rodney Stuckey,SG,210,Detroit Pistons
+UConn,6,6-11,Charlie Villanueva,PF,232,Detroit Pistons
+Virginia Union University,15,6-9,Ben Wallace,C,240,Detroit Pistons
+NC State Georgia,7,6-6,Damien Wilkins,SF,225,Detroit Pistons
+Memphis,5,7-0,Earl Barron,C,250,Golden State Warriors
+Oakland,R,6-11,Keith Benson,C,240,Golden State Warriors
+,7,6-11,Andris Biedriņš,C,240,Golden State Warriors
+,10,6-11,Kwame Brown,C,270,Golden State Warriors
+Davidson,2,6-3,Stephen Curry,PG,190,Golden State Warriors
+,6,6-3,Monta Ellis,SG,185,Golden State Warriors
+Alabama A&M University,R,6-11,Mickell Gladness,PF,220,Golden State Warriors
+Arizona,10,6-7,Richard Jefferson,SF,233,Golden State Warriors
+Hofstra,R,6-3,Charles Jenkins,PG,220,Golden State Warriors
+Florida,6,6-9,David Lee,PF,245,Golden State Warriors
+California Fresno State,4,6-9,Dominic McGuire,PF,220,Golden State Warriors
+Nebraska,12,6-11,Mikki Moore,C,225,Golden State Warriors
+Washington,6,5-9,Nate Robinson,PG,180,Golden State Warriors
+Kansas,3,6-6,Brandon Rush,SF,220,Golden State Warriors
+Wake Forest,1,6-0,Ish Smith,PG,175,Golden State Warriors
+Washington State,R,6-6,Klay Thompson,SG,215,Golden State Warriors
+,R,6-10,Jeremy Tyler,C,260,Golden State Warriors
+Michigan Baylor,1,6-10,Ekpe Udoh,C,245,Golden State Warriors
+Dayton,R,6-8,Chris Wright,SF,226,Golden State Warriors
+,7,6-9,Dorell Wright,SF,205,Golden State Warriors
+UConn,1,6-7,Jeff Adrien,PF,245,Houston Rockets
+Eastern Michigan,12,5-5,Earl Boykins,PG,135,Houston Rockets
+Arizona,2,6-7,Chase Budinger,SF,209,Houston Rockets
+UMass,15,6-11,Marcus Camby,C,220,Houston Rockets
+Seton Hall,9,6-11,Samuel Dalembert,C,255,Houston Rockets
+,3,6-3,Goran Dragić,PG,190,Houston Rockets
+Syracuse,2,6-0,Jonny Flynn,PG,185,Houston Rockets
+Arkansas,R,5-11,Courtney Fortson,PG,185,Houston Rockets
+Arizona,2,6-10,Jordan Hill,C,235,Houston Rockets
+Western Kentucky,3,6-5,Courtney Lee,SG,215,Houston Rockets
+Villanova,5,6-0,Kyle Lowry,PG,196,Houston Rockets
+Western Carolina University,7,6-7,Kevin Martin,SG,199,Houston Rockets
+Kansas,R,6-8,Marcus Morris,PF,235,Houston Rockets
+Florida,R,6-9,Chandler Parsons,SF,230,Houston Rockets
+Kentucky,1,6-8,Patrick Patterson,PF,230,Houston Rockets
+,4,6-9,Luis Scola,PF,240,Houston Rockets
+Fresno State,R,6-10,Greg Smith,C,250,Houston Rockets
+UConn,2,7-3,Hasheem Thabeet,C,263,Houston Rockets
+Louisville,2,6-6,Terrence Williams,SG,220,Houston Rockets
+UNLV,5,6-9,Lou Amundson,PF,220,Indiana Pacers
+Arizona State,1,6-9,Jeff Ayres,C,240,Indiana Pacers
+,8,6-3,Leandro Barbosa,SG,194,Indiana Pacers
+UCLA,2,6-0,Darren Collison,PG,175,Indiana Pacers
+,4,7-1,Kyrylo Fesenko,C,288,Indiana Pacers
+Texas State University,12,6-11,Jeff Foster,C,236,Indiana Pacers
+Fresno State,1,6-8,Paul George,SG,220,Indiana Pacers
+Bradley New Mexico,6,6-9,Danny Granger,SF,222,Indiana Pacers
+UNC,2,6-9,Tyler Hansbrough,PF,250,Indiana Pacers
+Georgetown,3,7-2,Roy Hibbert,C,270,Indiana Pacers
+IUPUI,3,6-3,George Hill,PG,188,Indiana Pacers
+Rutgers University Duke,8,6-6,Dahntay Jones,SF,225,Indiana Pacers
+UConn,2,6-2,A.J. Price,PG,181,Indiana Pacers
+Cincinnati,1,6-6,Lance Stephenson,SG,230,Indiana Pacers
+Xavier,8,6-9,David West,PF,250,Indiana Pacers
+Colorado,14,6-3,Chauncey Billups,SG,202,Los Angeles Clippers
+Kentucky,1,6-1,Eric Bledsoe,PG,205,Los Angeles Clippers
+UConn,9,6-7,Caron Butler,SF,228,Los Angeles Clippers
+Illinois,8,6-9,Brian Cook,PF,234,Los Angeles Clippers
+Iowa,9,6-8,Reggie Evans,PF,245,Los Angeles Clippers
+Arkansas,R,5-11,Courtney Fortson,PG,185,Los Angeles Clippers
+Villanova,5,6-4,Randy Foye,SG,213,Los Angeles Clippers
+Providence,6,6-7,Ryan Gomes,SF,250,Los Angeles Clippers
+Oklahoma,1,6-9,Blake Griffin,PF,250,Los Angeles Clippers
+South Florida,5,6-10,Solomon Jones,PF,230,Los Angeles Clippers
+Texas A&M,3,6-11,DeAndre Jordan,C,265,Los Angeles Clippers
+Georgia,R,6-4,Travis Leslie,SG,205,Los Angeles Clippers
+Cincinnati,11,6-9,Kenyon Martin,PF,234,Los Angeles Clippers
+Wake Forest,6,6-1,Chris Paul,PG,175,Los Angeles Clippers
+DePaul,9,6-7,Bobby Simmons,SF,210,Los Angeles Clippers
+Georgia,R,6-10,Trey Thompkins,C,245,Los Angeles Clippers
+Alabama,8,6-1,Mo Williams,SG,198,Los Angeles Clippers
+USC,4,6-7,Nick Young,SG,210,Los Angeles Clippers
+UCLA,8,6-7,Matt Barnes,SF,226,Los Angeles Lakers
+Maryland,8,6-3,Steve Blake,PG,172,Los Angeles Lakers
+,15,6-6,Kobe Bryant,SG,212,Los Angeles Lakers
+,6,7-0,Andrew Bynum,C,285,Los Angeles Lakers
+West Virginia,1,6-9,Devin Ebanks,SG,215,Los Angeles Lakers
+,1,6-5,Christian Eyenga,SF,210,Los Angeles Lakers
+Little Rock,15,6-1,Derek Fisher,PG,200,Los Angeles Lakers
+,10,7-0,Pau Gasol,PF,250,Los Angeles Lakers
+College of Charleston,R,6-3,Andrew Goudelock,SG,200,Los Angeles Lakers
+Arizona,2,6-10,Jordan Hill,C,235,Los Angeles Lakers
+UCLA,8,6-8,Jason Kapono,SG,213,Los Angeles Lakers
+Duke,4,6-10,Josh McRoberts,PF,240,Los Angeles Lakers
+Michigan,R,6-4,Darius Morris,PG,190,Los Angeles Lakers
+Notre Dame,10,6-11,Troy Murphy,PF,245,Los Angeles Lakers
+Nevada,4,6-3,Ramon Sessions,PG,190,Los Angeles Lakers
+Arizona,8,6-8,Luke Walton,SF,235,Los Angeles Lakers
+St. John's,12,6-6,Metta World Peace,SF,260,Los Angeles Lakers
+Butler County Community College Oklahoma State,7,6-4,Tony Allen,SG,213,Memphis Grizzlies
+Arizona,10,6-3,Gilbert Arenas,PG,191,Memphis Grizzlies
+Ohio State,4,6-1,Mike Conley,PG,175,Memphis Grizzlies
+Villanova,2,6-8,Dante Cunningham,PF,230,Memphis Grizzlies
+Wyoming,3,6-8,Josh Davis,PF,235,Memphis Grizzlies
+,3,6-11,Marc Gasol,C,255,Memphis Grizzlies
+UConn,5,6-8,Rudy Gay,SF,230,Memphis Grizzlies
+,3,7-2,Hamed Haddadi,C,254,Memphis Grizzlies
+University of Tennessee at Martin,2,6-3,Lester Hudson,PG,190,Memphis Grizzlies
+USC,3,6-5,O.J. Mayo,SG,210,Memphis Grizzlies
+Gonzaga,R,6-2,Jeremy Pargo,PG,219,Memphis Grizzlies
+Washington,1,6-7,Quincy Pondexter,SF,230,Memphis Grizzlies
+Michigan State,10,6-9,Zach Randolph,PF,250,Memphis Grizzlies
+Kansas,R,6-2,Josh Selby,PG,183,Memphis Grizzlies
+Baylor,13,6-9,Brian Skinner,C,255,Memphis Grizzlies
+Florida,3,6-10,Marreese Speights,PF,255,Memphis Grizzlies
+Pitt,2,6-6,Sam Young,SF,220,Memphis Grizzlies
+UNLV,4,6-9,Joel Anthony,C,245,Miami Heat
+Duke,10,6-8,Shane Battier,SF,220,Miami Heat
+Georgia Tech,8,6-11,Chris Bosh,PF,235,Miami Heat
+Kansas,3,6-2,Mario Chalmers,PG,190,Miami Heat
+Cleveland State University,R,6-2,Norris Cole,PG,175,Miami Heat
+,9,7-0,Eddy Curry,C,295,Miami Heat
+Alabama A&M University,R,6-11,Mickell Gladness,PF,220,Miami Heat
+Oklahoma State,R,6-5,Terrel Harris,SG,190,Miami Heat
+Florida,8,6-8,Udonis Haslem,PF,235,Miami Heat
+Michigan,17,6-9,Juwan Howard,PF,240,Miami Heat
+,8,6-9,LeBron James,SF,250,Miami Heat
+Miami (FL),8,6-8,James Jones,SG,218,Miami Heat
+Florida,11,6-8,Mike Miller,SG,218,Miami Heat
+Texas,1,6-11,Dexter Pittman,C,308,Miami Heat
+Gonzaga,6,6-10,Ronny Turiaf,C,249,Miami Heat
+Marquette,8,6-4,Dwyane Wade,SG,220,Miami Heat
+Utah,6,7-0,Andrew Bogut,C,260,Milwaukee Bucks
+Washington,2,6-7,Jon Brockman,PF,255,Milwaukee Bucks
+,6,6-6,Carlos Delfino,SF,230,Milwaukee Bucks
+Duke,9,6-9,Mike Dunleavy,SF,230,Milwaukee Bucks
+,6,6-3,Monta Ellis,SG,185,Milwaukee Bucks
+Kansas,9,6-10,Drew Gooden,C,250,Milwaukee Bucks
+Tennessee,R,6-8,Tobias Harris,SF,235,Milwaukee Bucks
+New Mexico,R,6-7,Darington Hobson,SG,210,Milwaukee Bucks
+,3,6-9,Ersan İlyasova,PF,235,Milwaukee Bucks
+Butler County Community College,11,6-8,Stephen Jackson,SF,218,Milwaukee Bucks
+,2,6-1,Brandon Jennings,PG,170,Milwaukee Bucks
+Wisconsin,R,6-10,Jon Leuer,PF,228,Milwaukee Bucks
+,6,6-7,Shaun Livingston,SG,192,Milwaukee Bucks
+UCLA,3,6-8,Luc Mbah a Moute,PF,230,Milwaukee Bucks
+Virginia Commonwealth,1,6-11,Larry Sanders,PF,235,Milwaukee Bucks
+Michigan Baylor,1,6-10,Ekpe Udoh,C,245,Milwaukee Bucks
+,7,6-3,Beno Udrih,SG,205,Milwaukee Bucks
+Northeastern University,5,5-10,J.J. Barea,PG,185,Minnesota Timberwolves
+Kansas State,3,6-9,Michael Beasley,SF,235,Minnesota Timberwolves
+UNC,2,6-4,Wayne Ellington,SG,200,Minnesota Timberwolves
+Iowa State Syracuse,1,6-7,Wesley Johnson,SF,215,Minnesota Timberwolves
+UCLA,R,6-5,Malcolm Lee,SG,200,Minnesota Timberwolves
+UCLA,3,6-8,Kevin Love,PF,251,Minnesota Timberwolves
+,8,7-0,Darko Miličić,C,250,Minnesota Timberwolves
+Purdue,13,6-11,Brad Miller,C,244,Minnesota Timberwolves
+,1,6-11,Nikola Peković,C,307,Minnesota Timberwolves
+LSU,3,6-10,Anthony Randolph,PF,205,Minnesota Timberwolves
+Oregon,8,6-2,Luke Ridnour,SG,175,Minnesota Timberwolves
+,R,6-3,Ricky Rubio,PG,190,Minnesota Timberwolves
+Creighton,3,6-8,Anthony Tolliver,SF,240,Minnesota Timberwolves
+,6,6-7,Martell Webster,SF,230,Minnesota Timberwolves
+Arizona,R,6-8,Derrick Williams,PF,240,Minnesota Timberwolves
+Wake Forest,1,6-8,Al-Farouq Aminu,SF,220,New Orleans Hornets
+UCLA,7,6-8,Trevor Ariza,SF,215,New Orleans Hornets
+,R,6-10,Gustavo Ayón,PF,250,New Orleans Hornets
+,4,6-5,Marco Belinelli,SG,210,New Orleans Hornets
+UConn,R,6-3,Jerome Dyson,PG,180,New Orleans Hornets
+Cornell,R,7-0,Jeff Foote,C,265,New Orleans Hornets
+Indiana,3,6-3,Eric Gordon,PG,215,New Orleans Hornets
+Kansas,1,6-6,Xavier Henry,SG,220,New Orleans Hornets
+Georgia Tech,6,6-3,Jarrett Jack,PG,200,New Orleans Hornets
+University of Alabama at Birmingham,R,5-10,Carldell Johnson,PG,180,New Orleans Hornets
+LSU,1,6-11,Chris Johnson,C,210,New Orleans Hornets
+Alcorn State Jackson State University,2,6-5,Trey Johnson,SG,218,New Orleans Hornets
+South Florida,5,6-10,Solomon Jones,C,230,New Orleans Hornets
+Central Michigan University,8,7-0,Chris Kaman,C,265,New Orleans Hornets
+Purdue,4,6-9,Carl Landry,PF,248,New Orleans Hornets
+UConn,7,6-10,Emeka Okafor,C,252,New Orleans Hornets
+Texas A&M,R,6-3,Donald Sloan,PG,205,New Orleans Hornets
+Colorado State,3,7-0,Jason Smith,PF,240,New Orleans Hornets
+Georgetown,2,6-8,DaJuan Summers,SF,230,New Orleans Hornets
+Duke,R,6-8,Lance Thomas,PF,240,New Orleans Hornets
+Maryland,1,6-6,Greivis Vásquez,SG,217,New Orleans Hornets
+Syracuse,1,6-11,Darryl Watkins,C,258,New Orleans Hornets
+Syracuse,8,6-8,Carmelo Anthony,SF,240,New York Knicks
+South Carolina,5,6-8,Renaldo Balkman,SF,208,New York Knicks
+Arizona,13,6-1,Mike Bibby,PG,190,New York Knicks
+,10,7-0,Tyson Chandler,C,240,New York Knicks
+UCLA,12,6-3,Baron Davis,PG,209,New York Knicks
+Auburn Florida State,2,6-2,Toney Douglas,PG,195,New York Knicks
+Stanford,1,6-7,Landry Fields,SG,210,New York Knicks
+UCLA,9,6-11,Dan Gadzuric,C,240,New York Knicks
+Kentucky,R,6-10,Josh Harrellson,PF,275,New York Knicks
+Indiana,9,6-11,Jared Jeffries,PF,230,New York Knicks
+Tulsa,R,7-0,Jerome Jordan,C,253,New York Knicks
+Harvard University,1,6-3,Jeremy Lin,PG,200,New York Knicks
+Marquette,5,6-10,Steve Novak,PF,225,New York Knicks
+Georgia Tech,R,6-5,Iman Shumpert,PG,215,New York Knicks
+,7,6-6,J.R. Smith,SG,225,New York Knicks
+,9,6-10,Amar'e Stoudemire,PF,245,New York Knicks
+Kansas State,3,6-6,Henry Walker,SG,220,New York Knicks
+Kansas,1,6-11,Cole Aldrich,C,250,Oklahoma City Thunder
+Kansas,7,6-10,Nick Collison,PF,255,Oklahoma City Thunder
+Ohio State,4,6-5,Daequan Cook,SG,205,Oklahoma City Thunder
+Texas,4,6-10,Kevin Durant,SF,240,Oklahoma City Thunder
+Little Rock,15,6-1,Derek Fisher,PG,200,Oklahoma City Thunder
+Arizona State,2,6-5,James Harden,SG,220,Oklahoma City Thunder
+Marquette,1,6-6,Lazar Hayward,SF,225,Oklahoma City Thunder
+,2,7-0,Serge Ibaka,PF,235,Oklahoma City Thunder
+Texas,7,6-3,Royal Ivey,SG,200,Oklahoma City Thunder
+Boston College,R,6-3,Reggie Jackson,PG,208,Oklahoma City Thunder
+Virginia Commonwealth,2,6-3,Eric Maynor,PG,175,Oklahoma City Thunder
+Kentucky,13,6-10,Nazr Mohammed,C,221,Oklahoma City Thunder
+,8,6-10,Kendrick Perkins,C,270,Oklahoma City Thunder
+Florida State,R,6-8,Ryan Reid,PF,232,Oklahoma City Thunder
+,5,6-6,Thabo Sefolosha,SG,220,Oklahoma City Thunder
+UCLA,3,6-3,Russell Westbrook,PG,200,Oklahoma City Thunder
+California,3,6-9,Ryan Anderson,PF,240,Orlando Magic
+Louisville,2,6-10,Earl Clark,PF,225,Orlando Magic
+LSU,4,6-9,Glen Davis,PF,289,Orlando Magic
+Duke,7,6-1,Chris Duhon,PG,185,Orlando Magic
+Richmond,R,6-10,Justin Harper,PF,225,Orlando Magic
+,7,6-10,Dwight Howard,C,265,Orlando Magic
+Saint Louis,12,6-5,Larry Hughes,PG,184,Orlando Magic
+Kentucky,R,6-6,DeAndre Liggins,SF,209,Orlando Magic
+Saint Joseph's,7,6-0,Jameer Nelson,PG,190,Orlando Magic
+Kentucky,R,6-10,Daniel Orton,PF,255,Orlando Magic
+Duke,5,6-3,J.J. Redick,SG,200,Orlando Magic
+Michigan State,10,6-6,Jason Richardson,SG,220,Orlando Magic
+DePaul,11,6-6,Quentin Richardson,SF,223,Orlando Magic
+Wake Forest,1,6-0,Ish Smith,PG,175,Orlando Magic
+,11,6-10,Hedo Türkoğlu,SF,220,Orlando Magic
+Florida State,5,6-5,Von Wafer,SG,210,Orlando Magic
+Temple,R,6-9,Lavoy Allen,PF,260,Philadelphia 76ers
+Texas Tech,13,6-11,Tony Battie,C,230,Philadelphia 76ers
+Iowa State,1,6-10,Craig Brackins,PF,230,Philadelphia 76ers
+Duke,12,6-8,Elton Brand,C,275,Philadelphia 76ers
+California,8,7-0,Francisco Elson,C,235,Philadelphia 76ers
+Washington,4,7-1,Spencer Hawes,C,245,Philadelphia 76ers
+UCLA,2,6-3,Jrue Holiday,PG,205,Philadelphia 76ers
+Arizona,7,6-6,Andre Iguodala,SF,215,Philadelphia 76ers
+Kentucky,2,6-4,Jodie Meeks,SG,210,Philadelphia 76ers
+,7,6-7,Andrés Nocioni,SF,225,Philadelphia 76ers
+Colorado Northern Illinois,R,6-5,Xavier Silas,SG,205,Philadelphia 76ers
+Ohio State,1,6-6,Evan Turner,SF,220,Philadelphia 76ers
+USC,R,6-11,Nikola Vučević,C,260,Philadelphia 76ers
+,6,6-1,Lou Williams,PG,175,Philadelphia 76ers
+Pitt,2,6-6,Sam Young,SF,220,Philadelphia 76ers
+Georgia Tech,4,6-8,Thaddeus Young,PF,220,Philadelphia 76ers
+Michigan State,5,6-4,Shannon Brown,SG,205,Phoenix Suns
+Stanford,5,6-8,Josh Childress,SF,210,Phoenix Suns
+Boston College,4,6-6,Jared Dudley,SG,237,Phoenix Suns
+Arizona,6,7-0,Channing Frye,PF,255,Phoenix Suns
+,4,6-11,Marcin Gortat,C,240,Phoenix Suns
+Duke,16,6-8,Grant Hill,SF,225,Phoenix Suns
+Stanford,3,7-0,Robin Lopez,C,275,Phoenix Suns
+Kansas,R,6-8,Markieff Morris,PF,245,Phoenix Suns
+Santa Clara,15,6-3,Steve Nash,PG,195,Phoenix Suns
+Nicholls State University Utah Valley State College,6,6-2,Ronnie Price,PG,190,Phoenix Suns
+Ohio State,11,6-6,Michael Redd,SG,220,Phoenix Suns
+,7,6-0,Sebastian Telfair,PG,165,Phoenix Suns
+Syracuse,6,6-9,Hakim Warrick,PF,219,Phoenix Suns
+Texas,5,6-11,LaMarcus Aldridge,PF,260,Portland Trail Blazers
+Nevada,1,6-9,Luke Babbitt,SF,225,Portland Trail Blazers
+,3,6-9,Nicolas Batum,SF,200,Portland Trail Blazers
+UMass,15,6-11,Marcus Camby,C,220,Portland Trail Blazers
+Michigan,11,6-5,Jamal Crawford,PG,185,Portland Trail Blazers
+UNC,6,6-1,Raymond Felton,PG,205,Portland Trail Blazers
+Syracuse,2,6-0,Jonny Flynn,PG,185,Portland Trail Blazers
+NC State,3,6-9,J.J. Hickson,PF,242,Portland Trail Blazers
+Nevada,1,6-3,Armon Johnson,PG,195,Portland Trail Blazers
+LSU,1,6-11,Chris Johnson,C,210,Portland Trail Blazers
+Marquette,2,6-4,Wesley Matthews,SG,220,Portland Trail Blazers
+Minnesota,11,7-1,Joel Przybilla,C,255,Portland Trail Blazers
+Boston College,5,6-7,Craig Smith,PF,250,Portland Trail Blazers
+Duke,R,6-2,Nolan Smith,PG,185,Portland Trail Blazers
+UConn,2,7-3,Hasheem Thabeet,C,263,Portland Trail Blazers
+TCU,16,6-9,Kurt Thomas,C,230,Portland Trail Blazers
+Alabama,10,6-7,Gerald Wallace,SF,215,Portland Trail Blazers
+Duke Memphis,R,6-5,Elliot Williams,SG,190,Portland Trail Blazers
+Kentucky,1,6-10,DeMarcus Cousins,C,270,Sacramento Kings
+Memphis,2,6-6,Tyreke Evans,SG,220,Sacramento Kings
+BYU,R,6-2,Jimmer Fredette,PG,195,Sacramento Kings
+Louisville,6,6-7,Francisco García,SF,195,Sacramento Kings
+Syracuse,3,6-11,Donté Greene,PF,226,Sacramento Kings
+Kentucky,6,6-6,Chuck Hayes,C,240,Sacramento Kings
+NC State,3,6-9,J.J. Hickson,PF,242,Sacramento Kings
+UCLA,R,6-8,Tyler Honeycutt,SF,188,Sacramento Kings
+,8,6-9,Travis Outlaw,SF,210,Sacramento Kings
+Miami (FL),9,6-7,John Salmons,SF,210,Sacramento Kings
+Washington,R,5-9,Isaiah Thomas,PG,185,Sacramento Kings
+Rider University,3,6-11,Jason Thompson,PF,250,Sacramento Kings
+LSU,2,6-4,Marcus Thornton,SG,205,Sacramento Kings
+Marshall,1,7-0,Hassan Whiteside,C,235,Sacramento Kings
+Louisville,2,6-6,Terrence Williams,SG,220,Sacramento Kings
+Oklahoma State,1,6-6,James Anderson,SG,213,San Antonio Spurs
+Pitt,2,6-7,DeJuan Blair,PF,270,San Antonio Spurs
+Florida,7,6-10,Matt Bonner,PF,235,San Antonio Spurs
+Virginia Vanderbilt,R,6-7,Derrick Byars,PF,220,San Antonio Spurs
+Midwestern State University,R,6-9,Eric Dawson,C,250,San Antonio Spurs
+Washington,R,5-11,Justin Dentmon,PG,185,San Antonio Spurs
+,8,6-8,Boris Diaw,PF,250,San Antonio Spurs
+Arizona State,5,6-8,Ike Diogu,PF,250,San Antonio Spurs
+Wake Forest,14,6-11,Tim Duncan,C,250,San Antonio Spurs
+Texas,7,6-0,T.J. Ford,PG,165,San Antonio Spurs
+,9,6-6,Manu Ginóbili,SG,205,San Antonio Spurs
+UNC,2,6-6,Danny Green,SG,215,San Antonio Spurs
+Butler County Community College,11,6-8,Stephen Jackson,SF,218,San Antonio Spurs
+Arizona,10,6-7,Richard Jefferson,SF,233,San Antonio Spurs
+Texas,R,6-3,Cory Joseph,PG,200,San Antonio Spurs
+San Diego State,R,6-7,Kawhi Leonard,SF,230,San Antonio Spurs
+Saint Mary's,2,6-1,Patty Mills,PG,180,San Antonio Spurs
+La Salle Towson University,1,6-4,Gary Neal,SG,210,San Antonio Spurs
+,10,6-2,Tony Parker,PG,185,San Antonio Spurs
+,1,6-11,Tiago Splitter,C,245,San Antonio Spurs
+Pepperdine San Diego State,R,6-9,Malcolm Thomas,PF,225,San Antonio Spurs
+Florida State,1,7-1,Solomon Alabi,C,251,Toronto Raptors
+Michigan State,2,6-6,Alan Anderson,SF,220,Toronto Raptors
+,8,6-3,Leandro Barbosa,SG,194,Toronto Raptors
+,5,7-0,Andrea Bargnani,C,245,Toronto Raptors
+Arizona,3,6-3,Jerryd Bayless,PG,200,Toronto Raptors
+La Salle,9,6-7,Rasual Butler,SF,215,Toronto Raptors
+,6,6-3,José Calderón,PG,200,Toronto Raptors
+Hawaii,12,6-1,Anthony Carter,PG,190,Toronto Raptors
+UNC,1,6-9,Ed Davis,PF,225,Toronto Raptors
+Washington,R,5-11,Justin Dentmon,PG,185,Toronto Raptors
+USC,2,6-6,DeMar DeRozan,SG,220,Toronto Raptors
+Virginia UMass,1,6-7,Gary Forbes,SG,220,Toronto Raptors
+Pitt,4,7-0,Aaron Gray,C,270,Toronto Raptors
+,6,6-9,Amir Johnson,PF,240,Toronto Raptors
+Wake Forest,2,6-7,James Johnson,SF,240,Toronto Raptors
+Missouri,5,6-8,Linas Kleiza,SF,245,Toronto Raptors
+Kentucky,11,6-11,Jamaal Magloire,C,259,Toronto Raptors
+Tulsa,1,6-3,Ben Uzoh,PG,205,Toronto Raptors
+Missouri State University,2,6-2,Blake Ahearn,PG,190,Utah Jazz
+Boston University Florida International University,11,6-5,Raja Bell,SG,204,Utah Jazz
+Colorado,R,6-6,Alec Burks,SG,214,Utah Jazz
+Vanderbilt Missouri,2,6-6,DeMarre Carroll,SF,215,Utah Jazz
+Western Kentucky,1,6-9,Jeremy Evans,SF,200,Utah Jazz
+Georgia Tech,1,6-9,Derrick Favors,PF,265,Utah Jazz
+Wisconsin,7,6-3,Devin Harris,PG,185,Utah Jazz
+Butler,1,6-7,Gordon Hayward,SF,207,Utah Jazz
+Wake Forest,8,6-7,Josh Howard,SF,210,Utah Jazz
+,7,6-10,Al Jefferson,C,289,Utah Jazz
+,R,6-10,Enes Kanter,C,262,Utah Jazz
+,6,6-6,C.J. Miles,SG,220,Utah Jazz
+Louisiana Tech,5,6-7,Paul Millsap,PF,250,Utah Jazz
+Iowa State,8,6-3,Jamaal Tinsley,PG,195,Utah Jazz
+UCLA,10,6-1,Earl Watson,PG,195,Utah Jazz
+Rice University,2,6-6,Morris Almond,SG,225,Washington Wizards
+,6,6-11,Andray Blatche,PF,235,Washington Wizards
+Clemson,1,6-8,Trevor Booker,PF,228,Washington Wizards
+Illinois,8,6-9,Brian Cook,PF,234,Washington Wizards
+Indiana Xavier,1,6-4,Jordan Crawford,SG,195,Washington Wizards
+Wichita State Texas,8,6-5,Maurice Evans,SF,220,Washington Wizards
+,9,6-11,Nenê Hilário,C,250,Washington Wizards
+,13,6-10,Rashard Lewis,SF,215,Washington Wizards
+Butler,R,6-3,Shelvin Mack,PG,203,Washington Wizards
+Kansas State,3,6-7,Cartier Martin,SF,220,Washington Wizards
+Virginia,7,6-5,Roger Mason,SG,200,Washington Wizards
+Nevada,3,7-0,JaVale McGee,C,270,Washington Wizards
+Rutgers University,1,7-0,Hamady N'Diaye,C,235,Washington Wizards
+,1,6-9,Kevin Séraphin,C,285,Washington Wizards
+Florida State,R,6-8,Chris Singleton,SF,230,Washington Wizards
+Murray State,4,6-8,James Singleton,PF,216,Washington Wizards
+Gonzaga,6,6-10,Ronny Turiaf,C,249,Washington Wizards
+Siena College,R,6-6,Edwin Ubiles,SF,204,Washington Wizards
+,R,6-11,Jan Veselý,PF,240,Washington Wizards
+Kentucky,1,6-4,John Wall,PG,210,Washington Wizards
+USC,4,6-7,Nick Young,SG,210,Washington Wizards

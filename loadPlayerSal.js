@@ -1,4 +1,4 @@
-const csvFilePath = "./player-sal/player-sals.csv";
+const csvFilePath = "./player-sal/player-sals-20.csv";
 const csv = require("csvtojson");
 var axios = require("axios");
 
@@ -13,7 +13,7 @@ csv()
   .on("done", error => {
     //console.log("statArray: ", statArray);
     axios
-      .post("http://localhost:8000/api/teams/createPlayerSalaries", {
+      .post("http://localhost:3000/api/teams/createPlayerSalaries", {
         data: statArray
       })
       .then(data => {

@@ -1,0 +1,169 @@
+attend,date,home,homePts,start,visitor,visitorPts
+19068,Sat Feb 1 2020,Los Angeles Clippers,118,3:30p,Minnesota Timberwolves,106
+17923,Sat Feb 1 2020,Indiana Pacers,85,7:00p,New York Knicks,92
+18846,Sat Feb 1 2020,Orlando Magic,89,7:00p,Miami Heat,102
+18410,Sat Feb 1 2020,Cleveland Cavaliers,112,8:00p,Golden State Warriors,131
+18196,Sat Feb 1 2020,Washington Wizards,113,8:00p,Brooklyn Nets,107
+19156,Sat Feb 1 2020,Boston Celtics,116,8:30p,Philadelphia 76ers,95
+20328,Sat Feb 1 2020,Dallas Mavericks,123,8:30p,Atlanta Hawks,100
+18615,Sat Feb 1 2020,San Antonio Spurs,114,9:00p,Charlotte Hornets,90
+17583,Sat Feb 1 2020,Sacramento Kings,113,10:00p,Los Angeles Lakers,129
+19603,Sat Feb 1 2020,Portland Trail Blazers,124,10:30p,Utah Jazz,107
+15488,Sun Feb 2 2020,Detroit Pistons,128,12:30p,Denver Nuggets,123
+18055,Sun Feb 2 2020,Houston Rockets,117,2:00p,New Orleans Pelicans,109
+17754,Sun Feb 2 2020,Milwaukee Bucks,129,2:00p,Phoenix Suns,108
+19800,Sun Feb 2 2020,Toronto Raptors,129,3:00p,Chicago Bulls,102
+12337,Mon Feb 3 2020,Charlotte Hornets,100,7:00p,Orlando Magic,112
+16303,Mon Feb 3 2020,Cleveland Cavaliers,134,7:00p,New York Knicks,139
+15086,Mon Feb 3 2020,Indiana Pacers,103,7:00p,Dallas Mavericks,112
+17120,Mon Feb 3 2020,Washington Wizards,117,7:00p,Golden State Warriors,125
+16231,Mon Feb 3 2020,Atlanta Hawks,115,7:30p,Boston Celtics,123
+14891,Mon Feb 3 2020,Brooklyn Nets,119,7:30p,Phoenix Suns,97
+19725,Mon Feb 3 2020,Miami Heat,137,7:30p,Philadelphia 76ers,106
+14597,Mon Feb 3 2020,Memphis Grizzlies,96,8:00p,Detroit Pistons,82
+15819,Mon Feb 3 2020,Sacramento Kings,113,10:00p,Minnesota Timberwolves,109
+19068,Mon Feb 3 2020,Los Angeles Clippers,108,10:30p,San Antonio Spurs,105
+15424,Tue Feb 4 2020,New Orleans Pelicans,108,7:30p,Milwaukee Bucks,120
+18055,Tue Feb 4 2020,Houston Rockets,125,8:00p,Charlotte Hornets,110
+19520,Tue Feb 4 2020,Denver Nuggets,127,9:00p,Portland Trail Blazers,99
+18997,Tue Feb 4 2020,Los Angeles Lakers,129,10:00p,San Antonio Spurs,102
+13707,Wed Feb 5 2020,Detroit Pistons,116,7:00p,Phoenix Suns,108
+19156,Wed Feb 5 2020,Boston Celtics,116,7:30p,Orlando Magic,100
+14352,Wed Feb 5 2020,Brooklyn Nets,129,7:30p,Golden State Warriors,88
+19800,Wed Feb 5 2020,Toronto Raptors,119,7:30p,Indiana Pacers,118
+10779,Wed Feb 5 2020,Minnesota Timberwolves,120,8:00p,Atlanta Hawks,127
+18203,Wed Feb 5 2020,Oklahoma City Thunder,109,8:00p,Cleveland Cavaliers,103
+20069,Wed Feb 5 2020,Dallas Mavericks,107,8:30p,Memphis Grizzlies,121
+18306,Wed Feb 5 2020,Utah Jazz,95,9:00p,Denver Nuggets,98
+19068,Wed Feb 5 2020,Los Angeles Clippers,128,10:00p,Miami Heat,111
+18895,Thu Feb 6 2020,New York Knicks,105,7:30p,Orlando Magic,103
+18247,Thu Feb 6 2020,Chicago Bulls,119,8:00p,New Orleans Pelicans,125
+17928,Thu Feb 6 2020,Milwaukee Bucks,112,8:00p,Philadelphia 76ers,101
+19653,Thu Feb 6 2020,Portland Trail Blazers,125,10:00p,San Antonio Spurs,117
+18997,Thu Feb 6 2020,Los Angeles Lakers,111,10:30p,Houston Rockets,121
+20779,Fri Feb 7 2020,Philadelphia 76ers,119,7:00p,Memphis Grizzlies,107
+20476,Fri Feb 7 2020,Washington Wizards,119,7:00p,Dallas Mavericks,118
+19156,Fri Feb 7 2020,Boston Celtics,112,7:30p,Atlanta Hawks,107
+17028,Fri Feb 7 2020,Indiana Pacers,106,8:00p,Toronto Raptors,115
+18203,Fri Feb 7 2020,Oklahoma City Thunder,108,8:00p,Detroit Pistons,101
+17043,Fri Feb 7 2020,Phoenix Suns,127,9:00p,Houston Rockets,91
+16760,Fri Feb 7 2020,Sacramento Kings,105,10:00p,Miami Heat,97
+18306,Fri Feb 7 2020,Utah Jazz,117,10:30p,Portland Trail Blazers,114
+16632,Sat Feb 8 2020,Orlando Magic,95,5:00p,Milwaukee Bucks,111
+19370,Sat Feb 8 2020,Charlotte Hornets,100,7:00p,Dallas Mavericks,116
+15980,Sat Feb 8 2020,Detroit Pistons,92,7:00p,New York Knicks,95
+17923,Sat Feb 8 2020,Indiana Pacers,117,7:30p,New Orleans Pelicans,124
+19800,Sat Feb 8 2020,Toronto Raptors,119,7:30p,Brooklyn Nets,118
+18978,Sat Feb 8 2020,Minnesota Timberwolves,142,8:00p,Los Angeles Clippers,115
+18064,Sat Feb 8 2020,Golden State Warriors,120,8:30p,Los Angeles Lakers,125
+16843,Sat Feb 8 2020,Phoenix Suns,108,9:00p,Denver Nuggets,117
+16756,Sat Feb 8 2020,Sacramento Kings,122,10:00p,San Antonio Spurs,102
+18203,Sun Feb 9 2020,Oklahoma City Thunder,111,3:30p,Boston Celtics,112
+16309,Sun Feb 9 2020,Atlanta Hawks,140,6:00p,New York Knicks,135
+21018,Sun Feb 9 2020,Philadelphia 76ers,118,6:00p,Chicago Bulls,111
+17251,Sun Feb 9 2020,Washington Wizards,99,6:00p,Memphis Grizzlies,106
+18055,Sun Feb 9 2020,Houston Rockets,113,7:00p,Utah Jazz,114
+17240,Sun Feb 9 2020,Cleveland Cavaliers,92,7:30p,Los Angeles Clippers,133
+19726,Sun Feb 9 2020,Portland Trail Blazers,115,9:00p,Miami Heat,109
+13941,Mon Feb 10 2020,Detroit Pistons,76,7:00p,Charlotte Hornets,87
+16761,Mon Feb 10 2020,Indiana Pacers,105,7:00p,Brooklyn Nets,106
+17076,Mon Feb 10 2020,Orlando Magic,135,7:00p,Atlanta Hawks,126
+19800,Mon Feb 10 2020,Toronto Raptors,137,7:30p,Minnesota Timberwolves,126
+17463,Mon Feb 10 2020,Milwaukee Bucks,123,8:00p,Sacramento Kings,111
+19793,Mon Feb 10 2020,Dallas Mavericks,119,8:30p,Utah Jazz,123
+19520,Mon Feb 10 2020,Denver Nuggets,127,9:00p,San Antonio Spurs,120
+18064,Mon Feb 10 2020,Golden State Warriors,101,10:30p,Miami Heat,113
+18997,Mon Feb 10 2020,Los Angeles Lakers,125,10:30p,Phoenix Suns,100
+20730,Tue Feb 11 2020,Philadelphia 76ers,110,7:00p,Los Angeles Clippers,103
+15135,Tue Feb 11 2020,Washington Wizards,126,7:00p,Chicago Bulls,114
+15739,Tue Feb 11 2020,New Orleans Pelicans,138,8:00p,Portland Trail Blazers,117
+18203,Tue Feb 11 2020,Oklahoma City Thunder,106,8:00p,San Antonio Spurs,114
+18055,Tue Feb 11 2020,Houston Rockets,116,9:30p,Boston Celtics,105
+16200,Wed Feb 12 2020,Cleveland Cavaliers,127,7:00p,Atlanta Hawks,105
+16607,Wed Feb 12 2020,Orlando Magic,116,7:00p,Detroit Pistons,112
+15823,Wed Feb 12 2020,Brooklyn Nets,101,7:30p,Toronto Raptors,91
+17018,Wed Feb 12 2020,Indiana Pacers,118,7:30p,Milwaukee Bucks,111
+18835,Wed Feb 12 2020,New York Knicks,96,7:30p,Washington Wizards,114
+16889,Wed Feb 12 2020,Memphis Grizzlies,111,8:00p,Portland Trail Blazers,104
+18978,Wed Feb 12 2020,Minnesota Timberwolves,108,8:00p,Charlotte Hornets,115
+19842,Wed Feb 12 2020,Dallas Mavericks,130,8:30p,Sacramento Kings,111
+15216,Wed Feb 12 2020,Phoenix Suns,112,9:00p,Golden State Warriors,106
+18306,Wed Feb 12 2020,Utah Jazz,116,9:00p,Miami Heat,101
+19860,Wed Feb 12 2020,Denver Nuggets,116,10:00p,Los Angeles Lakers,120
+19156,Thu Feb 13 2020,Boston Celtics,141,8:00p,Los Angeles Clippers,133
+17865,Thu Feb 13 2020,New Orleans Pelicans,118,8:00p,Oklahoma City Thunder,123
+16097,Thu Feb 20 2020,Detroit Pistons,106,7:00p,Milwaukee Bucks,126
+17356,Thu Feb 20 2020,Atlanta Hawks,129,7:30p,Miami Heat,124
+17463,Thu Feb 20 2020,Chicago Bulls,93,8:00p,Charlotte Hornets,103
+20806,Thu Feb 20 2020,Philadelphia 76ers,112,8:00p,Brooklyn Nets,104
+17078,Thu Feb 20 2020,Sacramento Kings,129,10:00p,Memphis Grizzlies,125
+18064,Thu Feb 20 2020,Golden State Warriors,105,10:30p,Houston Rockets,135
+18846,Fri Feb 21 2020,Orlando Magic,106,7:00p,Dallas Mavericks,122
+18895,Fri Feb 21 2020,Washington Wizards,108,7:00p,Cleveland Cavaliers,113
+19812,Fri Feb 21 2020,New York Knicks,98,7:30p,Indiana Pacers,106
+19800,Fri Feb 21 2020,Toronto Raptors,118,7:30p,Phoenix Suns,101
+18978,Fri Feb 21 2020,Minnesota Timberwolves,117,8:00p,Boston Celtics,127
+18203,Fri Feb 21 2020,Oklahoma City Thunder,113,8:00p,Denver Nuggets,101
+18306,Fri Feb 21 2020,Utah Jazz,104,9:00p,San Antonio Spurs,113
+18997,Fri Feb 21 2020,Los Angeles Lakers,117,10:30p,Memphis Grizzlies,105
+19946,Fri Feb 21 2020,Portland Trail Blazers,115,10:30p,New Orleans Pelicans,128
+19068,Sat Feb 22 2020,Los Angeles Clippers,103,3:30p,Sacramento Kings,112
+19079,Sat Feb 22 2020,Charlotte Hornets,86,7:00p,Brooklyn Nets,115
+17050,Sat Feb 22 2020,Atlanta Hawks,111,7:30p,Dallas Mavericks,107
+20506,Sat Feb 22 2020,Chicago Bulls,104,8:00p,Phoenix Suns,112
+19754,Sat Feb 22 2020,Miami Heat,124,8:00p,Cleveland Cavaliers,105
+18290,Sat Feb 22 2020,Milwaukee Bucks,119,8:30p,Philadelphia 76ers,98
+18306,Sat Feb 22 2020,Utah Jazz,110,9:00p,Houston Rockets,120
+18997,Sun Feb 23 2020,Los Angeles Lakers,114,3:30p,Boston Celtics,112
+19626,Sun Feb 23 2020,Denver Nuggets,128,6:00p,Minnesota Timberwolves,116
+19800,Sun Feb 23 2020,Toronto Raptors,127,6:00p,Indiana Pacers,81
+18024,Sun Feb 23 2020,Chicago Bulls,126,7:00p,Washington Wizards,117
+18203,Sun Feb 23 2020,Oklahoma City Thunder,131,7:00p,San Antonio Spurs,103
+18064,Sun Feb 23 2020,Golden State Warriors,101,8:30p,New Orleans Pelicans,115
+19393,Sun Feb 23 2020,Portland Trail Blazers,107,9:00p,Detroit Pistons,104
+17336,Mon Feb 24 2020,Cleveland Cavaliers,125,7:00p,Miami Heat,119
+20836,Mon Feb 24 2020,Philadelphia 76ers,129,7:00p,Atlanta Hawks,112
+16580,Mon Feb 24 2020,Washington Wizards,134,7:00p,Milwaukee Bucks,137
+16162,Mon Feb 24 2020,Brooklyn Nets,113,7:30p,Orlando Magic,115
+18055,Mon Feb 24 2020,Houston Rockets,123,8:00p,New York Knicks,112
+19936,Mon Feb 24 2020,Dallas Mavericks,139,8:30p,Minnesota Timberwolves,123
+18306,Mon Feb 24 2020,Utah Jazz,111,9:00p,Phoenix Suns,131
+19068,Mon Feb 24 2020,Los Angeles Clippers,124,10:30p,Memphis Grizzlies,97
+16088,Tue Feb 25 2020,Indiana Pacers,119,7:00p,Charlotte Hornets,80
+19993,Tue Feb 25 2020,Toronto Raptors,97,7:30p,Milwaukee Bucks,108
+16911,Tue Feb 25 2020,Chicago Bulls,122,8:00p,Oklahoma City Thunder,124
+19143,Tue Feb 25 2020,Denver Nuggets,115,9:00p,Detroit Pistons,98
+18997,Tue Feb 25 2020,Los Angeles Lakers,118,10:00p,New Orleans Pelicans,109
+19460,Tue Feb 25 2020,Portland Trail Blazers,106,10:00p,Boston Celtics,118
+18064,Tue Feb 25 2020,Golden State Warriors,94,10:30p,Sacramento Kings,112
+13152,Wed Feb 26 2020,Charlotte Hornets,107,7:00p,New York Knicks,101
+16332,Wed Feb 26 2020,Cleveland Cavaliers,108,7:00p,Philadelphia 76ers,94
+15021,Wed Feb 26 2020,Washington Wizards,110,7:00p,Brooklyn Nets,106
+14967,Wed Feb 26 2020,Atlanta Hawks,120,7:30p,Orlando Magic,130
+19600,Wed Feb 26 2020,Miami Heat,126,7:30p,Minnesota Timberwolves,129
+18055,Wed Feb 26 2020,Houston Rockets,140,8:00p,Memphis Grizzlies,112
+18354,Wed Feb 26 2020,San Antonio Spurs,103,8:30p,Dallas Mavericks,109
+15157,Wed Feb 26 2020,Phoenix Suns,92,9:00p,Los Angeles Clippers,102
+18306,Wed Feb 26 2020,Utah Jazz,103,10:30p,Boston Celtics,114
+20175,Thu Feb 27 2020,Philadelphia 76ers,115,7:00p,New York Knicks,106
+16872,Thu Feb 27 2020,Indiana Pacers,106,8:00p,Portland Trail Blazers,100
+18203,Thu Feb 27 2020,Oklahoma City Thunder,112,8:00p,Sacramento Kings,108
+18064,Thu Feb 27 2020,Golden State Warriors,86,10:30p,Los Angeles Lakers,116
+18846,Fri Feb 28 2020,Orlando Magic,136,7:00p,Minnesota Timberwolves,125
+17034,Fri Feb 28 2020,Atlanta Hawks,141,7:30p,Brooklyn Nets,118
+19800,Fri Feb 28 2020,Toronto Raptors,96,7:30p,Charlotte Hornets,99
+17794,Fri Feb 28 2020,Memphis Grizzlies,101,8:00p,Sacramento Kings,104
+19704,Fri Feb 28 2020,Miami Heat,126,8:00p,Dallas Mavericks,118
+18412,Fri Feb 28 2020,Milwaukee Bucks,133,8:00p,Oklahoma City Thunder,86
+18304,Fri Feb 28 2020,New Orleans Pelicans,116,8:00p,Cleveland Cavaliers,104
+17142,Fri Feb 28 2020,Phoenix Suns,111,9:00p,Detroit Pistons,113
+18306,Fri Feb 28 2020,Utah Jazz,129,9:00p,Washington Wizards,119
+19068,Fri Feb 28 2020,Los Angeles Clippers,132,10:30p,Denver Nuggets,103
+19812,Sat Feb 29 2020,New York Knicks,125,5:00p,Chicago Bulls,115
+17765,Sat Feb 29 2020,Atlanta Hawks,129,7:30p,Portland Trail Blazers,117
+19600,Sat Feb 29 2020,Miami Heat,116,7:30p,Brooklyn Nets,113
+19432,Sat Feb 29 2020,Cleveland Cavaliers,104,8:00p,Indiana Pacers,113
+17794,Sat Feb 29 2020,Memphis Grizzlies,105,8:00p,Los Angeles Lakers,88
+19156,Sat Feb 29 2020,Boston Celtics,110,8:30p,Houston Rockets,111
+18354,Sat Feb 29 2020,San Antonio Spurs,114,8:30p,Orlando Magic,113
+16395,Sat Feb 29 2020,Phoenix Suns,99,9:00p,Golden State Warriors,115

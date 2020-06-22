@@ -3,8 +3,8 @@ var allTeamStatsArr = [];
 var casper = require("casper").create({
   viewportSize: {
     width: 1024,
-    height: 768
-  }
+    height: 768,
+  },
 });
 
 casper.start();
@@ -39,26 +39,26 @@ var teamAbbrv = [
   "SAS",
   "TOR",
   "UTA",
-  "WAS"
+  "WAS",
 ];
 
 for (var i = 0; i < teamAbbrv.length; i++) {
   var team = teamAbbrv[i];
-  var url = "https://www.basketball-reference.com/teams/" + team + "/2019.html";
+  var url = "https://www.basketball-reference.com/teams/" + team + "/2020.html";
   var playerBasicStats;
   //console.log(team);
 
-  casper.thenOpen(url, function() {
+  casper.thenOpen(url, function () {
     if (this.exists("#advanced tr")) {
       this.echo("found element!!!", "INFO");
     } else {
       this.echo("Did not find element!!", "ERROR");
     }
   });
-  casper.then(function() {
+  casper.then(function () {
     //GET TEAM BASIC STATS
-    casper.wait(30000, function() {
-      playerBasicStats = this.evaluate(getPlayerBasicStats);
+    casper.wait(30000, function () {
+      playerBasicStats = this.evaluate(getPlayerAdvancedStats);
       for (var i = 0; i < playerBasicStats.length; i++) {
         allTeamStatsArr.push(playerBasicStats[i]);
       }
@@ -69,7 +69,7 @@ for (var i = 0; i < teamAbbrv.length; i++) {
   });
 }
 
-var getPlayerStats = function() {
+var getPlayerStats = function () {
   var playersProfile = document.querySelectorAll("#roster tr");
   var metas = document.querySelectorAll("#meta span");
   var rows = document.querySelectorAll("#team_and_opponent td");
@@ -106,7 +106,7 @@ var getPlayerStats = function() {
   return players;
 };
 
-var getPlayerBasicStats = function() {
+var getPlayerBasicStats = function () {
   var rows = document.querySelectorAll("#per_game tr");
   var advanced = document.querySelectorAll("#advanced tr");
   var players = [];
@@ -179,7 +179,7 @@ var getPlayerBasicStats = function() {
   return players;
 };
 
-var getPlayerAdvancedStats = function() {
+var getPlayerAdvancedStats = function () {
   var advanced = document.querySelectorAll("#advanced tr");
   var players = [];
 
@@ -237,7 +237,7 @@ var getPlayerAdvancedStats = function() {
   return players;
 };
 
-casper.run(function() {
+casper.run(function () {
   outputToCsv(allTeamStatsArr);
   this.exit();
 });
@@ -255,9 +255,9 @@ function outputToCsv(statsArr) {
   result = "";
   result += keys.join(columnDelimiter);
   result += lineDelimiter;
-  data.forEach(function(item) {
+  data.forEach(function (item) {
     ctr = 0;
-    keys.forEach(function(key) {
+    keys.forEach(function (key) {
       if (ctr > 0) result += columnDelimiter;
       result += item[key];
       ctr++;
@@ -270,7 +270,7 @@ function outputToCsv(statsArr) {
   var month = currentTime.getMonth() + 1;
   var day = currentTime.getDate();
   var year = currentTime.getFullYear();
-  var fileName = "player-csv/player-basic-stats-19.csv";
+  var fileName = "player-csv/player-advanced-stats-20.csv";
   var filePath = fs.pathJoin(fs.workingDirectory, fileName);
 
   fs.write(filePath, result, "w");

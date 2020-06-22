@@ -56,7 +56,7 @@ for (var i = 0; i < teamAbbrv.length; i++) {
   });
   casper.then(function() {
     //GET TEAM BASIC STATS
-    casper.wait(60000, function() {
+    casper.wait(30000, function() {
       playerBasicStats = this.evaluate(getPlayerStats);
       for (var i = 0; i < playerBasicStats.length; i++) {
         allTeamStatsArr.push(playerBasicStats[i]);
@@ -294,7 +294,7 @@ function outputToCsv(statsArr) {
   var month = currentTime.getMonth() + 1;
   var day = currentTime.getDate();
   var year = currentTime.getFullYear();
-  var fileName = "player-sal/player-sals.csv";
+  var fileName = "player-sal/player-sals-20.csv";
   var filePath = fs.pathJoin(fs.workingDirectory, fileName);
 
   fs.write(filePath, result, "w");

@@ -1,0 +1,79 @@
+attend,date,home,homePts,start,visitor,visitorPts
+19149,Sun Mar 1 2020,Charlotte Hornets,85,1:00p,Milwaukee Bucks,93
+19068,Sun Mar 1 2020,Los Angeles Clippers,136,3:30p,Philadelphia 76ers,130
+18058,Sun Mar 1 2020,Minnesota Timberwolves,91,3:30p,Dallas Mavericks,111
+19777,Sun Mar 1 2020,Denver Nuggets,133,6:00p,Toronto Raptors,118
+17499,Sun Mar 1 2020,Sacramento Kings,106,6:00p,Detroit Pistons,100
+18547,Sun Mar 1 2020,New Orleans Pelicans,114,8:00p,Los Angeles Lakers,122
+18064,Sun Mar 1 2020,Golden State Warriors,110,8:30p,Washington Wizards,124
+15453,Mon Mar 2 2020,Cleveland Cavaliers,113,7:00p,Utah Jazz,126
+18142,Mon Mar 2 2020,New York Knicks,125,7:00p,Houston Rockets,123
+18078,Mon Mar 2 2020,Orlando Magic,107,7:00p,Portland Trail Blazers,130
+16207,Mon Mar 2 2020,Atlanta Hawks,88,7:30p,Memphis Grizzlies,127
+19600,Mon Mar 2 2020,Miami Heat,105,7:30p,Milwaukee Bucks,89
+18407,Mon Mar 2 2020,Chicago Bulls,109,8:00p,Dallas Mavericks,107
+17635,Mon Mar 2 2020,San Antonio Spurs,111,8:30p,Indiana Pacers,116
+12008,Tue Mar 3 2020,Charlotte Hornets,103,7:00p,San Antonio Spurs,104
+19156,Tue Mar 3 2020,Boston Celtics,120,7:30p,Brooklyn Nets,129
+15264,Tue Mar 3 2020,New Orleans Pelicans,134,8:00p,Minnesota Timberwolves,139
+18203,Tue Mar 3 2020,Oklahoma City Thunder,94,8:00p,Los Angeles Clippers,109
+19520,Tue Mar 3 2020,Denver Nuggets,100,9:00p,Golden State Warriors,116
+15553,Tue Mar 3 2020,Phoenix Suns,114,9:00p,Toronto Raptors,123
+18997,Tue Mar 3 2020,Los Angeles Lakers,120,10:00p,Philadelphia 76ers,107
+16419,Tue Mar 3 2020,Sacramento Kings,133,10:00p,Washington Wizards,126
+16897,Wed Mar 4 2020,Cleveland Cavaliers,106,7:00p,Boston Celtics,112
+15138,Wed Mar 4 2020,Detroit Pistons,107,7:00p,Oklahoma City Thunder,114
+17695,Wed Mar 4 2020,Milwaukee Bucks,119,7:00p,Indiana Pacers,100
+16941,Wed Mar 4 2020,Brooklyn Nets,79,7:30p,Memphis Grizzlies,118
+16588,Wed Mar 4 2020,New York Knicks,104,7:30p,Utah Jazz,112
+19600,Wed Mar 4 2020,Miami Heat,116,7:30p,Orlando Magic,113
+13392,Wed Mar 4 2020,Minnesota Timberwolves,115,8:00p,Chicago Bulls,108
+20459,Wed Mar 4 2020,Dallas Mavericks,127,9:30p,New Orleans Pelicans,123
+19393,Wed Mar 4 2020,Portland Trail Blazers,125,10:00p,Washington Wizards,104
+13311,Thu Mar 5 2020,Charlotte Hornets,112,7:00p,Denver Nuggets,114
+18055,Thu Mar 5 2020,Houston Rockets,105,8:00p,Los Angeles Clippers,120
+15485,Thu Mar 5 2020,Sacramento Kings,108,10:00p,Philadelphia 76ers,125
+18064,Thu Mar 5 2020,Golden State Warriors,113,10:30p,Toronto Raptors,121
+17856,Fri Mar 6 2020,Washington Wizards,118,7:00p,Atlanta Hawks,112
+16277,Fri Mar 6 2020,Brooklyn Nets,139,7:30p,San Antonio Spurs,120
+19499,Fri Mar 6 2020,New York Knicks,103,7:30p,Oklahoma City Thunder,126
+20229,Fri Mar 6 2020,Chicago Bulls,102,8:00p,Indiana Pacers,108
+14315,Fri Mar 6 2020,Minnesota Timberwolves,118,8:00p,Orlando Magic,132
+18384,Fri Mar 6 2020,New Orleans Pelicans,110,8:00p,Miami Heat,104
+19156,Fri Mar 6 2020,Boston Celtics,94,8:00p,Utah Jazz,99
+20370,Fri Mar 6 2020,Dallas Mavericks,121,8:30p,Memphis Grizzlies,96
+15522,Fri Mar 6 2020,Phoenix Suns,127,9:00p,Portland Trail Blazers,117
+18997,Fri Mar 6 2020,Los Angeles Lakers,113,10:30p,Milwaukee Bucks,103
+19159,Sat Mar 7 2020,Charlotte Hornets,108,5:00p,Houston Rockets,99
+16590,Sat Mar 7 2020,Detroit Pistons,105,7:00p,Utah Jazz,111
+19432,Sat Mar 7 2020,Cleveland Cavaliers,104,7:30p,Denver Nuggets,102
+17117,Sat Mar 7 2020,Memphis Grizzlies,118,8:00p,Atlanta Hawks,101
+18064,Sat Mar 7 2020,Golden State Warriors,118,8:30p,Philadelphia 76ers,114
+19691,Sat Mar 7 2020,Portland Trail Blazers,111,10:00p,Sacramento Kings,123
+15916,Sun Mar 8 2020,Brooklyn Nets,110,3:00p,Chicago Bulls,107
+18978,Sun Mar 8 2020,Minnesota Timberwolves,107,3:30p,New Orleans Pelicans,120
+19068,Sun Mar 8 2020,Los Angeles Clippers,103,3:30p,Los Angeles Lakers,112
+19156,Sun Mar 8 2020,Boston Celtics,104,6:00p,Oklahoma City Thunder,105
+17282,Sun Mar 8 2020,Phoenix Suns,140,6:00p,Milwaukee Bucks,131
+18135,Sun Mar 8 2020,Washington Wizards,89,7:00p,Miami Heat,100
+20324,Sun Mar 8 2020,Dallas Mavericks,109,7:00p,Indiana Pacers,112
+18055,Sun Mar 8 2020,Houston Rockets,106,7:00p,Orlando Magic,126
+18361,Sun Mar 8 2020,New York Knicks,96,7:30p,Detroit Pistons,84
+17995,Sun Mar 8 2020,Cleveland Cavaliers,132,7:30p,San Antonio Spurs,129
+16449,Sun Mar 8 2020,Sacramento Kings,113,9:00p,Toronto Raptors,118
+14399,Mon Mar 9 2020,Atlanta Hawks,143,7:30p,Charlotte Hornets,138
+19838,Mon Mar 9 2020,Denver Nuggets,109,9:00p,Milwaukee Bucks,95
+18306,Mon Mar 9 2020,Utah Jazz,92,9:00p,Toronto Raptors,101
+15048,Tue Mar 10 2020,Washington Wizards,122,7:00p,New York Knicks,115
+17053,Tue Mar 10 2020,Indiana Pacers,111,7:00p,Boston Celtics,114
+18055,Tue Mar 10 2020,Houston Rockets,117,8:00p,Minnesota Timberwolves,111
+18354,Tue Mar 10 2020,San Antonio Spurs,119,8:00p,Dallas Mavericks,109
+15388,Tue Mar 10 2020,Memphis Grizzlies,115,8:00p,Orlando Magic,120
+17837,Tue Mar 10 2020,Chicago Bulls,108,8:00p,Cleveland Cavaliers,103
+19393,Tue Mar 10 2020,Portland Trail Blazers,121,10:00p,Phoenix Suns,105
+18997,Tue Mar 10 2020,Los Angeles Lakers,102,10:30p,Brooklyn Nets,104
+18064,Tue Mar 10 2020,Golden State Warriors,107,10:30p,Los Angeles Clippers,131
+20172,Wed Mar 11 2020,Philadelphia 76ers,124,7:00p,Detroit Pistons,106
+15393,Wed Mar 11 2020,Atlanta Hawks,131,7:30p,New York Knicks,136
+19600,Wed Mar 11 2020,Miami Heat,98,7:30p,Charlotte Hornets,109
+20302,Wed Mar 11 2020,Dallas Mavericks,113,8:00p,Denver Nuggets,97

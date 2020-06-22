@@ -1,0 +1,221 @@
+attend,date,home,homePts,start,visitor,visitorPts
+17026,Sun Dec 1 2019,Brooklyn Nets,106,3:00p,Miami Heat,109
+12276,Sun Dec 1 2019,Minnesota Timberwolves,107,3:30p,Memphis Grizzlies,115
+18005,Sun Dec 1 2019,New York Knicks,104,3:30p,Boston Celtics,113
+18997,Sun Dec 1 2019,Los Angeles Lakers,100,4:00p,Dallas Mavericks,114
+14270,Sun Dec 1 2019,Detroit Pistons,132,5:00p,San Antonio Spurs,98
+15427,Sun Dec 1 2019,New Orleans Pelicans,104,5:00p,Oklahoma City Thunder,107
+15052,Sun Dec 1 2019,Orlando Magic,100,6:00p,Golden State Warriors,96
+18132,Sun Dec 1 2019,Toronto Raptors,130,6:00p,Utah Jazz,110
+19068,Sun Dec 1 2019,Los Angeles Clippers,150,10:30p,Washington Wizards,125
+11221,Mon Dec 2 2019,Charlotte Hornets,104,7:00p,Phoenix Suns,109
+20208,Mon Dec 2 2019,Philadelphia 76ers,103,7:00p,Utah Jazz,94
+14278,Mon Dec 2 2019,Atlanta Hawks,104,7:30p,Golden State Warriors,79
+11919,Mon Dec 2 2019,Memphis Grizzlies,104,8:00p,Indiana Pacers,117
+17385,Mon Dec 2 2019,Milwaukee Bucks,132,8:00p,New York Knicks,88
+17257,Mon Dec 2 2019,Sacramento Kings,106,10:00p,Chicago Bulls,113
+17504,Tue Dec 3 2019,Cleveland Cavaliers,94,7:00p,Detroit Pistons,127
+13159,Tue Dec 3 2019,Washington Wizards,120,7:00p,Orlando Magic,127
+14664,Tue Dec 3 2019,New Orleans Pelicans,97,7:30p,Dallas Mavericks,118
+19800,Tue Dec 3 2019,Toronto Raptors,110,7:30p,Miami Heat,121
+18354,Tue Dec 3 2019,San Antonio Spurs,135,8:30p,Houston Rockets,133
+19658,Tue Dec 3 2019,Denver Nuggets,96,9:00p,Los Angeles Lakers,105
+19068,Tue Dec 3 2019,Los Angeles Clippers,117,10:00p,Portland Trail Blazers,97
+14355,Wed Dec 4 2019,Charlotte Hornets,106,7:00p,Golden State Warriors,91
+15742,Wed Dec 4 2019,Detroit Pistons,103,7:00p,Milwaukee Bucks,127
+15176,Wed Dec 4 2019,Orlando Magic,128,7:00p,Phoenix Suns,114
+15694,Wed Dec 4 2019,Atlanta Hawks,118,7:30p,Brooklyn Nets,130
+19156,Wed Dec 4 2019,Boston Celtics,112,7:30p,Miami Heat,93
+15017,Wed Dec 4 2019,Chicago Bulls,106,8:00p,Memphis Grizzlies,99
+18203,Wed Dec 4 2019,Oklahoma City Thunder,100,8:00p,Indiana Pacers,107
+19671,Wed Dec 4 2019,Dallas Mavericks,121,8:30p,Minnesota Timberwolves,114
+18306,Wed Dec 4 2019,Utah Jazz,96,9:00p,Los Angeles Lakers,121
+19393,Wed Dec 4 2019,Portland Trail Blazers,127,10:00p,Sacramento Kings,116
+16554,Thu Dec 5 2019,Washington Wizards,119,7:00p,Philadelphia 76ers,113
+18171,Thu Dec 5 2019,New York Knicks,92,7:30p,Denver Nuggets,129
+19800,Thu Dec 5 2019,Toronto Raptors,109,7:30p,Houston Rockets,119
+15607,Thu Dec 5 2019,New Orleans Pelicans,132,8:00p,Phoenix Suns,139
+15075,Fri Dec 6 2019,Charlotte Hornets,104,7:00p,Brooklyn Nets,111
+18446,Fri Dec 6 2019,Cleveland Cavaliers,87,7:00p,Orlando Magic,93
+14894,Fri Dec 6 2019,Detroit Pistons,108,7:00p,Indiana Pacers,101
+19156,Fri Dec 6 2019,Boston Celtics,108,8:00p,Denver Nuggets,95
+18841,Fri Dec 6 2019,Chicago Bulls,98,8:00p,Golden State Warriors,100
+19600,Fri Dec 6 2019,Miami Heat,112,8:00p,Washington Wizards,103
+18203,Fri Dec 6 2019,Oklahoma City Thunder,139,8:00p,Minnesota Timberwolves,127
+17732,Fri Dec 6 2019,Milwaukee Bucks,119,8:30p,Los Angeles Clippers,91
+18354,Fri Dec 6 2019,San Antonio Spurs,105,8:30p,Sacramento Kings,104
+19912,Fri Dec 6 2019,Portland Trail Blazers,113,10:30p,Los Angeles Lakers,136
+19456,Sat Dec 7 2019,Dallas Mavericks,130,2:00p,New Orleans Pelicans,84
+19110,Sat Dec 7 2019,New York Knicks,103,7:30p,Indiana Pacers,104
+20844,Sat Dec 7 2019,Philadelphia 76ers,141,7:30p,Cleveland Cavaliers,94
+18055,Sat Dec 7 2019,Houston Rockets,115,8:00p,Phoenix Suns,109
+18306,Sat Dec 7 2019,Utah Jazz,126,10:00p,Memphis Grizzlies,112
+16679,Sun Dec 8 2019,Brooklyn Nets,105,3:00p,Denver Nuggets,102
+15489,Sun Dec 8 2019,Charlotte Hornets,107,5:00p,Atlanta Hawks,122
+19600,Sun Dec 8 2019,Miami Heat,110,6:00p,Chicago Bulls,105
+20313,Sun Dec 8 2019,Philadelphia 76ers,110,6:00p,Toronto Raptors,104
+15946,Sun Dec 8 2019,Washington Wizards,119,6:00p,Los Angeles Clippers,135
+19566,Sun Dec 8 2019,Dallas Mavericks,106,7:00p,Sacramento Kings,110
+19393,Sun Dec 8 2019,Portland Trail Blazers,96,9:00p,Oklahoma City Thunder,108
+18997,Sun Dec 8 2019,Los Angeles Lakers,142,9:30p,Minnesota Timberwolves,125
+14644,Mon Dec 9 2019,Indiana Pacers,99,7:00p,Los Angeles Clippers,110
+19156,Mon Dec 9 2019,Boston Celtics,110,7:30p,Cleveland Cavaliers,88
+14775,Mon Dec 9 2019,Chicago Bulls,92,8:00p,Toronto Raptors,93
+18055,Mon Dec 9 2019,Houston Rockets,118,8:00p,Sacramento Kings,119
+17385,Mon Dec 9 2019,Milwaukee Bucks,110,8:00p,Orlando Magic,101
+13694,Mon Dec 9 2019,New Orleans Pelicans,103,8:00p,Detroit Pistons,105
+13230,Mon Dec 9 2019,Phoenix Suns,125,9:00p,Minnesota Timberwolves,109
+18306,Mon Dec 9 2019,Utah Jazz,90,9:00p,Oklahoma City Thunder,104
+18064,Mon Dec 9 2019,Golden State Warriors,102,10:30p,Memphis Grizzlies,110
+10626,Tue Dec 10 2019,Charlotte Hornets,114,7:00p,Washington Wizards,107
+19600,Tue Dec 10 2019,Miami Heat,135,8:00p,Atlanta Hawks,121
+20591,Tue Dec 10 2019,Philadelphia 76ers,97,8:00p,Denver Nuggets,92
+19393,Tue Dec 10 2019,Portland Trail Blazers,115,10:00p,New York Knicks,87
+17122,Wed Dec 11 2019,Cleveland Cavaliers,110,7:00p,Houston Rockets,116
+15637,Wed Dec 11 2019,Indiana Pacers,122,7:00p,Boston Celtics,117
+18846,Wed Dec 11 2019,Orlando Magic,87,7:00p,Los Angeles Lakers,96
+20144,Wed Dec 11 2019,Toronto Raptors,92,7:00p,Los Angeles Clippers,112
+15631,Wed Dec 11 2019,Brooklyn Nets,108,7:30p,Charlotte Hornets,113
+15084,Wed Dec 11 2019,Chicago Bulls,136,8:00p,Atlanta Hawks,102
+12369,Wed Dec 11 2019,Minnesota Timberwolves,116,8:00p,Utah Jazz,127
+12254,Wed Dec 11 2019,Phoenix Suns,108,9:00p,Memphis Grizzlies,115
+17385,Wed Dec 11 2019,Milwaukee Bucks,127,9:30p,New Orleans Pelicans,112
+16723,Wed Dec 11 2019,Sacramento Kings,94,10:00p,Oklahoma City Thunder,93
+18064,Wed Dec 11 2019,Golden State Warriors,122,10:30p,New York Knicks,124
+19156,Thu Dec 12 2019,Boston Celtics,109,8:00p,Philadelphia 76ers,115
+18354,Thu Dec 12 2019,San Antonio Spurs,109,8:30p,Cleveland Cavaliers,117
+20064,Thu Dec 12 2019,Detroit Pistons,111,9:00p,Dallas Mavericks,122
+18828,Thu Dec 12 2019,Denver Nuggets,114,10:30p,Portland Trail Blazers,99
+20013,Fri Dec 13 2019,Miami Heat,110,7:00p,Los Angeles Lakers,113
+16335,Fri Dec 13 2019,Orlando Magic,107,7:00p,Houston Rockets,130
+20620,Fri Dec 13 2019,Philadelphia 76ers,116,7:00p,New Orleans Pelicans,109
+15121,Fri Dec 13 2019,Atlanta Hawks,100,7:30p,Indiana Pacers,110
+18377,Fri Dec 13 2019,Chicago Bulls,73,8:00p,Charlotte Hornets,83
+16109,Fri Dec 13 2019,Memphis Grizzlies,114,8:00p,Milwaukee Bucks,127
+18306,Fri Dec 13 2019,Utah Jazz,114,9:00p,Golden State Warriors,106
+17585,Fri Dec 13 2019,Minnesota Timberwolves,117,9:30p,Los Angeles Clippers,124
+17583,Fri Dec 13 2019,Sacramento Kings,101,10:00p,New York Knicks,103
+20013,Sat Dec 14 2019,Phoenix Suns,119,5:00p,San Antonio Spurs,121
+19800,Sat Dec 14 2019,Toronto Raptors,110,7:30p,Brooklyn Nets,102
+18426,Sat Dec 14 2019,Chicago Bulls,109,8:00p,Los Angeles Clippers,106
+15631,Sat Dec 14 2019,Memphis Grizzlies,128,8:00p,Washington Wizards,111
+20333,Sat Dec 14 2019,Dallas Mavericks,118,8:30p,Miami Heat,122
+17481,Sat Dec 14 2019,Milwaukee Bucks,125,8:30p,Cleveland Cavaliers,108
+19520,Sat Dec 14 2019,Denver Nuggets,110,9:00p,Oklahoma City Thunder,102
+18055,Sat Dec 14 2019,Houston Rockets,107,9:00p,Detroit Pistons,115
+15388,Sun Dec 15 2019,New Orleans Pelicans,119,3:30p,Orlando Magic,130
+16061,Sun Dec 15 2019,Indiana Pacers,107,5:00p,Charlotte Hornets,85
+16962,Sun Dec 15 2019,Atlanta Hawks,96,6:00p,Los Angeles Lakers,101
+17732,Sun Dec 15 2019,Brooklyn Nets,109,6:00p,Philadelphia 76ers,89
+18867,Sun Dec 15 2019,Denver Nuggets,111,8:00p,New York Knicks,105
+18064,Sun Dec 15 2019,Golden State Warriors,79,8:30p,Sacramento Kings,100
+14632,Mon Dec 16 2019,Detroit Pistons,119,7:00p,Washington Wizards,133
+19800,Mon Dec 16 2019,Toronto Raptors,133,7:30p,Cleveland Cavaliers,113
+18055,Mon Dec 16 2019,Houston Rockets,109,8:00p,San Antonio Spurs,107
+14021,Mon Dec 16 2019,Memphis Grizzlies,118,8:00p,Miami Heat,111
+17727,Mon Dec 16 2019,Milwaukee Bucks,116,8:00p,Dallas Mavericks,120
+18203,Mon Dec 16 2019,Oklahoma City Thunder,109,8:00p,Chicago Bulls,106
+14193,Mon Dec 16 2019,Phoenix Suns,110,9:00p,Portland Trail Blazers,111
+13229,Tue Dec 17 2019,Charlotte Hornets,110,7:00p,Sacramento Kings,102
+17923,Tue Dec 17 2019,Indiana Pacers,105,7:00p,Los Angeles Lakers,102
+18268,Tue Dec 17 2019,New York Knicks,143,7:30p,Atlanta Hawks,120
+15177,Tue Dec 17 2019,New Orleans Pelicans,101,8:00p,Brooklyn Nets,108
+18306,Tue Dec 17 2019,Utah Jazz,109,9:00p,Orlando Magic,102
+19068,Tue Dec 17 2019,Los Angeles Clippers,120,10:30p,Phoenix Suns,99
+17023,Wed Dec 18 2019,Cleveland Cavaliers,100,7:00p,Charlotte Hornets,98
+15319,Wed Dec 18 2019,Detroit Pistons,99,7:00p,Toronto Raptors,112
+20715,Wed Dec 18 2019,Philadelphia 76ers,104,7:00p,Miami Heat,108
+14987,Wed Dec 18 2019,Washington Wizards,109,7:00p,Chicago Bulls,110
+12490,Wed Dec 18 2019,Minnesota Timberwolves,99,8:00p,New Orleans Pelicans,107
+18203,Wed Dec 18 2019,Oklahoma City Thunder,126,8:00p,Memphis Grizzlies,122
+18182,Wed Dec 18 2019,Denver Nuggets,113,9:00p,Orlando Magic,104
+20181,Wed Dec 18 2019,Dallas Mavericks,103,9:30p,Boston Celtics,109
+19393,Wed Dec 18 2019,Portland Trail Blazers,122,10:00p,Golden State Warriors,112
+16739,Thu Dec 19 2019,Atlanta Hawks,106,7:30p,Utah Jazz,111
+18051,Thu Dec 19 2019,Milwaukee Bucks,111,8:00p,Los Angeles Lakers,104
+18354,Thu Dec 19 2019,San Antonio Spurs,118,8:30p,Brooklyn Nets,105
+19068,Thu Dec 19 2019,Los Angeles Clippers,117,10:30p,Houston Rockets,122
+19432,Fri Dec 20 2019,Cleveland Cavaliers,114,7:00p,Memphis Grizzlies,107
+14649,Fri Dec 20 2019,Indiana Pacers,119,7:00p,Sacramento Kings,105
+19156,Fri Dec 20 2019,Boston Celtics,114,7:30p,Detroit Pistons,93
+19800,Fri Dec 20 2019,Toronto Raptors,122,7:30p,Washington Wizards,118
+19704,Fri Dec 20 2019,Miami Heat,129,8:00p,New York Knicks,114
+18203,Fri Dec 20 2019,Oklahoma City Thunder,126,8:00p,Phoenix Suns,108
+20778,Fri Dec 20 2019,Philadelphia 76ers,98,8:00p,Dallas Mavericks,117
+19520,Fri Dec 20 2019,Denver Nuggets,109,9:00p,Minnesota Timberwolves,100
+19393,Fri Dec 20 2019,Portland Trail Blazers,118,10:00p,Orlando Magic,103
+18064,Fri Dec 20 2019,Golden State Warriors,106,10:30p,New Orleans Pelicans,102
+16187,Sat Dec 21 2019,Charlotte Hornets,107,5:00p,Utah Jazz,114
+16496,Sat Dec 21 2019,Brooklyn Nets,122,6:00p,Atlanta Hawks,112
+15948,Sat Dec 21 2019,Detroit Pistons,107,7:00p,Chicago Bulls,119
+20529,Sat Dec 21 2019,Philadelphia 76ers,125,7:00p,Washington Wizards,108
+18124,Sat Dec 21 2019,New York Knicks,102,7:30p,Milwaukee Bucks,123
+15603,Sat Dec 21 2019,Memphis Grizzlies,119,8:00p,Sacramento Kings,115
+18354,Sat Dec 21 2019,San Antonio Spurs,109,8:30p,Los Angeles Clippers,134
+16061,Sat Dec 21 2019,Phoenix Suns,125,9:00p,Houston Rockets,139
+19393,Sat Dec 21 2019,Portland Trail Blazers,113,10:00p,Minnesota Timberwolves,106
+19800,Sun Dec 22 2019,Toronto Raptors,110,3:30p,Dallas Mavericks,107
+19156,Sun Dec 22 2019,Boston Celtics,119,6:00p,Charlotte Hornets,93
+18029,Sun Dec 22 2019,Milwaukee Bucks,117,7:00p,Indiana Pacers,89
+18203,Sun Dec 22 2019,Oklahoma City Thunder,118,7:00p,Los Angeles Clippers,112
+18997,Sun Dec 22 2019,Los Angeles Lakers,104,9:30p,Denver Nuggets,128
+18007,Mon Dec 23 2019,Cleveland Cavaliers,121,7:00p,Atlanta Hawks,118
+16476,Mon Dec 23 2019,Detroit Pistons,109,7:00p,Philadelphia 76ers,125
+17164,Mon Dec 23 2019,Indiana Pacers,120,7:00p,Toronto Raptors,115
+19413,Mon Dec 23 2019,New York Knicks,115,7:00p,Washington Wizards,121
+18846,Mon Dec 23 2019,Orlando Magic,103,7:00p,Chicago Bulls,95
+19890,Mon Dec 23 2019,Miami Heat,107,7:30p,Utah Jazz,104
+16776,Mon Dec 23 2019,Memphis Grizzlies,115,8:00p,San Antonio Spurs,145
+16041,Mon Dec 23 2019,Phoenix Suns,111,9:00p,Denver Nuggets,113
+19499,Mon Dec 23 2019,Portland Trail Blazers,94,10:00p,New Orleans Pelicans,102
+17583,Mon Dec 23 2019,Sacramento Kings,104,10:00p,Houston Rockets,113
+18064,Mon Dec 23 2019,Golden State Warriors,113,10:30p,Minnesota Timberwolves,104
+19800,Wed Dec 25 2019,Toronto Raptors,102,12:00p,Boston Celtics,118
+21028,Wed Dec 25 2019,Philadelphia 76ers,121,2:30p,Milwaukee Bucks,109
+18064,Wed Dec 25 2019,Golden State Warriors,116,5:00p,Houston Rockets,104
+18997,Wed Dec 25 2019,Los Angeles Lakers,106,8:00p,Los Angeles Clippers,111
+19520,Wed Dec 25 2019,Denver Nuggets,100,10:30p,New Orleans Pelicans,112
+17188,Thu Dec 26 2019,Detroit Pistons,132,7:00p,Washington Wizards,102
+17732,Thu Dec 26 2019,Brooklyn Nets,82,7:30p,New York Knicks,94
+20427,Thu Dec 26 2019,Dallas Mavericks,102,8:00p,San Antonio Spurs,98
+18203,Thu Dec 26 2019,Oklahoma City Thunder,97,8:00p,Memphis Grizzlies,110
+17583,Thu Dec 26 2019,Sacramento Kings,104,10:00p,Minnesota Timberwolves,105
+18306,Thu Dec 26 2019,Utah Jazz,121,10:30p,Portland Trail Blazers,115
+19156,Fri Dec 27 2019,Boston Celtics,129,4:00p,Cleveland Cavaliers,117
+18418,Fri Dec 27 2019,Charlotte Hornets,102,7:00p,Oklahoma City Thunder,104
+17311,Fri Dec 27 2019,Orlando Magic,98,7:00p,Philadelphia 76ers,97
+17358,Fri Dec 27 2019,Atlanta Hawks,86,7:30p,Milwaukee Bucks,112
+19767,Fri Dec 27 2019,Miami Heat,113,8:00p,Indiana Pacers,112
+18064,Fri Dec 27 2019,Golden State Warriors,105,10:30p,Phoenix Suns,96
+19697,Sat Dec 28 2019,Denver Nuggets,119,5:00p,Memphis Grizzlies,110
+19156,Sat Dec 28 2019,Boston Celtics,97,7:00p,Toronto Raptors,113
+15391,Sat Dec 28 2019,New Orleans Pelicans,120,7:00p,Indiana Pacers,98
+21496,Sat Dec 28 2019,Chicago Bulls,116,8:00p,Atlanta Hawks,81
+18306,Sat Dec 28 2019,Houston Rockets,108,8:00p,Brooklyn Nets,98
+19865,Sat Dec 28 2019,Miami Heat,117,8:00p,Philadelphia 76ers,116
+15411,Sat Dec 28 2019,Minnesota Timberwolves,88,8:00p,Cleveland Cavaliers,94
+19033,Sat Dec 28 2019,Washington Wizards,100,8:00p,New York Knicks,107
+18064,Sat Dec 28 2019,Golden State Warriors,121,8:30p,Dallas Mavericks,141
+17920,Sat Dec 28 2019,Milwaukee Bucks,111,8:30p,Orlando Magic,100
+18524,Sat Dec 28 2019,San Antonio Spurs,136,8:30p,Detroit Pistons,109
+17583,Sat Dec 28 2019,Sacramento Kings,110,9:00p,Phoenix Suns,112
+19960,Sat Dec 28 2019,Portland Trail Blazers,120,10:00p,Los Angeles Lakers,128
+19068,Sat Dec 28 2019,Los Angeles Clippers,107,10:30p,Utah Jazz,120
+19800,Sun Dec 29 2019,Toronto Raptors,97,6:00p,Oklahoma City Thunder,98
+19520,Sun Dec 29 2019,Denver Nuggets,120,8:00p,Sacramento Kings,115
+16842,Sun Dec 29 2019,Memphis Grizzlies,117,8:00p,Charlotte Hornets,104
+17712,Sun Dec 29 2019,New Orleans Pelicans,127,8:00p,Houston Rockets,112
+18997,Sun Dec 29 2019,Los Angeles Lakers,108,9:30p,Dallas Mavericks,95
+17784,Mon Dec 30 2019,Orlando Magic,93,7:00p,Atlanta Hawks,101
+20476,Mon Dec 30 2019,Washington Wizards,123,7:00p,Miami Heat,105
+21954,Mon Dec 30 2019,Chicago Bulls,102,8:00p,Milwaukee Bucks,123
+15824,Mon Dec 30 2019,Minnesota Timberwolves,122,8:00p,Brooklyn Nets,115
+18306,Mon Dec 30 2019,Utah Jazz,104,9:00p,Detroit Pistons,81
+19896,Mon Dec 30 2019,Portland Trail Blazers,116,10:00p,Phoenix Suns,122
+19216,Tue Dec 31 2019,Charlotte Hornets,92,3:00p,Boston Celtics,109
+17923,Tue Dec 31 2019,Indiana Pacers,115,3:00p,Philadelphia 76ers,97
+16231,Tue Dec 31 2019,Sacramento Kings,87,5:00p,Los Angeles Clippers,105
+18055,Tue Dec 31 2019,Houston Rockets,130,7:00p,Denver Nuggets,104
+18354,Tue Dec 31 2019,San Antonio Spurs,117,7:00p,Golden State Warriors,113
+19800,Tue Dec 31 2019,Toronto Raptors,117,7:00p,Cleveland Cavaliers,97
+18203,Tue Dec 31 2019,Oklahoma City Thunder,106,8:00p,Dallas Mavericks,101

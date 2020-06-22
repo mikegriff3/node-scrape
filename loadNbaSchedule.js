@@ -1,19 +1,19 @@
-const csvFilePath = "./csv-current-averages/currentAverages20.csv";
+const csvFilePath = "./nba-schedule-csv/schedule-Mar-20.csv";
 const csv = require("csvtojson");
 var axios = require("axios");
 
-var teamAverages = [];
+var games = [];
 
 csv()
   .fromFile(csvFilePath)
   .on("json", (jsonObj) => {
     // combine csv header row and csv line to a json object
-    teamAverages.push(jsonObj);
+    games.push(jsonObj);
   })
   .on("done", (error) => {
     axios
-      .put("http://localhost:3000/api/teams/updateTeams", {
-        data: teamAverages,
+      .post("http://localhost:3000/api/teams/createNbaSchedule", {
+        data: games,
       })
       .then((data) => {
         console.log("SAVED SUCCESSFULLY");
